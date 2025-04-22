@@ -1,34 +1,25 @@
 # Seasonal-Discount-Effective-Turkcell-Project
 
+# Seasonal Discount Effect Analysis
+
 Bu proje, mevsimsel indirimlerin satışlar üzerindeki etkisini analiz etmek ve tahmin etmek için geliştirilmiştir.
 
 ## Proje Yapısı
 
 ```
+project_v3/
 ├── data/
-
 │   ├── raw/              # Ham veri
-
 │   └── processed/        # İşlenmiş veri
-
 ├── models/               # Eğitilmiş modeller
-
 ├── reports/              # Raporlar ve grafikler
-
 │   └── figures/
-
 ├── src/
-
 │   ├── api/             # FastAPI uygulaması
-
 │   ├── data/            # Veri işleme kodları
-
 │   └── model/           # Model eğitimi ve değerlendirme
-
 ├── .env                 # Çevre değişkenleri
-
 ├── requirements.txt     # Bağımlılıklar
-
 └── README.md         
 ```
 
