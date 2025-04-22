@@ -1,0 +1,2156 @@
+order_date,customer_id,city,product_id,product_name,units_in_stock,unit_price,quantity,discount,category_id,category_name
+1996-07-04,VINET,Reims,11,Queso Cabrales,22,14.0,12,0.0,4,Dairy Products
+1996-07-04,VINET,Reims,42,Singaporean Hokkien Fried Mee,26,9.8,10,0.0,5,Grains/Cereals
+1996-07-04,VINET,Reims,72,Mozzarella di Giovanni,14,34.8,5,0.0,4,Dairy Products
+1996-07-05,TOMSP,Münster,14,Tofu,35,18.6,9,0.0,7,Produce
+1996-07-05,TOMSP,Münster,51,Manjimup Dried Apples,20,42.4,40,0.0,7,Produce
+1996-07-08,HANAR,Rio de Janeiro,41,Jack's New England Clam Chowder,85,7.7,10,0.0,8,Seafood
+1996-07-08,HANAR,Rio de Janeiro,51,Manjimup Dried Apples,20,42.4,35,0.15,7,Produce
+1996-07-08,HANAR,Rio de Janeiro,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,15,0.15,2,Condiments
+1996-07-08,VICTE,Lyon,22,Gustaf's Knäckebröd,104,16.8,6,0.05,5,Grains/Cereals
+1996-07-08,VICTE,Lyon,57,Ravioli Angelo,36,15.6,15,0.05,5,Grains/Cereals
+1996-07-08,VICTE,Lyon,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,20,0.0,2,Condiments
+1996-07-09,SUPRD,Charleroi,20,Sir Rodney's Marmalade,40,64.8,40,0.05,3,Confections
+1996-07-09,SUPRD,Charleroi,33,Geitost,112,2.0,25,0.05,4,Dairy Products
+1996-07-09,SUPRD,Charleroi,60,Camembert Pierrot,19,27.2,40,0.0,4,Dairy Products
+1996-07-10,HANAR,Rio de Janeiro,31,Gorgonzola Telino,0,10.0,20,0.0,4,Dairy Products
+1996-07-10,HANAR,Rio de Janeiro,39,Chartreuse verte,69,14.4,42,0.0,1,Beverages
+1996-07-10,HANAR,Rio de Janeiro,49,Maxilaku,10,16.0,40,0.0,3,Confections
+1996-07-11,CHOPS,Bern,24,Guaraná Fantástica,20,3.6,15,0.15,1,Beverages
+1996-07-11,CHOPS,Bern,55,Pâté chinois,115,19.2,21,0.15,6,Meat/Poultry
+1996-07-11,CHOPS,Bern,74,Longlife Tofu,4,8.0,21,0.0,7,Produce
+1996-07-12,RICSU,Genève,2,Chang,17,15.2,20,0.0,1,Beverages
+1996-07-12,RICSU,Genève,16,Pavlova,29,13.9,35,0.0,3,Confections
+1996-07-12,RICSU,Genève,36,Inlagd Sill,112,15.2,25,0.0,8,Seafood
+1996-07-12,RICSU,Genève,59,Raclette Courdavault,79,44.0,30,0.0,4,Dairy Products
+1996-07-15,WELLI,Resende,53,Perth Pasties,0,26.2,15,0.0,6,Meat/Poultry
+1996-07-15,WELLI,Resende,77,Original Frankfurter grüne Soße,32,10.4,12,0.0,2,Condiments
+1996-07-16,HILAA,San Cristóbal,27,Schoggi Schokolade,49,35.1,25,0.0,3,Confections
+1996-07-16,HILAA,San Cristóbal,39,Chartreuse verte,69,14.4,6,0.0,1,Beverages
+1996-07-16,HILAA,San Cristóbal,77,Original Frankfurter grüne Soße,32,10.4,15,0.0,2,Condiments
+1996-07-17,ERNSH,Graz,2,Chang,17,15.2,50,0.2,1,Beverages
+1996-07-17,ERNSH,Graz,5,Chef Anton's Gumbo Mix,0,17.0,65,0.2,2,Condiments
+1996-07-17,ERNSH,Graz,32,Mascarpone Fabioli,9,25.6,6,0.2,4,Dairy Products
+1996-07-18,CENTC,México D.F.,21,Sir Rodney's Scones,3,8.0,10,0.0,3,Confections
+1996-07-18,CENTC,México D.F.,37,Gravad lax,11,20.8,1,0.0,8,Seafood
+1996-07-19,OTTIK,Köln,41,Jack's New England Clam Chowder,85,7.7,16,0.25,8,Seafood
+1996-07-19,OTTIK,Köln,57,Ravioli Angelo,36,15.6,50,0.0,5,Grains/Cereals
+1996-07-19,OTTIK,Köln,62,Tarte au sucre,17,39.4,15,0.25,3,Confections
+1996-07-19,OTTIK,Köln,70,Outback Lager,15,12.0,21,0.25,1,Beverages
+1996-07-19,QUEDE,Rio de Janeiro,21,Sir Rodney's Scones,3,8.0,20,0.0,3,Confections
+1996-07-19,QUEDE,Rio de Janeiro,35,Steeleye Stout,20,14.4,20,0.0,1,Beverages
+1996-07-22,RATTC,Albuquerque,5,Chef Anton's Gumbo Mix,0,17.0,12,0.2,2,Condiments
+1996-07-22,RATTC,Albuquerque,7,Uncle Bob's Organic Dried Pears,15,24.0,15,0.0,7,Produce
+1996-07-22,RATTC,Albuquerque,56,Gnocchi di nonna Alice,21,30.4,2,0.0,5,Grains/Cereals
+1996-07-23,ERNSH,Graz,16,Pavlova,29,13.9,60,0.25,3,Confections
+1996-07-23,ERNSH,Graz,24,Guaraná Fantástica,20,3.6,28,0.0,1,Beverages
+1996-07-23,ERNSH,Graz,30,Nord-Ost Matjeshering,10,20.7,60,0.25,8,Seafood
+1996-07-23,ERNSH,Graz,74,Longlife Tofu,4,8.0,36,0.25,7,Produce
+1996-07-24,FOLKO,Bräcke,2,Chang,17,15.2,35,0.0,1,Beverages
+1996-07-24,FOLKO,Bräcke,41,Jack's New England Clam Chowder,85,7.7,25,0.15,8,Seafood
+1996-07-25,BLONP,Strasbourg,17,Alice Mutton,0,31.2,30,0.0,6,Meat/Poultry
+1996-07-25,BLONP,Strasbourg,70,Outback Lager,15,12.0,20,0.0,1,Beverages
+1996-07-26,WARTH,Oulu,12,Queso Manchego La Pastora,86,30.4,12,0.05,4,Dairy Products
+1996-07-29,FRANK,München,40,Boston Crab Meat,123,14.7,50,0.0,8,Seafood
+1996-07-29,FRANK,München,59,Raclette Courdavault,79,44.0,70,0.15,4,Dairy Products
+1996-07-29,FRANK,München,76,Lakkalikööri,57,14.4,15,0.15,1,Beverages
+1996-07-30,GROSR,Caracas,29,Thüringer Rostbratwurst,0,99.0,10,0.0,6,Meat/Poultry
+1996-07-30,GROSR,Caracas,72,Mozzarella di Giovanni,14,27.8,4,0.0,4,Dairy Products
+1996-07-31,WHITC,Seattle,33,Geitost,112,2.0,60,0.05,4,Dairy Products
+1996-07-31,WHITC,Seattle,72,Mozzarella di Giovanni,14,27.8,20,0.05,4,Dairy Products
+1996-08-01,WARTH,Oulu,36,Inlagd Sill,112,15.2,30,0.0,8,Seafood
+1996-08-01,WARTH,Oulu,43,Ipoh Coffee,17,36.8,25,0.0,1,Beverages
+1996-08-01,SPLIR,Lander,33,Geitost,112,2.0,24,0.0,4,Dairy Products
+1996-08-02,RATTC,Albuquerque,20,Sir Rodney's Marmalade,40,64.8,6,0.0,3,Confections
+1996-08-02,RATTC,Albuquerque,31,Gorgonzola Telino,0,10.0,40,0.0,4,Dairy Products
+1996-08-02,RATTC,Albuquerque,72,Mozzarella di Giovanni,14,27.8,24,0.0,4,Dairy Products
+1996-08-05,QUICK,Cunewalde,10,Ikura,31,24.8,24,0.05,8,Seafood
+1996-08-05,QUICK,Cunewalde,31,Gorgonzola Telino,0,10.0,15,0.05,4,Dairy Products
+1996-08-05,QUICK,Cunewalde,33,Geitost,112,2.0,20,0.0,4,Dairy Products
+1996-08-05,QUICK,Cunewalde,40,Boston Crab Meat,123,14.7,60,0.05,8,Seafood
+1996-08-05,QUICK,Cunewalde,76,Lakkalikööri,57,14.4,33,0.05,1,Beverages
+1996-08-06,VINET,Reims,71,Flotemysost,26,17.2,20,0.0,4,Dairy Products
+1996-08-06,VINET,Reims,72,Mozzarella di Giovanni,14,27.8,7,0.0,4,Dairy Products
+1996-08-07,MAGAA,Bergamo,24,Guaraná Fantástica,20,3.6,12,0.05,1,Beverages
+1996-08-07,MAGAA,Bergamo,59,Raclette Courdavault,79,44.0,6,0.05,4,Dairy Products
+1996-08-08,TORTU,México D.F.,10,Ikura,31,24.8,15,0.0,8,Seafood
+1996-08-08,TORTU,México D.F.,13,Konbu,24,4.8,10,0.0,8,Seafood
+1996-08-09,MORGK,Leipzig,28,Rössle Sauerkraut,26,36.4,20,0.0,7,Produce
+1996-08-09,MORGK,Leipzig,62,Tarte au sucre,17,39.4,12,0.0,3,Confections
+1996-08-12,BERGS,Luleå,44,Gula Malacca,27,15.5,16,0.0,2,Condiments
+1996-08-12,BERGS,Luleå,59,Raclette Courdavault,79,44.0,15,0.0,4,Dairy Products
+1996-08-12,BERGS,Luleå,63,Vegie-spread,24,35.1,8,0.0,2,Condiments
+1996-08-12,BERGS,Luleå,73,Röd Kaviar,101,12.0,25,0.0,8,Seafood
+1996-08-13,LEHMS,Frankfurt a.M.,17,Alice Mutton,0,31.2,15,0.25,6,Meat/Poultry
+1996-08-14,BERGS,Luleå,24,Guaraná Fantástica,20,3.6,12,0.0,1,Beverages
+1996-08-14,BERGS,Luleå,55,Pâté chinois,115,19.2,20,0.0,6,Meat/Poultry
+1996-08-14,BERGS,Luleå,75,Rhönbräu Klosterbier,125,6.2,30,0.0,1,Beverages
+1996-08-14,ROMEY,Madrid,19,Teatime Chocolate Biscuits,25,7.3,1,0.0,3,Confections
+1996-08-14,ROMEY,Madrid,24,Guaraná Fantástica,20,3.6,6,0.0,1,Beverages
+1996-08-14,ROMEY,Madrid,35,Steeleye Stout,20,14.4,4,0.0,1,Beverages
+1996-08-15,ROMEY,Madrid,30,Nord-Ost Matjeshering,10,20.7,6,0.0,8,Seafood
+1996-08-15,ROMEY,Madrid,57,Ravioli Angelo,36,15.6,2,0.0,5,Grains/Cereals
+1996-08-16,LILAS,Barquisimeto,15,Genen Shouyu,39,12.4,20,0.0,2,Condiments
+1996-08-16,LILAS,Barquisimeto,19,Teatime Chocolate Biscuits,25,7.3,18,0.0,3,Confections
+1996-08-16,LILAS,Barquisimeto,60,Camembert Pierrot,19,27.2,35,0.0,4,Dairy Products
+1996-08-16,LILAS,Barquisimeto,72,Mozzarella di Giovanni,14,27.8,3,0.0,4,Dairy Products
+1996-08-19,LEHMS,Frankfurt a.M.,27,Schoggi Schokolade,49,35.1,15,0.25,3,Confections
+1996-08-19,LEHMS,Frankfurt a.M.,44,Gula Malacca,27,15.5,21,0.0,2,Condiments
+1996-08-19,LEHMS,Frankfurt a.M.,60,Camembert Pierrot,19,27.2,20,0.25,4,Dairy Products
+1996-08-19,LEHMS,Frankfurt a.M.,67,Laughing Lumberjack Lager,52,11.2,5,0.25,1,Beverages
+1996-08-20,QUICK,Cunewalde,1,Chai,39,14.4,45,0.2,1,Beverages
+1996-08-20,QUICK,Cunewalde,40,Boston Crab Meat,123,14.7,40,0.2,8,Seafood
+1996-08-20,QUICK,Cunewalde,53,Perth Pasties,0,26.2,36,0.2,6,Meat/Poultry
+1996-08-21,QUICK,Cunewalde,35,Steeleye Stout,20,14.4,100,0.0,1,Beverages
+1996-08-21,QUICK,Cunewalde,62,Tarte au sucre,17,39.4,40,0.0,3,Confections
+1996-08-22,RICAR,Rio de Janeiro,16,Pavlova,29,13.9,40,0.15,3,Confections
+1996-08-22,RICAR,Rio de Janeiro,34,Sasquatch Ale,111,11.2,20,0.0,1,Beverages
+1996-08-22,RICAR,Rio de Janeiro,46,Spegesild,95,9.6,15,0.15,8,Seafood
+1996-08-23,REGGC,Reggio Emilia,54,Tourtière,21,5.9,10,0.1,6,Meat/Poultry
+1996-08-23,REGGC,Reggio Emilia,68,Scottish Longbreads,6,10.0,3,0.1,3,Confections
+1996-08-26,BSBEV,London,3,Aniseed Syrup,13,8.0,30,0.0,2,Condiments
+1996-08-26,BSBEV,London,64,Wimmers gute Semmelknödel,22,26.6,9,0.0,5,Grains/Cereals
+1996-08-27,COMMI,Sao Paulo,5,Chef Anton's Gumbo Mix,0,17.0,20,0.0,2,Condiments
+1996-08-27,COMMI,Sao Paulo,29,Thüringer Rostbratwurst,0,99.0,15,0.0,6,Meat/Poultry
+1996-08-27,COMMI,Sao Paulo,49,Maxilaku,10,16.0,15,0.0,3,Confections
+1996-08-27,COMMI,Sao Paulo,77,Original Frankfurter grüne Soße,32,10.4,10,0.0,2,Condiments
+1996-08-27,QUEDE,Rio de Janeiro,13,Konbu,24,4.8,20,0.1,8,Seafood
+1996-08-27,QUEDE,Rio de Janeiro,44,Gula Malacca,27,15.5,24,0.1,2,Condiments
+1996-08-27,QUEDE,Rio de Janeiro,51,Manjimup Dried Apples,20,42.4,2,0.1,7,Produce
+1996-08-28,TRADH,Sao Paulo,20,Sir Rodney's Marmalade,40,64.8,20,0.0,3,Confections
+1996-08-29,TORTU,México D.F.,18,Carnarvon Tigers,42,50.0,12,0.0,8,Seafood
+1996-08-29,TORTU,México D.F.,24,Guaraná Fantástica,20,3.6,10,0.0,1,Beverages
+1996-08-29,TORTU,México D.F.,63,Vegie-spread,24,35.1,5,0.0,2,Condiments
+1996-08-29,TORTU,México D.F.,75,Rhönbräu Klosterbier,125,6.2,6,0.0,1,Beverages
+1996-08-30,RATTC,Albuquerque,1,Chai,39,14.4,18,0.0,1,Beverages
+1996-08-30,RATTC,Albuquerque,17,Alice Mutton,0,31.2,15,0.0,6,Meat/Poultry
+1996-08-30,RATTC,Albuquerque,43,Ipoh Coffee,17,36.8,15,0.0,1,Beverages
+1996-08-30,RATTC,Albuquerque,60,Camembert Pierrot,19,27.2,21,0.0,4,Dairy Products
+1996-08-30,RATTC,Albuquerque,75,Rhönbräu Klosterbier,125,6.2,6,0.0,1,Beverages
+1996-09-02,VINET,Reims,56,Gnocchi di nonna Alice,21,30.4,4,0.0,5,Grains/Cereals
+1996-09-03,LILAS,Barquisimeto,11,Queso Cabrales,22,16.8,12,0.0,4,Dairy Products
+1996-09-03,LILAS,Barquisimeto,16,Pavlova,29,13.9,30,0.0,3,Confections
+1996-09-03,LILAS,Barquisimeto,69,Gudbrandsdalsost,26,28.8,15,0.0,4,Dairy Products
+1996-09-04,BLONP,Strasbourg,39,Chartreuse verte,69,14.4,60,0.0,1,Beverages
+1996-09-04,BLONP,Strasbourg,72,Mozzarella di Giovanni,14,27.8,20,0.0,4,Dairy Products
+1996-09-05,HUNGO,Cork,2,Chang,17,15.2,40,0.0,1,Beverages
+1996-09-05,HUNGO,Cork,36,Inlagd Sill,112,15.2,40,0.25,8,Seafood
+1996-09-05,HUNGO,Cork,59,Raclette Courdavault,79,44.0,30,0.25,4,Dairy Products
+1996-09-05,HUNGO,Cork,62,Tarte au sucre,17,39.4,15,0.0,3,Confections
+1996-09-06,RICAR,Rio de Janeiro,19,Teatime Chocolate Biscuits,25,7.3,15,0.0,3,Confections
+1996-09-06,RICAR,Rio de Janeiro,70,Outback Lager,15,12.0,20,0.0,1,Beverages
+1996-09-09,MAGAA,Bergamo,66,Louisiana Hot Spiced Okra,4,13.6,30,0.0,2,Condiments
+1996-09-09,MAGAA,Bergamo,68,Scottish Longbreads,6,10.0,20,0.0,3,Confections
+1996-09-09,WANDK,Stuttgart,40,Boston Crab Meat,123,14.7,10,0.0,8,Seafood
+1996-09-09,WANDK,Stuttgart,56,Gnocchi di nonna Alice,21,30.4,20,0.0,5,Grains/Cereals
+1996-09-10,SUPRD,Charleroi,17,Alice Mutton,0,31.2,40,0.0,6,Meat/Poultry
+1996-09-10,SUPRD,Charleroi,28,Rössle Sauerkraut,26,36.4,28,0.0,7,Produce
+1996-09-10,SUPRD,Charleroi,43,Ipoh Coffee,17,36.8,12,0.0,1,Beverages
+1996-09-11,GODOS,Sevilla,40,Boston Crab Meat,123,14.7,40,0.1,8,Seafood
+1996-09-11,GODOS,Sevilla,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,30,0.1,2,Condiments
+1996-09-11,GODOS,Sevilla,68,Scottish Longbreads,6,10.0,15,0.1,3,Confections
+1996-09-12,TORTU,México D.F.,49,Maxilaku,10,16.0,30,0.0,3,Confections
+1996-09-12,TORTU,México D.F.,59,Raclette Courdavault,79,44.0,10,0.0,4,Dairy Products
+1996-09-12,TORTU,México D.F.,71,Flotemysost,26,17.2,2,0.0,4,Dairy Products
+1996-09-13,OLDWO,Anchorage,18,Carnarvon Tigers,42,50.0,25,0.1,8,Seafood
+1996-09-13,OLDWO,Anchorage,29,Thüringer Rostbratwurst,0,99.0,25,0.1,6,Meat/Poultry
+1996-09-13,OLDWO,Anchorage,39,Chartreuse verte,69,14.4,30,0.1,1,Beverages
+1996-09-16,ROMEY,Madrid,30,Nord-Ost Matjeshering,10,20.7,10,0.0,8,Seafood
+1996-09-16,ROMEY,Madrid,53,Perth Pasties,0,26.2,10,0.0,6,Meat/Poultry
+1996-09-16,ROMEY,Madrid,54,Tourtière,21,5.9,5,0.0,6,Meat/Poultry
+1996-09-17,LONEP,Portland,62,Tarte au sucre,17,39.4,10,0.0,3,Confections
+1996-09-17,LONEP,Portland,68,Scottish Longbreads,6,10.0,3,0.0,3,Confections
+1996-09-18,ANATR,México D.F.,69,Gudbrandsdalsost,26,28.8,1,0.0,4,Dairy Products
+1996-09-18,ANATR,México D.F.,70,Outback Lager,15,12.0,5,0.0,1,Beverages
+1996-09-19,HUNGO,Cork,4,Chef Anton's Cajun Seasoning,53,17.6,20,0.0,2,Condiments
+1996-09-19,HUNGO,Cork,6,Grandma's Boysenberry Spread,120,20.0,30,0.0,2,Condiments
+1996-09-19,HUNGO,Cork,42,Singaporean Hokkien Fried Mee,26,11.2,2,0.0,5,Grains/Cereals
+1996-09-19,HUNGO,Cork,43,Ipoh Coffee,17,36.8,20,0.0,1,Beverages
+1996-09-19,HUNGO,Cork,71,Flotemysost,26,17.2,3,0.0,4,Dairy Products
+1996-09-20,THEBI,Portland,16,Pavlova,29,13.9,10,0.0,3,Confections
+1996-09-20,THEBI,Portland,62,Tarte au sucre,17,39.4,5,0.0,3,Confections
+1996-09-20,DUMON,Nantes,42,Singaporean Hokkien Fried Mee,26,11.2,6,0.0,5,Grains/Cereals
+1996-09-20,DUMON,Nantes,69,Gudbrandsdalsost,26,28.8,7,0.0,4,Dairy Products
+1996-09-23,WANDK,Stuttgart,28,Rössle Sauerkraut,26,36.4,4,0.0,7,Produce
+1996-09-23,WANDK,Stuttgart,43,Ipoh Coffee,17,36.8,24,0.0,1,Beverages
+1996-09-23,WANDK,Stuttgart,53,Perth Pasties,0,26.2,20,0.0,6,Meat/Poultry
+1996-09-23,WANDK,Stuttgart,75,Rhönbräu Klosterbier,125,6.2,10,0.0,1,Beverages
+1996-09-24,QUICK,Cunewalde,36,Inlagd Sill,112,15.2,12,0.0,8,Seafood
+1996-09-25,RATTC,Albuquerque,32,Mascarpone Fabioli,9,25.6,40,0.1,4,Dairy Products
+1996-09-25,RATTC,Albuquerque,58,Escargots de Bourgogne,62,10.6,30,0.1,8,Seafood
+1996-09-25,RATTC,Albuquerque,62,Tarte au sucre,17,39.4,25,0.1,3,Confections
+1996-09-26,ISLAT,Cowes,34,Sasquatch Ale,111,11.2,14,0.0,1,Beverages
+1996-09-26,ISLAT,Cowes,70,Outback Lager,15,12.0,30,0.0,1,Beverages
+1996-09-27,RATTC,Albuquerque,41,Jack's New England Clam Chowder,85,7.7,10,0.0,8,Seafood
+1996-09-27,RATTC,Albuquerque,62,Tarte au sucre,17,39.4,70,0.0,3,Confections
+1996-09-30,LONEP,Portland,1,Chai,39,14.4,20,0.0,1,Beverages
+1996-10-01,ISLAT,Cowes,41,Jack's New England Clam Chowder,85,7.7,20,0.0,8,Seafood
+1996-10-01,ISLAT,Cowes,76,Lakkalikööri,57,14.4,6,0.0,1,Beverages
+1996-10-02,TORTU,México D.F.,17,Alice Mutton,0,31.2,8,0.0,6,Meat/Poultry
+1996-10-02,TORTU,México D.F.,28,Rössle Sauerkraut,26,36.4,14,0.0,7,Produce
+1996-10-02,TORTU,México D.F.,76,Lakkalikööri,57,14.4,30,0.0,1,Beverages
+1996-10-03,WARTH,Oulu,71,Flotemysost,26,17.2,30,0.0,4,Dairy Products
+1996-10-03,ISLAT,Cowes,35,Steeleye Stout,20,14.4,10,0.0,1,Beverages
+1996-10-04,PERIC,México D.F.,52,Filo Mix,38,5.6,20,0.0,5,Grains/Cereals
+1996-10-07,KOENE,Brandenburg,15,Genen Shouyu,39,12.4,5,0.0,2,Condiments
+1996-10-07,KOENE,Brandenburg,25,NuNuCa Nuß-Nougat-Creme,76,11.2,4,0.0,3,Confections
+1996-10-07,KOENE,Brandenburg,39,Chartreuse verte,69,14.4,4,0.0,1,Beverages
+1996-10-08,SAVEA,Boise,16,Pavlova,29,13.9,21,0.15,3,Confections
+1996-10-08,SAVEA,Boise,35,Steeleye Stout,20,14.4,70,0.15,1,Beverages
+1996-10-08,SAVEA,Boise,46,Spegesild,95,9.6,30,0.0,8,Seafood
+1996-10-08,SAVEA,Boise,59,Raclette Courdavault,79,44.0,40,0.15,4,Dairy Products
+1996-10-08,SAVEA,Boise,63,Vegie-spread,24,35.1,80,0.15,2,Condiments
+1996-10-09,KOENE,Brandenburg,6,Grandma's Boysenberry Spread,120,20.0,6,0.0,2,Condiments
+1996-10-09,KOENE,Brandenburg,13,Konbu,24,4.8,12,0.0,8,Seafood
+1996-10-09,KOENE,Brandenburg,14,Tofu,35,18.6,9,0.0,7,Produce
+1996-10-09,KOENE,Brandenburg,31,Gorgonzola Telino,0,10.0,4,0.0,4,Dairy Products
+1996-10-09,KOENE,Brandenburg,72,Mozzarella di Giovanni,14,27.8,40,0.0,4,Dairy Products
+1996-10-10,BOLID,Madrid,4,Chef Anton's Cajun Seasoning,53,17.6,24,0.0,2,Condiments
+1996-10-10,BOLID,Madrid,57,Ravioli Angelo,36,15.6,16,0.0,5,Grains/Cereals
+1996-10-10,BOLID,Madrid,75,Rhönbräu Klosterbier,125,6.2,50,0.0,1,Beverages
+1996-10-11,FOLKO,Bräcke,2,Chang,17,15.2,25,0.2,1,Beverages
+1996-10-11,FOLKO,Bräcke,11,Queso Cabrales,22,16.8,50,0.2,4,Dairy Products
+1996-10-11,FOLKO,Bräcke,30,Nord-Ost Matjeshering,10,20.7,35,0.2,8,Seafood
+1996-10-11,FOLKO,Bräcke,58,Escargots de Bourgogne,62,10.6,30,0.2,8,Seafood
+1996-10-14,FURIB,Lisboa,59,Raclette Courdavault,79,44.0,9,0.0,4,Dairy Products
+1996-10-14,FURIB,Lisboa,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,40,0.0,2,Condiments
+1996-10-14,FURIB,Lisboa,68,Scottish Longbreads,6,10.0,10,0.0,3,Confections
+1996-10-15,SPLIR,Lander,19,Teatime Chocolate Biscuits,25,7.3,10,0.05,3,Confections
+1996-10-15,SPLIR,Lander,30,Nord-Ost Matjeshering,10,20.7,8,0.05,8,Seafood
+1996-10-15,SPLIR,Lander,38,Côte de Blaye,17,210.8,20,0.05,1,Beverages
+1996-10-15,SPLIR,Lander,56,Gnocchi di nonna Alice,21,30.4,12,0.05,5,Grains/Cereals
+1996-10-16,LILAS,Barquisimeto,26,Gumbär Gummibärchen,15,24.9,50,0.15,3,Confections
+1996-10-16,LILAS,Barquisimeto,72,Mozzarella di Giovanni,14,27.8,25,0.15,4,Dairy Products
+1996-10-16,BONAP,Marseille,54,Tourtière,21,5.9,15,0.0,6,Meat/Poultry
+1996-10-17,MEREP,Montréal,18,Carnarvon Tigers,42,50.0,40,0.2,8,Seafood
+1996-10-17,MEREP,Montréal,42,Singaporean Hokkien Fried Mee,26,11.2,10,0.2,5,Grains/Cereals
+1996-10-17,MEREP,Montréal,47,Zaanse koeken,36,7.6,16,0.2,3,Confections
+1996-10-18,WARTH,Oulu,14,Tofu,35,18.6,10,0.0,7,Produce
+1996-10-18,WARTH,Oulu,21,Sir Rodney's Scones,3,8.0,10,0.1,3,Confections
+1996-10-18,WARTH,Oulu,71,Flotemysost,26,17.2,40,0.1,4,Dairy Products
+1996-10-21,VICTE,Lyon,52,Filo Mix,38,5.6,8,0.0,5,Grains/Cereals
+1996-10-21,VICTE,Lyon,68,Scottish Longbreads,6,10.0,10,0.0,3,Confections
+1996-10-22,HUNGO,Cork,2,Chang,17,15.2,7,0.2,1,Beverages
+1996-10-22,HUNGO,Cork,31,Gorgonzola Telino,0,10.0,25,0.2,4,Dairy Products
+1996-10-22,HUNGO,Cork,32,Mascarpone Fabioli,9,25.6,6,0.2,4,Dairy Products
+1996-10-22,HUNGO,Cork,51,Manjimup Dried Apples,20,42.4,48,0.2,7,Produce
+1996-10-23,PRINI,Lisboa,4,Chef Anton's Cajun Seasoning,53,17.6,18,0.1,2,Condiments
+1996-10-24,FRANK,München,23,Tunnbröd,61,7.2,40,0.0,5,Grains/Cereals
+1996-10-24,FRANK,München,26,Gumbär Gummibärchen,15,24.9,24,0.0,3,Confections
+1996-10-24,FRANK,München,36,Inlagd Sill,112,15.2,20,0.0,8,Seafood
+1996-10-24,FRANK,München,37,Gravad lax,11,20.8,28,0.0,8,Seafood
+1996-10-24,FRANK,München,72,Mozzarella di Giovanni,14,27.8,25,0.0,4,Dairy Products
+1996-10-25,OLDWO,Anchorage,17,Alice Mutton,0,31.2,20,0.0,6,Meat/Poultry
+1996-10-25,OLDWO,Anchorage,30,Nord-Ost Matjeshering,10,20.7,15,0.0,8,Seafood
+1996-10-28,MEREP,Montréal,4,Chef Anton's Cajun Seasoning,53,17.6,10,0.0,2,Condiments
+1996-10-28,MEREP,Montréal,17,Alice Mutton,0,31.2,70,0.05,6,Meat/Poultry
+1996-10-28,MEREP,Montréal,62,Tarte au sucre,17,39.4,28,0.0,3,Confections
+1996-10-29,BONAP,Marseille,18,Carnarvon Tigers,42,50.0,20,0.05,8,Seafood
+1996-10-29,BONAP,Marseille,41,Jack's New England Clam Chowder,85,7.7,12,0.05,8,Seafood
+1996-10-29,BONAP,Marseille,43,Ipoh Coffee,17,36.8,40,0.05,1,Beverages
+1996-10-29,SIMOB,Kobenhavn,33,Geitost,112,2.0,8,0.0,4,Dairy Products
+1996-10-29,SIMOB,Kobenhavn,59,Raclette Courdavault,79,44.0,9,0.15,4,Dairy Products
+1996-10-30,FRANK,München,2,Chang,17,15.2,24,0.2,1,Beverages
+1996-10-30,FRANK,München,31,Gorgonzola Telino,0,10.0,56,0.2,4,Dairy Products
+1996-10-30,FRANK,München,36,Inlagd Sill,112,15.2,40,0.2,8,Seafood
+1996-10-30,FRANK,München,55,Pâté chinois,115,19.2,40,0.2,6,Meat/Poultry
+1996-10-31,LEHMS,Frankfurt a.M.,64,Wimmers gute Semmelknödel,22,26.6,50,0.0,5,Grains/Cereals
+1996-10-31,LEHMS,Frankfurt a.M.,68,Scottish Longbreads,6,10.0,4,0.05,3,Confections
+1996-10-31,LEHMS,Frankfurt a.M.,76,Lakkalikööri,57,14.4,15,0.0,1,Beverages
+1996-11-01,WHITC,Seattle,4,Chef Anton's Cajun Seasoning,53,17.6,35,0.0,2,Condiments
+1996-11-01,WHITC,Seattle,8,Northwoods Cranberry Sauce,6,32.0,70,0.25,2,Condiments
+1996-11-04,QUICK,Cunewalde,8,Northwoods Cranberry Sauce,6,32.0,70,0.0,2,Condiments
+1996-11-04,QUICK,Cunewalde,19,Teatime Chocolate Biscuits,25,7.3,80,0.0,3,Confections
+1996-11-04,QUICK,Cunewalde,42,Singaporean Hokkien Fried Mee,26,11.2,9,0.0,5,Grains/Cereals
+1996-11-05,RATTC,Albuquerque,17,Alice Mutton,0,31.2,36,0.1,6,Meat/Poultry
+1996-11-05,RATTC,Albuquerque,56,Gnocchi di nonna Alice,21,30.4,20,0.0,5,Grains/Cereals
+1996-11-06,FAMIA,Sao Paulo,25,NuNuCa Nuß-Nougat-Creme,76,11.2,10,0.0,3,Confections
+1996-11-06,FAMIA,Sao Paulo,39,Chartreuse verte,69,14.4,50,0.15,1,Beverages
+1996-11-06,FAMIA,Sao Paulo,40,Boston Crab Meat,123,14.7,4,0.0,8,Seafood
+1996-11-06,FAMIA,Sao Paulo,75,Rhönbräu Klosterbier,125,6.2,6,0.15,1,Beverages
+1996-11-07,WANDK,Stuttgart,1,Chai,39,14.4,15,0.15,1,Beverages
+1996-11-07,WANDK,Stuttgart,23,Tunnbröd,61,7.2,25,0.0,5,Grains/Cereals
+1996-11-08,SPLIR,Lander,54,Tourtière,21,5.9,24,0.0,6,Meat/Poultry
+1996-11-11,LAMAI,Toulouse,50,Valkoinen suklaa,65,13.0,15,0.1,3,Confections
+1996-11-11,LAMAI,Toulouse,69,Gudbrandsdalsost,26,28.8,18,0.1,4,Dairy Products
+1996-11-11,ERNSH,Graz,38,Côte de Blaye,17,210.8,20,0.05,1,Beverages
+1996-11-11,ERNSH,Graz,41,Jack's New England Clam Chowder,85,7.7,13,0.0,8,Seafood
+1996-11-11,ERNSH,Graz,44,Gula Malacca,27,15.5,77,0.05,2,Condiments
+1996-11-11,ERNSH,Graz,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,10,0.05,2,Condiments
+1996-11-12,FURIB,Lisboa,24,Guaraná Fantástica,20,3.6,10,0.0,1,Beverages
+1996-11-12,FURIB,Lisboa,54,Tourtière,21,5.9,20,0.15,6,Meat/Poultry
+1996-11-13,PICCO,Salzburg,11,Queso Cabrales,22,16.8,12,0.2,4,Dairy Products
+1996-11-13,PICCO,Salzburg,38,Côte de Blaye,17,210.8,50,0.2,1,Beverages
+1996-11-14,PERIC,México D.F.,1,Chai,39,14.4,12,0.0,1,Beverages
+1996-11-14,PERIC,México D.F.,29,Thüringer Rostbratwurst,0,99.0,4,0.0,6,Meat/Poultry
+1996-11-15,AROUT,London,24,Guaraná Fantástica,20,3.6,25,0.0,1,Beverages
+1996-11-15,AROUT,London,57,Ravioli Angelo,36,15.6,25,0.0,5,Grains/Cereals
+1996-11-18,WANDK,Stuttgart,31,Gorgonzola Telino,0,10.0,30,0.0,4,Dairy Products
+1996-11-18,WANDK,Stuttgart,55,Pâté chinois,115,19.2,12,0.0,6,Meat/Poultry
+1996-11-18,WANDK,Stuttgart,69,Gudbrandsdalsost,26,28.8,20,0.0,4,Dairy Products
+1996-11-19,LILAS,Barquisimeto,10,Ikura,31,24.8,30,0.2,8,Seafood
+1996-11-19,LILAS,Barquisimeto,26,Gumbär Gummibärchen,15,24.9,16,0.0,3,Confections
+1996-11-19,LILAS,Barquisimeto,60,Camembert Pierrot,19,27.2,8,0.2,4,Dairy Products
+1996-11-20,LAMAI,Toulouse,24,Guaraná Fantástica,20,3.6,10,0.05,1,Beverages
+1996-11-20,LAMAI,Toulouse,34,Sasquatch Ale,111,11.2,10,0.05,1,Beverages
+1996-11-20,LAMAI,Toulouse,36,Inlagd Sill,112,15.2,20,0.05,8,Seafood
+1996-11-21,SEVES,London,16,Pavlova,29,13.9,56,0.05,3,Confections
+1996-11-21,SEVES,London,31,Gorgonzola Telino,0,10.0,70,0.05,4,Dairy Products
+1996-11-21,SEVES,London,60,Camembert Pierrot,19,27.2,80,0.05,4,Dairy Products
+1996-11-22,BLONP,Strasbourg,28,Rössle Sauerkraut,26,36.4,30,0.0,7,Produce
+1996-11-22,BLONP,Strasbourg,29,Thüringer Rostbratwurst,0,99.0,35,0.0,6,Meat/Poultry
+1996-11-22,BLONP,Strasbourg,38,Côte de Blaye,17,210.8,10,0.0,1,Beverages
+1996-11-22,BLONP,Strasbourg,49,Maxilaku,10,16.0,35,0.0,3,Confections
+1996-11-22,BLONP,Strasbourg,54,Tourtière,21,5.9,28,0.0,6,Meat/Poultry
+1996-11-22,QUICK,Cunewalde,39,Chartreuse verte,69,14.4,54,0.1,1,Beverages
+1996-11-22,QUICK,Cunewalde,60,Camembert Pierrot,19,27.2,55,0.1,4,Dairy Products
+1996-11-25,BONAP,Marseille,25,NuNuCa Nuß-Nougat-Creme,76,11.2,50,0.0,3,Confections
+1996-11-25,BONAP,Marseille,51,Manjimup Dried Apples,20,42.4,20,0.0,7,Produce
+1996-11-25,BONAP,Marseille,54,Tourtière,21,5.9,24,0.0,6,Meat/Poultry
+1996-11-26,DRACD,Aachen,31,Gorgonzola Telino,0,10.0,20,0.0,4,Dairy Products
+1996-11-26,DRACD,Aachen,75,Rhönbräu Klosterbier,125,6.2,12,0.0,1,Beverages
+1996-11-26,DRACD,Aachen,76,Lakkalikööri,57,14.4,12,0.0,1,Beverages
+1996-11-26,EASTC,London,69,Gudbrandsdalsost,26,28.8,30,0.0,4,Dairy Products
+1996-11-26,EASTC,London,71,Flotemysost,26,17.2,5,0.0,4,Dairy Products
+1996-11-27,ANTON,México D.F.,11,Queso Cabrales,22,16.8,24,0.0,4,Dairy Products
+1996-11-28,GALED,Barcelona,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,5,0.0,2,Condiments
+1996-11-28,GALED,Barcelona,77,Original Frankfurter grüne Soße,32,10.4,5,0.0,2,Condiments
+1996-11-28,VAFFE,Århus,34,Sasquatch Ale,111,11.2,36,0.0,1,Beverages
+1996-11-28,VAFFE,Århus,54,Tourtière,21,5.9,18,0.0,6,Meat/Poultry
+1996-11-28,VAFFE,Århus,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,15,0.0,2,Condiments
+1996-11-28,VAFFE,Århus,77,Original Frankfurter grüne Soße,32,10.4,7,0.0,2,Condiments
+1996-11-29,ERNSH,Graz,21,Sir Rodney's Scones,3,8.0,5,0.1,3,Confections
+1996-11-29,ERNSH,Graz,28,Rössle Sauerkraut,26,36.4,13,0.1,7,Produce
+1996-11-29,ERNSH,Graz,57,Ravioli Angelo,36,15.6,25,0.0,5,Grains/Cereals
+1996-11-29,ERNSH,Graz,64,Wimmers gute Semmelknödel,22,26.6,35,0.1,5,Grains/Cereals
+1996-12-02,SPLIR,Lander,29,Thüringer Rostbratwurst,0,99.0,20,0.0,6,Meat/Poultry
+1996-12-02,SPLIR,Lander,56,Gnocchi di nonna Alice,21,30.4,18,0.25,5,Grains/Cereals
+1996-12-03,CHOPS,Bern,1,Chai,39,14.4,15,0.15,1,Beverages
+1996-12-03,CHOPS,Bern,64,Wimmers gute Semmelknödel,22,26.6,30,0.0,5,Grains/Cereals
+1996-12-03,CHOPS,Bern,74,Longlife Tofu,4,8.0,20,0.15,7,Produce
+1996-12-03,LAMAI,Toulouse,36,Inlagd Sill,112,15.2,6,0.2,8,Seafood
+1996-12-04,QUEEN,Sao Paulo,20,Sir Rodney's Marmalade,40,64.8,12,0.25,3,Confections
+1996-12-04,QUEEN,Sao Paulo,38,Côte de Blaye,17,210.8,40,0.25,1,Beverages
+1996-12-04,QUEEN,Sao Paulo,60,Camembert Pierrot,19,27.2,70,0.25,4,Dairy Products
+1996-12-04,QUEEN,Sao Paulo,72,Mozzarella di Giovanni,14,27.8,42,0.25,4,Dairy Products
+1996-12-05,HUNGO,Cork,58,Escargots de Bourgogne,62,10.6,80,0.2,8,Seafood
+1996-12-05,HUNGO,Cork,71,Flotemysost,26,17.2,50,0.2,4,Dairy Products
+1996-12-05,WOLZA,Warszawa,31,Gorgonzola Telino,0,10.0,30,0.0,4,Dairy Products
+1996-12-05,WOLZA,Warszawa,58,Escargots de Bourgogne,62,10.6,15,0.0,8,Seafood
+1996-12-06,HUNGC,Elgin,14,Tofu,35,18.6,15,0.0,7,Produce
+1996-12-06,HUNGC,Elgin,54,Tourtière,21,5.9,10,0.0,6,Meat/Poultry
+1996-12-09,MEREP,Montréal,31,Gorgonzola Telino,0,10.0,42,0.05,4,Dairy Products
+1996-12-09,SEVES,London,28,Rössle Sauerkraut,26,36.4,20,0.15,7,Produce
+1996-12-09,SEVES,London,39,Chartreuse verte,69,14.4,20,0.15,1,Beverages
+1996-12-10,FOLKO,Bräcke,71,Flotemysost,26,17.2,6,0.0,4,Dairy Products
+1996-12-11,QUEDE,Rio de Janeiro,41,Jack's New England Clam Chowder,85,7.7,8,0.1,8,Seafood
+1996-12-11,QUEDE,Rio de Janeiro,63,Vegie-spread,24,35.1,16,0.1,2,Condiments
+1996-12-11,QUEDE,Rio de Janeiro,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,20,0.1,2,Condiments
+1996-12-12,HUNGO,Cork,30,Nord-Ost Matjeshering,10,20.7,18,0.1,8,Seafood
+1996-12-12,HUNGO,Cork,53,Perth Pasties,0,26.2,20,0.1,6,Meat/Poultry
+1996-12-12,HUNGO,Cork,60,Camembert Pierrot,19,27.2,6,0.1,4,Dairy Products
+1996-12-12,HUNGO,Cork,70,Outback Lager,15,12.0,30,0.0,1,Beverages
+1996-12-12,LILAS,Barquisimeto,74,Longlife Tofu,4,8.0,14,0.0,7,Produce
+1996-12-13,ERNSH,Graz,5,Chef Anton's Gumbo Mix,0,17.0,32,0.0,2,Condiments
+1996-12-13,ERNSH,Graz,18,Carnarvon Tigers,42,50.0,9,0.0,8,Seafood
+1996-12-13,ERNSH,Graz,29,Thüringer Rostbratwurst,0,99.0,14,0.0,6,Meat/Poultry
+1996-12-13,ERNSH,Graz,33,Geitost,112,2.0,60,0.0,4,Dairy Products
+1996-12-13,ERNSH,Graz,74,Longlife Tofu,4,8.0,50,0.0,7,Produce
+1996-12-16,AROUT,London,13,Konbu,24,4.8,20,0.0,8,Seafood
+1996-12-16,AROUT,London,50,Valkoinen suklaa,65,13.0,15,0.0,3,Confections
+1996-12-16,AROUT,London,56,Gnocchi di nonna Alice,21,30.4,20,0.0,5,Grains/Cereals
+1996-12-16,BERGS,Luleå,20,Sir Rodney's Marmalade,40,64.8,28,0.0,3,Confections
+1996-12-16,BERGS,Luleå,60,Camembert Pierrot,19,27.2,15,0.0,4,Dairy Products
+1996-12-17,SPLIR,Lander,7,Uncle Bob's Organic Dried Pears,15,24.0,10,0.2,7,Produce
+1996-12-17,SPLIR,Lander,60,Camembert Pierrot,19,27.2,20,0.2,4,Dairy Products
+1996-12-17,SPLIR,Lander,68,Scottish Longbreads,6,10.0,8,0.2,3,Confections
+1996-12-18,FAMIA,Sao Paulo,24,Guaraná Fantástica,20,3.6,15,0.0,1,Beverages
+1996-12-18,FAMIA,Sao Paulo,34,Sasquatch Ale,111,11.2,10,0.0,1,Beverages
+1996-12-18,SANTG,Stavern,24,Guaraná Fantástica,20,3.6,15,0.0,1,Beverages
+1996-12-18,SANTG,Stavern,28,Rössle Sauerkraut,26,36.4,6,0.0,7,Produce
+1996-12-18,SANTG,Stavern,59,Raclette Courdavault,79,44.0,12,0.0,4,Dairy Products
+1996-12-18,SANTG,Stavern,71,Flotemysost,26,17.2,15,0.0,4,Dairy Products
+1996-12-19,SEVES,London,45,Rogede sild,5,7.6,15,0.2,8,Seafood
+1996-12-19,SEVES,London,52,Filo Mix,38,5.6,20,0.2,5,Grains/Cereals
+1996-12-19,SEVES,London,53,Perth Pasties,0,26.2,40,0.0,6,Meat/Poultry
+1996-12-20,BOTTM,Tsawassen,10,Ikura,31,24.8,16,0.0,8,Seafood
+1996-12-20,BOTTM,Tsawassen,55,Pâté chinois,115,19.2,15,0.0,6,Meat/Poultry
+1996-12-20,BOTTM,Tsawassen,62,Tarte au sucre,17,39.4,20,0.0,3,Confections
+1996-12-20,BOTTM,Tsawassen,70,Outback Lager,15,12.0,30,0.0,1,Beverages
+1996-12-23,ERNSH,Graz,31,Gorgonzola Telino,0,10.0,60,0.1,4,Dairy Products
+1996-12-23,ERNSH,Graz,35,Steeleye Stout,20,14.4,40,0.1,1,Beverages
+1996-12-23,ERNSH,Graz,46,Spegesild,95,9.6,45,0.0,8,Seafood
+1996-12-23,ERNSH,Graz,72,Mozzarella di Giovanni,14,27.8,24,0.1,4,Dairy Products
+1996-12-23,DRACD,Aachen,13,Konbu,24,4.8,18,0.0,8,Seafood
+1996-12-24,PICCO,Salzburg,69,Gudbrandsdalsost,26,28.8,50,0.0,4,Dairy Products
+1996-12-25,SAVEA,Boise,2,Chang,17,15.2,25,0.25,1,Beverages
+1996-12-25,SAVEA,Boise,14,Tofu,35,18.6,42,0.25,7,Produce
+1996-12-25,SAVEA,Boise,25,NuNuCa Nuß-Nougat-Creme,76,11.2,7,0.25,3,Confections
+1996-12-25,SAVEA,Boise,26,Gumbär Gummibärchen,15,24.9,70,0.25,3,Confections
+1996-12-25,SAVEA,Boise,31,Gorgonzola Telino,0,10.0,32,0.0,4,Dairy Products
+1996-12-25,HUNGC,Elgin,13,Konbu,24,4.8,10,0.0,8,Seafood
+1996-12-25,HUNGC,Elgin,62,Tarte au sucre,17,39.4,10,0.0,3,Confections
+1996-12-26,HILAA,San Cristóbal,46,Spegesild,95,9.6,28,0.1,8,Seafood
+1996-12-26,HILAA,San Cristóbal,53,Perth Pasties,0,26.2,70,0.1,6,Meat/Poultry
+1996-12-26,HILAA,San Cristóbal,69,Gudbrandsdalsost,26,28.8,8,0.0,4,Dairy Products
+1996-12-27,FRANK,München,23,Tunnbröd,61,7.2,40,0.0,5,Grains/Cereals
+1996-12-27,FRANK,München,71,Flotemysost,26,17.2,60,0.0,4,Dairy Products
+1996-12-27,FRANK,München,72,Mozzarella di Giovanni,14,27.8,21,0.0,4,Dairy Products
+1996-12-27,PRINI,Lisboa,21,Sir Rodney's Scones,3,8.0,10,0.15,3,Confections
+1996-12-27,PRINI,Lisboa,51,Manjimup Dried Apples,20,42.4,18,0.15,7,Produce
+1996-12-30,SAVEA,Boise,35,Steeleye Stout,20,14.4,30,0.0,1,Beverages
+1996-12-30,SAVEA,Boise,55,Pâté chinois,115,19.2,120,0.1,6,Meat/Poultry
+1996-12-31,VAFFE,Århus,68,Scottish Longbreads,6,10.0,60,0.0,3,Confections
+1996-12-31,VAFFE,Århus,71,Flotemysost,26,17.2,30,0.0,4,Dairy Products
+1996-12-31,VAFFE,Århus,76,Lakkalikööri,57,14.4,35,0.0,1,Beverages
+1996-12-31,VAFFE,Århus,77,Original Frankfurter grüne Soße,32,10.4,14,0.0,2,Condiments
+1997-01-01,EASTC,London,29,Thüringer Rostbratwurst,0,99.0,21,0.0,6,Meat/Poultry
+1997-01-01,EASTC,London,35,Steeleye Stout,20,14.4,35,0.0,1,Beverages
+1997-01-01,EASTC,London,49,Maxilaku,10,16.0,30,0.0,3,Confections
+1997-01-01,RATTC,Albuquerque,30,Nord-Ost Matjeshering,10,20.7,18,0.0,8,Seafood
+1997-01-01,RATTC,Albuquerque,56,Gnocchi di nonna Alice,21,30.4,70,0.0,5,Grains/Cereals
+1997-01-01,RATTC,Albuquerque,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,20,0.0,2,Condiments
+1997-01-01,RATTC,Albuquerque,71,Flotemysost,26,17.2,60,0.0,4,Dairy Products
+1997-01-02,ERNSH,Graz,23,Tunnbröd,61,7.2,60,0.0,5,Grains/Cereals
+1997-01-02,ERNSH,Graz,63,Vegie-spread,24,35.1,65,0.0,2,Condiments
+1997-01-03,ERNSH,Graz,16,Pavlova,29,13.9,21,0.15,3,Confections
+1997-01-03,ERNSH,Graz,48,Chocolade,15,10.2,70,0.15,3,Confections
+1997-01-03,MAGAA,Bergamo,26,Gumbär Gummibärchen,15,24.9,30,0.05,3,Confections
+1997-01-03,MAGAA,Bergamo,42,Singaporean Hokkien Fried Mee,26,11.2,40,0.05,5,Grains/Cereals
+1997-01-03,MAGAA,Bergamo,49,Maxilaku,10,16.0,30,0.05,3,Confections
+1997-01-06,LINOD,I. de Margarita,3,Aniseed Syrup,13,8.0,50,0.0,2,Condiments
+1997-01-07,QUEEN,Sao Paulo,1,Chai,39,14.4,10,0.0,1,Beverages
+1997-01-07,QUEEN,Sao Paulo,21,Sir Rodney's Scones,3,8.0,30,0.1,3,Confections
+1997-01-07,QUEEN,Sao Paulo,28,Rössle Sauerkraut,26,36.4,42,0.1,7,Produce
+1997-01-07,QUEEN,Sao Paulo,36,Inlagd Sill,112,15.2,5,0.1,8,Seafood
+1997-01-07,QUEEN,Sao Paulo,40,Boston Crab Meat,123,14.7,2,0.1,8,Seafood
+1997-01-07,OTTIK,Köln,11,Queso Cabrales,22,16.8,30,0.0,4,Dairy Products
+1997-01-07,OTTIK,Köln,69,Gudbrandsdalsost,26,28.8,15,0.0,4,Dairy Products
+1997-01-07,OTTIK,Köln,71,Flotemysost,26,17.2,15,0.0,4,Dairy Products
+1997-01-08,FOLIG,Lille,37,Gravad lax,11,20.8,10,0.0,8,Seafood
+1997-01-08,FOLIG,Lille,54,Tourtière,21,5.9,6,0.0,6,Meat/Poultry
+1997-01-08,FOLIG,Lille,62,Tarte au sucre,17,39.4,35,0.0,3,Confections
+1997-01-09,OCEAN,Buenos Aires,14,Tofu,35,18.6,12,0.0,7,Produce
+1997-01-09,OCEAN,Buenos Aires,21,Sir Rodney's Scones,3,8.0,12,0.0,3,Confections
+1997-01-10,BOTTM,Tsawassen,33,Geitost,112,2.0,49,0.0,4,Dairy Products
+1997-01-10,BOTTM,Tsawassen,59,Raclette Courdavault,79,44.0,16,0.0,4,Dairy Products
+1997-01-10,BOTTM,Tsawassen,41,Jack's New England Clam Chowder,85,7.7,25,0.2,8,Seafood
+1997-01-10,BOTTM,Tsawassen,44,Gula Malacca,27,15.5,40,0.2,2,Condiments
+1997-01-10,BOTTM,Tsawassen,59,Raclette Courdavault,79,44.0,9,0.2,4,Dairy Products
+1997-01-13,WARTH,Oulu,14,Tofu,35,18.6,20,0.1,7,Produce
+1997-01-14,LAMAI,Toulouse,1,Chai,39,14.4,24,0.0,1,Beverages
+1997-01-14,LAMAI,Toulouse,62,Tarte au sucre,17,39.4,40,0.0,3,Confections
+1997-01-14,LAMAI,Toulouse,76,Lakkalikööri,57,14.4,14,0.0,1,Beverages
+1997-01-14,FAMIA,Sao Paulo,19,Teatime Chocolate Biscuits,25,7.3,18,0.05,3,Confections
+1997-01-14,FAMIA,Sao Paulo,33,Geitost,112,2.0,50,0.0,4,Dairy Products
+1997-01-15,HUNGC,Elgin,17,Alice Mutton,0,31.2,2,0.0,6,Meat/Poultry
+1997-01-15,HUNGC,Elgin,33,Geitost,112,2.0,20,0.0,4,Dairy Products
+1997-01-16,WARTH,Oulu,19,Teatime Chocolate Biscuits,25,7.3,20,0.0,3,Confections
+1997-01-16,WARTH,Oulu,53,Perth Pasties,0,26.2,10,0.0,6,Meat/Poultry
+1997-01-16,WARTH,Oulu,57,Ravioli Angelo,36,15.6,20,0.0,5,Grains/Cereals
+1997-01-16,SIMOB,Kobenhavn,38,Côte de Blaye,17,210.8,50,0.0,1,Beverages
+1997-01-16,SIMOB,Kobenhavn,46,Spegesild,95,9.6,2,0.25,8,Seafood
+1997-01-16,SIMOB,Kobenhavn,68,Scottish Longbreads,6,10.0,36,0.25,3,Confections
+1997-01-16,SIMOB,Kobenhavn,77,Original Frankfurter grüne Soße,32,10.4,35,0.0,2,Condiments
+1997-01-17,QUICK,Cunewalde,2,Chang,17,15.2,60,0.0,1,Beverages
+1997-01-17,QUICK,Cunewalde,47,Zaanse koeken,36,7.6,55,0.0,3,Confections
+1997-01-17,QUICK,Cunewalde,61,Sirop d'érable,113,22.8,16,0.0,2,Condiments
+1997-01-17,QUICK,Cunewalde,74,Longlife Tofu,4,8.0,15,0.0,7,Produce
+1997-01-20,RICSU,Genève,60,Camembert Pierrot,19,27.2,60,0.05,4,Dairy Products
+1997-01-20,RICSU,Genève,69,Gudbrandsdalsost,26,28.8,20,0.05,4,Dairy Products
+1997-01-21,WELLI,Resende,9,Mishi Kobe Niku,29,77.6,20,0.1,6,Meat/Poultry
+1997-01-21,WELLI,Resende,13,Konbu,24,4.8,2,0.1,8,Seafood
+1997-01-21,WELLI,Resende,70,Outback Lager,15,12.0,8,0.1,1,Beverages
+1997-01-21,WELLI,Resende,73,Röd Kaviar,101,12.0,20,0.1,8,Seafood
+1997-01-21,QUEDE,Rio de Janeiro,19,Teatime Chocolate Biscuits,25,7.3,4,0.15,3,Confections
+1997-01-21,QUEDE,Rio de Janeiro,26,Gumbär Gummibärchen,15,24.9,30,0.0,3,Confections
+1997-01-21,QUEDE,Rio de Janeiro,53,Perth Pasties,0,26.2,15,0.15,6,Meat/Poultry
+1997-01-21,QUEDE,Rio de Janeiro,77,Original Frankfurter grüne Soße,32,10.4,10,0.15,2,Condiments
+1997-01-22,FRANS,Torino,26,Gumbär Gummibärchen,15,24.9,2,0.0,3,Confections
+1997-01-23,GOURL,Campinas,31,Gorgonzola Telino,0,10.0,14,0.0,4,Dairy Products
+1997-01-23,GOURL,Campinas,59,Raclette Courdavault,79,44.0,20,0.0,4,Dairy Products
+1997-01-23,MEREP,Montréal,35,Steeleye Stout,20,14.4,60,0.2,1,Beverages
+1997-01-23,MEREP,Montréal,38,Côte de Blaye,17,210.8,49,0.2,1,Beverages
+1997-01-23,MEREP,Montréal,68,Scottish Longbreads,6,10.0,30,0.2,3,Confections
+1997-01-24,LAMAI,Toulouse,55,Pâté chinois,115,19.2,10,0.25,6,Meat/Poultry
+1997-01-24,LAMAI,Toulouse,76,Lakkalikööri,57,14.4,20,0.25,1,Beverages
+1997-01-27,GALED,Barcelona,56,Gnocchi di nonna Alice,21,30.4,5,0.0,5,Grains/Cereals
+1997-01-27,GALED,Barcelona,64,Wimmers gute Semmelknödel,22,26.6,7,0.0,5,Grains/Cereals
+1997-01-27,PICCO,Salzburg,14,Tofu,35,18.6,35,0.0,7,Produce
+1997-01-28,REGGC,Reggio Emilia,46,Spegesild,95,9.6,20,0.0,8,Seafood
+1997-01-29,HUNGO,Cork,50,Valkoinen suklaa,65,13.0,40,0.0,3,Confections
+1997-01-29,HUNGO,Cork,63,Vegie-spread,24,35.1,35,0.25,2,Condiments
+1997-01-30,ERNSH,Graz,17,Alice Mutton,0,31.2,45,0.2,6,Meat/Poultry
+1997-01-30,ERNSH,Graz,21,Sir Rodney's Scones,3,8.0,50,0.0,3,Confections
+1997-01-30,ERNSH,Graz,56,Gnocchi di nonna Alice,21,30.4,30,0.0,5,Grains/Cereals
+1997-01-30,ERNSH,Graz,59,Raclette Courdavault,79,44.0,70,0.2,4,Dairy Products
+1997-01-30,BOTTM,Tsawassen,17,Alice Mutton,0,31.2,50,0.25,6,Meat/Poultry
+1997-01-30,BOTTM,Tsawassen,40,Boston Crab Meat,123,14.7,50,0.25,8,Seafood
+1997-01-30,BOTTM,Tsawassen,47,Zaanse koeken,36,7.6,30,0.25,3,Confections
+1997-01-31,SPLIR,Lander,26,Gumbär Gummibärchen,15,24.9,10,0.0,3,Confections
+1997-01-31,SPLIR,Lander,54,Tourtière,21,5.9,40,0.0,6,Meat/Poultry
+1997-02-03,PRINI,Lisboa,56,Gnocchi di nonna Alice,21,30.4,28,0.0,5,Grains/Cereals
+1997-02-03,FOLKO,Bräcke,11,Queso Cabrales,22,16.8,6,0.0,4,Dairy Products
+1997-02-03,FOLKO,Bräcke,76,Lakkalikööri,57,14.4,18,0.15,1,Beverages
+1997-02-04,CONSH,London,2,Chang,17,15.2,10,0.0,1,Beverages
+1997-02-04,CONSH,London,22,Gustaf's Knäckebröd,104,16.8,12,0.0,5,Grains/Cereals
+1997-02-04,CONSH,London,72,Mozzarella di Giovanni,14,27.8,10,0.0,4,Dairy Products
+1997-02-05,BLONP,Strasbourg,46,Spegesild,95,9.6,5,0.0,8,Seafood
+1997-02-05,BLONP,Strasbourg,56,Gnocchi di nonna Alice,21,30.4,40,0.1,5,Grains/Cereals
+1997-02-05,BLONP,Strasbourg,64,Wimmers gute Semmelknödel,22,26.6,30,0.1,5,Grains/Cereals
+1997-02-05,BLONP,Strasbourg,75,Rhönbräu Klosterbier,125,6.2,24,0.1,1,Beverages
+1997-02-05,WARTH,Oulu,53,Perth Pasties,0,26.2,15,0.0,6,Meat/Poultry
+1997-02-06,TOMSP,Münster,19,Teatime Chocolate Biscuits,25,7.3,15,0.2,3,Confections
+1997-02-06,TOMSP,Münster,34,Sasquatch Ale,111,11.2,20,0.2,1,Beverages
+1997-02-06,TOMSP,Münster,57,Ravioli Angelo,36,15.6,15,0.2,5,Grains/Cereals
+1997-02-07,MEREP,Montréal,12,Queso Manchego La Pastora,86,30.4,15,0.0,4,Dairy Products
+1997-02-07,MEREP,Montréal,16,Pavlova,29,13.9,16,0.0,3,Confections
+1997-02-07,MEREP,Montréal,64,Wimmers gute Semmelknödel,22,26.6,6,0.0,5,Grains/Cereals
+1997-02-07,MEREP,Montréal,74,Longlife Tofu,4,8.0,30,0.0,7,Produce
+1997-02-10,SAVEA,Boise,2,Chang,17,15.2,45,0.15,1,Beverages
+1997-02-10,SAVEA,Boise,16,Pavlova,29,13.9,49,0.15,3,Confections
+1997-02-10,SAVEA,Boise,29,Thüringer Rostbratwurst,0,99.0,24,0.15,6,Meat/Poultry
+1997-02-10,SAVEA,Boise,61,Sirop d'érable,113,22.8,90,0.15,2,Condiments
+1997-02-10,OLDWO,Anchorage,27,Schoggi Schokolade,49,35.1,50,0.0,3,Confections
+1997-02-11,ERNSH,Graz,11,Queso Cabrales,22,16.8,30,0.0,4,Dairy Products
+1997-02-11,ERNSH,Graz,54,Tourtière,21,5.9,80,0.0,6,Meat/Poultry
+1997-02-11,ERNSH,Graz,66,Louisiana Hot Spiced Okra,4,13.6,60,0.0,2,Condiments
+1997-02-12,REGGC,Reggio Emilia,11,Queso Cabrales,22,16.8,6,0.2,4,Dairy Products
+1997-02-12,REGGC,Reggio Emilia,28,Rössle Sauerkraut,26,36.4,12,0.0,7,Produce
+1997-02-12,BERGS,Luleå,17,Alice Mutton,0,31.2,10,0.0,6,Meat/Poultry
+1997-02-12,BERGS,Luleå,26,Gumbär Gummibärchen,15,24.9,15,0.0,3,Confections
+1997-02-12,BERGS,Luleå,35,Steeleye Stout,20,14.4,8,0.0,1,Beverages
+1997-02-12,BERGS,Luleå,41,Jack's New England Clam Chowder,85,7.7,30,0.0,8,Seafood
+1997-02-13,BERGS,Luleå,39,Chartreuse verte,69,14.4,6,0.0,1,Beverages
+1997-02-13,BERGS,Luleå,54,Tourtière,21,5.9,15,0.0,6,Meat/Poultry
+1997-02-14,TOMSP,Münster,19,Teatime Chocolate Biscuits,25,7.3,12,0.1,3,Confections
+1997-02-14,TOMSP,Münster,24,Guaraná Fantástica,20,3.6,20,0.1,1,Beverages
+1997-02-14,TOMSP,Münster,31,Gorgonzola Telino,0,10.0,3,0.1,4,Dairy Products
+1997-02-14,TOMSP,Münster,52,Filo Mix,38,5.6,15,0.1,5,Grains/Cereals
+1997-02-14,RICAR,Rio de Janeiro,19,Teatime Chocolate Biscuits,25,7.3,40,0.0,3,Confections
+1997-02-14,RICAR,Rio de Janeiro,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,35,0.0,2,Condiments
+1997-02-14,RICAR,Rio de Janeiro,71,Flotemysost,26,17.2,2,0.0,4,Dairy Products
+1997-02-17,RANCH,Buenos Aires,26,Gumbär Gummibärchen,15,24.9,6,0.0,3,Confections
+1997-02-17,RANCH,Buenos Aires,40,Boston Crab Meat,123,14.7,20,0.0,8,Seafood
+1997-02-18,BLONP,Strasbourg,10,Ikura,31,24.8,14,0.0,8,Seafood
+1997-02-18,BLONP,Strasbourg,52,Filo Mix,38,5.6,20,0.0,5,Grains/Cereals
+1997-02-18,BLONP,Strasbourg,62,Tarte au sucre,17,39.4,35,0.0,3,Confections
+1997-02-19,VICTE,Lyon,10,Ikura,31,24.8,20,0.2,8,Seafood
+1997-02-19,VICTE,Lyon,54,Tourtière,21,5.9,6,0.2,6,Meat/Poultry
+1997-02-19,QUICK,Cunewalde,55,Pâté chinois,115,19.2,120,0.1,6,Meat/Poultry
+1997-02-19,QUICK,Cunewalde,64,Wimmers gute Semmelknödel,22,26.6,35,0.1,5,Grains/Cereals
+1997-02-19,QUICK,Cunewalde,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,28,0.1,2,Condiments
+1997-02-19,QUICK,Cunewalde,77,Original Frankfurter grüne Soße,32,10.4,55,0.1,2,Condiments
+1997-02-20,SAVEA,Boise,28,Rössle Sauerkraut,26,36.4,15,0.0,7,Produce
+1997-02-20,SAVEA,Boise,44,Gula Malacca,27,15.5,100,0.05,2,Condiments
+1997-02-21,AROUT,London,48,Chocolade,15,10.2,15,0.1,3,Confections
+1997-02-21,AROUT,London,70,Outback Lager,15,12.0,25,0.1,1,Beverages
+1997-02-21,LAMAI,Toulouse,16,Pavlova,29,13.9,20,0.2,3,Confections
+1997-02-21,LAMAI,Toulouse,33,Geitost,112,2.0,20,0.2,4,Dairy Products
+1997-02-21,LAMAI,Toulouse,46,Spegesild,95,9.6,10,0.2,8,Seafood
+1997-02-24,WARTH,Oulu,39,Chartreuse verte,69,14.4,20,0.0,1,Beverages
+1997-02-24,WARTH,Oulu,53,Perth Pasties,0,26.2,50,0.0,6,Meat/Poultry
+1997-02-24,WARTH,Oulu,61,Sirop d'érable,113,22.8,25,0.0,2,Condiments
+1997-02-24,WARTH,Oulu,71,Flotemysost,26,17.2,30,0.0,4,Dairy Products
+1997-02-25,KOENE,Brandenburg,21,Sir Rodney's Scones,3,8.0,40,0.15,3,Confections
+1997-02-25,KOENE,Brandenburg,49,Maxilaku,10,16.0,21,0.15,3,Confections
+1997-02-25,KOENE,Brandenburg,59,Raclette Courdavault,79,44.0,36,0.0,4,Dairy Products
+1997-02-26,SUPRD,Charleroi,26,Gumbär Gummibärchen,15,24.9,30,0.0,3,Confections
+1997-02-26,SUPRD,Charleroi,28,Rössle Sauerkraut,26,36.4,30,0.0,7,Produce
+1997-02-26,SUPRD,Charleroi,43,Ipoh Coffee,17,36.8,20,0.0,1,Beverages
+1997-02-26,SUPRD,Charleroi,56,Gnocchi di nonna Alice,21,30.4,15,0.0,5,Grains/Cereals
+1997-02-26,SUPRD,Charleroi,71,Flotemysost,26,17.2,50,0.0,4,Dairy Products
+1997-02-27,VICTE,Lyon,7,Uncle Bob's Organic Dried Pears,15,24.0,16,0.05,7,Produce
+1997-02-27,VICTE,Lyon,46,Spegesild,95,9.6,20,0.05,8,Seafood
+1997-02-27,VICTE,Lyon,72,Mozzarella di Giovanni,14,27.8,40,0.0,4,Dairy Products
+1997-02-28,FOLKO,Bräcke,68,Scottish Longbreads,6,10.0,21,0.25,3,Confections
+1997-02-28,FOLKO,Bräcke,75,Rhönbräu Klosterbier,125,6.2,4,0.25,1,Beverages
+1997-02-28,LILAS,Barquisimeto,21,Sir Rodney's Scones,3,8.0,40,0.25,3,Confections
+1997-02-28,LILAS,Barquisimeto,30,Nord-Ost Matjeshering,10,20.7,28,0.25,8,Seafood
+1997-02-28,LILAS,Barquisimeto,55,Pâté chinois,115,19.2,60,0.25,6,Meat/Poultry
+1997-03-03,CONSH,London,13,Konbu,24,4.8,1,0.0,8,Seafood
+1997-03-03,CONSH,London,23,Tunnbröd,61,7.2,21,0.0,5,Grains/Cereals
+1997-03-04,SUPRD,Charleroi,19,Teatime Chocolate Biscuits,25,7.3,21,0.0,3,Confections
+1997-03-04,SUPRD,Charleroi,42,Singaporean Hokkien Fried Mee,26,11.2,50,0.0,5,Grains/Cereals
+1997-03-04,FURIB,Lisboa,4,Chef Anton's Cajun Seasoning,53,17.6,16,0.2,2,Condiments
+1997-03-04,FURIB,Lisboa,43,Ipoh Coffee,17,36.8,3,0.0,1,Beverages
+1997-03-04,FURIB,Lisboa,56,Gnocchi di nonna Alice,21,30.4,30,0.2,5,Grains/Cereals
+1997-03-04,FURIB,Lisboa,60,Camembert Pierrot,19,27.2,20,0.0,4,Dairy Products
+1997-03-05,VAFFE,Århus,24,Guaraná Fantástica,20,3.6,25,0.0,1,Beverages
+1997-03-05,VAFFE,Århus,29,Thüringer Rostbratwurst,0,99.0,18,0.1,6,Meat/Poultry
+1997-03-05,VAFFE,Århus,40,Boston Crab Meat,123,14.7,20,0.0,8,Seafood
+1997-03-05,VAFFE,Århus,45,Rogede sild,5,7.6,30,0.1,8,Seafood
+1997-03-05,VAFFE,Århus,50,Valkoinen suklaa,65,13.0,25,0.0,3,Confections
+1997-03-06,COMMI,Sao Paulo,11,Queso Cabrales,22,16.8,10,0.0,4,Dairy Products
+1997-03-06,COMMI,Sao Paulo,46,Spegesild,95,9.6,5,0.0,8,Seafood
+1997-03-06,MAGAA,Bergamo,24,Guaraná Fantástica,20,3.6,28,0.0,1,Beverages
+1997-03-06,MAGAA,Bergamo,25,NuNuCa Nuß-Nougat-Creme,76,11.2,12,0.0,3,Confections
+1997-03-07,KOENE,Brandenburg,30,Nord-Ost Matjeshering,10,20.7,8,0.0,8,Seafood
+1997-03-07,KOENE,Brandenburg,43,Ipoh Coffee,17,36.8,15,0.0,1,Beverages
+1997-03-10,WHITC,Seattle,2,Chang,17,15.2,40,0.15,1,Beverages
+1997-03-10,WHITC,Seattle,16,Pavlova,29,13.9,35,0.15,3,Confections
+1997-03-10,WHITC,Seattle,44,Gula Malacca,27,15.5,2,0.15,2,Condiments
+1997-03-11,BONAP,Marseille,18,Carnarvon Tigers,42,50.0,30,0.0,8,Seafood
+1997-03-11,BONAP,Marseille,23,Tunnbröd,61,7.2,15,0.0,5,Grains/Cereals
+1997-03-11,BONAP,Marseille,64,Wimmers gute Semmelknödel,22,26.6,8,0.0,5,Grains/Cereals
+1997-03-11,BSBEV,London,7,Uncle Bob's Organic Dried Pears,15,24.0,30,0.0,7,Produce
+1997-03-11,BSBEV,London,56,Gnocchi di nonna Alice,21,30.4,20,0.0,5,Grains/Cereals
+1997-03-12,SEVES,London,24,Guaraná Fantástica,20,3.6,80,0.05,1,Beverages
+1997-03-12,SEVES,London,51,Manjimup Dried Apples,20,42.4,18,0.0,7,Produce
+1997-03-13,ISLAT,Cowes,33,Geitost,112,2.0,12,0.0,4,Dairy Products
+1997-03-13,ISLAT,Cowes,71,Flotemysost,26,17.2,12,0.0,4,Dairy Products
+1997-03-13,PERIC,México D.F.,14,Tofu,35,18.6,12,0.0,7,Produce
+1997-03-13,PERIC,México D.F.,28,Rössle Sauerkraut,26,36.4,18,0.0,7,Produce
+1997-03-13,PERIC,México D.F.,40,Boston Crab Meat,123,14.7,21,0.0,8,Seafood
+1997-03-13,PERIC,México D.F.,75,Rhönbräu Klosterbier,125,6.2,10,0.0,1,Beverages
+1997-03-14,SUPRD,Charleroi,31,Gorgonzola Telino,0,10.0,35,0.15,4,Dairy Products
+1997-03-14,SUPRD,Charleroi,66,Louisiana Hot Spiced Okra,4,13.6,60,0.15,2,Condiments
+1997-03-14,SUPRD,Charleroi,76,Lakkalikööri,57,14.4,42,0.15,1,Beverages
+1997-03-17,HILAA,San Cristóbal,55,Pâté chinois,115,19.2,2,0.05,6,Meat/Poultry
+1997-03-17,HILAA,San Cristóbal,70,Outback Lager,15,12.0,12,0.0,1,Beverages
+1997-03-17,PRINI,Lisboa,1,Chai,39,14.4,15,0.0,1,Beverages
+1997-03-17,PRINI,Lisboa,21,Sir Rodney's Scones,3,8.0,21,0.25,3,Confections
+1997-03-17,PRINI,Lisboa,39,Chartreuse verte,69,14.4,20,0.25,1,Beverages
+1997-03-18,VICTE,Lyon,10,Ikura,31,24.8,20,0.05,8,Seafood
+1997-03-19,RATTC,Albuquerque,38,Côte de Blaye,17,210.8,30,0.0,1,Beverages
+1997-03-19,RATTC,Albuquerque,53,Perth Pasties,0,26.2,28,0.0,6,Meat/Poultry
+1997-03-19,RATTC,Albuquerque,59,Raclette Courdavault,79,44.0,60,0.0,4,Dairy Products
+1997-03-19,RATTC,Albuquerque,64,Wimmers gute Semmelknödel,22,26.6,30,0.0,5,Grains/Cereals
+1997-03-20,FOLIG,Lille,47,Zaanse koeken,36,7.6,30,0.0,3,Confections
+1997-03-20,FOLIG,Lille,59,Raclette Courdavault,79,44.0,12,0.0,4,Dairy Products
+1997-03-20,RICAR,Rio de Janeiro,49,Maxilaku,10,16.0,24,0.0,3,Confections
+1997-03-20,RICAR,Rio de Janeiro,60,Camembert Pierrot,19,27.2,40,0.0,4,Dairy Products
+1997-03-21,LAZYK,Walla Walla,40,Boston Crab Meat,123,14.7,10,0.0,8,Seafood
+1997-03-24,WHITC,Seattle,34,Sasquatch Ale,111,11.2,35,0.05,1,Beverages
+1997-03-24,WHITC,Seattle,77,Original Frankfurter grüne Soße,32,10.4,30,0.05,2,Condiments
+1997-03-24,BSBEV,London,21,Sir Rodney's Scones,3,8.0,14,0.0,3,Confections
+1997-03-24,BSBEV,London,40,Boston Crab Meat,123,14.7,10,0.0,8,Seafood
+1997-03-24,BSBEV,London,51,Manjimup Dried Apples,20,42.4,3,0.0,7,Produce
+1997-03-25,LINOD,I. de Margarita,2,Chang,17,15.2,20,0.1,1,Beverages
+1997-03-25,LINOD,I. de Margarita,3,Aniseed Syrup,13,8.0,20,0.1,2,Condiments
+1997-03-25,LINOD,I. de Margarita,55,Pâté chinois,115,19.2,30,0.1,6,Meat/Poultry
+1997-03-25,LINOD,I. de Margarita,70,Outback Lager,15,12.0,60,0.1,1,Beverages
+1997-03-26,HILAA,San Cristóbal,11,Queso Cabrales,22,16.8,5,0.0,4,Dairy Products
+1997-03-26,HILAA,San Cristóbal,51,Manjimup Dried Apples,20,42.4,25,0.0,7,Produce
+1997-03-26,HILAA,San Cristóbal,74,Longlife Tofu,4,8.0,16,0.0,7,Produce
+1997-03-26,QUEEN,Sao Paulo,19,Teatime Chocolate Biscuits,25,7.3,5,0.0,3,Confections
+1997-03-26,QUEEN,Sao Paulo,26,Gumbär Gummibärchen,15,24.9,30,0.0,3,Confections
+1997-03-26,QUEEN,Sao Paulo,54,Tourtière,21,5.9,24,0.25,6,Meat/Poultry
+1997-03-27,FRANK,München,59,Raclette Courdavault,79,44.0,30,0.0,4,Dairy Products
+1997-03-27,FRANK,München,73,Röd Kaviar,101,12.0,20,0.2,8,Seafood
+1997-03-28,PICCO,Salzburg,11,Queso Cabrales,22,16.8,15,0.25,4,Dairy Products
+1997-03-28,PICCO,Salzburg,16,Pavlova,29,13.9,18,0.0,3,Confections
+1997-03-31,HILAA,San Cristóbal,59,Raclette Courdavault,79,44.0,60,0.0,4,Dairy Products
+1997-03-31,HILAA,San Cristóbal,68,Scottish Longbreads,6,10.0,30,0.0,3,Confections
+1997-03-31,HILAA,San Cristóbal,75,Rhönbräu Klosterbier,125,6.2,36,0.0,1,Beverages
+1997-03-31,FURIB,Lisboa,44,Gula Malacca,27,15.5,15,0.15,2,Condiments
+1997-03-31,FURIB,Lisboa,77,Original Frankfurter grüne Soße,32,10.4,7,0.15,2,Condiments
+1997-04-01,BOTTM,Tsawassen,25,NuNuCa Nuß-Nougat-Creme,76,11.2,60,0.05,3,Confections
+1997-04-01,BOTTM,Tsawassen,42,Singaporean Hokkien Fried Mee,26,11.2,20,0.05,5,Grains/Cereals
+1997-04-02,LAMAI,Toulouse,65,Louisiana Fiery Hot Pepper Sauce,76,16.8,15,0.1,2,Condiments
+1997-04-02,LAMAI,Toulouse,66,Louisiana Hot Spiced Okra,4,13.6,10,0.1,2,Condiments
+1997-04-02,LAMAI,Toulouse,69,Gudbrandsdalsost,26,28.8,10,0.1,4,Dairy Products
+1997-04-02,COMMI,Sao Paulo,56,Gnocchi di nonna Alice,21,30.4,30,0.0,5,Grains/Cereals
+1997-04-03,LAUGB,Vancouver,23,Tunnbröd,61,7.2,10,0.0,5,Grains/Cereals
+1997-04-03,LAUGB,Vancouver,41,Jack's New England Clam Chowder,85,7.7,20,0.0,8,Seafood
+1997-04-03,LAUGB,Vancouver,77,Original Frankfurter grüne Soße,32,10.4,5,0.0,2,Condiments
+1997-04-04,TRADH,Sao Paulo,31,Gorgonzola Telino,0,10.0,20,0.05,4,Dairy Products
+1997-04-04,LEHMS,Frankfurt a.M.,56,Gnocchi di nonna Alice,21,30.4,14,0.0,5,Grains/Cereals
+1997-04-04,LEHMS,Frankfurt a.M.,72,Mozzarella di Giovanni,14,27.8,25,0.0,4,Dairy Products
+1997-04-04,LEHMS,Frankfurt a.M.,77,Original Frankfurter grüne Soße,32,10.4,25,0.0,2,Condiments
+1997-04-07,HILAA,San Cristóbal,24,Guaraná Fantástica,20,4.5,14,0.0,1,Beverages
+1997-04-07,HILAA,San Cristóbal,40,Boston Crab Meat,123,18.4,5,0.0,8,Seafood
+1997-04-07,HILAA,San Cristóbal,42,Singaporean Hokkien Fried Mee,26,14.0,30,0.0,5,Grains/Cereals
+1997-04-08,LILAS,Barquisimeto,28,Rössle Sauerkraut,26,45.6,20,0.0,7,Produce
+1997-04-08,LILAS,Barquisimeto,49,Maxilaku,10,20.0,25,0.0,3,Confections
+1997-04-09,LAMAI,Toulouse,15,Genen Shouyu,39,15.5,12,0.05,2,Condiments
+1997-04-09,LAMAI,Toulouse,28,Rössle Sauerkraut,26,45.6,8,0.05,7,Produce
+1997-04-09,BLAUS,Mannheim,54,Tourtière,21,7.45,20,0.0,6,Meat/Poultry
+1997-04-10,PERIC,México D.F.,45,Rogede sild,5,9.5,21,0.0,8,Seafood
+1997-04-10,PERIC,México D.F.,53,Perth Pasties,0,32.8,6,0.0,6,Meat/Poultry
+1997-04-10,PERIC,México D.F.,67,Laughing Lumberjack Lager,52,14.0,30,0.0,1,Beverages
+1997-04-11,HUNGO,Cork,14,Tofu,35,23.25,70,0.0,7,Produce
+1997-04-11,HUNGO,Cork,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,20,0.0,2,Condiments
+1997-04-11,WHITC,Seattle,2,Chang,17,19.0,12,0.0,1,Beverages
+1997-04-11,WHITC,Seattle,21,Sir Rodney's Scones,3,10.0,12,0.0,3,Confections
+1997-04-11,WHITC,Seattle,53,Perth Pasties,0,32.8,10,0.0,6,Meat/Poultry
+1997-04-11,WHITC,Seattle,61,Sirop d'érable,113,28.5,25,0.0,2,Condiments
+1997-04-14,MEREP,Montréal,62,Tarte au sucre,17,49.3,3,0.0,3,Confections
+1997-04-15,KOENE,Brandenburg,25,NuNuCa Nuß-Nougat-Creme,76,14.0,18,0.1,3,Confections
+1997-04-15,KOENE,Brandenburg,70,Outback Lager,15,15.0,14,0.1,1,Beverages
+1997-04-15,ANTON,México D.F.,43,Ipoh Coffee,17,46.0,15,0.15,1,Beverages
+1997-04-15,ANTON,México D.F.,48,Chocolade,15,12.75,15,0.15,3,Confections
+1997-04-16,OTTIK,Köln,13,Konbu,24,6.0,10,0.0,8,Seafood
+1997-04-16,OTTIK,Köln,39,Chartreuse verte,69,18.0,10,0.0,1,Beverages
+1997-04-17,BLAUS,Mannheim,28,Rössle Sauerkraut,26,45.6,3,0.0,7,Produce
+1997-04-18,SAVEA,Boise,29,Thüringer Rostbratwurst,0,123.79,36,0.0,6,Meat/Poultry
+1997-04-18,SAVEA,Boise,75,Rhönbräu Klosterbier,125,7.75,36,0.1,1,Beverages
+1997-04-18,BONAP,Marseille,4,Chef Anton's Cajun Seasoning,53,22.0,50,0.15,2,Condiments
+1997-04-18,BONAP,Marseille,7,Uncle Bob's Organic Dried Pears,15,30.0,50,0.15,7,Produce
+1997-04-18,BONAP,Marseille,8,Northwoods Cranberry Sauce,6,40.0,10,0.15,2,Condiments
+1997-04-21,FAMIA,Sao Paulo,24,Guaraná Fantástica,20,4.5,10,0.15,1,Beverages
+1997-04-21,FAMIA,Sao Paulo,46,Spegesild,95,12.0,9,0.15,8,Seafood
+1997-04-21,FAMIA,Sao Paulo,47,Zaanse koeken,36,9.5,6,0.15,3,Confections
+1997-04-21,FAMIA,Sao Paulo,60,Camembert Pierrot,19,34.0,12,0.15,4,Dairy Products
+1997-04-22,WANDK,Stuttgart,21,Sir Rodney's Scones,3,10.0,40,0.2,3,Confections
+1997-04-22,WANDK,Stuttgart,32,Mascarpone Fabioli,9,32.0,50,0.2,4,Dairy Products
+1997-04-22,WANDK,Stuttgart,61,Sirop d'érable,113,28.5,15,0.2,2,Condiments
+1997-04-22,ERNSH,Graz,20,Sir Rodney's Marmalade,40,81.0,39,0.0,3,Confections
+1997-04-22,ERNSH,Graz,28,Rössle Sauerkraut,26,45.6,35,0.0,7,Produce
+1997-04-22,ERNSH,Graz,56,Gnocchi di nonna Alice,21,38.0,70,0.0,5,Grains/Cereals
+1997-04-22,ERNSH,Graz,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,39,0.0,2,Condiments
+1997-04-22,ERNSH,Graz,75,Rhönbräu Klosterbier,125,7.75,50,0.0,1,Beverages
+1997-04-23,QUICK,Cunewalde,9,Mishi Kobe Niku,29,97.0,16,0.15,6,Meat/Poultry
+1997-04-23,QUICK,Cunewalde,16,Pavlova,29,17.45,50,0.0,3,Confections
+1997-04-23,QUICK,Cunewalde,27,Schoggi Schokolade,49,43.9,120,0.0,3,Confections
+1997-04-23,QUICK,Cunewalde,33,Geitost,112,2.5,16,0.15,4,Dairy Products
+1997-04-23,QUICK,Cunewalde,60,Camembert Pierrot,19,34.0,84,0.15,4,Dairy Products
+1997-04-24,HUNGO,Cork,18,Carnarvon Tigers,42,62.5,25,0.1,8,Seafood
+1997-04-24,HUNGO,Cork,41,Jack's New England Clam Chowder,85,9.65,80,0.1,8,Seafood
+1997-04-24,HUNGO,Cork,42,Singaporean Hokkien Fried Mee,26,14.0,20,0.0,5,Grains/Cereals
+1997-04-24,NORTS,London,52,Filo Mix,38,7.0,6,0.0,5,Grains/Cereals
+1997-04-24,NORTS,London,59,Raclette Courdavault,79,55.0,4,0.0,4,Dairy Products
+1997-04-24,NORTS,London,70,Outback Lager,15,15.0,6,0.0,1,Beverages
+1997-04-25,TORTU,México D.F.,24,Guaraná Fantástica,20,4.5,5,0.0,1,Beverages
+1997-04-25,TORTU,México D.F.,38,Côte de Blaye,17,263.5,15,0.0,1,Beverages
+1997-04-25,TORTU,México D.F.,44,Gula Malacca,27,19.45,9,0.0,2,Condiments
+1997-04-28,CHOPS,Bern,10,Ikura,31,31.0,16,0.05,8,Seafood
+1997-04-28,CHOPS,Bern,56,Gnocchi di nonna Alice,21,38.0,40,0.0,5,Grains/Cereals
+1997-04-28,CHOPS,Bern,60,Camembert Pierrot,19,34.0,10,0.05,4,Dairy Products
+1997-04-29,SANTG,Stavern,24,Guaraná Fantástica,20,4.5,8,0.0,1,Beverages
+1997-04-29,SANTG,Stavern,53,Perth Pasties,0,32.8,5,0.0,6,Meat/Poultry
+1997-04-29,CACTU,Buenos Aires,35,Steeleye Stout,20,18.0,3,0.0,1,Beverages
+1997-04-29,CACTU,Buenos Aires,41,Jack's New England Clam Chowder,85,9.65,10,0.0,8,Seafood
+1997-04-29,CACTU,Buenos Aires,68,Scottish Longbreads,6,12.5,6,0.0,3,Confections
+1997-04-30,LEHMS,Frankfurt a.M.,1,Chai,39,18.0,40,0.2,1,Beverages
+1997-04-30,LEHMS,Frankfurt a.M.,8,Northwoods Cranberry Sauce,6,40.0,24,0.0,2,Condiments
+1997-04-30,LEHMS,Frankfurt a.M.,30,Nord-Ost Matjeshering,10,25.89,20,0.2,8,Seafood
+1997-04-30,LEHMS,Frankfurt a.M.,40,Boston Crab Meat,123,18.4,25,0.2,8,Seafood
+1997-05-01,SEVES,London,17,Alice Mutton,0,39.0,25,0.1,6,Meat/Poultry
+1997-05-01,SEVES,London,20,Sir Rodney's Marmalade,40,81.0,15,0.1,3,Confections
+1997-05-01,SEVES,London,37,Gravad lax,11,26.0,18,0.1,8,Seafood
+1997-05-01,SEVES,London,41,Jack's New England Clam Chowder,85,9.65,6,0.1,8,Seafood
+1997-05-01,BERGS,Luleå,10,Ikura,31,31.0,2,0.0,8,Seafood
+1997-05-01,BERGS,Luleå,30,Nord-Ost Matjeshering,10,25.89,10,0.0,8,Seafood
+1997-05-01,BERGS,Luleå,43,Ipoh Coffee,17,46.0,60,0.0,1,Beverages
+1997-05-01,BERGS,Luleå,54,Tourtière,21,7.45,15,0.0,6,Meat/Poultry
+1997-05-02,BONAP,Marseille,36,Inlagd Sill,112,19.0,30,0.0,8,Seafood
+1997-05-02,BONAP,Marseille,40,Boston Crab Meat,123,18.4,15,0.1,8,Seafood
+1997-05-05,WARTH,Oulu,1,Chai,39,18.0,8,0.15,1,Beverages
+1997-05-05,WARTH,Oulu,13,Konbu,24,6.0,10,0.0,8,Seafood
+1997-05-05,WARTH,Oulu,56,Gnocchi di nonna Alice,21,38.0,30,0.15,5,Grains/Cereals
+1997-05-05,QUICK,Cunewalde,4,Chef Anton's Cajun Seasoning,53,22.0,50,0.1,2,Condiments
+1997-05-05,QUICK,Cunewalde,36,Inlagd Sill,112,19.0,30,0.1,8,Seafood
+1997-05-06,GREAL,Eugene,11,Queso Cabrales,22,21.0,3,0.0,4,Dairy Products
+1997-05-06,GREAL,Eugene,33,Geitost,112,2.5,8,0.2,4,Dairy Products
+1997-05-06,GREAL,Eugene,72,Mozzarella di Giovanni,14,34.8,9,0.0,4,Dairy Products
+1997-05-07,MAISD,Bruxelles,55,Pâté chinois,115,24.0,14,0.0,6,Meat/Poultry
+1997-05-07,MAISD,Bruxelles,68,Scottish Longbreads,6,12.5,20,0.0,3,Confections
+1997-05-07,MAISD,Bruxelles,69,Gudbrandsdalsost,26,36.0,10,0.0,4,Dairy Products
+1997-05-08,PICCO,Salzburg,17,Alice Mutton,0,39.0,40,0.0,6,Meat/Poultry
+1997-05-08,PICCO,Salzburg,43,Ipoh Coffee,17,46.0,25,0.0,1,Beverages
+1997-05-08,PICCO,Salzburg,61,Sirop d'érable,113,28.5,20,0.0,2,Condiments
+1997-05-08,PICCO,Salzburg,76,Lakkalikööri,57,18.0,50,0.0,1,Beverages
+1997-05-08,OCEAN,Buenos Aires,59,Raclette Courdavault,79,55.0,2,0.0,4,Dairy Products
+1997-05-09,EASTC,London,30,Nord-Ost Matjeshering,10,25.89,15,0.0,8,Seafood
+1997-05-09,EASTC,London,66,Louisiana Hot Spiced Okra,4,17.0,24,0.0,2,Condiments
+1997-05-12,FOLKO,Bräcke,4,Chef Anton's Cajun Seasoning,53,22.0,50,0.05,2,Condiments
+1997-05-12,FOLKO,Bräcke,72,Mozzarella di Giovanni,14,34.8,24,0.0,4,Dairy Products
+1997-05-12,FOLKO,Bräcke,73,Röd Kaviar,101,15.0,24,0.05,8,Seafood
+1997-05-12,LEHMS,Frankfurt a.M.,30,Nord-Ost Matjeshering,10,25.89,10,0.0,8,Seafood
+1997-05-12,LEHMS,Frankfurt a.M.,40,Boston Crab Meat,123,18.4,10,0.2,8,Seafood
+1997-05-12,LEHMS,Frankfurt a.M.,54,Tourtière,21,7.45,10,0.2,6,Meat/Poultry
+1997-05-13,ANTON,México D.F.,11,Queso Cabrales,22,21.0,50,0.1,4,Dairy Products
+1997-05-13,ANTON,México D.F.,40,Boston Crab Meat,123,18.4,10,0.1,8,Seafood
+1997-05-13,ANTON,México D.F.,57,Ravioli Angelo,36,19.5,5,0.1,5,Grains/Cereals
+1997-05-13,ANTON,México D.F.,59,Raclette Courdavault,79,55.0,15,0.1,4,Dairy Products
+1997-05-14,LEHMS,Frankfurt a.M.,12,Queso Manchego La Pastora,86,38.0,15,0.25,4,Dairy Products
+1997-05-14,LEHMS,Frankfurt a.M.,31,Gorgonzola Telino,0,12.5,20,0.0,4,Dairy Products
+1997-05-14,LEHMS,Frankfurt a.M.,33,Geitost,112,2.5,30,0.0,4,Dairy Products
+1997-05-14,LEHMS,Frankfurt a.M.,60,Camembert Pierrot,19,34.0,35,0.25,4,Dairy Products
+1997-05-14,RICSU,Genève,31,Gorgonzola Telino,0,12.5,30,0.0,4,Dairy Products
+1997-05-14,RICSU,Genève,51,Manjimup Dried Apples,20,53.0,6,0.0,7,Produce
+1997-05-14,RICSU,Genève,58,Escargots de Bourgogne,62,13.25,20,0.0,8,Seafood
+1997-05-14,RICSU,Genève,72,Mozzarella di Giovanni,14,34.8,21,0.0,4,Dairy Products
+1997-05-14,RICSU,Genève,73,Röd Kaviar,101,15.0,9,0.0,8,Seafood
+1997-05-15,BSBEV,London,70,Outback Lager,15,15.0,7,0.0,1,Beverages
+1997-05-15,BSBEV,London,72,Mozzarella di Giovanni,14,34.8,1,0.0,4,Dairy Products
+1997-05-16,BSBEV,London,13,Konbu,24,6.0,8,0.0,8,Seafood
+1997-05-16,BSBEV,London,21,Sir Rodney's Scones,3,10.0,15,0.0,3,Confections
+1997-05-16,BSBEV,London,33,Geitost,112,2.5,15,0.0,4,Dairy Products
+1997-05-16,BSBEV,London,49,Maxilaku,10,20.0,6,0.0,3,Confections
+1997-05-19,QUICK,Cunewalde,3,Aniseed Syrup,13,10.0,60,0.0,2,Condiments
+1997-05-19,QUICK,Cunewalde,26,Gumbär Gummibärchen,15,31.23,40,0.0,3,Confections
+1997-05-19,QUICK,Cunewalde,38,Côte de Blaye,17,263.5,30,0.0,1,Beverages
+1997-05-19,QUICK,Cunewalde,68,Scottish Longbreads,6,12.5,35,0.0,3,Confections
+1997-05-19,HANAR,Rio de Janeiro,24,Guaraná Fantástica,20,4.5,35,0.1,1,Beverages
+1997-05-19,HANAR,Rio de Janeiro,38,Côte de Blaye,17,263.5,4,0.1,1,Beverages
+1997-05-19,HANAR,Rio de Janeiro,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,36,0.1,2,Condiments
+1997-05-19,HANAR,Rio de Janeiro,71,Flotemysost,26,21.5,9,0.1,4,Dairy Products
+1997-05-20,KOENE,Brandenburg,11,Queso Cabrales,22,21.0,15,0.05,4,Dairy Products
+1997-05-20,KOENE,Brandenburg,54,Tourtière,21,7.45,24,0.05,6,Meat/Poultry
+1997-05-21,LILAS,Barquisimeto,12,Queso Manchego La Pastora,86,38.0,30,0.15,4,Dairy Products
+1997-05-21,LILAS,Barquisimeto,23,Tunnbröd,61,9.0,70,0.15,5,Grains/Cereals
+1997-05-21,LONEP,Portland,28,Rössle Sauerkraut,26,45.6,7,0.0,7,Produce
+1997-05-21,LONEP,Portland,67,Laughing Lumberjack Lager,52,14.0,7,0.0,1,Beverages
+1997-05-22,LAZYK,Walla Walla,11,Queso Cabrales,22,21.0,10,0.0,4,Dairy Products
+1997-05-23,VICTE,Lyon,7,Uncle Bob's Organic Dried Pears,15,30.0,10,0.0,7,Produce
+1997-05-23,VICTE,Lyon,35,Steeleye Stout,20,18.0,30,0.0,1,Beverages
+1997-05-23,VICTE,Lyon,62,Tarte au sucre,17,49.3,40,0.0,3,Confections
+1997-05-23,SEVES,London,32,Mascarpone Fabioli,9,32.0,24,0.15,4,Dairy Products
+1997-05-23,SEVES,London,36,Inlagd Sill,112,19.0,60,0.0,8,Seafood
+1997-05-26,TOMSP,Münster,34,Sasquatch Ale,111,14.0,10,0.25,1,Beverages
+1997-05-26,TOMSP,Münster,41,Jack's New England Clam Chowder,85,9.65,14,0.0,8,Seafood
+1997-05-27,QUICK,Cunewalde,31,Gorgonzola Telino,0,12.5,55,0.15,4,Dairy Products
+1997-05-27,QUICK,Cunewalde,45,Rogede sild,5,9.5,100,0.15,8,Seafood
+1997-05-27,QUICK,Cunewalde,51,Manjimup Dried Apples,20,53.0,48,0.15,7,Produce
+1997-05-28,GODOS,Sevilla,17,Alice Mutton,0,39.0,8,0.1,6,Meat/Poultry
+1997-05-28,GODOS,Sevilla,19,Teatime Chocolate Biscuits,25,9.2,10,0.0,3,Confections
+1997-05-28,GODOS,Sevilla,21,Sir Rodney's Scones,3,10.0,6,0.1,3,Confections
+1997-05-28,GODOS,Sevilla,61,Sirop d'érable,113,28.5,10,0.1,2,Condiments
+1997-05-28,FURIB,Lisboa,16,Pavlova,29,17.45,40,0.15,3,Confections
+1997-05-28,FURIB,Lisboa,35,Steeleye Stout,20,18.0,20,0.15,1,Beverages
+1997-05-28,FURIB,Lisboa,44,Gula Malacca,27,19.45,40,0.0,2,Condiments
+1997-05-29,HILAA,San Cristóbal,69,Gudbrandsdalsost,26,36.0,18,0.0,4,Dairy Products
+1997-05-29,HILAA,San Cristóbal,75,Rhönbräu Klosterbier,125,7.75,30,0.0,1,Beverages
+1997-05-30,WARTH,Oulu,11,Queso Cabrales,22,21.0,15,0.0,4,Dairy Products
+1997-05-30,WARTH,Oulu,16,Pavlova,29,17.45,14,0.0,3,Confections
+1997-05-30,WARTH,Oulu,22,Gustaf's Knäckebröd,104,21.0,24,0.0,5,Grains/Cereals
+1997-05-30,WARTH,Oulu,31,Gorgonzola Telino,0,12.5,30,0.0,4,Dairy Products
+1997-05-30,WARTH,Oulu,35,Steeleye Stout,20,18.0,6,0.0,1,Beverages
+1997-05-30,OTTIK,Köln,16,Pavlova,29,17.45,30,0.05,3,Confections
+1997-05-30,OTTIK,Köln,23,Tunnbröd,61,9.0,20,0.05,5,Grains/Cereals
+1997-05-30,OTTIK,Köln,62,Tarte au sucre,17,49.3,20,0.05,3,Confections
+1997-05-30,OTTIK,Köln,77,Original Frankfurter grüne Soße,32,13.0,10,0.05,2,Condiments
+1997-06-02,SAVEA,Boise,14,Tofu,35,23.25,30,0.2,7,Produce
+1997-06-02,SAVEA,Boise,19,Teatime Chocolate Biscuits,25,9.2,35,0.2,3,Confections
+1997-06-02,SAVEA,Boise,24,Guaraná Fantástica,20,4.5,18,0.2,1,Beverages
+1997-06-02,SAVEA,Boise,51,Manjimup Dried Apples,20,53.0,20,0.2,7,Produce
+1997-06-02,SAVEA,Boise,56,Gnocchi di nonna Alice,21,38.0,40,0.2,5,Grains/Cereals
+1997-06-03,SIMOB,Kobenhavn,72,Mozzarella di Giovanni,14,34.8,24,0.0,4,Dairy Products
+1997-06-03,LEHMS,Frankfurt a.M.,64,Wimmers gute Semmelknödel,22,33.25,30,0.0,5,Grains/Cereals
+1997-06-03,LEHMS,Frankfurt a.M.,75,Rhönbräu Klosterbier,125,7.75,20,0.0,1,Beverages
+1997-06-04,AROUT,London,47,Zaanse koeken,36,9.5,25,0.0,3,Confections
+1997-06-04,AROUT,London,51,Manjimup Dried Apples,20,53.0,20,0.0,7,Produce
+1997-06-04,AROUT,London,52,Filo Mix,38,7.0,30,0.0,5,Grains/Cereals
+1997-06-04,AROUT,London,53,Perth Pasties,0,32.8,18,0.0,6,Meat/Poultry
+1997-06-04,AROUT,London,73,Röd Kaviar,101,15.0,3,0.0,8,Seafood
+1997-06-05,BLONP,Strasbourg,41,Jack's New England Clam Chowder,85,9.65,12,0.05,8,Seafood
+1997-06-05,BLONP,Strasbourg,55,Pâté chinois,115,24.0,18,0.05,6,Meat/Poultry
+1997-06-06,FRANK,München,30,Nord-Ost Matjeshering,10,25.89,20,0.0,8,Seafood
+1997-06-06,FRANK,München,62,Tarte au sucre,17,49.3,15,0.25,3,Confections
+1997-06-06,FOLKO,Bräcke,44,Gula Malacca,27,19.45,10,0.0,2,Condiments
+1997-06-06,FOLKO,Bräcke,51,Manjimup Dried Apples,20,53.0,50,0.0,7,Produce
+1997-06-09,REGGC,Reggio Emilia,33,Geitost,112,2.5,20,0.1,4,Dairy Products
+1997-06-09,REGGC,Reggio Emilia,62,Tarte au sucre,17,49.3,10,0.1,3,Confections
+1997-06-10,RICAR,Rio de Janeiro,36,Inlagd Sill,112,19.0,25,0.0,8,Seafood
+1997-06-10,RICAR,Rio de Janeiro,52,Filo Mix,38,7.0,70,0.0,5,Grains/Cereals
+1997-06-10,RATTC,Albuquerque,17,Alice Mutton,0,39.0,16,0.05,6,Meat/Poultry
+1997-06-10,RATTC,Albuquerque,31,Gorgonzola Telino,0,12.5,6,0.05,4,Dairy Products
+1997-06-10,RATTC,Albuquerque,55,Pâté chinois,115,24.0,25,0.05,6,Meat/Poultry
+1997-06-11,MEREP,Montréal,24,Guaraná Fantástica,20,4.5,25,0.1,1,Beverages
+1997-06-11,MEREP,Montréal,64,Wimmers gute Semmelknödel,22,33.25,18,0.1,5,Grains/Cereals
+1997-06-12,BLONP,Strasbourg,11,Queso Cabrales,22,21.0,35,0.15,4,Dairy Products
+1997-06-12,BLONP,Strasbourg,18,Carnarvon Tigers,42,62.5,18,0.15,8,Seafood
+1997-06-12,BLONP,Strasbourg,76,Lakkalikööri,57,18.0,10,0.0,1,Beverages
+1997-06-12,HUNGO,Cork,31,Gorgonzola Telino,0,12.5,60,0.2,4,Dairy Products
+1997-06-12,HUNGO,Cork,51,Manjimup Dried Apples,20,53.0,3,0.0,7,Produce
+1997-06-12,HUNGO,Cork,59,Raclette Courdavault,79,55.0,40,0.2,4,Dairy Products
+1997-06-13,GALED,Barcelona,10,Ikura,31,31.0,5,0.0,8,Seafood
+1997-06-16,RATTC,Albuquerque,31,Gorgonzola Telino,0,12.5,35,0.2,4,Dairy Products
+1997-06-16,RATTC,Albuquerque,76,Lakkalikööri,57,18.0,30,0.0,1,Beverages
+1997-06-17,MEREP,Montréal,11,Queso Cabrales,22,21.0,15,0.05,4,Dairy Products
+1997-06-17,MEREP,Montréal,56,Gnocchi di nonna Alice,21,38.0,60,0.05,5,Grains/Cereals
+1997-06-17,ERNSH,Graz,14,Tofu,35,23.25,11,0.15,7,Produce
+1997-06-17,ERNSH,Graz,42,Singaporean Hokkien Fried Mee,26,14.0,28,0.15,5,Grains/Cereals
+1997-06-18,BERGS,Luleå,16,Pavlova,29,17.45,12,0.1,3,Confections
+1997-06-18,BERGS,Luleå,32,Mascarpone Fabioli,9,32.0,10,0.1,4,Dairy Products
+1997-06-18,BERGS,Luleå,40,Boston Crab Meat,123,18.4,50,0.0,8,Seafood
+1997-06-18,BERGS,Luleå,75,Rhönbräu Klosterbier,125,7.75,15,0.1,1,Beverages
+1997-06-19,ANTON,México D.F.,17,Alice Mutton,0,39.0,18,0.0,6,Meat/Poultry
+1997-06-19,ANTON,México D.F.,34,Sasquatch Ale,111,14.0,40,0.0,1,Beverages
+1997-06-19,ANTON,México D.F.,53,Perth Pasties,0,32.8,25,0.0,6,Meat/Poultry
+1997-06-19,TRAIH,Kirkland,33,Geitost,112,2.5,14,0.0,4,Dairy Products
+1997-06-19,TRAIH,Kirkland,40,Boston Crab Meat,123,18.4,2,0.0,8,Seafood
+1997-06-19,TRAIH,Kirkland,62,Tarte au sucre,17,49.3,10,0.0,3,Confections
+1997-06-19,TRAIH,Kirkland,64,Wimmers gute Semmelknödel,22,33.25,6,0.0,5,Grains/Cereals
+1997-06-20,MORGK,Leipzig,59,Raclette Courdavault,79,55.0,12,0.0,4,Dairy Products
+1997-06-20,MORGK,Leipzig,63,Vegie-spread,24,43.9,6,0.0,2,Condiments
+1997-06-20,MORGK,Leipzig,72,Mozzarella di Giovanni,14,34.8,30,0.0,4,Dairy Products
+1997-06-20,MORGK,Leipzig,76,Lakkalikööri,57,18.0,10,0.0,1,Beverages
+1997-06-23,TORTU,México D.F.,1,Chai,39,18.0,10,0.0,1,Beverages
+1997-06-23,TORTU,México D.F.,31,Gorgonzola Telino,0,12.5,20,0.0,4,Dairy Products
+1997-06-23,TORTU,México D.F.,44,Gula Malacca,27,19.45,21,0.0,2,Condiments
+1997-06-23,TRAIH,Kirkland,39,Chartreuse verte,69,18.0,10,0.0,1,Beverages
+1997-06-23,TRAIH,Kirkland,75,Rhönbräu Klosterbier,125,7.75,20,0.0,1,Beverages
+1997-06-23,TRAIH,Kirkland,77,Original Frankfurter grüne Soße,32,13.0,18,0.0,2,Condiments
+1997-06-24,BSBEV,London,35,Steeleye Stout,20,18.0,20,0.0,1,Beverages
+1997-06-24,BSBEV,London,57,Ravioli Angelo,36,19.5,6,0.0,5,Grains/Cereals
+1997-06-25,LETSS,San Francisco,15,Genen Shouyu,39,15.5,10,0.0,2,Condiments
+1997-06-25,LETSS,San Francisco,75,Rhönbräu Klosterbier,125,7.75,21,0.0,1,Beverages
+1997-06-26,OTTIK,Köln,14,Tofu,35,23.25,15,0.05,7,Produce
+1997-06-26,OTTIK,Köln,41,Jack's New England Clam Chowder,85,9.65,9,0.05,8,Seafood
+1997-06-26,OTTIK,Köln,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,30,0.05,2,Condiments
+1997-06-26,FAMIA,Sao Paulo,75,Rhönbräu Klosterbier,125,7.75,50,0.2,1,Beverages
+1997-06-27,BLAUS,Mannheim,57,Ravioli Angelo,36,19.5,4,0.0,5,Grains/Cereals
+1997-06-27,BLAUS,Mannheim,76,Lakkalikööri,57,18.0,14,0.0,1,Beverages
+1997-06-30,WARTH,Oulu,29,Thüringer Rostbratwurst,0,123.79,10,0.0,6,Meat/Poultry
+1997-06-30,WARTH,Oulu,60,Camembert Pierrot,19,34.0,24,0.15,4,Dairy Products
+1997-06-30,WARTH,Oulu,69,Gudbrandsdalsost,26,36.0,10,0.15,4,Dairy Products
+1997-06-30,BLONP,Strasbourg,31,Gorgonzola Telino,0,12.5,50,0.05,4,Dairy Products
+1997-07-01,WELLI,Resende,47,Zaanse koeken,36,9.5,15,0.0,3,Confections
+1997-07-02,REGGC,Reggio Emilia,52,Filo Mix,38,7.0,4,0.15,5,Grains/Cereals
+1997-07-02,QUEDE,Rio de Janeiro,26,Gumbär Gummibärchen,15,31.23,6,0.0,3,Confections
+1997-07-02,QUEDE,Rio de Janeiro,35,Steeleye Stout,20,18.0,20,0.0,1,Beverages
+1997-07-02,QUEDE,Rio de Janeiro,77,Original Frankfurter grüne Soße,32,13.0,20,0.0,2,Condiments
+1997-07-03,QUICK,Cunewalde,18,Carnarvon Tigers,42,62.5,40,0.2,8,Seafood
+1997-07-03,QUICK,Cunewalde,42,Singaporean Hokkien Fried Mee,26,14.0,100,0.2,5,Grains/Cereals
+1997-07-04,GREAL,Eugene,35,Steeleye Stout,20,18.0,4,0.0,1,Beverages
+1997-07-07,MEREP,Montréal,1,Chai,39,18.0,20,0.0,1,Beverages
+1997-07-07,MEREP,Montréal,77,Original Frankfurter grüne Soße,32,13.0,60,0.05,2,Condiments
+1997-07-07,VAFFE,Århus,3,Aniseed Syrup,13,10.0,14,0.0,2,Condiments
+1997-07-07,VAFFE,Århus,7,Uncle Bob's Organic Dried Pears,15,30.0,10,0.0,7,Produce
+1997-07-07,VAFFE,Århus,54,Tourtière,21,7.45,50,0.0,6,Meat/Poultry
+1997-07-08,LEHMS,Frankfurt a.M.,15,Genen Shouyu,39,15.5,25,0.05,2,Condiments
+1997-07-08,LEHMS,Frankfurt a.M.,26,Gumbär Gummibärchen,15,31.23,5,0.05,3,Confections
+1997-07-09,LEHMS,Frankfurt a.M.,20,Sir Rodney's Marmalade,40,81.0,21,0.2,3,Confections
+1997-07-09,LEHMS,Frankfurt a.M.,69,Gudbrandsdalsost,26,36.0,20,0.2,4,Dairy Products
+1997-07-09,LEHMS,Frankfurt a.M.,76,Lakkalikööri,57,18.0,4,0.2,1,Beverages
+1997-07-09,OLDWO,Anchorage,52,Filo Mix,38,7.0,24,0.0,5,Grains/Cereals
+1997-07-09,OLDWO,Anchorage,58,Escargots de Bourgogne,62,13.25,30,0.0,8,Seafood
+1997-07-10,ERNSH,Graz,35,Steeleye Stout,20,18.0,30,0.25,1,Beverages
+1997-07-10,ERNSH,Graz,61,Sirop d'érable,113,28.5,120,0.25,2,Condiments
+1997-07-10,ERNSH,Graz,69,Gudbrandsdalsost,26,36.0,65,0.25,4,Dairy Products
+1997-07-11,WHITC,Seattle,56,Gnocchi di nonna Alice,21,38.0,5,0.2,5,Grains/Cereals
+1997-07-11,WHITC,Seattle,63,Vegie-spread,24,43.9,24,0.2,2,Condiments
+1997-07-11,WHITC,Seattle,75,Rhönbräu Klosterbier,125,7.75,30,0.2,1,Beverages
+1997-07-11,PICCO,Salzburg,24,Guaraná Fantástica,20,4.5,35,0.2,1,Beverages
+1997-07-11,PICCO,Salzburg,57,Ravioli Angelo,36,19.5,20,0.0,5,Grains/Cereals
+1997-07-11,PICCO,Salzburg,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,12,0.2,2,Condiments
+1997-07-14,RATTC,Albuquerque,27,Schoggi Schokolade,49,43.9,50,0.0,3,Confections
+1997-07-14,RATTC,Albuquerque,71,Flotemysost,26,21.5,9,0.0,4,Dairy Products
+1997-07-15,BSBEV,London,62,Tarte au sucre,17,49.3,10,0.0,3,Confections
+1997-07-16,HUNGC,Elgin,54,Tourtière,21,7.45,4,0.0,6,Meat/Poultry
+1997-07-16,HUNGC,Elgin,73,Röd Kaviar,101,15.0,30,0.0,8,Seafood
+1997-07-16,HILAA,San Cristóbal,13,Konbu,24,6.0,60,0.0,8,Seafood
+1997-07-16,HILAA,San Cristóbal,59,Raclette Courdavault,79,55.0,35,0.0,4,Dairy Products
+1997-07-17,VAFFE,Århus,77,Original Frankfurter grüne Soße,32,13.0,5,0.25,2,Condiments
+1997-07-18,SAVEA,Boise,22,Gustaf's Knäckebröd,104,21.0,48,0.0,5,Grains/Cereals
+1997-07-18,SAVEA,Boise,49,Maxilaku,10,20.0,25,0.05,3,Confections
+1997-07-18,FURIB,Lisboa,48,Chocolade,15,12.75,6,0.1,3,Confections
+1997-07-18,FURIB,Lisboa,76,Lakkalikööri,57,18.0,10,0.1,1,Beverages
+1997-07-21,MEREP,Montréal,16,Pavlova,29,17.45,30,0.05,3,Confections
+1997-07-21,MEREP,Montréal,59,Raclette Courdavault,79,55.0,20,0.05,4,Dairy Products
+1997-07-21,MEREP,Montréal,60,Camembert Pierrot,19,34.0,70,0.05,4,Dairy Products
+1997-07-21,MEREP,Montréal,71,Flotemysost,26,21.5,15,0.05,4,Dairy Products
+1997-07-22,TRADH,Sao Paulo,4,Chef Anton's Cajun Seasoning,53,22.0,20,0.2,2,Condiments
+1997-07-22,TRADH,Sao Paulo,55,Pâté chinois,115,24.0,20,0.2,6,Meat/Poultry
+1997-07-22,TRADH,Sao Paulo,62,Tarte au sucre,17,49.3,10,0.2,3,Confections
+1997-07-22,SAVEA,Boise,7,Uncle Bob's Organic Dried Pears,15,30.0,45,0.0,7,Produce
+1997-07-22,SAVEA,Boise,17,Alice Mutton,0,39.0,100,0.0,6,Meat/Poultry
+1997-07-22,SAVEA,Boise,33,Geitost,112,2.5,14,0.0,4,Dairy Products
+1997-07-22,SAVEA,Boise,40,Boston Crab Meat,123,18.4,42,0.0,8,Seafood
+1997-07-22,SAVEA,Boise,72,Mozzarella di Giovanni,14,34.8,12,0.0,4,Dairy Products
+1997-07-23,TOMSP,Münster,56,Gnocchi di nonna Alice,21,38.0,28,0.0,5,Grains/Cereals
+1997-07-24,DUMON,Nantes,1,Chai,39,18.0,3,0.0,1,Beverages
+1997-07-24,DUMON,Nantes,10,Ikura,31,31.0,10,0.0,8,Seafood
+1997-07-24,DUMON,Nantes,21,Sir Rodney's Scones,3,10.0,6,0.0,3,Confections
+1997-07-25,LAMAI,Toulouse,36,Inlagd Sill,112,19.0,21,0.25,8,Seafood
+1997-07-25,WOLZA,Warszawa,1,Chai,39,18.0,6,0.0,1,Beverages
+1997-07-25,WOLZA,Warszawa,2,Chang,17,19.0,10,0.0,1,Beverages
+1997-07-25,WOLZA,Warszawa,60,Camembert Pierrot,19,34.0,15,0.0,4,Dairy Products
+1997-07-28,SAVEA,Boise,10,Ikura,31,31.0,70,0.0,8,Seafood
+1997-07-28,SAVEA,Boise,36,Inlagd Sill,112,19.0,55,0.0,8,Seafood
+1997-07-28,SAVEA,Boise,49,Maxilaku,10,20.0,18,0.0,3,Confections
+1997-07-28,SAVEA,Boise,60,Camembert Pierrot,19,34.0,40,0.0,4,Dairy Products
+1997-07-28,SAVEA,Boise,76,Lakkalikööri,57,18.0,80,0.0,1,Beverages
+1997-07-29,HILAA,San Cristóbal,13,Konbu,24,6.0,8,0.1,8,Seafood
+1997-07-29,HILAA,San Cristóbal,75,Rhönbräu Klosterbier,125,7.75,40,0.0,1,Beverages
+1997-07-29,BLAUS,Mannheim,11,Queso Cabrales,22,21.0,14,0.0,4,Dairy Products
+1997-07-29,BLAUS,Mannheim,21,Sir Rodney's Scones,3,10.0,8,0.0,3,Confections
+1997-07-29,BLAUS,Mannheim,39,Chartreuse verte,69,18.0,5,0.0,1,Beverages
+1997-07-30,WILMK,Helsinki,55,Pâté chinois,115,24.0,5,0.0,6,Meat/Poultry
+1997-07-31,GREAL,Eugene,38,Côte de Blaye,17,263.5,15,0.05,1,Beverages
+1997-07-31,GREAL,Eugene,56,Gnocchi di nonna Alice,21,38.0,14,0.0,5,Grains/Cereals
+1997-07-31,GREAL,Eugene,70,Outback Lager,15,15.0,15,0.05,1,Beverages
+1997-07-31,GREAL,Eugene,71,Flotemysost,26,21.5,15,0.05,4,Dairy Products
+1997-07-31,GREAL,Eugene,59,Raclette Courdavault,79,55.0,30,0.15,4,Dairy Products
+1997-08-01,MEREP,Montréal,6,Grandma's Boysenberry Spread,120,25.0,70,0.0,2,Condiments
+1997-08-01,MEREP,Montréal,56,Gnocchi di nonna Alice,21,38.0,20,0.0,5,Grains/Cereals
+1997-08-01,MEREP,Montréal,68,Scottish Longbreads,6,12.5,15,0.0,3,Confections
+1997-08-04,MEREP,Montréal,21,Sir Rodney's Scones,3,10.0,42,0.0,3,Confections
+1997-08-04,MEREP,Montréal,22,Gustaf's Knäckebröd,104,21.0,40,0.0,5,Grains/Cereals
+1997-08-05,LAUGB,Vancouver,24,Guaraná Fantástica,20,4.5,5,0.0,1,Beverages
+1997-08-05,LAUGB,Vancouver,52,Filo Mix,38,7.0,5,0.0,5,Grains/Cereals
+1997-08-05,ISLAT,Cowes,19,Teatime Chocolate Biscuits,25,9.2,5,0.0,3,Confections
+1997-08-05,ISLAT,Cowes,23,Tunnbröd,61,9.0,10,0.0,5,Grains/Cereals
+1997-08-05,ISLAT,Cowes,70,Outback Lager,15,15.0,20,0.0,1,Beverages
+1997-08-05,ISLAT,Cowes,71,Flotemysost,26,21.5,15,0.0,4,Dairy Products
+1997-08-06,RICAR,Rio de Janeiro,2,Chang,17,19.0,20,0.0,1,Beverages
+1997-08-06,RICAR,Rio de Janeiro,68,Scottish Longbreads,6,12.5,18,0.2,3,Confections
+1997-08-07,FRANK,München,14,Tofu,35,23.25,21,0.0,7,Produce
+1997-08-07,FRANK,München,19,Teatime Chocolate Biscuits,25,9.2,15,0.1,3,Confections
+1997-08-07,FRANK,München,21,Sir Rodney's Scones,3,10.0,25,0.1,3,Confections
+1997-08-07,FRANK,München,24,Guaraná Fantástica,20,4.5,3,0.0,1,Beverages
+1997-08-07,FRANK,München,35,Steeleye Stout,20,18.0,30,0.1,1,Beverages
+1997-08-07,THECR,Butte,28,Rössle Sauerkraut,26,45.6,10,0.0,7,Produce
+1997-08-07,THECR,Butte,29,Thüringer Rostbratwurst,0,123.79,6,0.0,6,Meat/Poultry
+1997-08-07,THECR,Butte,44,Gula Malacca,27,19.45,10,0.0,2,Condiments
+1997-08-08,ANATR,México D.F.,14,Tofu,35,23.25,3,0.0,7,Produce
+1997-08-08,ANATR,México D.F.,42,Singaporean Hokkien Fried Mee,26,14.0,5,0.0,5,Grains/Cereals
+1997-08-08,ANATR,México D.F.,60,Camembert Pierrot,19,34.0,10,0.0,4,Dairy Products
+1997-08-11,BERGS,Luleå,53,Perth Pasties,0,32.8,12,0.0,6,Meat/Poultry
+1997-08-11,BERGS,Luleå,60,Camembert Pierrot,19,34.0,20,0.0,4,Dairy Products
+1997-08-11,BERGS,Luleå,71,Flotemysost,26,21.5,20,0.0,4,Dairy Products
+1997-08-11,SAVEA,Boise,62,Tarte au sucre,17,49.3,15,0.0,3,Confections
+1997-08-11,SAVEA,Boise,73,Röd Kaviar,101,15.0,35,0.15,8,Seafood
+1997-08-12,BLONP,Strasbourg,1,Chai,39,18.0,25,0.0,1,Beverages
+1997-08-12,GODOS,Sevilla,29,Thüringer Rostbratwurst,0,123.79,20,0.0,6,Meat/Poultry
+1997-08-12,GODOS,Sevilla,64,Wimmers gute Semmelknödel,22,33.25,9,0.0,5,Grains/Cereals
+1997-08-13,KOENE,Brandenburg,55,Pâté chinois,115,24.0,12,0.05,6,Meat/Poultry
+1997-08-13,KOENE,Brandenburg,76,Lakkalikööri,57,18.0,35,0.0,1,Beverages
+1997-08-14,LAMAI,Toulouse,75,Rhönbräu Klosterbier,125,7.75,8,0.1,1,Beverages
+1997-08-14,WANDK,Stuttgart,2,Chang,17,19.0,30,0.05,1,Beverages
+1997-08-14,WANDK,Stuttgart,33,Geitost,112,2.5,20,0.05,4,Dairy Products
+1997-08-15,ERNSH,Graz,12,Queso Manchego La Pastora,86,38.0,36,0.15,4,Dairy Products
+1997-08-15,ERNSH,Graz,13,Konbu,24,6.0,13,0.15,8,Seafood
+1997-08-15,ERNSH,Graz,26,Gumbär Gummibärchen,15,31.23,35,0.15,3,Confections
+1997-08-15,ERNSH,Graz,62,Tarte au sucre,17,49.3,80,0.15,3,Confections
+1997-08-15,FOLIG,Lille,7,Uncle Bob's Organic Dried Pears,15,30.0,35,0.0,7,Produce
+1997-08-15,FOLIG,Lille,18,Carnarvon Tigers,42,62.5,50,0.0,8,Seafood
+1997-08-15,FOLIG,Lille,51,Manjimup Dried Apples,20,53.0,15,0.0,7,Produce
+1997-08-15,FOLIG,Lille,75,Rhönbräu Klosterbier,125,7.75,2,0.0,1,Beverages
+1997-08-18,MAGAA,Bergamo,4,Chef Anton's Cajun Seasoning,53,22.0,10,0.1,2,Condiments
+1997-08-18,MAGAA,Bergamo,5,Chef Anton's Gumbo Mix,0,21.35,15,0.1,2,Condiments
+1997-08-18,MAGAA,Bergamo,22,Gustaf's Knäckebröd,104,21.0,40,0.0,5,Grains/Cereals
+1997-08-19,WARTH,Oulu,4,Chef Anton's Cajun Seasoning,53,22.0,25,0.0,2,Condiments
+1997-08-19,WARTH,Oulu,58,Escargots de Bourgogne,62,13.25,6,0.0,8,Seafood
+1997-08-19,QUEEN,Sao Paulo,11,Queso Cabrales,22,21.0,10,0.0,4,Dairy Products
+1997-08-19,QUEEN,Sao Paulo,50,Valkoinen suklaa,65,16.25,25,0.05,3,Confections
+1997-08-19,QUEEN,Sao Paulo,56,Gnocchi di nonna Alice,21,38.0,60,0.05,5,Grains/Cereals
+1997-08-20,LINOD,I. de Margarita,45,Rogede sild,5,9.5,20,0.0,8,Seafood
+1997-08-20,LINOD,I. de Margarita,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,21,0.0,2,Condiments
+1997-08-20,LINOD,I. de Margarita,72,Mozzarella di Giovanni,14,34.8,60,0.0,4,Dairy Products
+1997-08-20,SANTG,Stavern,18,Carnarvon Tigers,42,62.5,8,0.0,8,Seafood
+1997-08-21,WANDK,Stuttgart,69,Gudbrandsdalsost,26,36.0,20,0.25,4,Dairy Products
+1997-08-21,WANDK,Stuttgart,70,Outback Lager,15,15.0,15,0.25,1,Beverages
+1997-08-22,HILAA,San Cristóbal,2,Chang,17,19.0,50,0.0,1,Beverages
+1997-08-22,HILAA,San Cristóbal,40,Boston Crab Meat,123,18.4,60,0.0,8,Seafood
+1997-08-22,SIMOB,Kobenhavn,21,Sir Rodney's Scones,3,10.0,30,0.2,3,Confections
+1997-08-22,SIMOB,Kobenhavn,61,Sirop d'érable,113,28.5,20,0.2,2,Condiments
+1997-08-25,ALFKI,Berlin,28,Rössle Sauerkraut,26,45.6,15,0.25,7,Produce
+1997-08-25,ALFKI,Berlin,39,Chartreuse verte,69,18.0,21,0.25,1,Beverages
+1997-08-25,ALFKI,Berlin,46,Spegesild,95,12.0,2,0.25,8,Seafood
+1997-08-25,WELLI,Resende,18,Carnarvon Tigers,42,62.5,4,0.1,8,Seafood
+1997-08-25,WELLI,Resende,43,Ipoh Coffee,17,46.0,20,0.0,1,Beverages
+1997-08-25,WELLI,Resende,46,Spegesild,95,12.0,21,0.1,8,Seafood
+1997-08-26,HANAR,Rio de Janeiro,18,Carnarvon Tigers,42,62.5,20,0.0,8,Seafood
+1997-08-26,HANAR,Rio de Janeiro,36,Inlagd Sill,112,19.0,15,0.0,8,Seafood
+1997-08-27,HUNGO,Cork,1,Chai,39,18.0,15,0.25,1,Beverages
+1997-08-27,HUNGO,Cork,10,Ikura,31,31.0,18,0.25,8,Seafood
+1997-08-27,HUNGO,Cork,71,Flotemysost,26,21.5,30,0.25,4,Dairy Products
+1997-08-27,HUNGO,Cork,77,Original Frankfurter grüne Soße,32,13.0,35,0.25,2,Condiments
+1997-08-27,QUEDE,Rio de Janeiro,19,Teatime Chocolate Biscuits,25,9.2,30,0.0,3,Confections
+1997-08-27,QUEDE,Rio de Janeiro,39,Chartreuse verte,69,18.0,20,0.0,1,Beverages
+1997-08-28,RICAR,Rio de Janeiro,22,Gustaf's Knäckebröd,104,21.0,15,0.0,5,Grains/Cereals
+1997-08-28,RICAR,Rio de Janeiro,24,Guaraná Fantástica,20,4.5,15,0.15,1,Beverages
+1997-08-28,MAISD,Bruxelles,28,Rössle Sauerkraut,26,45.6,20,0.0,7,Produce
+1997-08-28,MAISD,Bruxelles,72,Mozzarella di Giovanni,14,34.8,15,0.0,4,Dairy Products
+1997-08-29,FAMIA,Sao Paulo,30,Nord-Ost Matjeshering,10,25.89,30,0.0,8,Seafood
+1997-08-29,FAMIA,Sao Paulo,53,Perth Pasties,0,32.8,25,0.05,6,Meat/Poultry
+1997-08-29,FAMIA,Sao Paulo,54,Tourtière,21,7.45,30,0.0,6,Meat/Poultry
+1997-09-01,WANDK,Stuttgart,19,Teatime Chocolate Biscuits,25,9.2,12,0.25,3,Confections
+1997-09-01,WANDK,Stuttgart,22,Gustaf's Knäckebröd,104,21.0,20,0.25,5,Grains/Cereals
+1997-09-01,GOURL,Campinas,30,Nord-Ost Matjeshering,10,25.89,2,0.25,8,Seafood
+1997-09-01,GOURL,Campinas,42,Singaporean Hokkien Fried Mee,26,14.0,20,0.0,5,Grains/Cereals
+1997-09-02,FRANK,München,16,Pavlova,29,17.45,30,0.1,3,Confections
+1997-09-02,FRANK,München,60,Camembert Pierrot,19,34.0,20,0.1,4,Dairy Products
+1997-09-02,BERGS,Luleå,4,Chef Anton's Cajun Seasoning,53,22.0,12,0.1,2,Condiments
+1997-09-02,BERGS,Luleå,39,Chartreuse verte,69,18.0,20,0.1,1,Beverages
+1997-09-02,BERGS,Luleå,54,Tourtière,21,7.45,6,0.1,6,Meat/Poultry
+1997-09-03,REGGC,Reggio Emilia,41,Jack's New England Clam Chowder,85,9.65,20,0.2,8,Seafood
+1997-09-04,GREAL,Eugene,14,Tofu,35,23.25,3,0.1,7,Produce
+1997-09-04,GREAL,Eugene,44,Gula Malacca,27,19.45,28,0.1,2,Condiments
+1997-09-04,GREAL,Eugene,47,Zaanse koeken,36,9.5,6,0.1,3,Confections
+1997-09-04,SAVEA,Boise,15,Genen Shouyu,39,15.5,50,0.0,2,Condiments
+1997-09-04,SAVEA,Boise,41,Jack's New England Clam Chowder,85,9.65,24,0.0,8,Seafood
+1997-09-04,SAVEA,Boise,46,Spegesild,95,12.0,45,0.0,8,Seafood
+1997-09-04,SAVEA,Boise,47,Zaanse koeken,36,9.5,10,0.0,3,Confections
+1997-09-04,SAVEA,Boise,56,Gnocchi di nonna Alice,21,38.0,45,0.0,5,Grains/Cereals
+1997-09-04,SAVEA,Boise,60,Camembert Pierrot,19,34.0,30,0.0,4,Dairy Products
+1997-09-05,QUICK,Cunewalde,21,Sir Rodney's Scones,3,10.0,60,0.0,3,Confections
+1997-09-05,QUICK,Cunewalde,40,Boston Crab Meat,123,18.4,70,0.05,8,Seafood
+1997-09-05,QUICK,Cunewalde,60,Camembert Pierrot,19,34.0,55,0.05,4,Dairy Products
+1997-09-05,QUICK,Cunewalde,77,Original Frankfurter grüne Soße,32,13.0,70,0.05,2,Condiments
+1997-09-05,QUEEN,Sao Paulo,31,Gorgonzola Telino,0,12.5,20,0.05,4,Dairy Products
+1997-09-05,QUEEN,Sao Paulo,40,Boston Crab Meat,123,18.4,24,0.05,8,Seafood
+1997-09-05,QUEEN,Sao Paulo,70,Outback Lager,15,15.0,40,0.05,1,Beverages
+1997-09-08,HUNGC,Elgin,20,Sir Rodney's Marmalade,40,81.0,21,0.0,3,Confections
+1997-09-09,HUNGO,Cork,39,Chartreuse verte,69,18.0,3,0.2,1,Beverages
+1997-09-09,HUNGO,Cork,58,Escargots de Bourgogne,62,13.25,49,0.2,8,Seafood
+1997-09-09,LONEP,Portland,68,Scottish Longbreads,6,12.5,10,0.0,3,Confections
+1997-09-10,BONAP,Marseille,40,Boston Crab Meat,123,18.4,30,0.05,8,Seafood
+1997-09-10,BONAP,Marseille,42,Singaporean Hokkien Fried Mee,26,14.0,30,0.05,5,Grains/Cereals
+1997-09-10,BONAP,Marseille,51,Manjimup Dried Apples,20,53.0,20,0.05,7,Produce
+1997-09-10,FURIB,Lisboa,10,Ikura,31,31.0,24,0.15,8,Seafood
+1997-09-10,FURIB,Lisboa,56,Gnocchi di nonna Alice,21,38.0,12,0.15,5,Grains/Cereals
+1997-09-10,FURIB,Lisboa,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,15,0.15,2,Condiments
+1997-09-11,LONEP,Portland,51,Manjimup Dried Apples,20,53.0,20,0.0,7,Produce
+1997-09-11,LONEP,Portland,59,Raclette Courdavault,79,55.0,1,0.0,4,Dairy Products
+1997-09-11,LONEP,Portland,76,Lakkalikööri,57,18.0,10,0.0,1,Beverages
+1997-09-12,RICSU,Genève,29,Thüringer Rostbratwurst,0,123.79,36,0.0,6,Meat/Poultry
+1997-09-12,RICSU,Genève,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,10,0.0,2,Condiments
+1997-09-12,ERNSH,Graz,69,Gudbrandsdalsost,26,36.0,45,0.2,4,Dairy Products
+1997-09-12,ERNSH,Graz,71,Flotemysost,26,21.5,14,0.2,4,Dairy Products
+1997-09-15,WANDK,Stuttgart,31,Gorgonzola Telino,0,12.5,8,0.1,4,Dairy Products
+1997-09-15,WANDK,Stuttgart,55,Pâté chinois,115,24.0,4,0.1,6,Meat/Poultry
+1997-09-15,WANDK,Stuttgart,64,Wimmers gute Semmelknödel,22,33.25,15,0.1,5,Grains/Cereals
+1997-09-15,SIMOB,Kobenhavn,36,Inlagd Sill,112,19.0,30,0.0,8,Seafood
+1997-09-16,FRANK,München,23,Tunnbröd,61,9.0,32,0.0,5,Grains/Cereals
+1997-09-16,FRANK,München,46,Spegesild,95,12.0,60,0.0,8,Seafood
+1997-09-16,FRANK,München,67,Laughing Lumberjack Lager,52,14.0,25,0.0,1,Beverages
+1997-09-16,FRANK,München,73,Röd Kaviar,101,15.0,50,0.0,8,Seafood
+1997-09-16,FRANK,München,75,Rhönbräu Klosterbier,125,7.75,25,0.0,1,Beverages
+1997-09-17,FRANR,Nantes,16,Pavlova,29,17.45,10,0.0,3,Confections
+1997-09-17,FRANR,Nantes,62,Tarte au sucre,17,49.3,10,0.0,3,Confections
+1997-09-17,FRANR,Nantes,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,12,0.0,2,Condiments
+1997-09-17,BERGS,Luleå,38,Côte de Blaye,17,263.5,15,0.1,1,Beverages
+1997-09-17,BERGS,Luleå,71,Flotemysost,26,21.5,12,0.0,4,Dairy Products
+1997-09-18,WILMK,Helsinki,16,Pavlova,29,17.45,3,0.0,3,Confections
+1997-09-18,WILMK,Helsinki,42,Singaporean Hokkien Fried Mee,26,14.0,6,0.0,5,Grains/Cereals
+1997-09-18,WILMK,Helsinki,43,Ipoh Coffee,17,46.0,6,0.0,1,Beverages
+1997-09-18,ISLAT,Cowes,23,Tunnbröd,61,9.0,5,0.0,5,Grains/Cereals
+1997-09-19,FRANK,München,14,Tofu,35,23.25,30,0.0,7,Produce
+1997-09-19,FRANK,München,53,Perth Pasties,0,32.8,10,0.0,6,Meat/Poultry
+1997-09-19,FRANK,München,58,Escargots de Bourgogne,62,13.25,30,0.0,8,Seafood
+1997-09-22,TORTU,México D.F.,10,Ikura,31,31.0,2,0.0,8,Seafood
+1997-09-22,TORTU,México D.F.,19,Teatime Chocolate Biscuits,25,9.2,7,0.0,3,Confections
+1997-09-22,TORTU,México D.F.,44,Gula Malacca,27,19.45,21,0.0,2,Condiments
+1997-09-22,ANTON,México D.F.,26,Gumbär Gummibärchen,15,31.23,30,0.15,3,Confections
+1997-09-22,ANTON,México D.F.,33,Geitost,112,2.5,8,0.15,4,Dairy Products
+1997-09-23,SAVEA,Boise,12,Queso Manchego La Pastora,86,38.0,100,0.0,4,Dairy Products
+1997-09-23,SAVEA,Boise,33,Geitost,112,2.5,30,0.0,4,Dairy Products
+1997-09-23,SAVEA,Boise,41,Jack's New England Clam Chowder,85,9.65,120,0.0,8,Seafood
+1997-09-23,SAVEA,Boise,54,Tourtière,21,7.45,30,0.0,6,Meat/Poultry
+1997-09-23,BLONP,Strasbourg,59,Raclette Courdavault,79,55.0,12,0.0,4,Dairy Products
+1997-09-24,OLDWO,Anchorage,16,Pavlova,29,17.45,50,0.25,3,Confections
+1997-09-24,OLDWO,Anchorage,31,Gorgonzola Telino,0,12.5,20,0.25,4,Dairy Products
+1997-09-24,OLDWO,Anchorage,42,Singaporean Hokkien Fried Mee,26,14.0,40,0.25,5,Grains/Cereals
+1997-09-25,GREAL,Eugene,19,Teatime Chocolate Biscuits,25,9.2,30,0.1,3,Confections
+1997-09-25,GREAL,Eugene,21,Sir Rodney's Scones,3,10.0,12,0.1,3,Confections
+1997-09-25,GREAL,Eugene,64,Wimmers gute Semmelknödel,22,33.25,28,0.0,5,Grains/Cereals
+1997-09-25,ANTON,México D.F.,33,Geitost,112,2.5,30,0.0,4,Dairy Products
+1997-09-25,ANTON,México D.F.,66,Louisiana Hot Spiced Okra,4,17.0,4,0.0,2,Condiments
+1997-09-25,ANTON,México D.F.,75,Rhönbräu Klosterbier,125,7.75,30,0.0,1,Beverages
+1997-09-26,DUMON,Nantes,52,Filo Mix,38,7.0,9,0.0,5,Grains/Cereals
+1997-09-26,OTTIK,Köln,40,Boston Crab Meat,123,18.4,20,0.0,8,Seafood
+1997-09-26,OTTIK,Köln,47,Zaanse koeken,36,9.5,40,0.0,3,Confections
+1997-09-26,OTTIK,Köln,60,Camembert Pierrot,19,34.0,30,0.0,4,Dairy Products
+1997-09-29,GOURL,Campinas,10,Ikura,31,31.0,20,0.0,8,Seafood
+1997-09-29,GOURL,Campinas,41,Jack's New England Clam Chowder,85,9.65,4,0.0,8,Seafood
+1997-09-29,GOURL,Campinas,47,Zaanse koeken,36,9.5,15,0.0,3,Confections
+1997-09-30,PICCO,Salzburg,17,Alice Mutton,0,39.0,30,0.2,6,Meat/Poultry
+1997-09-30,PICCO,Salzburg,26,Gumbär Gummibärchen,15,31.23,15,0.0,3,Confections
+1997-09-30,HUNGO,Cork,9,Mishi Kobe Niku,29,97.0,50,0.25,6,Meat/Poultry
+1997-09-30,HUNGO,Cork,29,Thüringer Rostbratwurst,0,123.79,10,0.0,6,Meat/Poultry
+1997-09-30,HUNGO,Cork,36,Inlagd Sill,112,19.0,6,0.25,8,Seafood
+1997-10-01,VAFFE,Århus,10,Ikura,31,31.0,18,0.1,8,Seafood
+1997-10-01,VAFFE,Århus,28,Rössle Sauerkraut,26,45.6,60,0.1,7,Produce
+1997-10-01,VAFFE,Århus,34,Sasquatch Ale,111,14.0,14,0.0,1,Beverages
+1997-10-01,BERGS,Luleå,1,Chai,39,18.0,35,0.25,1,Beverages
+1997-10-02,HANAR,Rio de Janeiro,56,Gnocchi di nonna Alice,21,38.0,20,0.25,5,Grains/Cereals
+1997-10-02,HANAR,Rio de Janeiro,77,Original Frankfurter grüne Soße,32,13.0,30,0.25,2,Condiments
+1997-10-03,QUICK,Cunewalde,1,Chai,39,18.0,30,0.0,1,Beverages
+1997-10-03,QUICK,Cunewalde,29,Thüringer Rostbratwurst,0,123.79,40,0.0,6,Meat/Poultry
+1997-10-03,QUICK,Cunewalde,43,Ipoh Coffee,17,46.0,40,0.0,1,Beverages
+1997-10-03,QUICK,Cunewalde,44,Gula Malacca,27,19.45,24,0.0,2,Condiments
+1997-10-03,QUICK,Cunewalde,62,Tarte au sucre,17,49.3,48,0.0,3,Confections
+1997-10-03,ALFKI,Berlin,63,Vegie-spread,24,43.9,20,0.0,2,Condiments
+1997-10-06,WHITC,Seattle,9,Mishi Kobe Niku,29,97.0,6,0.0,6,Meat/Poultry
+1997-10-06,WHITC,Seattle,54,Tourtière,21,7.45,60,0.15,6,Meat/Poultry
+1997-10-06,WHITC,Seattle,69,Gudbrandsdalsost,26,36.0,30,0.15,4,Dairy Products
+1997-10-06,WHITC,Seattle,73,Röd Kaviar,101,15.0,15,0.15,8,Seafood
+1997-10-06,QUICK,Cunewalde,7,Uncle Bob's Organic Dried Pears,15,30.0,90,0.0,7,Produce
+1997-10-06,QUICK,Cunewalde,59,Raclette Courdavault,79,55.0,25,0.0,4,Dairy Products
+1997-10-06,QUICK,Cunewalde,70,Outback Lager,15,15.0,50,0.0,1,Beverages
+1997-10-07,WILMK,Helsinki,8,Northwoods Cranberry Sauce,6,40.0,10,0.0,2,Condiments
+1997-10-07,WILMK,Helsinki,12,Queso Manchego La Pastora,86,38.0,4,0.0,4,Dairy Products
+1997-10-07,WILMK,Helsinki,24,Guaraná Fantástica,20,4.5,20,0.0,1,Beverages
+1997-10-08,WHITC,Seattle,17,Alice Mutton,0,39.0,20,0.0,6,Meat/Poultry
+1997-10-08,WHITC,Seattle,46,Spegesild,95,12.0,18,0.0,8,Seafood
+1997-10-08,LINOD,I. de Margarita,19,Teatime Chocolate Biscuits,25,9.2,7,0.25,3,Confections
+1997-10-08,LINOD,I. de Margarita,35,Steeleye Stout,20,18.0,9,0.25,1,Beverages
+1997-10-08,LINOD,I. de Margarita,58,Escargots de Bourgogne,62,13.25,30,0.25,8,Seafood
+1997-10-08,LINOD,I. de Margarita,70,Outback Lager,15,15.0,30,0.25,1,Beverages
+1997-10-09,ERNSH,Graz,11,Queso Cabrales,22,21.0,15,0.0,4,Dairy Products
+1997-10-09,ERNSH,Graz,17,Alice Mutton,0,39.0,8,0.05,6,Meat/Poultry
+1997-10-09,ERNSH,Graz,29,Thüringer Rostbratwurst,0,123.79,12,0.05,6,Meat/Poultry
+1997-10-09,ERNSH,Graz,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,65,0.05,2,Condiments
+1997-10-09,ERNSH,Graz,70,Outback Lager,15,15.0,8,0.05,1,Beverages
+1997-10-09,MORGK,Leipzig,47,Zaanse koeken,36,9.5,12,0.0,3,Confections
+1997-10-10,SAVEA,Boise,1,Chai,39,18.0,5,0.2,1,Beverages
+1997-10-10,SAVEA,Boise,34,Sasquatch Ale,111,14.0,12,0.2,1,Beverages
+1997-10-10,SAVEA,Boise,68,Scottish Longbreads,6,12.5,40,0.2,3,Confections
+1997-10-10,SAVEA,Boise,71,Flotemysost,26,21.5,60,0.2,4,Dairy Products
+1997-10-13,HUNGO,Cork,59,Raclette Courdavault,79,55.0,42,0.15,4,Dairy Products
+1997-10-13,HUNGO,Cork,71,Flotemysost,26,21.5,20,0.15,4,Dairy Products
+1997-10-13,HUNGO,Cork,76,Lakkalikööri,57,18.0,35,0.15,1,Beverages
+1997-10-13,ALFKI,Berlin,3,Aniseed Syrup,13,10.0,6,0.0,2,Condiments
+1997-10-13,ALFKI,Berlin,76,Lakkalikööri,57,18.0,15,0.0,1,Beverages
+1997-10-14,FOLKO,Bräcke,2,Chang,17,19.0,5,0.0,1,Beverages
+1997-10-14,FOLKO,Bräcke,59,Raclette Courdavault,79,55.0,35,0.0,4,Dairy Products
+1997-10-14,FOLKO,Bräcke,73,Röd Kaviar,101,15.0,35,0.0,8,Seafood
+1997-10-14,QUEEN,Sao Paulo,4,Chef Anton's Cajun Seasoning,53,22.0,6,0.0,2,Condiments
+1997-10-14,QUEEN,Sao Paulo,24,Guaraná Fantástica,20,4.5,35,0.0,1,Beverages
+1997-10-14,QUEEN,Sao Paulo,48,Chocolade,15,12.75,24,0.0,3,Confections
+1997-10-15,HILAA,San Cristóbal,31,Gorgonzola Telino,0,12.5,20,0.0,4,Dairy Products
+1997-10-15,HILAA,San Cristóbal,32,Mascarpone Fabioli,9,32.0,4,0.0,4,Dairy Products
+1997-10-16,OLDWO,Anchorage,16,Pavlova,29,17.45,20,0.0,3,Confections
+1997-10-16,OLDWO,Anchorage,43,Ipoh Coffee,17,46.0,24,0.0,1,Beverages
+1997-10-16,OLDWO,Anchorage,59,Raclette Courdavault,79,55.0,8,0.0,4,Dairy Products
+1997-10-16,AROUT,London,55,Pâté chinois,115,24.0,21,0.0,6,Meat/Poultry
+1997-10-16,AROUT,London,57,Ravioli Angelo,36,19.5,40,0.0,5,Grains/Cereals
+1997-10-16,AROUT,London,70,Outback Lager,15,15.0,28,0.15,1,Beverages
+1997-10-17,THEBI,Portland,5,Chef Anton's Gumbo Mix,0,21.35,4,0.0,2,Condiments
+1997-10-17,THEBI,Portland,36,Inlagd Sill,112,19.0,5,0.0,8,Seafood
+1997-10-17,GOURL,Campinas,8,Northwoods Cranberry Sauce,6,40.0,40,0.0,2,Condiments
+1997-10-17,GOURL,Campinas,51,Manjimup Dried Apples,20,53.0,28,0.0,7,Produce
+1997-10-17,GOURL,Campinas,60,Camembert Pierrot,19,34.0,10,0.0,4,Dairy Products
+1997-10-20,FRANS,Torino,19,Teatime Chocolate Biscuits,25,9.2,5,0.0,3,Confections
+1997-10-20,FRANS,Torino,47,Zaanse koeken,36,9.5,5,0.0,3,Confections
+1997-10-21,SAVEA,Boise,19,Teatime Chocolate Biscuits,25,9.2,12,0.0,3,Confections
+1997-10-21,SAVEA,Boise,41,Jack's New England Clam Chowder,85,9.65,42,0.0,8,Seafood
+1997-10-21,SAVEA,Boise,53,Perth Pasties,0,32.8,120,0.0,6,Meat/Poultry
+1997-10-21,HUNGO,Cork,53,Perth Pasties,0,32.8,3,0.05,6,Meat/Poultry
+1997-10-21,HUNGO,Cork,56,Gnocchi di nonna Alice,21,38.0,30,0.0,5,Grains/Cereals
+1997-10-22,SAVEA,Boise,10,Ikura,31,31.0,18,0.0,8,Seafood
+1997-10-22,SAVEA,Boise,26,Gumbär Gummibärchen,15,31.23,30,0.0,3,Confections
+1997-10-22,SAVEA,Boise,45,Rogede sild,5,9.5,110,0.0,8,Seafood
+1997-10-22,SAVEA,Boise,46,Spegesild,95,12.0,24,0.0,8,Seafood
+1997-10-22,SAVEA,Boise,2,Chang,17,19.0,30,0.25,1,Beverages
+1997-10-22,SAVEA,Boise,17,Alice Mutton,0,39.0,27,0.25,6,Meat/Poultry
+1997-10-22,SAVEA,Boise,47,Zaanse koeken,36,9.5,50,0.25,3,Confections
+1997-10-22,SAVEA,Boise,56,Gnocchi di nonna Alice,21,38.0,18,0.25,5,Grains/Cereals
+1997-10-22,SAVEA,Boise,58,Escargots de Bourgogne,62,13.25,12,0.25,8,Seafood
+1997-10-23,BONAP,Marseille,10,Ikura,31,31.0,21,0.0,8,Seafood
+1997-10-23,BONAP,Marseille,71,Flotemysost,26,21.5,30,0.0,4,Dairy Products
+1997-10-24,RANCH,Buenos Aires,21,Sir Rodney's Scones,3,10.0,5,0.0,3,Confections
+1997-10-24,RANCH,Buenos Aires,51,Manjimup Dried Apples,20,53.0,7,0.0,7,Produce
+1997-10-24,RANCH,Buenos Aires,61,Sirop d'érable,113,28.5,10,0.0,2,Condiments
+1997-10-24,FRANK,München,21,Sir Rodney's Scones,3,10.0,32,0.05,3,Confections
+1997-10-24,FRANK,München,54,Tourtière,21,7.45,15,0.0,6,Meat/Poultry
+1997-10-24,FRANK,München,69,Gudbrandsdalsost,26,36.0,25,0.05,4,Dairy Products
+1997-10-27,KOENE,Brandenburg,12,Queso Manchego La Pastora,86,38.0,36,0.0,4,Dairy Products
+1997-10-27,KOENE,Brandenburg,16,Pavlova,29,17.45,20,0.0,3,Confections
+1997-10-27,KOENE,Brandenburg,36,Inlagd Sill,112,19.0,40,0.0,8,Seafood
+1997-10-27,KOENE,Brandenburg,62,Tarte au sucre,17,49.3,20,0.0,3,Confections
+1997-10-27,LETSS,San Francisco,18,Carnarvon Tigers,42,62.5,12,0.25,8,Seafood
+1997-10-27,LETSS,San Francisco,30,Nord-Ost Matjeshering,10,25.89,3,0.25,8,Seafood
+1997-10-27,LETSS,San Francisco,54,Tourtière,21,7.45,40,0.25,6,Meat/Poultry
+1997-10-28,QUEDE,Rio de Janeiro,35,Steeleye Stout,20,18.0,21,0.0,1,Beverages
+1997-10-28,QUEDE,Rio de Janeiro,71,Flotemysost,26,21.5,8,0.0,4,Dairy Products
+1997-10-29,QUICK,Cunewalde,44,Gula Malacca,27,19.45,50,0.05,2,Condiments
+1997-10-29,SAVEA,Boise,2,Chang,17,19.0,3,0.0,1,Beverages
+1997-10-29,SAVEA,Boise,31,Gorgonzola Telino,0,12.5,50,0.0,4,Dairy Products
+1997-10-29,SAVEA,Boise,68,Scottish Longbreads,6,12.5,45,0.0,3,Confections
+1997-10-29,SAVEA,Boise,75,Rhönbräu Klosterbier,125,7.75,42,0.0,1,Beverages
+1997-10-30,WHITC,Seattle,26,Gumbär Gummibärchen,15,31.23,15,0.0,3,Confections
+1997-10-30,MEREP,Montréal,10,Ikura,31,31.0,16,0.0,8,Seafood
+1997-10-30,MEREP,Montréal,61,Sirop d'érable,113,28.5,5,0.0,2,Condiments
+1997-10-31,FAMIA,Sao Paulo,41,Jack's New England Clam Chowder,85,9.65,12,0.0,8,Seafood
+1997-10-31,FAMIA,Sao Paulo,52,Filo Mix,38,7.0,4,0.0,5,Grains/Cereals
+1997-10-31,FAMIA,Sao Paulo,55,Pâté chinois,115,24.0,6,0.0,6,Meat/Poultry
+1997-11-03,EASTC,London,4,Chef Anton's Cajun Seasoning,53,22.0,25,0.0,2,Condiments
+1997-11-03,EASTC,London,11,Queso Cabrales,22,21.0,5,0.0,4,Dairy Products
+1997-11-03,REGGC,Reggio Emilia,17,Alice Mutton,0,39.0,20,0.05,6,Meat/Poultry
+1997-11-03,REGGC,Reggio Emilia,56,Gnocchi di nonna Alice,21,38.0,10,0.05,5,Grains/Cereals
+1997-11-03,REGGC,Reggio Emilia,59,Raclette Courdavault,79,55.0,10,0.05,4,Dairy Products
+1997-11-04,QUEEN,Sao Paulo,30,Nord-Ost Matjeshering,10,25.89,15,0.0,8,Seafood
+1997-11-04,QUEEN,Sao Paulo,40,Boston Crab Meat,123,18.4,6,0.0,8,Seafood
+1997-11-04,QUEEN,Sao Paulo,55,Pâté chinois,115,24.0,12,0.0,6,Meat/Poultry
+1997-11-04,QUEEN,Sao Paulo,60,Camembert Pierrot,19,34.0,15,0.0,4,Dairy Products
+1997-11-04,LINOD,I. de Margarita,1,Chai,39,18.0,50,0.0,1,Beverages
+1997-11-04,LINOD,I. de Margarita,21,Sir Rodney's Scones,3,10.0,30,0.0,3,Confections
+1997-11-04,LINOD,I. de Margarita,50,Valkoinen suklaa,65,16.25,40,0.0,3,Confections
+1997-11-05,BONAP,Marseille,16,Pavlova,29,17.45,15,0.05,3,Confections
+1997-11-05,BONAP,Marseille,31,Gorgonzola Telino,0,12.5,3,0.05,4,Dairy Products
+1997-11-05,BONAP,Marseille,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,10,0.05,2,Condiments
+1997-11-06,CHOPS,Bern,21,Sir Rodney's Scones,3,10.0,40,0.05,3,Confections
+1997-11-06,CHOPS,Bern,51,Manjimup Dried Apples,20,53.0,30,0.05,7,Produce
+1997-11-06,BONAP,Marseille,76,Lakkalikööri,57,18.0,20,0.0,1,Beverages
+1997-11-07,BERGS,Luleå,14,Tofu,35,23.25,16,0.0,7,Produce
+1997-11-07,BERGS,Luleå,28,Rössle Sauerkraut,26,45.6,20,0.0,7,Produce
+1997-11-07,BERGS,Luleå,52,Filo Mix,38,7.0,25,0.0,5,Grains/Cereals
+1997-11-07,GOURL,Campinas,6,Grandma's Boysenberry Spread,120,25.0,30,0.0,2,Condiments
+1997-11-07,GOURL,Campinas,30,Nord-Ost Matjeshering,10,25.89,15,0.0,8,Seafood
+1997-11-07,GOURL,Campinas,76,Lakkalikööri,57,18.0,20,0.0,1,Beverages
+1997-11-10,LETSS,San Francisco,61,Sirop d'érable,113,28.5,20,0.1,2,Condiments
+1997-11-10,LETSS,San Francisco,77,Original Frankfurter grüne Soße,32,13.0,2,0.1,2,Condiments
+1997-11-11,HUNGO,Cork,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,40,0.0,2,Condiments
+1997-11-11,HUNGO,Cork,75,Rhönbräu Klosterbier,125,7.75,20,0.0,1,Beverages
+1997-11-11,VINET,Reims,13,Konbu,24,6.0,4,0.0,8,Seafood
+1997-11-11,VINET,Reims,41,Jack's New England Clam Chowder,85,9.65,12,0.0,8,Seafood
+1997-11-12,SPECD,Paris,16,Pavlova,29,17.45,3,0.0,3,Confections
+1997-11-12,VINET,Reims,36,Inlagd Sill,112,19.0,6,0.0,8,Seafood
+1997-11-12,VINET,Reims,52,Filo Mix,38,7.0,18,0.0,5,Grains/Cereals
+1997-11-13,WHITC,Seattle,28,Rössle Sauerkraut,26,45.6,5,0.2,7,Produce
+1997-11-13,WHITC,Seattle,35,Steeleye Stout,20,18.0,35,0.2,1,Beverages
+1997-11-13,WHITC,Seattle,45,Rogede sild,5,9.5,40,0.2,8,Seafood
+1997-11-13,WHITC,Seattle,56,Gnocchi di nonna Alice,21,38.0,14,0.2,5,Grains/Cereals
+1997-11-14,AROUT,London,2,Chang,17,19.0,15,0.2,1,Beverages
+1997-11-14,BOTTM,Tsawassen,3,Aniseed Syrup,13,10.0,20,0.0,2,Condiments
+1997-11-14,BOTTM,Tsawassen,60,Camembert Pierrot,19,34.0,50,0.0,4,Dairy Products
+1997-11-14,BOTTM,Tsawassen,72,Mozzarella di Giovanni,14,34.8,35,0.0,4,Dairy Products
+1997-11-17,AROUT,London,46,Spegesild,95,12.0,28,0.05,8,Seafood
+1997-11-17,VAFFE,Århus,40,Boston Crab Meat,123,18.4,50,0.2,8,Seafood
+1997-11-18,QUICK,Cunewalde,18,Carnarvon Tigers,42,62.5,24,0.0,8,Seafood
+1997-11-18,QUICK,Cunewalde,44,Gula Malacca,27,19.45,16,0.0,2,Condiments
+1997-11-18,QUICK,Cunewalde,59,Raclette Courdavault,79,55.0,45,0.0,4,Dairy Products
+1997-11-18,QUICK,Cunewalde,72,Mozzarella di Giovanni,14,34.8,7,0.0,4,Dairy Products
+1997-11-19,CHOPS,Bern,13,Konbu,24,6.0,6,0.0,8,Seafood
+1997-11-19,CHOPS,Bern,42,Singaporean Hokkien Fried Mee,26,14.0,28,0.0,5,Grains/Cereals
+1997-11-19,CHOPS,Bern,62,Tarte au sucre,17,49.3,9,0.0,3,Confections
+1997-11-19,CHOPS,Bern,69,Gudbrandsdalsost,26,36.0,40,0.0,4,Dairy Products
+1997-11-19,PICCO,Salzburg,31,Gorgonzola Telino,0,12.5,8,0.0,4,Dairy Products
+1997-11-19,PICCO,Salzburg,41,Jack's New England Clam Chowder,85,9.65,35,0.0,8,Seafood
+1997-11-19,PICCO,Salzburg,63,Vegie-spread,24,43.9,9,0.0,2,Condiments
+1997-11-19,PICCO,Salzburg,69,Gudbrandsdalsost,26,36.0,30,0.0,4,Dairy Products
+1997-11-20,SAVEA,Boise,23,Tunnbröd,61,9.0,44,0.0,5,Grains/Cereals
+1997-11-20,SAVEA,Boise,40,Boston Crab Meat,123,18.4,40,0.0,8,Seafood
+1997-11-20,SAVEA,Boise,56,Gnocchi di nonna Alice,21,38.0,28,0.0,5,Grains/Cereals
+1997-11-20,ISLAT,Cowes,56,Gnocchi di nonna Alice,21,38.0,15,0.0,5,Grains/Cereals
+1997-11-20,ISLAT,Cowes,59,Raclette Courdavault,79,55.0,6,0.0,4,Dairy Products
+1997-11-20,ISLAT,Cowes,76,Lakkalikööri,57,18.0,10,0.0,1,Beverages
+1997-11-21,WARTH,Oulu,14,Tofu,35,23.25,5,0.15,7,Produce
+1997-11-21,WARTH,Oulu,45,Rogede sild,5,9.5,40,0.15,8,Seafood
+1997-11-21,WARTH,Oulu,59,Raclette Courdavault,79,55.0,25,0.15,4,Dairy Products
+1997-11-24,RICSU,Genève,26,Gumbär Gummibärchen,15,31.23,12,0.1,3,Confections
+1997-11-24,RICSU,Genève,30,Nord-Ost Matjeshering,10,25.89,30,0.0,8,Seafood
+1997-11-24,RICSU,Genève,50,Valkoinen suklaa,65,16.25,20,0.1,3,Confections
+1997-11-24,RICSU,Genève,73,Röd Kaviar,101,15.0,15,0.0,8,Seafood
+1997-11-24,NORTS,London,1,Chai,39,18.0,8,0.0,1,Beverages
+1997-11-24,NORTS,London,69,Gudbrandsdalsost,26,36.0,3,0.0,4,Dairy Products
+1997-11-25,FRANS,Torino,45,Rogede sild,5,9.5,4,0.0,8,Seafood
+1997-11-25,FRANS,Torino,74,Longlife Tofu,4,10.0,5,0.0,7,Produce
+1997-11-25,MAGAA,Bergamo,40,Boston Crab Meat,123,18.4,3,0.0,8,Seafood
+1997-11-26,BONAP,Marseille,47,Zaanse koeken,36,9.5,30,0.25,3,Confections
+1997-11-26,BONAP,Marseille,56,Gnocchi di nonna Alice,21,38.0,30,0.25,5,Grains/Cereals
+1997-11-26,BONAP,Marseille,57,Ravioli Angelo,36,19.5,14,0.25,5,Grains/Cereals
+1997-11-26,BONAP,Marseille,69,Gudbrandsdalsost,26,36.0,25,0.25,4,Dairy Products
+1997-11-27,SPLIR,Lander,18,Carnarvon Tigers,42,62.5,21,0.2,8,Seafood
+1997-11-27,SPLIR,Lander,36,Inlagd Sill,112,19.0,20,0.2,8,Seafood
+1997-11-27,SPLIR,Lander,68,Scottish Longbreads,6,12.5,6,0.2,3,Confections
+1997-11-27,SPLIR,Lander,69,Gudbrandsdalsost,26,36.0,20,0.2,4,Dairy Products
+1997-11-27,SAVEA,Boise,34,Sasquatch Ale,111,14.0,30,0.0,1,Beverages
+1997-11-27,SAVEA,Boise,59,Raclette Courdavault,79,55.0,7,0.0,4,Dairy Products
+1997-11-27,SAVEA,Boise,62,Tarte au sucre,17,49.3,30,0.0,3,Confections
+1997-11-27,SAVEA,Boise,64,Wimmers gute Semmelknödel,22,33.25,24,0.0,5,Grains/Cereals
+1997-11-28,RICSU,Genève,26,Gumbär Gummibärchen,15,31.23,20,0.0,3,Confections
+1997-11-28,RICSU,Genève,52,Filo Mix,38,7.0,60,0.0,5,Grains/Cereals
+1997-11-28,RICSU,Genève,70,Outback Lager,15,15.0,40,0.0,1,Beverages
+1997-11-28,ANATR,México D.F.,32,Mascarpone Fabioli,9,32.0,10,0.0,4,Dairy Products
+1997-12-01,MAISD,Bruxelles,25,NuNuCa Nuß-Nougat-Creme,76,14.0,12,0.25,3,Confections
+1997-12-01,MAISD,Bruxelles,27,Schoggi Schokolade,49,43.9,40,0.0,3,Confections
+1997-12-01,MAISD,Bruxelles,43,Ipoh Coffee,17,46.0,30,0.25,1,Beverages
+1997-12-02,RATTC,Albuquerque,25,NuNuCa Nuß-Nougat-Creme,76,14.0,35,0.25,3,Confections
+1997-12-02,RATTC,Albuquerque,75,Rhönbräu Klosterbier,125,7.75,18,0.0,1,Beverages
+1997-12-02,FOLKO,Bräcke,39,Chartreuse verte,69,18.0,16,0.0,1,Beverages
+1997-12-02,FOLKO,Bräcke,47,Zaanse koeken,36,9.5,30,0.0,3,Confections
+1997-12-02,FOLKO,Bräcke,51,Manjimup Dried Apples,20,53.0,28,0.0,7,Produce
+1997-12-02,FOLKO,Bräcke,56,Gnocchi di nonna Alice,21,38.0,60,0.0,5,Grains/Cereals
+1997-12-03,FOLIG,Lille,21,Sir Rodney's Scones,3,10.0,40,0.0,3,Confections
+1997-12-03,FOLIG,Lille,22,Gustaf's Knäckebröd,104,21.0,6,0.0,5,Grains/Cereals
+1997-12-03,FOLIG,Lille,24,Guaraná Fantástica,20,4.5,20,0.0,1,Beverages
+1997-12-03,ERNSH,Graz,3,Aniseed Syrup,13,10.0,20,0.1,2,Condiments
+1997-12-03,ERNSH,Graz,39,Chartreuse verte,69,18.0,130,0.1,1,Beverages
+1997-12-04,QUICK,Cunewalde,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,80,0.1,2,Condiments
+1997-12-05,OTTIK,Köln,2,Chang,17,19.0,40,0.0,1,Beverages
+1997-12-05,OTTIK,Köln,7,Uncle Bob's Organic Dried Pears,15,30.0,35,0.0,7,Produce
+1997-12-05,OTTIK,Köln,68,Scottish Longbreads,6,12.5,40,0.0,3,Confections
+1997-12-05,SUPRD,Charleroi,42,Singaporean Hokkien Fried Mee,26,14.0,2,0.0,5,Grains/Cereals
+1997-12-08,AROUT,London,22,Gustaf's Knäckebröd,104,21.0,4,0.0,5,Grains/Cereals
+1997-12-08,AROUT,London,31,Gorgonzola Telino,0,12.5,50,0.0,4,Dairy Products
+1997-12-08,AROUT,London,60,Camembert Pierrot,19,34.0,15,0.0,4,Dairy Products
+1997-12-08,AROUT,London,71,Flotemysost,26,21.5,12,0.0,4,Dairy Products
+1997-12-08,VAFFE,Århus,41,Jack's New England Clam Chowder,85,9.65,30,0.05,8,Seafood
+1997-12-08,VAFFE,Århus,52,Filo Mix,38,7.0,15,0.05,5,Grains/Cereals
+1997-12-08,VAFFE,Århus,61,Sirop d'érable,113,28.5,20,0.0,2,Condiments
+1997-12-08,VAFFE,Århus,62,Tarte au sucre,17,49.3,15,0.0,3,Confections
+1997-12-09,HANAR,Rio de Janeiro,11,Queso Cabrales,22,21.0,15,0.25,4,Dairy Products
+1997-12-10,ERNSH,Graz,71,Flotemysost,26,21.5,16,0.0,4,Dairy Products
+1997-12-10,LEHMS,Frankfurt a.M.,29,Thüringer Rostbratwurst,0,123.79,18,0.0,6,Meat/Poultry
+1997-12-10,LEHMS,Frankfurt a.M.,59,Raclette Courdavault,79,55.0,25,0.0,4,Dairy Products
+1997-12-11,ERNSH,Graz,17,Alice Mutton,0,39.0,33,0.0,6,Meat/Poultry
+1997-12-11,ERNSH,Graz,31,Gorgonzola Telino,0,12.5,70,0.2,4,Dairy Products
+1997-12-11,ERNSH,Graz,75,Rhönbräu Klosterbier,125,7.75,7,0.2,1,Beverages
+1997-12-11,FOLKO,Bräcke,31,Gorgonzola Telino,0,12.5,2,0.25,4,Dairy Products
+1997-12-11,FOLKO,Bräcke,66,Louisiana Hot Spiced Okra,4,17.0,50,0.0,2,Condiments
+1997-12-12,THECR,Butte,10,Ikura,31,31.0,6,0.0,8,Seafood
+1997-12-12,THECR,Butte,67,Laughing Lumberjack Lager,52,14.0,3,0.0,1,Beverages
+1997-12-15,ERNSH,Graz,31,Gorgonzola Telino,0,12.5,16,0.05,4,Dairy Products
+1997-12-15,ERNSH,Graz,42,Singaporean Hokkien Fried Mee,26,14.0,12,0.05,5,Grains/Cereals
+1997-12-15,ERNSH,Graz,45,Rogede sild,5,9.5,27,0.05,8,Seafood
+1997-12-15,ERNSH,Graz,51,Manjimup Dried Apples,20,53.0,120,0.05,7,Produce
+1997-12-15,GOURL,Campinas,42,Singaporean Hokkien Fried Mee,26,14.0,20,0.2,5,Grains/Cereals
+1997-12-16,BERGS,Luleå,41,Jack's New England Clam Chowder,85,9.65,10,0.0,8,Seafood
+1997-12-16,MORGK,Leipzig,16,Pavlova,29,17.45,20,0.0,3,Confections
+1997-12-16,MORGK,Leipzig,62,Tarte au sucre,17,49.3,20,0.0,3,Confections
+1997-12-16,LILAS,Barquisimeto,70,Outback Lager,15,15.0,35,0.0,1,Beverages
+1997-12-16,LILAS,Barquisimeto,77,Original Frankfurter grüne Soße,32,13.0,15,0.0,2,Condiments
+1997-12-17,WARTH,Oulu,54,Tourtière,21,7.45,3,0.2,6,Meat/Poultry
+1997-12-17,WARTH,Oulu,56,Gnocchi di nonna Alice,21,38.0,20,0.2,5,Grains/Cereals
+1997-12-17,WARTH,Oulu,74,Longlife Tofu,4,10.0,35,0.0,7,Produce
+1997-12-17,CACTU,Buenos Aires,31,Gorgonzola Telino,0,12.5,1,0.0,4,Dairy Products
+1997-12-18,HANAR,Rio de Janeiro,31,Gorgonzola Telino,0,12.5,10,0.0,4,Dairy Products
+1997-12-18,HANAR,Rio de Janeiro,38,Côte de Blaye,17,263.5,5,0.0,1,Beverages
+1997-12-18,MAGAA,Bergamo,36,Inlagd Sill,112,19.0,30,0.0,8,Seafood
+1997-12-18,MAGAA,Bergamo,39,Chartreuse verte,69,18.0,2,0.15,1,Beverages
+1997-12-18,MAGAA,Bergamo,72,Mozzarella di Giovanni,14,34.8,30,0.15,4,Dairy Products
+1997-12-18,GROSR,Caracas,10,Ikura,31,31.0,10,0.0,8,Seafood
+1997-12-18,GROSR,Caracas,75,Rhönbräu Klosterbier,125,7.75,10,0.0,1,Beverages
+1997-12-19,QUEEN,Sao Paulo,8,Northwoods Cranberry Sauce,6,40.0,30,0.2,2,Condiments
+1997-12-19,QUEEN,Sao Paulo,30,Nord-Ost Matjeshering,10,25.89,15,0.2,8,Seafood
+1997-12-19,QUEEN,Sao Paulo,75,Rhönbräu Klosterbier,125,7.75,42,0.2,1,Beverages
+1997-12-19,LAMAI,Toulouse,2,Chang,17,19.0,15,0.05,1,Beverages
+1997-12-19,LAMAI,Toulouse,29,Thüringer Rostbratwurst,0,123.79,20,0.05,6,Meat/Poultry
+1997-12-22,QUICK,Cunewalde,19,Teatime Chocolate Biscuits,25,9.2,50,0.05,3,Confections
+1997-12-22,QUICK,Cunewalde,75,Rhönbräu Klosterbier,125,7.75,40,0.05,1,Beverages
+1997-12-22,FOLIG,Lille,18,Carnarvon Tigers,42,62.5,30,0.0,8,Seafood
+1997-12-22,FOLIG,Lille,35,Steeleye Stout,20,18.0,15,0.0,1,Beverages
+1997-12-22,FOLIG,Lille,63,Vegie-spread,24,43.9,30,0.0,2,Condiments
+1997-12-22,FOLIG,Lille,68,Scottish Longbreads,6,12.5,18,0.0,3,Confections
+1997-12-22,GOURL,Campinas,7,Uncle Bob's Organic Dried Pears,15,30.0,3,0.15,7,Produce
+1997-12-22,GOURL,Campinas,56,Gnocchi di nonna Alice,21,38.0,20,0.15,5,Grains/Cereals
+1997-12-23,FRANK,München,29,Thüringer Rostbratwurst,0,123.79,14,0.05,6,Meat/Poultry
+1997-12-23,FRANK,München,41,Jack's New England Clam Chowder,85,9.65,20,0.05,8,Seafood
+1997-12-23,WOLZA,Warszawa,2,Chang,17,19.0,10,0.0,1,Beverages
+1997-12-23,WOLZA,Warszawa,54,Tourtière,21,7.45,3,0.0,6,Meat/Poultry
+1997-12-23,WOLZA,Warszawa,68,Scottish Longbreads,6,12.5,15,0.0,3,Confections
+1997-12-24,AROUT,London,41,Jack's New England Clam Chowder,85,9.65,14,0.0,8,Seafood
+1997-12-24,AROUT,London,52,Filo Mix,38,7.0,8,0.0,5,Grains/Cereals
+1997-12-24,QUEDE,Rio de Janeiro,14,Tofu,35,23.25,15,0.2,7,Produce
+1997-12-24,QUEDE,Rio de Janeiro,54,Tourtière,21,7.45,6,0.2,6,Meat/Poultry
+1997-12-24,ERNSH,Graz,16,Pavlova,29,17.45,65,0.0,3,Confections
+1997-12-24,ERNSH,Graz,17,Alice Mutton,0,39.0,35,0.25,6,Meat/Poultry
+1997-12-25,HILAA,San Cristóbal,26,Gumbär Gummibärchen,15,31.23,21,0.2,3,Confections
+1997-12-25,HILAA,San Cristóbal,44,Gula Malacca,27,19.45,10,0.0,2,Condiments
+1997-12-25,HILAA,San Cristóbal,64,Wimmers gute Semmelknödel,22,33.25,35,0.2,5,Grains/Cereals
+1997-12-25,HILAA,San Cristóbal,69,Gudbrandsdalsost,26,36.0,24,0.2,4,Dairy Products
+1997-12-25,DRACD,Aachen,11,Queso Cabrales,22,21.0,20,0.0,4,Dairy Products
+1997-12-26,ISLAT,Cowes,62,Tarte au sucre,17,49.3,2,0.0,3,Confections
+1997-12-26,ISLAT,Cowes,72,Mozzarella di Giovanni,14,34.8,10,0.0,4,Dairy Products
+1997-12-26,KOENE,Brandenburg,13,Konbu,24,6.0,20,0.15,8,Seafood
+1997-12-26,KOENE,Brandenburg,24,Guaraná Fantástica,20,4.5,20,0.15,1,Beverages
+1997-12-26,KOENE,Brandenburg,59,Raclette Courdavault,79,55.0,25,0.0,4,Dairy Products
+1997-12-26,SEVES,London,11,Queso Cabrales,22,21.0,50,0.1,4,Dairy Products
+1997-12-26,SEVES,London,51,Manjimup Dried Apples,20,53.0,10,0.1,7,Produce
+1997-12-26,SEVES,London,54,Tourtière,21,7.45,7,0.1,6,Meat/Poultry
+1997-12-29,BOLID,Madrid,17,Alice Mutton,0,39.0,40,0.25,6,Meat/Poultry
+1997-12-29,BOLID,Madrid,29,Thüringer Rostbratwurst,0,123.79,20,0.25,6,Meat/Poultry
+1997-12-29,SIMOB,Kobenhavn,30,Nord-Ost Matjeshering,10,25.89,25,0.25,8,Seafood
+1997-12-29,SIMOB,Kobenhavn,51,Manjimup Dried Apples,20,53.0,30,0.25,7,Produce
+1997-12-29,SIMOB,Kobenhavn,55,Pâté chinois,115,24.0,60,0.25,6,Meat/Poultry
+1997-12-29,SIMOB,Kobenhavn,62,Tarte au sucre,17,49.3,5,0.25,3,Confections
+1997-12-30,WELLI,Resende,19,Teatime Chocolate Biscuits,25,9.2,24,0.05,3,Confections
+1997-12-30,WELLI,Resende,25,NuNuCa Nuß-Nougat-Creme,76,14.0,15,0.05,3,Confections
+1997-12-30,WELLI,Resende,59,Raclette Courdavault,79,55.0,15,0.05,4,Dairy Products
+1997-12-30,SEVES,London,10,Ikura,31,31.0,36,0.0,8,Seafood
+1997-12-30,SEVES,London,28,Rössle Sauerkraut,26,45.6,24,0.0,7,Produce
+1997-12-30,SEVES,London,49,Maxilaku,10,20.0,4,0.15,3,Confections
+1997-12-30,THEBI,Portland,34,Sasquatch Ale,111,14.0,10,0.0,1,Beverages
+1997-12-30,THEBI,Portland,38,Côte de Blaye,17,263.5,10,0.0,1,Beverages
+1997-12-31,VICTE,Lyon,2,Chang,17,19.0,20,0.25,1,Beverages
+1997-12-31,VICTE,Lyon,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,2,0.0,2,Condiments
+1997-12-31,VICTE,Lyon,74,Longlife Tofu,4,10.0,15,0.25,7,Produce
+1997-12-31,FRANS,Torino,40,Boston Crab Meat,123,18.4,1,0.0,8,Seafood
+1998-01-01,OLDWO,Anchorage,56,Gnocchi di nonna Alice,21,38.0,20,0.15,5,Grains/Cereals
+1998-01-01,OLDWO,Anchorage,76,Lakkalikööri,57,18.0,50,0.15,1,Beverages
+1998-01-01,WELLI,Resende,52,Filo Mix,38,7.0,20,0.0,5,Grains/Cereals
+1998-01-01,LAUGB,Vancouver,13,Konbu,24,6.0,7,0.0,8,Seafood
+1998-01-01,LAUGB,Vancouver,25,NuNuCa Nuß-Nougat-Creme,76,14.0,5,0.0,3,Confections
+1998-01-01,LAUGB,Vancouver,70,Outback Lager,15,15.0,5,0.0,1,Beverages
+1998-01-02,LINOD,I. de Margarita,19,Teatime Chocolate Biscuits,25,9.2,15,0.0,3,Confections
+1998-01-02,LINOD,I. de Margarita,23,Tunnbröd,61,9.0,18,0.0,5,Grains/Cereals
+1998-01-02,LINOD,I. de Margarita,40,Boston Crab Meat,123,18.4,30,0.0,8,Seafood
+1998-01-02,REGGC,Reggio Emilia,31,Gorgonzola Telino,0,12.5,16,0.1,4,Dairy Products
+1998-01-02,REGGC,Reggio Emilia,72,Mozzarella di Giovanni,14,34.8,40,0.1,4,Dairy Products
+1998-01-02,REGGC,Reggio Emilia,77,Original Frankfurter grüne Soße,32,13.0,20,0.0,2,Condiments
+1998-01-05,RICAR,Rio de Janeiro,2,Chang,17,19.0,12,0.2,1,Beverages
+1998-01-05,RICAR,Rio de Janeiro,46,Spegesild,95,12.0,35,0.0,8,Seafood
+1998-01-05,VICTE,Lyon,41,Jack's New England Clam Chowder,85,9.65,20,0.0,8,Seafood
+1998-01-05,VICTE,Lyon,43,Ipoh Coffee,17,46.0,20,0.15,1,Beverages
+1998-01-05,VICTE,Lyon,48,Chocolade,15,12.75,8,0.15,3,Confections
+1998-01-05,VICTE,Lyon,61,Sirop d'érable,113,28.5,30,0.15,2,Condiments
+1998-01-05,SAVEA,Boise,33,Geitost,112,2.5,16,0.0,4,Dairy Products
+1998-01-06,GREAL,Eugene,38,Côte de Blaye,17,263.5,30,0.05,1,Beverages
+1998-01-06,GREAL,Eugene,62,Tarte au sucre,17,49.3,20,0.05,3,Confections
+1998-01-06,KOENE,Brandenburg,26,Gumbär Gummibärchen,15,31.23,40,0.15,3,Confections
+1998-01-06,KOENE,Brandenburg,38,Côte de Blaye,17,263.5,30,0.0,1,Beverages
+1998-01-06,KOENE,Brandenburg,40,Boston Crab Meat,123,18.4,60,0.15,8,Seafood
+1998-01-06,KOENE,Brandenburg,62,Tarte au sucre,17,49.3,25,0.15,3,Confections
+1998-01-07,MAGAA,Bergamo,32,Mascarpone Fabioli,9,32.0,20,0.0,4,Dairy Products
+1998-01-07,MAGAA,Bergamo,41,Jack's New England Clam Chowder,85,9.65,20,0.0,8,Seafood
+1998-01-07,CACTU,Buenos Aires,43,Ipoh Coffee,17,46.0,7,0.0,1,Beverages
+1998-01-07,CACTU,Buenos Aires,75,Rhönbräu Klosterbier,125,7.75,20,0.0,1,Beverages
+1998-01-07,RATTC,Albuquerque,56,Gnocchi di nonna Alice,21,38.0,30,0.0,5,Grains/Cereals
+1998-01-08,SPLIR,Lander,35,Steeleye Stout,20,18.0,20,0.0,1,Beverages
+1998-01-08,SPLIR,Lander,51,Manjimup Dried Apples,20,53.0,6,0.0,7,Produce
+1998-01-08,TRAIH,Kirkland,62,Tarte au sucre,17,49.3,3,0.0,3,Confections
+1998-01-08,TRAIH,Kirkland,70,Outback Lager,15,15.0,6,0.0,1,Beverages
+1998-01-09,LILAS,Barquisimeto,11,Queso Cabrales,22,21.0,20,0.1,4,Dairy Products
+1998-01-09,LILAS,Barquisimeto,57,Ravioli Angelo,36,19.5,15,0.0,5,Grains/Cereals
+1998-01-09,LILAS,Barquisimeto,59,Raclette Courdavault,79,55.0,40,0.1,4,Dairy Products
+1998-01-09,LILAS,Barquisimeto,77,Original Frankfurter grüne Soße,32,13.0,15,0.1,2,Condiments
+1998-01-09,FOLKO,Bräcke,41,Jack's New England Clam Chowder,85,9.65,12,0.0,8,Seafood
+1998-01-09,FOLKO,Bräcke,70,Outback Lager,15,15.0,9,0.0,1,Beverages
+1998-01-09,DRACD,Aachen,26,Gumbär Gummibärchen,15,31.23,12,0.0,3,Confections
+1998-01-09,DRACD,Aachen,53,Perth Pasties,0,32.8,20,0.0,6,Meat/Poultry
+1998-01-12,BLONP,Strasbourg,31,Gorgonzola Telino,0,12.5,35,0.0,4,Dairy Products
+1998-01-12,BLONP,Strasbourg,57,Ravioli Angelo,36,19.5,15,0.0,5,Grains/Cereals
+1998-01-12,BONAP,Marseille,10,Ikura,31,31.0,15,0.0,8,Seafood
+1998-01-12,BONAP,Marseille,39,Chartreuse verte,69,18.0,21,0.0,1,Beverages
+1998-01-13,RANCH,Buenos Aires,20,Sir Rodney's Marmalade,40,81.0,5,0.0,3,Confections
+1998-01-13,RANCH,Buenos Aires,38,Côte de Blaye,17,263.5,2,0.0,1,Beverages
+1998-01-13,ISLAT,Cowes,2,Chang,17,19.0,10,0.0,1,Beverages
+1998-01-13,ISLAT,Cowes,8,Northwoods Cranberry Sauce,6,40.0,20,0.0,2,Condiments
+1998-01-13,ISLAT,Cowes,13,Konbu,24,6.0,10,0.0,8,Seafood
+1998-01-13,ISLAT,Cowes,60,Camembert Pierrot,19,34.0,21,0.0,4,Dairy Products
+1998-01-13,TRADH,Sao Paulo,6,Grandma's Boysenberry Spread,120,25.0,6,0.0,2,Condiments
+1998-01-13,TRADH,Sao Paulo,39,Chartreuse verte,69,18.0,28,0.0,1,Beverages
+1998-01-13,TRADH,Sao Paulo,60,Camembert Pierrot,19,34.0,30,0.0,4,Dairy Products
+1998-01-13,TRADH,Sao Paulo,68,Scottish Longbreads,6,12.5,24,0.0,3,Confections
+1998-01-14,SANTG,Stavern,19,Teatime Chocolate Biscuits,25,9.2,2,0.0,3,Confections
+1998-01-14,SANTG,Stavern,35,Steeleye Stout,20,18.0,8,0.0,1,Beverages
+1998-01-14,SANTG,Stavern,38,Côte de Blaye,17,263.5,8,0.0,1,Beverages
+1998-01-14,SANTG,Stavern,43,Ipoh Coffee,17,46.0,9,0.0,1,Beverages
+1998-01-14,LAMAI,Toulouse,13,Konbu,24,6.0,3,0.2,8,Seafood
+1998-01-14,LAMAI,Toulouse,25,NuNuCa Nuß-Nougat-Creme,76,14.0,10,0.2,3,Confections
+1998-01-14,LAMAI,Toulouse,44,Gula Malacca,27,19.45,16,0.2,2,Condiments
+1998-01-14,LAMAI,Toulouse,64,Wimmers gute Semmelknödel,22,33.25,3,0.0,5,Grains/Cereals
+1998-01-15,OTTIK,Köln,7,Uncle Bob's Organic Dried Pears,15,30.0,20,0.1,7,Produce
+1998-01-15,OTTIK,Köln,31,Gorgonzola Telino,0,12.5,9,0.1,4,Dairy Products
+1998-01-15,OTTIK,Köln,53,Perth Pasties,0,32.8,9,0.1,6,Meat/Poultry
+1998-01-15,TRADH,Sao Paulo,29,Thüringer Rostbratwurst,0,123.79,8,0.05,6,Meat/Poultry
+1998-01-15,TRADH,Sao Paulo,30,Nord-Ost Matjeshering,10,25.89,20,0.05,8,Seafood
+1998-01-15,ALFKI,Berlin,59,Raclette Courdavault,79,55.0,15,0.0,4,Dairy Products
+1998-01-15,ALFKI,Berlin,77,Original Frankfurter grüne Soße,32,13.0,2,0.2,2,Condiments
+1998-01-16,ERNSH,Graz,22,Gustaf's Knäckebröd,104,21.0,52,0.0,5,Grains/Cereals
+1998-01-16,ERNSH,Graz,35,Steeleye Stout,20,18.0,6,0.0,1,Beverages
+1998-01-16,ERNSH,Graz,57,Ravioli Angelo,36,19.5,24,0.0,5,Grains/Cereals
+1998-01-16,ERNSH,Graz,60,Camembert Pierrot,19,34.0,60,0.0,4,Dairy Products
+1998-01-16,ERNSH,Graz,64,Wimmers gute Semmelknödel,22,33.25,30,0.0,5,Grains/Cereals
+1998-01-16,BERGS,Luleå,13,Konbu,24,6.0,6,0.0,8,Seafood
+1998-01-16,BERGS,Luleå,40,Boston Crab Meat,123,18.4,25,0.0,8,Seafood
+1998-01-16,BERGS,Luleå,47,Zaanse koeken,36,9.5,40,0.25,3,Confections
+1998-01-16,BERGS,Luleå,76,Lakkalikööri,57,18.0,21,0.25,1,Beverages
+1998-01-19,LINOD,I. de Margarita,1,Chai,39,18.0,4,0.25,1,Beverages
+1998-01-19,LINOD,I. de Margarita,18,Carnarvon Tigers,42,62.5,25,0.25,8,Seafood
+1998-01-19,LINOD,I. de Margarita,36,Inlagd Sill,112,19.0,50,0.25,8,Seafood
+1998-01-19,TRADH,Sao Paulo,58,Escargots de Bourgogne,62,13.25,30,0.1,8,Seafood
+1998-01-19,TRADH,Sao Paulo,72,Mozzarella di Giovanni,14,34.8,15,0.1,4,Dairy Products
+1998-01-19,LINOD,I. de Margarita,25,NuNuCa Nuß-Nougat-Creme,76,14.0,6,0.2,3,Confections
+1998-01-19,LINOD,I. de Margarita,39,Chartreuse verte,69,18.0,10,0.2,1,Beverages
+1998-01-20,SUPRD,Charleroi,10,Ikura,31,31.0,16,0.0,8,Seafood
+1998-01-20,SUPRD,Charleroi,56,Gnocchi di nonna Alice,21,38.0,30,0.0,5,Grains/Cereals
+1998-01-20,SUPRD,Charleroi,59,Raclette Courdavault,79,55.0,50,0.0,4,Dairy Products
+1998-01-20,SUPRD,Charleroi,77,Original Frankfurter grüne Soße,32,13.0,15,0.0,2,Condiments
+1998-01-20,TORTU,México D.F.,11,Queso Cabrales,22,21.0,15,0.0,4,Dairy Products
+1998-01-20,TORTU,México D.F.,43,Ipoh Coffee,17,46.0,5,0.0,1,Beverages
+1998-01-20,TORTU,México D.F.,68,Scottish Longbreads,6,12.5,20,0.0,3,Confections
+1998-01-20,TORTU,México D.F.,70,Outback Lager,15,15.0,12,0.0,1,Beverages
+1998-01-21,VICTE,Lyon,51,Manjimup Dried Apples,20,53.0,4,0.25,7,Produce
+1998-01-21,PICCO,Salzburg,22,Gustaf's Knäckebröd,104,21.0,35,0.0,5,Grains/Cereals
+1998-01-21,QUICK,Cunewalde,23,Tunnbröd,61,9.0,70,0.1,5,Grains/Cereals
+1998-01-21,QUICK,Cunewalde,35,Steeleye Stout,20,18.0,25,0.1,1,Beverages
+1998-01-21,QUICK,Cunewalde,42,Singaporean Hokkien Fried Mee,26,14.0,42,0.1,5,Grains/Cereals
+1998-01-21,QUICK,Cunewalde,58,Escargots de Bourgogne,62,13.25,60,0.1,8,Seafood
+1998-01-21,QUICK,Cunewalde,64,Wimmers gute Semmelknödel,22,33.25,48,0.0,5,Grains/Cereals
+1998-01-22,SUPRD,Charleroi,4,Chef Anton's Cajun Seasoning,53,22.0,21,0.0,2,Condiments
+1998-01-22,SUPRD,Charleroi,70,Outback Lager,15,15.0,30,0.0,1,Beverages
+1998-01-22,SUPRD,Charleroi,74,Longlife Tofu,4,10.0,20,0.0,7,Produce
+1998-01-22,SAVEA,Boise,1,Chai,39,18.0,80,0.2,1,Beverages
+1998-01-22,SAVEA,Boise,19,Teatime Chocolate Biscuits,25,9.2,12,0.2,3,Confections
+1998-01-22,SAVEA,Boise,37,Gravad lax,11,26.0,60,0.2,8,Seafood
+1998-01-22,SAVEA,Boise,45,Rogede sild,5,9.5,36,0.2,8,Seafood
+1998-01-22,SAVEA,Boise,60,Camembert Pierrot,19,34.0,45,0.2,4,Dairy Products
+1998-01-22,SAVEA,Boise,71,Flotemysost,26,21.5,55,0.2,4,Dairy Products
+1998-01-23,CONSH,London,5,Chef Anton's Gumbo Mix,0,21.35,30,0.0,2,Condiments
+1998-01-23,CONSH,London,9,Mishi Kobe Niku,29,97.0,3,0.0,6,Meat/Poultry
+1998-01-23,KOENE,Brandenburg,3,Aniseed Syrup,13,10.0,49,0.0,2,Condiments
+1998-01-23,KOENE,Brandenburg,26,Gumbär Gummibärchen,15,31.23,18,0.15,3,Confections
+1998-01-23,VICTE,Lyon,25,NuNuCa Nuß-Nougat-Creme,76,14.0,20,0.15,3,Confections
+1998-01-23,VICTE,Lyon,33,Geitost,112,2.5,4,0.15,4,Dairy Products
+1998-01-23,VICTE,Lyon,70,Outback Lager,15,15.0,30,0.15,1,Beverages
+1998-01-26,RICAR,Rio de Janeiro,2,Chang,17,19.0,5,0.05,1,Beverages
+1998-01-26,RICAR,Rio de Janeiro,25,NuNuCa Nuß-Nougat-Creme,76,14.0,10,0.05,3,Confections
+1998-01-26,RICAR,Rio de Janeiro,57,Ravioli Angelo,36,19.5,10,0.05,5,Grains/Cereals
+1998-01-26,RICAR,Rio de Janeiro,59,Raclette Courdavault,79,55.0,42,0.05,4,Dairy Products
+1998-01-26,RATTC,Albuquerque,2,Chang,17,19.0,15,0.0,1,Beverages
+1998-01-26,RATTC,Albuquerque,17,Alice Mutton,0,39.0,6,0.0,6,Meat/Poultry
+1998-01-26,RATTC,Albuquerque,62,Tarte au sucre,17,49.3,50,0.0,3,Confections
+1998-01-27,BLAUS,Mannheim,18,Carnarvon Tigers,42,62.5,10,0.0,8,Seafood
+1998-01-27,ERNSH,Graz,10,Ikura,31,31.0,100,0.15,8,Seafood
+1998-01-27,ERNSH,Graz,13,Konbu,24,6.0,65,0.15,8,Seafood
+1998-01-27,OLDWO,Anchorage,16,Pavlova,29,17.45,50,0.0,3,Confections
+1998-01-27,OLDWO,Anchorage,31,Gorgonzola Telino,0,12.5,14,0.0,4,Dairy Products
+1998-01-27,OLDWO,Anchorage,56,Gnocchi di nonna Alice,21,38.0,24,0.0,5,Grains/Cereals
+1998-01-27,OLDWO,Anchorage,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,15,0.15,2,Condiments
+1998-01-28,ANTON,México D.F.,2,Chang,17,19.0,20,0.0,1,Beverages
+1998-01-28,ANTON,México D.F.,42,Singaporean Hokkien Fried Mee,26,14.0,20,0.0,5,Grains/Cereals
+1998-01-28,BERGS,Luleå,3,Aniseed Syrup,13,10.0,30,0.0,2,Condiments
+1998-01-28,BERGS,Luleå,26,Gumbär Gummibärchen,15,31.23,35,0.25,3,Confections
+1998-01-28,BERGS,Luleå,29,Thüringer Rostbratwurst,0,123.79,10,0.25,6,Meat/Poultry
+1998-01-29,LACOR,Versailles,7,Uncle Bob's Organic Dried Pears,15,30.0,5,0.0,7,Produce
+1998-01-29,LACOR,Versailles,27,Schoggi Schokolade,49,43.9,10,0.0,3,Confections
+1998-01-29,LACOR,Versailles,70,Outback Lager,15,15.0,4,0.0,1,Beverages
+1998-01-29,FRANK,München,24,Guaraná Fantástica,20,4.5,40,0.25,1,Beverages
+1998-01-29,FRANK,München,54,Tourtière,21,7.45,35,0.25,6,Meat/Poultry
+1998-01-29,FRANK,München,64,Wimmers gute Semmelknödel,22,33.25,30,0.25,5,Grains/Cereals
+1998-01-29,FRANR,Nantes,51,Manjimup Dried Apples,20,53.0,3,0.0,7,Produce
+1998-01-29,FRANR,Nantes,76,Lakkalikööri,57,18.0,20,0.0,1,Beverages
+1998-01-30,WHITC,Seattle,17,Alice Mutton,0,39.0,42,0.0,6,Meat/Poultry
+1998-01-30,WHITC,Seattle,18,Carnarvon Tigers,42,62.5,20,0.0,8,Seafood
+1998-01-30,WHITC,Seattle,21,Sir Rodney's Scones,3,10.0,40,0.0,3,Confections
+1998-01-30,WHITC,Seattle,33,Geitost,112,2.5,35,0.0,4,Dairy Products
+1998-01-30,WHITC,Seattle,62,Tarte au sucre,17,49.3,3,0.0,3,Confections
+1998-01-30,LEHMS,Frankfurt a.M.,11,Queso Cabrales,22,21.0,25,0.0,4,Dairy Products
+1998-01-30,LEHMS,Frankfurt a.M.,52,Filo Mix,38,7.0,8,0.0,5,Grains/Cereals
+1998-02-02,HILAA,San Cristóbal,1,Chai,39,18.0,20,0.15,1,Beverages
+1998-02-02,HILAA,San Cristóbal,58,Escargots de Bourgogne,62,13.25,12,0.15,8,Seafood
+1998-02-02,AROUT,London,35,Steeleye Stout,20,18.0,4,0.0,1,Beverages
+1998-02-02,AROUT,London,67,Laughing Lumberjack Lager,52,14.0,15,0.0,1,Beverages
+1998-02-02,QUICK,Cunewalde,38,Côte de Blaye,17,263.5,60,0.05,1,Beverages
+1998-02-02,QUICK,Cunewalde,39,Chartreuse verte,69,18.0,80,0.05,1,Beverages
+1998-02-03,BERGS,Luleå,2,Chang,17,19.0,21,0.25,1,Beverages
+1998-02-03,BERGS,Luleå,24,Guaraná Fantástica,20,4.5,6,0.25,1,Beverages
+1998-02-03,BERGS,Luleå,30,Nord-Ost Matjeshering,10,25.89,40,0.25,8,Seafood
+1998-02-03,LONEP,Portland,53,Perth Pasties,0,32.8,3,0.0,6,Meat/Poultry
+1998-02-04,QUEEN,Sao Paulo,26,Gumbär Gummibärchen,15,31.23,20,0.0,3,Confections
+1998-02-04,QUEEN,Sao Paulo,35,Steeleye Stout,20,18.0,30,0.0,1,Beverages
+1998-02-04,QUEEN,Sao Paulo,49,Maxilaku,10,20.0,42,0.1,3,Confections
+1998-02-04,SEVES,London,1,Chai,39,18.0,40,0.0,1,Beverages
+1998-02-04,SEVES,London,11,Queso Cabrales,22,21.0,10,0.0,4,Dairy Products
+1998-02-04,SEVES,London,23,Tunnbröd,61,9.0,50,0.0,5,Grains/Cereals
+1998-02-04,SEVES,London,68,Scottish Longbreads,6,12.5,20,0.0,3,Confections
+1998-02-04,WOLZA,Warszawa,35,Steeleye Stout,20,18.0,3,0.0,1,Beverages
+1998-02-04,WOLZA,Warszawa,51,Manjimup Dried Apples,20,53.0,2,0.0,7,Produce
+1998-02-05,BONAP,Marseille,6,Grandma's Boysenberry Spread,120,25.0,50,0.05,2,Condiments
+1998-02-05,BONAP,Marseille,16,Pavlova,29,17.45,12,0.05,3,Confections
+1998-02-05,BONAP,Marseille,17,Alice Mutton,0,39.0,16,0.05,6,Meat/Poultry
+1998-02-05,GODOS,Sevilla,55,Pâté chinois,115,24.0,10,0.05,6,Meat/Poultry
+1998-02-05,GODOS,Sevilla,62,Tarte au sucre,17,49.3,20,0.05,3,Confections
+1998-02-05,GODOS,Sevilla,64,Wimmers gute Semmelknödel,22,33.25,15,0.05,5,Grains/Cereals
+1998-02-05,GODOS,Sevilla,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,21,0.05,2,Condiments
+1998-02-06,WILMK,Helsinki,21,Sir Rodney's Scones,3,10.0,20,0.0,3,Confections
+1998-02-06,WILMK,Helsinki,28,Rössle Sauerkraut,26,45.6,3,0.0,7,Produce
+1998-02-06,GODOS,Sevilla,10,Ikura,31,31.0,10,0.0,8,Seafood
+1998-02-06,BERGS,Luleå,19,Teatime Chocolate Biscuits,25,9.2,25,0.0,3,Confections
+1998-02-06,BERGS,Luleå,47,Zaanse koeken,36,9.5,21,0.1,3,Confections
+1998-02-06,BERGS,Luleå,49,Maxilaku,10,20.0,15,0.0,3,Confections
+1998-02-09,BONAP,Marseille,46,Spegesild,95,12.0,21,0.0,8,Seafood
+1998-02-09,BONAP,Marseille,64,Wimmers gute Semmelknödel,22,33.25,20,0.0,5,Grains/Cereals
+1998-02-09,RICAR,Rio de Janeiro,16,Pavlova,29,17.45,30,0.25,3,Confections
+1998-02-09,RICAR,Rio de Janeiro,18,Carnarvon Tigers,42,62.5,25,0.0,8,Seafood
+1998-02-10,QUICK,Cunewalde,20,Sir Rodney's Marmalade,40,81.0,20,0.05,3,Confections
+1998-02-10,WILMK,Helsinki,40,Boston Crab Meat,123,18.4,12,0.0,8,Seafood
+1998-02-10,WILMK,Helsinki,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,10,0.0,2,Condiments
+1998-02-10,WILMK,Helsinki,76,Lakkalikööri,57,18.0,10,0.0,1,Beverages
+1998-02-10,FOLKO,Bräcke,23,Tunnbröd,61,9.0,30,0.2,5,Grains/Cereals
+1998-02-10,FOLKO,Bräcke,61,Sirop d'érable,113,28.5,30,0.2,2,Condiments
+1998-02-10,FOLKO,Bräcke,70,Outback Lager,15,15.0,50,0.2,1,Beverages
+1998-02-11,CACTU,Buenos Aires,73,Röd Kaviar,101,15.0,10,0.0,8,Seafood
+1998-02-11,SAVEA,Boise,42,Singaporean Hokkien Fried Mee,26,14.0,25,0.0,5,Grains/Cereals
+1998-02-11,SAVEA,Boise,49,Maxilaku,10,20.0,20,0.15,3,Confections
+1998-02-11,SAVEA,Boise,54,Tourtière,21,7.45,32,0.15,6,Meat/Poultry
+1998-02-12,LONEP,Portland,24,Guaraná Fantástica,20,4.5,8,0.0,1,Beverages
+1998-02-12,LETSS,San Francisco,21,Sir Rodney's Scones,3,10.0,40,0.05,3,Confections
+1998-02-12,LETSS,San Francisco,56,Gnocchi di nonna Alice,21,38.0,21,0.05,5,Grains/Cereals
+1998-02-12,LETSS,San Francisco,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,12,0.05,2,Condiments
+1998-02-12,SUPRD,Charleroi,2,Chang,17,19.0,20,0.0,1,Beverages
+1998-02-12,SUPRD,Charleroi,24,Guaraná Fantástica,20,4.5,12,0.0,1,Beverages
+1998-02-12,SUPRD,Charleroi,70,Outback Lager,15,15.0,30,0.0,1,Beverages
+1998-02-12,SUPRD,Charleroi,77,Original Frankfurter grüne Soße,32,13.0,25,0.0,2,Condiments
+1998-02-13,HANAR,Rio de Janeiro,10,Ikura,31,31.0,70,0.0,8,Seafood
+1998-02-13,HANAR,Rio de Janeiro,31,Gorgonzola Telino,0,12.5,35,0.0,4,Dairy Products
+1998-02-13,HANAR,Rio de Janeiro,77,Original Frankfurter grüne Soße,32,13.0,40,0.0,2,Condiments
+1998-02-13,GALED,Barcelona,25,NuNuCa Nuß-Nougat-Creme,76,14.0,5,0.0,3,Confections
+1998-02-16,GODOS,Sevilla,2,Chang,17,19.0,20,0.0,1,Beverages
+1998-02-16,GODOS,Sevilla,68,Scottish Longbreads,6,12.5,18,0.0,3,Confections
+1998-02-16,RATTC,Albuquerque,11,Queso Cabrales,22,21.0,40,0.0,4,Dairy Products
+1998-02-16,RATTC,Albuquerque,38,Côte de Blaye,17,263.5,40,0.0,1,Beverages
+1998-02-16,DUMON,Nantes,17,Alice Mutton,0,39.0,15,0.0,6,Meat/Poultry
+1998-02-16,DUMON,Nantes,34,Sasquatch Ale,111,14.0,10,0.0,1,Beverages
+1998-02-16,DUMON,Nantes,41,Jack's New England Clam Chowder,85,9.65,14,0.0,8,Seafood
+1998-02-17,LEHMS,Frankfurt a.M.,30,Nord-Ost Matjeshering,10,25.89,15,0.05,8,Seafood
+1998-02-17,MAISD,Bruxelles,59,Raclette Courdavault,79,55.0,40,0.05,4,Dairy Products
+1998-02-18,KOENE,Brandenburg,8,Northwoods Cranberry Sauce,6,40.0,30,0.0,2,Condiments
+1998-02-18,KOENE,Brandenburg,24,Guaraná Fantástica,20,4.5,10,0.0,1,Beverages
+1998-02-18,KOENE,Brandenburg,29,Thüringer Rostbratwurst,0,123.79,24,0.0,6,Meat/Poultry
+1998-02-18,KOENE,Brandenburg,30,Nord-Ost Matjeshering,10,25.89,35,0.0,8,Seafood
+1998-02-18,KOENE,Brandenburg,36,Inlagd Sill,112,19.0,20,0.0,8,Seafood
+1998-02-18,SAVEA,Boise,13,Konbu,24,6.0,28,0.05,8,Seafood
+1998-02-18,SAVEA,Boise,69,Gudbrandsdalsost,26,36.0,50,0.05,4,Dairy Products
+1998-02-18,SAVEA,Boise,75,Rhönbräu Klosterbier,125,7.75,120,0.05,1,Beverages
+1998-02-18,ERNSH,Graz,24,Guaraná Fantástica,20,4.5,110,0.0,1,Beverages
+1998-02-18,ERNSH,Graz,39,Chartreuse verte,69,18.0,45,0.0,1,Beverages
+1998-02-18,ERNSH,Graz,40,Boston Crab Meat,123,18.4,91,0.0,8,Seafood
+1998-02-18,ERNSH,Graz,60,Camembert Pierrot,19,34.0,100,0.0,4,Dairy Products
+1998-02-19,MAISD,Bruxelles,45,Rogede sild,5,9.5,15,0.0,8,Seafood
+1998-02-19,MAISD,Bruxelles,56,Gnocchi di nonna Alice,21,38.0,16,0.0,5,Grains/Cereals
+1998-02-19,HUNGO,Cork,29,Thüringer Rostbratwurst,0,123.79,80,0.0,6,Meat/Poultry
+1998-02-19,HUNGO,Cork,30,Nord-Ost Matjeshering,10,25.89,36,0.0,8,Seafood
+1998-02-20,OCEAN,Buenos Aires,13,Konbu,24,6.0,5,0.0,8,Seafood
+1998-02-20,LILAS,Barquisimeto,39,Chartreuse verte,69,18.0,8,0.15,1,Beverages
+1998-02-20,WELLI,Resende,70,Outback Lager,15,15.0,3,0.25,1,Beverages
+1998-02-23,HILAA,San Cristóbal,41,Jack's New England Clam Chowder,85,9.65,30,0.0,8,Seafood
+1998-02-23,HILAA,San Cristóbal,71,Flotemysost,26,21.5,30,0.0,4,Dairy Products
+1998-02-23,FOLKO,Bräcke,55,Pâté chinois,115,24.0,30,0.15,6,Meat/Poultry
+1998-02-23,FOLKO,Bräcke,62,Tarte au sucre,17,49.3,6,0.15,3,Confections
+1998-02-24,HANAR,Rio de Janeiro,13,Konbu,24,6.0,40,0.0,8,Seafood
+1998-02-24,HANAR,Rio de Janeiro,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,21,0.0,2,Condiments
+1998-02-24,HANAR,Rio de Janeiro,68,Scottish Longbreads,6,12.5,20,0.0,3,Confections
+1998-02-24,WHITC,Seattle,58,Escargots de Bourgogne,62,13.25,15,0.0,8,Seafood
+1998-02-24,WHITC,Seattle,62,Tarte au sucre,17,49.3,35,0.0,3,Confections
+1998-02-24,WELLI,Resende,1,Chai,39,18.0,20,0.05,1,Beverages
+1998-02-25,WOLZA,Warszawa,61,Sirop d'érable,113,28.5,15,0.0,2,Condiments
+1998-02-25,SPECD,Paris,75,Rhönbräu Klosterbier,125,7.75,14,0.0,1,Beverages
+1998-02-26,REGGC,Reggio Emilia,7,Uncle Bob's Organic Dried Pears,15,30.0,20,0.05,7,Produce
+1998-02-26,REGGC,Reggio Emilia,52,Filo Mix,38,7.0,14,0.05,5,Grains/Cereals
+1998-02-26,SANTG,Stavern,7,Uncle Bob's Organic Dried Pears,15,30.0,12,0.0,7,Produce
+1998-02-26,SANTG,Stavern,16,Pavlova,29,17.45,15,0.0,3,Confections
+1998-02-26,SANTG,Stavern,41,Jack's New England Clam Chowder,85,9.65,5,0.0,8,Seafood
+1998-02-26,WILMK,Helsinki,19,Teatime Chocolate Biscuits,25,9.2,12,0.0,3,Confections
+1998-02-26,WILMK,Helsinki,49,Maxilaku,10,20.0,10,0.0,3,Confections
+1998-02-26,WILMK,Helsinki,61,Sirop d'érable,113,28.5,5,0.0,2,Condiments
+1998-02-26,GODOS,Sevilla,1,Chai,39,18.0,10,0.0,1,Beverages
+1998-02-26,GODOS,Sevilla,17,Alice Mutton,0,39.0,12,0.0,6,Meat/Poultry
+1998-02-26,GODOS,Sevilla,67,Laughing Lumberjack Lager,52,14.0,15,0.0,1,Beverages
+1998-02-26,HUNGO,Cork,11,Queso Cabrales,22,21.0,40,0.25,4,Dairy Products
+1998-02-26,HUNGO,Cork,29,Thüringer Rostbratwurst,0,123.79,60,0.25,6,Meat/Poultry
+1998-02-26,QUEEN,Sao Paulo,4,Chef Anton's Cajun Seasoning,53,22.0,30,0.25,2,Condiments
+1998-02-26,QUEEN,Sao Paulo,33,Geitost,112,2.5,40,0.25,4,Dairy Products
+1998-02-26,QUEEN,Sao Paulo,58,Escargots de Bourgogne,62,13.25,15,0.0,8,Seafood
+1998-02-27,QUEEN,Sao Paulo,71,Flotemysost,26,21.5,25,0.0,4,Dairy Products
+1998-02-27,TORTU,México D.F.,17,Alice Mutton,0,39.0,10,0.0,6,Meat/Poultry
+1998-02-27,TORTU,México D.F.,33,Geitost,112,2.5,30,0.0,4,Dairy Products
+1998-02-27,TORTU,México D.F.,54,Tourtière,21,7.45,10,0.0,6,Meat/Poultry
+1998-02-27,RANCH,Buenos Aires,16,Pavlova,29,17.45,6,0.0,3,Confections
+1998-02-27,RANCH,Buenos Aires,32,Mascarpone Fabioli,9,32.0,6,0.0,4,Dairy Products
+1998-02-27,RANCH,Buenos Aires,57,Ravioli Angelo,36,19.5,20,0.0,5,Grains/Cereals
+1998-03-02,ROMEY,Madrid,30,Nord-Ost Matjeshering,10,25.89,1,0.0,8,Seafood
+1998-03-02,ROMEY,Madrid,60,Camembert Pierrot,19,34.0,10,0.0,4,Dairy Products
+1998-03-02,BOTTM,Tsawassen,1,Chai,39,18.0,60,0.25,1,Beverages
+1998-03-02,BOTTM,Tsawassen,60,Camembert Pierrot,19,34.0,25,0.25,4,Dairy Products
+1998-03-02,LINOD,I. de Margarita,16,Pavlova,29,17.45,24,0.0,3,Confections
+1998-03-02,LINOD,I. de Margarita,25,NuNuCa Nuß-Nougat-Creme,76,14.0,24,0.0,3,Confections
+1998-03-02,LINOD,I. de Margarita,40,Boston Crab Meat,123,18.4,20,0.0,8,Seafood
+1998-03-03,AROUT,London,50,Valkoinen suklaa,65,16.25,24,0.0,3,Confections
+1998-03-03,VAFFE,Århus,35,Steeleye Stout,20,18.0,10,0.0,1,Beverages
+1998-03-03,VAFFE,Århus,63,Vegie-spread,24,43.9,40,0.0,2,Condiments
+1998-03-03,HANAR,Rio de Janeiro,17,Alice Mutton,0,39.0,15,0.0,6,Meat/Poultry
+1998-03-03,HANAR,Rio de Janeiro,24,Guaraná Fantástica,20,4.5,35,0.0,1,Beverages
+1998-03-03,LAMAI,Toulouse,42,Singaporean Hokkien Fried Mee,26,14.0,10,0.2,5,Grains/Cereals
+1998-03-03,LAMAI,Toulouse,43,Ipoh Coffee,17,46.0,10,0.2,1,Beverages
+1998-03-03,LAMAI,Toulouse,67,Laughing Lumberjack Lager,52,14.0,24,0.2,1,Beverages
+1998-03-04,BERGS,Luleå,10,Ikura,31,31.0,20,0.1,8,Seafood
+1998-03-04,BERGS,Luleå,28,Rössle Sauerkraut,26,45.6,30,0.1,7,Produce
+1998-03-04,BERGS,Luleå,75,Rhönbräu Klosterbier,125,7.75,6,0.0,1,Beverages
+1998-03-04,HANAR,Rio de Janeiro,36,Inlagd Sill,112,19.0,25,0.15,8,Seafood
+1998-03-04,HANAR,Rio de Janeiro,52,Filo Mix,38,7.0,12,0.15,5,Grains/Cereals
+1998-03-04,ANATR,México D.F.,11,Queso Cabrales,22,21.0,2,0.0,4,Dairy Products
+1998-03-04,ANATR,México D.F.,13,Konbu,24,6.0,10,0.0,8,Seafood
+1998-03-04,ANATR,México D.F.,19,Teatime Chocolate Biscuits,25,9.2,7,0.0,3,Confections
+1998-03-04,ANATR,México D.F.,72,Mozzarella di Giovanni,14,34.8,10,0.0,4,Dairy Products
+1998-03-05,LACOR,Versailles,20,Sir Rodney's Marmalade,40,81.0,5,0.0,3,Confections
+1998-03-05,LACOR,Versailles,52,Filo Mix,38,7.0,5,0.0,5,Grains/Cereals
+1998-03-05,LACOR,Versailles,76,Lakkalikööri,57,18.0,20,0.0,1,Beverages
+1998-03-05,GALED,Barcelona,47,Zaanse koeken,36,9.5,5,0.0,3,Confections
+1998-03-05,GALED,Barcelona,76,Lakkalikööri,57,18.0,5,0.0,1,Beverages
+1998-03-05,FRANK,München,21,Sir Rodney's Scones,3,10.0,60,0.0,3,Confections
+1998-03-05,FRANK,München,75,Rhönbräu Klosterbier,125,7.75,49,0.0,1,Beverages
+1998-03-05,FRANK,München,77,Original Frankfurter grüne Soße,32,13.0,15,0.0,2,Condiments
+1998-03-06,SUPRD,Charleroi,21,Sir Rodney's Scones,3,10.0,36,0.0,3,Confections
+1998-03-06,SUPRD,Charleroi,27,Schoggi Schokolade,49,43.9,25,0.0,3,Confections
+1998-03-06,SUPRD,Charleroi,55,Pâté chinois,115,24.0,25,0.2,6,Meat/Poultry
+1998-03-06,SUPRD,Charleroi,58,Escargots de Bourgogne,62,13.25,30,0.2,8,Seafood
+1998-03-06,RICSU,Genève,13,Konbu,24,6.0,42,0.15,8,Seafood
+1998-03-06,RICSU,Genève,57,Ravioli Angelo,36,19.5,30,0.0,5,Grains/Cereals
+1998-03-06,BONAP,Marseille,16,Pavlova,29,17.45,30,0.1,3,Confections
+1998-03-06,BONAP,Marseille,62,Tarte au sucre,17,49.3,14,0.1,3,Confections
+1998-03-06,BONAP,Marseille,72,Mozzarella di Giovanni,14,34.8,16,0.0,4,Dairy Products
+1998-03-06,BONAP,Marseille,75,Rhönbräu Klosterbier,125,7.75,20,0.1,1,Beverages
+1998-03-06,ISLAT,Cowes,53,Perth Pasties,0,32.8,2,0.0,6,Meat/Poultry
+1998-03-06,ISLAT,Cowes,61,Sirop d'érable,113,28.5,30,0.0,2,Condiments
+1998-03-09,LEHMS,Frankfurt a.M.,6,Grandma's Boysenberry Spread,120,25.0,20,0.0,2,Condiments
+1998-03-09,WELLI,Resende,1,Chai,39,18.0,21,0.0,1,Beverages
+1998-03-09,WELLI,Resende,18,Carnarvon Tigers,42,62.5,4,0.25,8,Seafood
+1998-03-09,WELLI,Resende,23,Tunnbröd,61,9.0,8,0.25,5,Grains/Cereals
+1998-03-09,GREAL,Eugene,36,Inlagd Sill,112,19.0,30,0.2,8,Seafood
+1998-03-10,CACTU,Buenos Aires,28,Rössle Sauerkraut,26,45.6,8,0.0,7,Produce
+1998-03-10,CACTU,Buenos Aires,34,Sasquatch Ale,111,14.0,20,0.0,1,Beverages
+1998-03-10,QUICK,Cunewalde,13,Konbu,24,6.0,20,0.25,8,Seafood
+1998-03-10,QUICK,Cunewalde,43,Ipoh Coffee,17,46.0,24,0.25,1,Beverages
+1998-03-10,QUICK,Cunewalde,60,Camembert Pierrot,19,34.0,49,0.25,4,Dairy Products
+1998-03-10,QUICK,Cunewalde,71,Flotemysost,26,21.5,35,0.25,4,Dairy Products
+1998-03-10,MAGAA,Bergamo,2,Chang,17,19.0,10,0.15,1,Beverages
+1998-03-10,MAGAA,Bergamo,67,Laughing Lumberjack Lager,52,14.0,40,0.15,1,Beverages
+1998-03-11,BONAP,Marseille,7,Uncle Bob's Organic Dried Pears,15,30.0,8,0.0,7,Produce
+1998-03-11,BONAP,Marseille,13,Konbu,24,6.0,20,0.0,8,Seafood
+1998-03-11,SAVEA,Boise,31,Gorgonzola Telino,0,12.5,44,0.25,4,Dairy Products
+1998-03-11,SAVEA,Boise,62,Tarte au sucre,17,49.3,30,0.25,3,Confections
+1998-03-11,SAVEA,Boise,68,Scottish Longbreads,6,12.5,80,0.25,3,Confections
+1998-03-11,SAVEA,Boise,72,Mozzarella di Giovanni,14,34.8,50,0.0,4,Dairy Products
+1998-03-11,REGGC,Reggio Emilia,49,Maxilaku,10,20.0,28,0.0,3,Confections
+1998-03-11,BSBEV,London,13,Konbu,24,6.0,15,0.0,8,Seafood
+1998-03-11,BSBEV,London,22,Gustaf's Knäckebröd,104,21.0,21,0.0,5,Grains/Cereals
+1998-03-11,BSBEV,London,46,Spegesild,95,12.0,15,0.0,8,Seafood
+1998-03-12,BOTTM,Tsawassen,11,Queso Cabrales,22,21.0,5,0.25,4,Dairy Products
+1998-03-12,BOTTM,Tsawassen,44,Gula Malacca,27,19.45,18,0.25,2,Condiments
+1998-03-12,BOTTM,Tsawassen,56,Gnocchi di nonna Alice,21,38.0,18,0.0,5,Grains/Cereals
+1998-03-12,MORGK,Leipzig,13,Konbu,24,6.0,20,0.0,8,Seafood
+1998-03-12,MORGK,Leipzig,31,Gorgonzola Telino,0,12.5,10,0.0,4,Dairy Products
+1998-03-12,VAFFE,Århus,10,Ikura,31,31.0,25,0.0,8,Seafood
+1998-03-12,VAFFE,Århus,24,Guaraná Fantástica,20,4.5,25,0.0,1,Beverages
+1998-03-12,VAFFE,Århus,77,Original Frankfurter grüne Soße,32,13.0,40,0.0,2,Condiments
+1998-03-13,BSBEV,London,59,Raclette Courdavault,79,55.0,4,0.0,4,Dairy Products
+1998-03-13,GODOS,Sevilla,50,Valkoinen suklaa,65,16.25,9,0.0,3,Confections
+1998-03-13,GODOS,Sevilla,51,Manjimup Dried Apples,20,53.0,40,0.0,7,Produce
+1998-03-13,GODOS,Sevilla,55,Pâté chinois,115,24.0,4,0.0,6,Meat/Poultry
+1998-03-13,BOTTM,Tsawassen,6,Grandma's Boysenberry Spread,120,25.0,12,0.0,2,Condiments
+1998-03-13,BOTTM,Tsawassen,10,Ikura,31,31.0,30,0.0,8,Seafood
+1998-03-13,BOTTM,Tsawassen,17,Alice Mutton,0,39.0,6,0.0,6,Meat/Poultry
+1998-03-13,BOTTM,Tsawassen,62,Tarte au sucre,17,49.3,60,0.0,3,Confections
+1998-03-16,MAGAA,Bergamo,4,Chef Anton's Cajun Seasoning,53,22.0,5,0.0,2,Condiments
+1998-03-16,RICSU,Genève,33,Geitost,112,2.5,15,0.05,4,Dairy Products
+1998-03-16,RICSU,Genève,41,Jack's New England Clam Chowder,85,9.65,6,0.05,8,Seafood
+1998-03-16,RICSU,Genève,75,Rhönbräu Klosterbier,125,7.75,50,0.05,1,Beverages
+1998-03-16,ALFKI,Berlin,6,Grandma's Boysenberry Spread,120,25.0,16,0.05,2,Condiments
+1998-03-16,ALFKI,Berlin,28,Rössle Sauerkraut,26,45.6,2,0.0,7,Produce
+1998-03-16,AROUT,London,20,Sir Rodney's Marmalade,40,81.0,50,0.05,3,Confections
+1998-03-16,AROUT,London,31,Gorgonzola Telino,0,12.5,50,0.05,4,Dairy Products
+1998-03-17,LINOD,I. de Margarita,16,Pavlova,29,17.45,28,0.15,3,Confections
+1998-03-17,LINOD,I. de Margarita,31,Gorgonzola Telino,0,12.5,25,0.15,4,Dairy Products
+1998-03-17,LINOD,I. de Margarita,45,Rogede sild,5,9.5,30,0.0,8,Seafood
+1998-03-17,LINOD,I. de Margarita,60,Camembert Pierrot,19,34.0,24,0.15,4,Dairy Products
+1998-03-17,FOLKO,Bräcke,75,Rhönbräu Klosterbier,125,7.75,12,0.2,1,Beverages
+1998-03-17,BLAUS,Mannheim,21,Sir Rodney's Scones,3,10.0,12,0.0,3,Confections
+1998-03-17,BLAUS,Mannheim,47,Zaanse koeken,36,9.5,14,0.0,3,Confections
+1998-03-17,BLAUS,Mannheim,51,Manjimup Dried Apples,20,53.0,8,0.0,7,Produce
+1998-03-18,HILAA,San Cristóbal,30,Nord-Ost Matjeshering,10,25.89,30,0.0,8,Seafood
+1998-03-18,HILAA,San Cristóbal,35,Steeleye Stout,20,18.0,40,0.0,1,Beverages
+1998-03-18,HILAA,San Cristóbal,64,Wimmers gute Semmelknödel,22,33.25,8,0.0,5,Grains/Cereals
+1998-03-18,OCEAN,Buenos Aires,5,Chef Anton's Gumbo Mix,0,21.35,20,0.0,2,Condiments
+1998-03-18,OCEAN,Buenos Aires,7,Uncle Bob's Organic Dried Pears,15,30.0,6,0.0,7,Produce
+1998-03-18,OCEAN,Buenos Aires,72,Mozzarella di Giovanni,14,34.8,5,0.0,4,Dairy Products
+1998-03-18,GOURL,Campinas,75,Rhönbräu Klosterbier,125,7.75,20,0.15,1,Beverages
+1998-03-19,HILAA,San Cristóbal,24,Guaraná Fantástica,20,4.5,10,0.25,1,Beverages
+1998-03-19,HILAA,San Cristóbal,41,Jack's New England Clam Chowder,85,9.65,24,0.0,8,Seafood
+1998-03-19,QUEEN,Sao Paulo,52,Filo Mix,38,7.0,6,0.05,5,Grains/Cereals
+1998-03-19,QUEEN,Sao Paulo,76,Lakkalikööri,57,18.0,60,0.0,1,Beverages
+1998-03-19,QUICK,Cunewalde,7,Uncle Bob's Organic Dried Pears,15,30.0,45,0.0,7,Produce
+1998-03-19,QUICK,Cunewalde,13,Konbu,24,6.0,77,0.0,8,Seafood
+1998-03-19,QUICK,Cunewalde,53,Perth Pasties,0,32.8,20,0.0,6,Meat/Poultry
+1998-03-19,QUICK,Cunewalde,69,Gudbrandsdalsost,26,36.0,9,0.0,4,Dairy Products
+1998-03-19,QUICK,Cunewalde,76,Lakkalikööri,57,18.0,44,0.0,1,Beverages
+1998-03-19,FURIB,Lisboa,60,Camembert Pierrot,19,34.0,2,0.15,4,Dairy Products
+1998-03-20,SPECD,Paris,18,Carnarvon Tigers,42,62.5,6,0.0,8,Seafood
+1998-03-20,SPECD,Paris,38,Côte de Blaye,17,263.5,5,0.0,1,Beverages
+1998-03-20,SPECD,Paris,69,Gudbrandsdalsost,26,36.0,10,0.0,4,Dairy Products
+1998-03-20,OLDWO,Anchorage,51,Manjimup Dried Apples,20,53.0,16,0.0,7,Produce
+1998-03-20,CHOPS,Bern,37,Gravad lax,11,26.0,8,0.0,8,Seafood
+1998-03-20,CHOPS,Bern,56,Gnocchi di nonna Alice,21,38.0,12,0.15,5,Grains/Cereals
+1998-03-20,CHOPS,Bern,62,Tarte au sucre,17,49.3,12,0.15,3,Confections
+1998-03-23,TOMSP,Münster,19,Teatime Chocolate Biscuits,25,9.2,12,0.0,3,Confections
+1998-03-23,TOMSP,Münster,49,Maxilaku,10,20.0,40,0.0,3,Confections
+1998-03-23,ERNSH,Graz,12,Queso Manchego La Pastora,86,38.0,30,0.0,4,Dairy Products
+1998-03-23,ERNSH,Graz,24,Guaraná Fantástica,20,4.5,30,0.0,1,Beverages
+1998-03-23,ERNSH,Graz,64,Wimmers gute Semmelknödel,22,33.25,4,0.0,5,Grains/Cereals
+1998-03-23,COMMI,Sao Paulo,46,Spegesild,95,12.0,9,0.0,8,Seafood
+1998-03-24,BOLID,Madrid,52,Filo Mix,38,7.0,40,0.2,5,Grains/Cereals
+1998-03-24,FRANR,Nantes,29,Thüringer Rostbratwurst,0,123.79,14,0.0,6,Meat/Poultry
+1998-03-24,LACOR,Versailles,17,Alice Mutton,0,39.0,6,0.0,6,Meat/Poultry
+1998-03-24,LACOR,Versailles,33,Geitost,112,2.5,7,0.0,4,Dairy Products
+1998-03-24,LACOR,Versailles,26,Gumbär Gummibärchen,15,31.23,5,0.0,3,Confections
+1998-03-24,LACOR,Versailles,41,Jack's New England Clam Chowder,85,9.65,6,0.0,8,Seafood
+1998-03-24,LACOR,Versailles,75,Rhönbräu Klosterbier,125,7.75,10,0.0,1,Beverages
+1998-03-25,SPLIR,Lander,63,Vegie-spread,24,43.9,10,0.0,2,Condiments
+1998-03-25,BOTTM,Tsawassen,8,Northwoods Cranberry Sauce,6,40.0,16,0.0,2,Condiments
+1998-03-25,BOTTM,Tsawassen,75,Rhönbräu Klosterbier,125,7.75,10,0.0,1,Beverages
+1998-03-25,HILAA,San Cristóbal,28,Rössle Sauerkraut,26,45.6,20,0.0,7,Produce
+1998-03-26,FOLKO,Bräcke,39,Chartreuse verte,69,18.0,30,0.0,1,Beverages
+1998-03-26,FOLKO,Bräcke,47,Zaanse koeken,36,9.5,30,0.0,3,Confections
+1998-03-26,FOLKO,Bräcke,51,Manjimup Dried Apples,20,53.0,10,0.0,7,Produce
+1998-03-26,FOLKO,Bräcke,63,Vegie-spread,24,43.9,20,0.0,2,Condiments
+1998-03-26,MAISD,Bruxelles,8,Northwoods Cranberry Sauce,6,40.0,20,0.15,2,Condiments
+1998-03-26,MAISD,Bruxelles,21,Sir Rodney's Scones,3,10.0,40,0.15,3,Confections
+1998-03-26,MAISD,Bruxelles,40,Boston Crab Meat,123,18.4,10,0.0,8,Seafood
+1998-03-26,MAISD,Bruxelles,44,Gula Malacca,27,19.45,6,0.15,2,Condiments
+1998-03-26,ERNSH,Graz,7,Uncle Bob's Organic Dried Pears,15,30.0,18,0.0,7,Produce
+1998-03-26,ERNSH,Graz,12,Queso Manchego La Pastora,86,38.0,20,0.0,4,Dairy Products
+1998-03-26,ERNSH,Graz,24,Guaraná Fantástica,20,4.5,80,0.0,1,Beverages
+1998-03-26,ERNSH,Graz,27,Schoggi Schokolade,49,43.9,30,0.0,3,Confections
+1998-03-26,ERNSH,Graz,31,Gorgonzola Telino,0,12.5,24,0.0,4,Dairy Products
+1998-03-26,ERNSH,Graz,63,Vegie-spread,24,43.9,35,0.0,2,Condiments
+1998-03-27,FOLKO,Bräcke,75,Rhönbräu Klosterbier,125,7.75,40,0.2,1,Beverages
+1998-03-27,HANAR,Rio de Janeiro,38,Côte de Blaye,17,263.5,60,0.0,1,Beverages
+1998-03-27,BOTTM,Tsawassen,7,Uncle Bob's Organic Dried Pears,15,30.0,20,0.0,7,Produce
+1998-03-27,BOTTM,Tsawassen,43,Ipoh Coffee,17,46.0,9,0.0,1,Beverages
+1998-03-27,SAVEA,Boise,13,Konbu,24,6.0,84,0.15,8,Seafood
+1998-03-27,SAVEA,Boise,57,Ravioli Angelo,36,19.5,15,0.0,5,Grains/Cereals
+1998-03-30,SAVEA,Boise,16,Pavlova,29,17.45,55,0.0,3,Confections
+1998-03-30,SAVEA,Boise,24,Guaraná Fantástica,20,4.5,20,0.0,1,Beverages
+1998-03-30,SAVEA,Boise,36,Inlagd Sill,112,19.0,40,0.0,8,Seafood
+1998-03-30,HUNGO,Cork,16,Pavlova,29,17.45,36,0.1,3,Confections
+1998-03-30,HUNGO,Cork,18,Carnarvon Tigers,42,62.5,8,0.1,8,Seafood
+1998-03-30,HUNGO,Cork,32,Mascarpone Fabioli,9,32.0,35,0.1,4,Dairy Products
+1998-03-30,OCEAN,Buenos Aires,11,Queso Cabrales,22,21.0,30,0.0,4,Dairy Products
+1998-03-30,OCEAN,Buenos Aires,20,Sir Rodney's Marmalade,40,81.0,15,0.0,3,Confections
+1998-03-30,OCEAN,Buenos Aires,76,Lakkalikööri,57,18.0,10,0.0,1,Beverages
+1998-03-30,OCEAN,Buenos Aires,77,Original Frankfurter grüne Soße,32,13.0,15,0.0,2,Condiments
+1998-03-31,EASTC,London,7,Uncle Bob's Organic Dried Pears,15,30.0,60,0.0,7,Produce
+1998-03-31,EASTC,London,43,Ipoh Coffee,17,46.0,6,0.0,1,Beverages
+1998-03-31,EASTC,London,72,Mozzarella di Giovanni,14,34.8,20,0.0,4,Dairy Products
+1998-03-31,RATTC,Albuquerque,7,Uncle Bob's Organic Dried Pears,15,30.0,60,0.0,7,Produce
+1998-03-31,RATTC,Albuquerque,62,Tarte au sucre,17,49.3,40,0.1,3,Confections
+1998-03-31,QUEDE,Rio de Janeiro,6,Grandma's Boysenberry Spread,120,25.0,40,0.0,2,Condiments
+1998-03-31,QUEDE,Rio de Janeiro,11,Queso Cabrales,22,21.0,15,0.0,4,Dairy Products
+1998-03-31,QUEDE,Rio de Janeiro,41,Jack's New England Clam Chowder,85,9.65,4,0.0,8,Seafood
+1998-04-01,ERNSH,Graz,21,Sir Rodney's Scones,3,10.0,65,0.0,3,Confections
+1998-04-01,ERNSH,Graz,34,Sasquatch Ale,111,14.0,60,0.15,1,Beverages
+1998-04-01,ERNSH,Graz,55,Pâté chinois,115,24.0,65,0.15,6,Meat/Poultry
+1998-04-01,ERNSH,Graz,61,Sirop d'érable,113,28.5,66,0.15,2,Condiments
+1998-04-01,QUICK,Cunewalde,2,Chang,17,19.0,50,0.2,1,Beverages
+1998-04-01,QUICK,Cunewalde,70,Outback Lager,15,15.0,20,0.2,1,Beverages
+1998-04-01,QUICK,Cunewalde,76,Lakkalikööri,57,18.0,90,0.2,1,Beverages
+1998-04-01,THEBI,Portland,72,Mozzarella di Giovanni,14,34.8,2,0.0,4,Dairy Products
+1998-04-01,FOLKO,Bräcke,29,Thüringer Rostbratwurst,0,123.79,50,0.25,6,Meat/Poultry
+1998-04-01,FOLKO,Bräcke,41,Jack's New England Clam Chowder,85,9.65,35,0.25,8,Seafood
+1998-04-02,VAFFE,Århus,59,Raclette Courdavault,79,55.0,18,0.05,4,Dairy Products
+1998-04-02,PERIC,México D.F.,51,Manjimup Dried Apples,20,53.0,20,0.0,7,Produce
+1998-04-02,PERIC,México D.F.,60,Camembert Pierrot,19,34.0,4,0.0,4,Dairy Products
+1998-04-02,QUICK,Cunewalde,42,Singaporean Hokkien Fried Mee,26,14.0,40,0.0,5,Grains/Cereals
+1998-04-03,LILAS,Barquisimeto,32,Mascarpone Fabioli,9,32.0,50,0.0,4,Dairy Products
+1998-04-03,LILAS,Barquisimeto,46,Spegesild,95,12.0,20,0.25,8,Seafood
+1998-04-03,LILAS,Barquisimeto,52,Filo Mix,38,7.0,20,0.25,5,Grains/Cereals
+1998-04-03,WOLZA,Warszawa,24,Guaraná Fantástica,20,4.5,12,0.0,1,Beverages
+1998-04-03,WOLZA,Warszawa,61,Sirop d'érable,113,28.5,7,0.0,2,Condiments
+1998-04-03,WOLZA,Warszawa,74,Longlife Tofu,4,10.0,20,0.0,7,Produce
+1998-04-03,WOLZA,Warszawa,75,Rhönbräu Klosterbier,125,7.75,30,0.0,1,Beverages
+1998-04-03,OTTIK,Köln,41,Jack's New England Clam Chowder,85,9.65,20,0.05,8,Seafood
+1998-04-03,OTTIK,Köln,51,Manjimup Dried Apples,20,53.0,15,0.05,7,Produce
+1998-04-03,OTTIK,Köln,77,Original Frankfurter grüne Soße,32,13.0,21,0.05,2,Condiments
+1998-04-06,RATTC,Albuquerque,4,Chef Anton's Cajun Seasoning,53,22.0,25,0.25,2,Condiments
+1998-04-06,RATTC,Albuquerque,24,Guaraná Fantástica,20,4.5,30,0.25,1,Beverages
+1998-04-06,RATTC,Albuquerque,77,Original Frankfurter grüne Soße,32,13.0,30,0.0,2,Condiments
+1998-04-06,FOLKO,Bräcke,7,Uncle Bob's Organic Dried Pears,15,30.0,60,0.0,7,Produce
+1998-04-06,FOLKO,Bräcke,22,Gustaf's Knäckebröd,104,21.0,25,0.0,5,Grains/Cereals
+1998-04-06,FOLKO,Bräcke,46,Spegesild,95,12.0,25,0.0,8,Seafood
+1998-04-06,FOLKO,Bräcke,55,Pâté chinois,115,24.0,6,0.0,6,Meat/Poultry
+1998-04-06,SAVEA,Boise,13,Konbu,24,6.0,56,0.0,8,Seafood
+1998-04-06,SAVEA,Boise,35,Steeleye Stout,20,18.0,15,0.15,1,Beverages
+1998-04-06,SAVEA,Boise,42,Singaporean Hokkien Fried Mee,26,14.0,24,0.15,5,Grains/Cereals
+1998-04-06,SAVEA,Boise,55,Pâté chinois,115,24.0,40,0.0,6,Meat/Poultry
+1998-04-06,THECR,Butte,1,Chai,39,18.0,4,0.0,1,Beverages
+1998-04-06,THECR,Butte,40,Boston Crab Meat,123,18.4,10,0.0,8,Seafood
+1998-04-06,THECR,Butte,52,Filo Mix,38,7.0,10,0.0,5,Grains/Cereals
+1998-04-07,MAISD,Bruxelles,26,Gumbär Gummibärchen,15,31.23,6,0.0,3,Confections
+1998-04-07,MAISD,Bruxelles,76,Lakkalikööri,57,18.0,6,0.0,1,Beverages
+1998-04-07,WILMK,Helsinki,1,Chai,39,18.0,2,0.0,1,Beverages
+1998-04-07,WILMK,Helsinki,59,Raclette Courdavault,79,55.0,10,0.0,4,Dairy Products
+1998-04-07,GREAL,Eugene,1,Chai,39,18.0,8,0.0,1,Beverages
+1998-04-07,GREAL,Eugene,29,Thüringer Rostbratwurst,0,123.79,2,0.25,6,Meat/Poultry
+1998-04-08,PRINI,Lisboa,8,Northwoods Cranberry Sauce,6,40.0,30,0.0,2,Condiments
+1998-04-08,PRINI,Lisboa,29,Thüringer Rostbratwurst,0,123.79,10,0.0,6,Meat/Poultry
+1998-04-08,PRINI,Lisboa,42,Singaporean Hokkien Fried Mee,26,14.0,14,0.0,5,Grains/Cereals
+1998-04-08,ERNSH,Graz,28,Rössle Sauerkraut,26,45.6,70,0.05,7,Produce
+1998-04-08,ERNSH,Graz,34,Sasquatch Ale,111,14.0,90,0.05,1,Beverages
+1998-04-08,ERNSH,Graz,71,Flotemysost,26,21.5,21,0.0,4,Dairy Products
+1998-04-08,GODOS,Sevilla,24,Guaraná Fantástica,20,4.5,12,0.0,1,Beverages
+1998-04-08,GODOS,Sevilla,36,Inlagd Sill,112,19.0,18,0.25,8,Seafood
+1998-04-08,GODOS,Sevilla,60,Camembert Pierrot,19,34.0,9,0.0,4,Dairy Products
+1998-04-09,REGGC,Reggio Emilia,7,Uncle Bob's Organic Dried Pears,15,30.0,20,0.0,7,Produce
+1998-04-09,REGGC,Reggio Emilia,24,Guaraná Fantástica,20,4.5,10,0.0,1,Beverages
+1998-04-09,ALFKI,Berlin,58,Escargots de Bourgogne,62,13.25,40,0.05,8,Seafood
+1998-04-09,ALFKI,Berlin,71,Flotemysost,26,21.5,20,0.0,4,Dairy Products
+1998-04-09,FRANK,München,19,Teatime Chocolate Biscuits,25,9.2,50,0.05,3,Confections
+1998-04-09,FRANK,München,60,Camembert Pierrot,19,34.0,36,0.05,4,Dairy Products
+1998-04-09,FRANK,München,71,Flotemysost,26,21.5,60,0.05,4,Dairy Products
+1998-04-09,ROMEY,Madrid,23,Tunnbröd,61,9.0,10,0.0,5,Grains/Cereals
+1998-04-09,ROMEY,Madrid,42,Singaporean Hokkien Fried Mee,26,14.0,4,0.0,5,Grains/Cereals
+1998-04-09,ROMEY,Madrid,45,Rogede sild,5,9.5,20,0.0,8,Seafood
+1998-04-09,ROMEY,Madrid,68,Scottish Longbreads,6,12.5,2,0.0,3,Confections
+1998-04-10,LINOD,I. de Margarita,41,Jack's New England Clam Chowder,85,9.65,28,0.1,8,Seafood
+1998-04-10,SANTG,Stavern,30,Nord-Ost Matjeshering,10,25.89,15,0.0,8,Seafood
+1998-04-10,SANTG,Stavern,77,Original Frankfurter grüne Soße,32,13.0,18,0.0,2,Condiments
+1998-04-10,AROUT,London,31,Gorgonzola Telino,0,12.5,15,0.0,4,Dairy Products
+1998-04-10,AROUT,London,36,Inlagd Sill,112,19.0,16,0.0,8,Seafood
+1998-04-13,ERNSH,Graz,3,Aniseed Syrup,13,10.0,25,0.0,2,Condiments
+1998-04-13,ERNSH,Graz,59,Raclette Courdavault,79,55.0,110,0.0,4,Dairy Products
+1998-04-13,ERNSH,Graz,70,Outback Lager,15,15.0,30,0.0,1,Beverages
+1998-04-13,LONEP,Portland,12,Queso Manchego La Pastora,86,38.0,20,0.0,4,Dairy Products
+1998-04-13,LONEP,Portland,18,Carnarvon Tigers,42,62.5,10,0.0,8,Seafood
+1998-04-13,LONEP,Portland,56,Gnocchi di nonna Alice,21,38.0,5,0.0,5,Grains/Cereals
+1998-04-13,RANCH,Buenos Aires,46,Spegesild,95,12.0,3,0.0,8,Seafood
+1998-04-13,RANCH,Buenos Aires,49,Maxilaku,10,20.0,2,0.0,3,Confections
+1998-04-14,OTTIK,Köln,10,Ikura,31,31.0,24,0.15,8,Seafood
+1998-04-14,QUICK,Cunewalde,2,Chang,17,19.0,11,0.25,1,Beverages
+1998-04-14,QUICK,Cunewalde,20,Sir Rodney's Marmalade,40,81.0,15,0.0,3,Confections
+1998-04-14,QUICK,Cunewalde,26,Gumbär Gummibärchen,15,31.23,63,0.0,3,Confections
+1998-04-14,QUICK,Cunewalde,51,Manjimup Dried Apples,20,53.0,44,0.25,7,Produce
+1998-04-14,QUICK,Cunewalde,72,Mozzarella di Giovanni,14,34.8,35,0.0,4,Dairy Products
+1998-04-14,HANAR,Rio de Janeiro,19,Teatime Chocolate Biscuits,25,9.2,35,0.0,3,Confections
+1998-04-14,HANAR,Rio de Janeiro,69,Gudbrandsdalsost,26,36.0,30,0.0,4,Dairy Products
+1998-04-14,BSBEV,London,7,Uncle Bob's Organic Dried Pears,15,30.0,4,0.0,7,Produce
+1998-04-14,BSBEV,London,43,Ipoh Coffee,17,46.0,30,0.0,1,Beverages
+1998-04-15,EASTC,London,26,Gumbär Gummibärchen,15,31.23,12,0.0,3,Confections
+1998-04-15,EASTC,London,33,Geitost,112,2.5,30,0.0,4,Dairy Products
+1998-04-15,EASTC,London,65,Louisiana Fiery Hot Pepper Sauce,76,21.05,21,0.0,2,Condiments
+1998-04-15,EASTC,London,71,Flotemysost,26,21.5,50,0.0,4,Dairy Products
+1998-04-15,WARTH,Oulu,1,Chai,39,18.0,10,0.1,1,Beverages
+1998-04-15,WARTH,Oulu,13,Konbu,24,6.0,20,0.1,8,Seafood
+1998-04-15,FRANS,Torino,18,Carnarvon Tigers,42,62.5,8,0.0,8,Seafood
+1998-04-15,FRANS,Torino,51,Manjimup Dried Apples,20,53.0,10,0.0,7,Produce
+1998-04-16,BOTTM,Tsawassen,24,Guaraná Fantástica,20,4.5,30,0.25,1,Beverages
+1998-04-16,BOTTM,Tsawassen,62,Tarte au sucre,17,49.3,21,0.25,3,Confections
+1998-04-16,KOENE,Brandenburg,55,Pâté chinois,115,24.0,35,0.0,6,Meat/Poultry
+1998-04-16,KOENE,Brandenburg,59,Raclette Courdavault,79,55.0,24,0.0,4,Dairy Products
+1998-04-16,CHOPS,Bern,56,Gnocchi di nonna Alice,21,38.0,20,0.0,5,Grains/Cereals
+1998-04-16,CHOPS,Bern,63,Vegie-spread,24,43.9,12,0.0,2,Condiments
+1998-04-17,SAVEA,Boise,2,Chang,17,19.0,100,0.25,1,Beverages
+1998-04-17,SAVEA,Boise,5,Chef Anton's Gumbo Mix,0,21.35,70,0.0,2,Condiments
+1998-04-17,SAVEA,Boise,29,Thüringer Rostbratwurst,0,123.79,60,0.25,6,Meat/Poultry
+1998-04-17,SAVEA,Boise,59,Raclette Courdavault,79,55.0,100,0.25,4,Dairy Products
+1998-04-17,SAVEA,Boise,1,Chai,39,18.0,45,0.0,1,Beverages
+1998-04-17,SAVEA,Boise,13,Konbu,24,6.0,80,0.0,8,Seafood
+1998-04-17,SAVEA,Boise,24,Guaraná Fantástica,20,4.5,21,0.0,1,Beverages
+1998-04-17,SAVEA,Boise,64,Wimmers gute Semmelknödel,22,33.25,20,0.0,5,Grains/Cereals
+1998-04-17,SAVEA,Boise,71,Flotemysost,26,21.5,16,0.0,4,Dairy Products
+1998-04-17,WHITC,Seattle,36,Inlagd Sill,112,19.0,35,0.0,8,Seafood
+1998-04-17,WHITC,Seattle,38,Côte de Blaye,17,263.5,25,0.0,1,Beverages
+1998-04-17,WHITC,Seattle,59,Raclette Courdavault,79,55.0,30,0.0,4,Dairy Products
+1998-04-17,RICSU,Genève,53,Perth Pasties,0,32.8,70,0.1,6,Meat/Poultry
+1998-04-17,RICSU,Genève,69,Gudbrandsdalsost,26,36.0,36,0.1,4,Dairy Products
+1998-04-20,OLDWO,Anchorage,21,Sir Rodney's Scones,3,10.0,15,0.1,3,Confections
+1998-04-20,OLDWO,Anchorage,44,Gula Malacca,27,19.45,12,0.0,2,Condiments
+1998-04-20,OLDWO,Anchorage,61,Sirop d'érable,113,28.5,6,0.0,2,Condiments
+1998-04-20,SUPRD,Charleroi,1,Chai,39,18.0,10,0.0,1,Beverages
+1998-04-20,SUPRD,Charleroi,35,Steeleye Stout,20,18.0,60,0.0,1,Beverages
+1998-04-20,SUPRD,Charleroi,42,Singaporean Hokkien Fried Mee,26,14.0,30,0.0,5,Grains/Cereals
+1998-04-20,SUPRD,Charleroi,54,Tourtière,21,7.45,10,0.0,6,Meat/Poultry
+1998-04-20,DRACD,Aachen,13,Konbu,24,6.0,7,0.0,8,Seafood
+1998-04-20,DRACD,Aachen,59,Raclette Courdavault,79,55.0,30,0.0,4,Dairy Products
+1998-04-21,GODOS,Sevilla,70,Outback Lager,15,15.0,4,0.0,1,Beverages
+1998-04-21,SUPRD,Charleroi,40,Boston Crab Meat,123,18.4,5,0.2,8,Seafood
+1998-04-21,SUPRD,Charleroi,52,Filo Mix,38,7.0,2,0.0,5,Grains/Cereals
+1998-04-21,SUPRD,Charleroi,71,Flotemysost,26,21.5,30,0.0,4,Dairy Products
+1998-04-21,LINOD,I. de Margarita,28,Rössle Sauerkraut,26,45.6,20,0.0,7,Produce
+1998-04-21,LINOD,I. de Margarita,35,Steeleye Stout,20,18.0,24,0.0,1,Beverages
+1998-04-21,LINOD,I. de Margarita,49,Maxilaku,10,20.0,60,0.0,3,Confections
+1998-04-21,LINOD,I. de Margarita,57,Ravioli Angelo,36,19.5,28,0.0,5,Grains/Cereals
+1998-04-22,GREAL,Eugene,21,Sir Rodney's Scones,3,10.0,20,0.0,3,Confections
+1998-04-22,CHOPS,Bern,2,Chang,17,19.0,30,0.2,1,Beverages
+1998-04-22,CHOPS,Bern,63,Vegie-spread,24,43.9,30,0.0,2,Condiments
+1998-04-22,COMMI,Sao Paulo,44,Gula Malacca,27,19.45,15,0.0,2,Condiments
+1998-04-22,COMMI,Sao Paulo,61,Sirop d'érable,113,28.5,4,0.0,2,Condiments
+1998-04-22,SPECD,Paris,11,Queso Cabrales,22,21.0,10,0.0,4,Dairy Products
+1998-04-23,WOLZA,Warszawa,62,Tarte au sucre,17,49.3,12,0.0,3,Confections
+1998-04-23,BOTTM,Tsawassen,33,Geitost,112,2.5,15,0.0,4,Dairy Products
+1998-04-23,BOTTM,Tsawassen,51,Manjimup Dried Apples,20,53.0,24,0.0,7,Produce
+1998-04-23,WANDK,Stuttgart,12,Queso Manchego La Pastora,86,38.0,20,0.05,4,Dairy Products
+1998-04-23,WANDK,Stuttgart,32,Mascarpone Fabioli,9,32.0,15,0.05,4,Dairy Products
+1998-04-23,WANDK,Stuttgart,35,Steeleye Stout,20,18.0,18,0.05,1,Beverages
+1998-04-24,EASTC,London,1,Chai,39,18.0,25,0.25,1,Beverages
+1998-04-24,EASTC,London,5,Chef Anton's Gumbo Mix,0,21.35,30,0.25,2,Condiments
+1998-04-24,BOTTM,Tsawassen,68,Scottish Longbreads,6,12.5,42,0.0,3,Confections
+1998-04-24,GOURL,Campinas,2,Chang,17,19.0,10,0.2,1,Beverages
+1998-04-24,GOURL,Campinas,12,Queso Manchego La Pastora,86,38.0,4,0.2,4,Dairy Products
+1998-04-27,FOLKO,Bräcke,76,Lakkalikööri,57,18.0,50,0.1,1,Beverages
+1998-04-27,LAMAI,Toulouse,24,Guaraná Fantástica,20,4.5,10,0.2,1,Beverages
+1998-04-27,HANAR,Rio de Janeiro,43,Ipoh Coffee,17,46.0,30,0.2,1,Beverages
+1998-04-27,HANAR,Rio de Janeiro,61,Sirop d'érable,113,28.5,10,0.2,2,Condiments
+1998-04-27,PICCO,Salzburg,18,Carnarvon Tigers,42,62.5,35,0.2,8,Seafood
+1998-04-27,PICCO,Salzburg,32,Mascarpone Fabioli,9,32.0,20,0.0,4,Dairy Products
+1998-04-27,PICCO,Salzburg,64,Wimmers gute Semmelknödel,22,33.25,25,0.2,5,Grains/Cereals
+1998-04-28,CACTU,Buenos Aires,33,Geitost,112,2.5,10,0.0,4,Dairy Products
+1998-04-28,CACTU,Buenos Aires,67,Laughing Lumberjack Lager,52,14.0,20,0.0,1,Beverages
+1998-04-28,HILAA,San Cristóbal,24,Guaraná Fantástica,20,4.5,15,0.0,1,Beverages
+1998-04-28,HILAA,San Cristóbal,25,NuNuCa Nuß-Nougat-Creme,76,14.0,15,0.0,3,Confections
+1998-04-28,HILAA,San Cristóbal,51,Manjimup Dried Apples,20,53.0,20,0.0,7,Produce
+1998-04-28,HILAA,San Cristóbal,57,Ravioli Angelo,36,19.5,20,0.0,5,Grains/Cereals
+1998-04-28,EASTC,London,7,Uncle Bob's Organic Dried Pears,15,30.0,40,0.0,7,Produce
+1998-04-28,EASTC,London,55,Pâté chinois,115,24.0,35,0.0,6,Meat/Poultry
+1998-04-28,EASTC,London,60,Camembert Pierrot,19,34.0,50,0.0,4,Dairy Products
+1998-04-29,NORTS,London,70,Outback Lager,15,15.0,3,0.0,1,Beverages
+1998-04-29,BLAUS,Mannheim,21,Sir Rodney's Scones,3,10.0,3,0.0,3,Confections
+1998-04-29,BLAUS,Mannheim,60,Camembert Pierrot,19,34.0,21,0.0,4,Dairy Products
+1998-04-29,BLAUS,Mannheim,61,Sirop d'érable,113,28.5,4,0.0,2,Condiments
+1998-04-29,RICAR,Rio de Janeiro,13,Konbu,24,6.0,30,0.0,8,Seafood
+1998-04-29,RICAR,Rio de Janeiro,17,Alice Mutton,0,39.0,12,0.0,6,Meat/Poultry
+1998-04-29,RICAR,Rio de Janeiro,60,Camembert Pierrot,19,34.0,35,0.0,4,Dairy Products
+1998-04-30,FRANS,Torino,60,Camembert Pierrot,19,34.0,4,0.0,4,Dairy Products
+1998-04-30,FRANS,Torino,77,Original Frankfurter grüne Soße,32,13.0,10,0.0,2,Condiments
+1998-04-30,GREAL,Eugene,60,Camembert Pierrot,19,34.0,15,0.0,4,Dairy Products
+1998-04-30,REGGC,Reggio Emilia,53,Perth Pasties,0,32.8,10,0.2,6,Meat/Poultry
+1998-04-30,REGGC,Reggio Emilia,70,Outback Lager,15,15.0,12,0.2,1,Beverages
+1998-04-30,HUNGO,Cork,34,Sasquatch Ale,111,14.0,30,0.0,1,Beverages
+1998-04-30,HUNGO,Cork,40,Boston Crab Meat,123,18.4,40,0.1,8,Seafood
+1998-04-30,HUNGO,Cork,41,Jack's New England Clam Chowder,85,9.65,30,0.1,8,Seafood
+1998-05-01,SAVEA,Boise,17,Alice Mutton,0,39.0,77,0.1,6,Meat/Poultry
+1998-05-01,SAVEA,Boise,41,Jack's New England Clam Chowder,85,9.65,12,0.0,8,Seafood
+1998-05-01,SAVEA,Boise,53,Perth Pasties,0,32.8,25,0.1,6,Meat/Poultry
+1998-05-01,SAVEA,Boise,55,Pâté chinois,115,24.0,4,0.1,6,Meat/Poultry
+1998-05-01,SAVEA,Boise,68,Scottish Longbreads,6,12.5,55,0.0,3,Confections
+1998-05-01,LILAS,Barquisimeto,30,Nord-Ost Matjeshering,10,25.89,4,0.25,8,Seafood
+1998-05-01,LILAS,Barquisimeto,54,Tourtière,21,7.45,20,0.25,6,Meat/Poultry
+1998-05-01,WHITC,Seattle,16,Pavlova,29,17.45,3,0.0,3,Confections
+1998-05-01,WHITC,Seattle,19,Teatime Chocolate Biscuits,25,9.2,42,0.0,3,Confections
+1998-05-01,WHITC,Seattle,34,Sasquatch Ale,111,14.0,35,0.0,1,Beverages
+1998-05-04,DRACD,Aachen,41,Jack's New England Clam Chowder,85,9.65,9,0.0,8,Seafood
+1998-05-04,QUEEN,Sao Paulo,28,Rössle Sauerkraut,26,45.6,8,0.15,7,Produce
+1998-05-04,QUEEN,Sao Paulo,43,Ipoh Coffee,17,46.0,36,0.15,1,Beverages
+1998-05-04,QUEEN,Sao Paulo,77,Original Frankfurter grüne Soße,32,13.0,28,0.15,2,Condiments
+1998-05-04,TORTU,México D.F.,39,Chartreuse verte,69,18.0,20,0.0,1,Beverages
+1998-05-05,LEHMS,Frankfurt a.M.,1,Chai,39,18.0,40,0.15,1,Beverages
+1998-05-05,LEHMS,Frankfurt a.M.,2,Chang,17,19.0,20,0.15,1,Beverages
+1998-05-05,LEHMS,Frankfurt a.M.,16,Pavlova,29,17.45,30,0.15,3,Confections
+1998-05-05,LEHMS,Frankfurt a.M.,31,Gorgonzola Telino,0,12.5,20,0.0,4,Dairy Products
+1998-05-05,LILAS,Barquisimeto,7,Uncle Bob's Organic Dried Pears,15,30.0,15,0.05,7,Produce
+1998-05-05,LILAS,Barquisimeto,13,Konbu,24,6.0,10,0.05,8,Seafood
+1998-05-05,ERNSH,Graz,2,Chang,17,19.0,8,0.0,1,Beverages
+1998-05-05,ERNSH,Graz,41,Jack's New England Clam Chowder,85,9.65,40,0.0,8,Seafood
+1998-05-05,ERNSH,Graz,50,Valkoinen suklaa,65,16.25,22,0.0,3,Confections
+1998-05-05,ERNSH,Graz,64,Wimmers gute Semmelknödel,22,33.25,130,0.0,5,Grains/Cereals
+1998-05-05,PERIC,México D.F.,11,Queso Cabrales,22,21.0,10,0.0,4,Dairy Products
+1998-05-05,PERIC,México D.F.,24,Guaraná Fantástica,20,4.5,20,0.0,1,Beverages
+1998-05-06,SIMOB,Kobenhavn,16,Pavlova,29,17.45,14,0.05,3,Confections
+1998-05-06,RICSU,Genève,2,Chang,17,19.0,10,0.15,1,Beverages
+1998-05-06,RICSU,Genève,46,Spegesild,95,12.0,30,0.15,8,Seafood
+1998-05-06,RICSU,Genève,76,Lakkalikööri,57,18.0,2,0.15,1,Beverages
+1998-05-06,BONAP,Marseille,6,Grandma's Boysenberry Spread,120,25.0,20,0.25,2,Condiments
+1998-05-06,BONAP,Marseille,14,Tofu,35,23.25,20,0.25,7,Produce
+1998-05-06,BONAP,Marseille,19,Teatime Chocolate Biscuits,25,9.2,10,0.25,3,Confections
+1998-05-06,RATTC,Albuquerque,2,Chang,17,19.0,24,0.2,1,Beverages
+1998-05-06,RATTC,Albuquerque,3,Aniseed Syrup,13,10.0,4,0.0,2,Condiments
+1998-05-06,RATTC,Albuquerque,4,Chef Anton's Cajun Seasoning,53,22.0,1,0.0,2,Condiments
+1998-05-06,RATTC,Albuquerque,6,Grandma's Boysenberry Spread,120,25.0,1,0.02,2,Condiments
+1998-05-06,RATTC,Albuquerque,7,Uncle Bob's Organic Dried Pears,15,30.0,1,0.05,7,Produce
+1998-05-06,RATTC,Albuquerque,8,Northwoods Cranberry Sauce,6,40.0,2,0.1,2,Condiments
+1998-05-06,RATTC,Albuquerque,10,Ikura,31,31.0,1,0.0,8,Seafood
+1998-05-06,RATTC,Albuquerque,12,Queso Manchego La Pastora,86,38.0,2,0.05,4,Dairy Products
+1998-05-06,RATTC,Albuquerque,13,Konbu,24,6.0,4,0.0,8,Seafood
+1998-05-06,RATTC,Albuquerque,14,Tofu,35,23.25,1,0.03,7,Produce
+1998-05-06,RATTC,Albuquerque,16,Pavlova,29,17.45,2,0.03,3,Confections
+1998-05-06,RATTC,Albuquerque,20,Sir Rodney's Marmalade,40,81.0,1,0.04,3,Confections
+1998-05-06,RATTC,Albuquerque,23,Tunnbröd,61,9.0,2,0.0,5,Grains/Cereals
+1998-05-06,RATTC,Albuquerque,32,Mascarpone Fabioli,9,32.0,1,0.0,4,Dairy Products
+1998-05-06,RATTC,Albuquerque,39,Chartreuse verte,69,18.0,2,0.05,1,Beverages
+1998-05-06,RATTC,Albuquerque,41,Jack's New England Clam Chowder,85,9.65,3,0.0,8,Seafood
+1998-05-06,RATTC,Albuquerque,46,Spegesild,95,12.0,3,0.02,8,Seafood
+1998-05-06,RATTC,Albuquerque,52,Filo Mix,38,7.0,2,0.0,5,Grains/Cereals
+1998-05-06,RATTC,Albuquerque,55,Pâté chinois,115,24.0,2,0.0,6,Meat/Poultry
+1998-05-06,RATTC,Albuquerque,60,Camembert Pierrot,19,34.0,2,0.06,4,Dairy Products
+1998-05-06,RATTC,Albuquerque,64,Wimmers gute Semmelknödel,22,33.25,2,0.03,5,Grains/Cereals
+1998-05-06,RATTC,Albuquerque,66,Louisiana Hot Spiced Okra,4,17.0,1,0.0,2,Condiments
+1998-05-06,RATTC,Albuquerque,73,Röd Kaviar,101,15.0,2,0.01,8,Seafood
+1998-05-06,RATTC,Albuquerque,75,Rhönbräu Klosterbier,125,7.75,4,0.0,1,Beverages
+1998-05-06,RATTC,Albuquerque,77,Original Frankfurter grüne Soße,32,13.0,2,0.0,2,Condiments
