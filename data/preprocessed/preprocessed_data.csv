@@ -1,0 +1,2156 @@
+city,product_name,units_in_stock,quantity,discount,category_name,yearquarter,label,unit_price_winsorized,total_price_winsorized
+Reims,Queso Cabrales,22,12,0.0,Dairy Products,1996 Q3,0,14.0,168.0
+Reims,Singaporean Hokkien Fried Mee,26,10,0.0,Grains/Cereals,1996 Q3,0,9.8,98.0
+Reims,Mozzarella di Giovanni,14,5,0.0,Dairy Products,1996 Q3,0,34.8,174.0
+Münster,Tofu,35,9,0.0,Produce,1996 Q3,0,18.6,167.4
+Münster,Manjimup Dried Apples,20,40,0.0,Produce,1996 Q3,0,42.4,1696.0
+Rio de Janeiro,Jack's New England Clam Chowder,85,10,0.0,Seafood,1996 Q3,0,7.7,77.0
+Rio de Janeiro,Manjimup Dried Apples,20,35,0.15,Produce,1996 Q3,1,42.4,1261.3999999999999
+Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,76,15,0.15,Condiments,1996 Q3,1,16.8,214.2
+Lyon,Gustaf's Knäckebröd,104,6,0.05,Grains/Cereals,1996 Q3,1,16.8,95.76
+Lyon,Ravioli Angelo,36,15,0.05,Grains/Cereals,1996 Q3,1,15.6,222.29999999999998
+Lyon,Louisiana Fiery Hot Pepper Sauce,76,20,0.0,Condiments,1996 Q3,1,16.8,336.0
+Charleroi,Sir Rodney's Marmalade,40,40,0.05,Confections,1996 Q3,1,55.0,1800.0
+Charleroi,Geitost,112,25,0.05,Dairy Products,1996 Q3,1,5.9,47.5
+Charleroi,Camembert Pierrot,19,40,0.0,Dairy Products,1996 Q3,0,27.2,1088.0
+Rio de Janeiro,Gorgonzola Telino,0,20,0.0,Dairy Products,1996 Q3,1,10.0,200.0
+Rio de Janeiro,Chartreuse verte,69,42,0.0,Beverages,1996 Q3,0,14.4,604.8000000000001
+Rio de Janeiro,Maxilaku,10,40,0.0,Confections,1996 Q3,1,16.0,640.0
+Bern,Guaraná Fantástica,20,15,0.15,Beverages,1996 Q3,1,5.9,45.9
+Bern,Pâté chinois,115,21,0.15,Meat/Poultry,1996 Q3,1,19.2,342.71999999999997
+Bern,Longlife Tofu,4,21,0.0,Produce,1996 Q3,1,8.0,168.0
+Genève,Chang,17,20,0.0,Beverages,1996 Q3,0,15.2,304.0
+Genève,Pavlova,29,35,0.0,Confections,1996 Q3,0,13.9,486.5
+Genève,Inlagd Sill,112,25,0.0,Seafood,1996 Q3,1,15.2,380.0
+Genève,Raclette Courdavault,79,30,0.0,Dairy Products,1996 Q3,0,44.0,1320.0
+Resende,Perth Pasties,0,15,0.0,Meat/Poultry,1996 Q3,1,26.2,393.0
+Resende,Original Frankfurter grüne Soße,32,12,0.0,Condiments,1996 Q3,1,10.4,124.80000000000001
+San Cristóbal,Schoggi Schokolade,49,25,0.0,Confections,1996 Q3,0,35.1,877.5
+San Cristóbal,Chartreuse verte,69,6,0.0,Beverages,1996 Q3,0,14.4,86.4
+San Cristóbal,Original Frankfurter grüne Soße,32,15,0.0,Condiments,1996 Q3,1,10.4,156.0
+Graz,Chang,17,50,0.2,Beverages,1996 Q3,1,15.2,608.0
+Graz,Chef Anton's Gumbo Mix,0,65,0.2,Condiments,1996 Q3,1,17.0,884.0
+Graz,Mascarpone Fabioli,9,6,0.2,Dairy Products,1996 Q3,1,25.6,122.88000000000002
+México D.F.,Sir Rodney's Scones,3,10,0.0,Confections,1996 Q3,0,8.0,80.0
+México D.F.,Gravad lax,11,1,0.0,Seafood,1996 Q3,1,20.8,38.6
+Köln,Jack's New England Clam Chowder,85,16,0.25,Seafood,1996 Q3,1,7.7,92.4
+Köln,Ravioli Angelo,36,50,0.0,Grains/Cereals,1996 Q3,1,15.6,780.0
+Köln,Tarte au sucre,17,15,0.25,Confections,1996 Q3,1,39.4,443.25
+Köln,Outback Lager,15,21,0.25,Beverages,1996 Q3,1,12.0,189.0
+Rio de Janeiro,Sir Rodney's Scones,3,20,0.0,Confections,1996 Q3,0,8.0,160.0
+Rio de Janeiro,Steeleye Stout,20,20,0.0,Beverages,1996 Q3,0,14.4,288.0
+Albuquerque,Chef Anton's Gumbo Mix,0,12,0.2,Condiments,1996 Q3,1,17.0,163.20000000000002
+Albuquerque,Uncle Bob's Organic Dried Pears,15,15,0.0,Produce,1996 Q3,1,24.0,360.0
+Albuquerque,Gnocchi di nonna Alice,21,2,0.0,Grains/Cereals,1996 Q3,1,30.4,60.8
+Graz,Pavlova,29,60,0.25,Confections,1996 Q3,1,13.9,625.5
+Graz,Guaraná Fantástica,20,28,0.0,Beverages,1996 Q3,0,5.9,100.8
+Graz,Nord-Ost Matjeshering,10,60,0.25,Seafood,1996 Q3,1,20.7,931.5
+Graz,Longlife Tofu,4,36,0.25,Produce,1996 Q3,1,8.0,216.0
+Bräcke,Chang,17,35,0.0,Beverages,1996 Q3,0,15.2,532.0
+Bräcke,Jack's New England Clam Chowder,85,25,0.15,Seafood,1996 Q3,1,7.7,163.625
+Strasbourg,Alice Mutton,0,30,0.0,Meat/Poultry,1996 Q3,0,31.2,936.0
+Strasbourg,Outback Lager,15,20,0.0,Beverages,1996 Q3,0,12.0,240.0
+Oulu,Queso Manchego La Pastora,86,12,0.05,Dairy Products,1996 Q3,1,30.4,346.55999999999995
+München,Boston Crab Meat,123,50,0.0,Seafood,1996 Q3,1,14.7,735.0
+München,Raclette Courdavault,79,70,0.15,Dairy Products,1996 Q3,1,44.0,1800.0
+München,Lakkalikööri,57,15,0.15,Beverages,1996 Q3,1,14.4,183.6
+Caracas,Thüringer Rostbratwurst,0,10,0.0,Meat/Poultry,1996 Q3,0,55.0,990.0
+Caracas,Mozzarella di Giovanni,14,4,0.0,Dairy Products,1996 Q3,0,27.8,111.2
+Seattle,Geitost,112,60,0.05,Dairy Products,1996 Q3,1,5.9,114.0
+Seattle,Mozzarella di Giovanni,14,20,0.05,Dairy Products,1996 Q3,1,27.8,528.1999999999999
+Oulu,Inlagd Sill,112,30,0.0,Seafood,1996 Q3,0,15.2,456.0
+Oulu,Ipoh Coffee,17,25,0.0,Beverages,1996 Q3,0,36.8,919.9999999999999
+Lander,Geitost,112,24,0.0,Dairy Products,1996 Q3,1,5.9,48.0
+Albuquerque,Sir Rodney's Marmalade,40,6,0.0,Confections,1996 Q3,1,55.0,388.79999999999995
+Albuquerque,Gorgonzola Telino,0,40,0.0,Dairy Products,1996 Q3,0,10.0,400.0
+Albuquerque,Mozzarella di Giovanni,14,24,0.0,Dairy Products,1996 Q3,1,27.8,667.2
+Cunewalde,Ikura,31,24,0.05,Seafood,1996 Q3,1,24.8,565.44
+Cunewalde,Gorgonzola Telino,0,15,0.05,Dairy Products,1996 Q3,1,10.0,142.5
+Cunewalde,Geitost,112,20,0.0,Dairy Products,1996 Q3,1,5.9,40.0
+Cunewalde,Boston Crab Meat,123,60,0.05,Seafood,1996 Q3,1,14.7,837.9
+Cunewalde,Lakkalikööri,57,33,0.05,Beverages,1996 Q3,1,14.4,451.43999999999994
+Reims,Flotemysost,26,20,0.0,Dairy Products,1996 Q3,1,17.2,344.0
+Reims,Mozzarella di Giovanni,14,7,0.0,Dairy Products,1996 Q3,0,27.8,194.6
+Bergamo,Guaraná Fantástica,20,12,0.05,Beverages,1996 Q3,1,5.9,41.04
+Bergamo,Raclette Courdavault,79,6,0.05,Dairy Products,1996 Q3,0,44.0,250.79999999999998
+México D.F.,Ikura,31,15,0.0,Seafood,1996 Q3,0,24.8,372.0
+México D.F.,Konbu,24,10,0.0,Seafood,1996 Q3,0,5.9,48.0
+Leipzig,Rössle Sauerkraut,26,20,0.0,Produce,1996 Q3,0,36.4,728.0
+Leipzig,Tarte au sucre,17,12,0.0,Confections,1996 Q3,0,39.4,472.79999999999995
+Luleå,Gula Malacca,27,16,0.0,Condiments,1996 Q3,0,15.5,248.0
+Luleå,Raclette Courdavault,79,15,0.0,Dairy Products,1996 Q3,0,44.0,660.0
+Luleå,Vegie-spread,24,8,0.0,Condiments,1996 Q3,1,35.1,280.8
+Luleå,Röd Kaviar,101,25,0.0,Seafood,1996 Q3,0,12.0,300.0
+Frankfurt a.M.,Alice Mutton,0,15,0.25,Meat/Poultry,1996 Q3,1,31.2,351.0
+Luleå,Guaraná Fantástica,20,12,0.0,Beverages,1996 Q3,1,5.9,43.2
+Luleå,Pâté chinois,115,20,0.0,Meat/Poultry,1996 Q3,1,19.2,384.0
+Luleå,Rhönbräu Klosterbier,125,30,0.0,Beverages,1996 Q3,1,6.2,186.0
+Madrid,Teatime Chocolate Biscuits,25,1,0.0,Confections,1996 Q3,0,7.3,38.6
+Madrid,Guaraná Fantástica,20,6,0.0,Beverages,1996 Q3,0,5.9,38.6
+Madrid,Steeleye Stout,20,4,0.0,Beverages,1996 Q3,1,14.4,57.6
+Madrid,Nord-Ost Matjeshering,10,6,0.0,Seafood,1996 Q3,0,20.7,124.19999999999999
+Madrid,Ravioli Angelo,36,2,0.0,Grains/Cereals,1996 Q3,1,15.6,38.6
+Barquisimeto,Genen Shouyu,39,20,0.0,Condiments,1996 Q3,0,12.4,248.0
+Barquisimeto,Teatime Chocolate Biscuits,25,18,0.0,Confections,1996 Q3,0,7.3,131.4
+Barquisimeto,Camembert Pierrot,19,35,0.0,Dairy Products,1996 Q3,1,27.2,952.0
+Barquisimeto,Mozzarella di Giovanni,14,3,0.0,Dairy Products,1996 Q3,0,27.8,83.4
+Frankfurt a.M.,Schoggi Schokolade,49,15,0.25,Confections,1996 Q3,1,35.1,394.875
+Frankfurt a.M.,Gula Malacca,27,21,0.0,Condiments,1996 Q3,0,15.5,325.5
+Frankfurt a.M.,Camembert Pierrot,19,20,0.25,Dairy Products,1996 Q3,1,27.2,408.0
+Frankfurt a.M.,Laughing Lumberjack Lager,52,5,0.25,Beverages,1996 Q3,1,11.2,42.0
+Cunewalde,Chai,39,45,0.2,Beverages,1996 Q3,1,14.4,518.4
+Cunewalde,Boston Crab Meat,123,40,0.2,Seafood,1996 Q3,1,14.7,470.40000000000003
+Cunewalde,Perth Pasties,0,36,0.2,Meat/Poultry,1996 Q3,1,26.2,754.56
+Cunewalde,Steeleye Stout,20,100,0.0,Beverages,1996 Q3,1,14.4,1440.0
+Cunewalde,Tarte au sucre,17,40,0.0,Confections,1996 Q3,0,39.4,1576.0
+Rio de Janeiro,Pavlova,29,40,0.15,Confections,1996 Q3,1,13.9,472.59999999999997
+Rio de Janeiro,Sasquatch Ale,111,20,0.0,Beverages,1996 Q3,0,11.2,224.0
+Rio de Janeiro,Spegesild,95,15,0.15,Seafood,1996 Q3,1,9.6,122.39999999999999
+Reggio Emilia,Tourtière,21,10,0.1,Meat/Poultry,1996 Q3,0,5.9,53.1
+Reggio Emilia,Scottish Longbreads,6,3,0.1,Confections,1996 Q3,1,10.0,38.6
+London,Aniseed Syrup,13,30,0.0,Condiments,1996 Q3,1,8.0,240.0
+London,Wimmers gute Semmelknödel,22,9,0.0,Grains/Cereals,1996 Q3,0,26.6,239.4
+Sao Paulo,Chef Anton's Gumbo Mix,0,20,0.0,Condiments,1996 Q3,1,17.0,340.0
+Sao Paulo,Thüringer Rostbratwurst,0,15,0.0,Meat/Poultry,1996 Q3,1,55.0,1485.0
+Sao Paulo,Maxilaku,10,15,0.0,Confections,1996 Q3,0,16.0,240.0
+Sao Paulo,Original Frankfurter grüne Soße,32,10,0.0,Condiments,1996 Q3,0,10.4,104.0
+Rio de Janeiro,Konbu,24,20,0.1,Seafood,1996 Q3,1,5.9,86.4
+Rio de Janeiro,Gula Malacca,27,24,0.1,Condiments,1996 Q3,1,15.5,334.8
+Rio de Janeiro,Manjimup Dried Apples,20,2,0.1,Produce,1996 Q3,1,42.4,76.32
+Sao Paulo,Sir Rodney's Marmalade,40,20,0.0,Confections,1996 Q3,1,55.0,1296.0
+México D.F.,Carnarvon Tigers,42,12,0.0,Seafood,1996 Q3,0,50.0,600.0
+México D.F.,Guaraná Fantástica,20,10,0.0,Beverages,1996 Q3,1,5.9,38.6
+México D.F.,Vegie-spread,24,5,0.0,Condiments,1996 Q3,1,35.1,175.5
+México D.F.,Rhönbräu Klosterbier,125,6,0.0,Beverages,1996 Q3,1,6.2,38.6
+Albuquerque,Chai,39,18,0.0,Beverages,1996 Q3,1,14.4,259.2
+Albuquerque,Alice Mutton,0,15,0.0,Meat/Poultry,1996 Q3,1,31.2,468.0
+Albuquerque,Ipoh Coffee,17,15,0.0,Beverages,1996 Q3,1,36.8,552.0
+Albuquerque,Camembert Pierrot,19,21,0.0,Dairy Products,1996 Q3,0,27.2,571.1999999999999
+Albuquerque,Rhönbräu Klosterbier,125,6,0.0,Beverages,1996 Q3,1,6.2,38.6
+Reims,Gnocchi di nonna Alice,21,4,0.0,Grains/Cereals,1996 Q3,1,30.4,121.6
+Barquisimeto,Queso Cabrales,22,12,0.0,Dairy Products,1996 Q3,1,16.8,201.60000000000002
+Barquisimeto,Pavlova,29,30,0.0,Confections,1996 Q3,0,13.9,417.0
+Barquisimeto,Gudbrandsdalsost,26,15,0.0,Dairy Products,1996 Q3,1,28.8,432.0
+Strasbourg,Chartreuse verte,69,60,0.0,Beverages,1996 Q3,1,14.4,864.0
+Strasbourg,Mozzarella di Giovanni,14,20,0.0,Dairy Products,1996 Q3,1,27.8,556.0
+Cork,Chang,17,40,0.0,Beverages,1996 Q3,0,15.2,608.0
+Cork,Inlagd Sill,112,40,0.25,Seafood,1996 Q3,1,15.2,456.0
+Cork,Raclette Courdavault,79,30,0.25,Dairy Products,1996 Q3,1,44.0,990.0
+Cork,Tarte au sucre,17,15,0.0,Confections,1996 Q3,0,39.4,591.0
+Rio de Janeiro,Teatime Chocolate Biscuits,25,15,0.0,Confections,1996 Q3,0,7.3,109.5
+Rio de Janeiro,Outback Lager,15,20,0.0,Beverages,1996 Q3,0,12.0,240.0
+Bergamo,Louisiana Hot Spiced Okra,4,30,0.0,Condiments,1996 Q3,0,13.6,408.0
+Bergamo,Scottish Longbreads,6,20,0.0,Confections,1996 Q3,1,10.0,200.0
+Stuttgart,Boston Crab Meat,123,10,0.0,Seafood,1996 Q3,0,14.7,147.0
+Stuttgart,Gnocchi di nonna Alice,21,20,0.0,Grains/Cereals,1996 Q3,0,30.4,608.0
+Charleroi,Alice Mutton,0,40,0.0,Meat/Poultry,1996 Q3,0,31.2,1248.0
+Charleroi,Rössle Sauerkraut,26,28,0.0,Produce,1996 Q3,0,36.4,1019.1999999999999
+Charleroi,Ipoh Coffee,17,12,0.0,Beverages,1996 Q3,0,36.8,441.59999999999997
+Sevilla,Boston Crab Meat,123,40,0.1,Seafood,1996 Q3,1,14.7,529.2
+Sevilla,Louisiana Fiery Hot Pepper Sauce,76,30,0.1,Condiments,1996 Q3,1,16.8,453.6
+Sevilla,Scottish Longbreads,6,15,0.1,Confections,1996 Q3,1,10.0,135.0
+México D.F.,Maxilaku,10,30,0.0,Confections,1996 Q3,0,16.0,480.0
+México D.F.,Raclette Courdavault,79,10,0.0,Dairy Products,1996 Q3,0,44.0,440.0
+México D.F.,Flotemysost,26,2,0.0,Dairy Products,1996 Q3,1,17.2,38.6
+Anchorage,Carnarvon Tigers,42,25,0.1,Seafood,1996 Q3,1,50.0,1125.0
+Anchorage,Thüringer Rostbratwurst,0,25,0.1,Meat/Poultry,1996 Q3,0,55.0,1800.0
+Anchorage,Chartreuse verte,69,30,0.1,Beverages,1996 Q3,1,14.4,388.8
+Madrid,Nord-Ost Matjeshering,10,10,0.0,Seafood,1996 Q3,0,20.7,207.0
+Madrid,Perth Pasties,0,10,0.0,Meat/Poultry,1996 Q3,0,26.2,262.0
+Madrid,Tourtière,21,5,0.0,Meat/Poultry,1996 Q3,0,5.9,38.6
+Portland,Tarte au sucre,17,10,0.0,Confections,1996 Q3,1,39.4,394.0
+Portland,Scottish Longbreads,6,3,0.0,Confections,1996 Q3,1,10.0,38.6
+México D.F.,Gudbrandsdalsost,26,1,0.0,Dairy Products,1996 Q3,1,28.8,38.6
+México D.F.,Outback Lager,15,5,0.0,Beverages,1996 Q3,0,12.0,60.0
+Cork,Chef Anton's Cajun Seasoning,53,20,0.0,Condiments,1996 Q3,1,17.6,352.0
+Cork,Grandma's Boysenberry Spread,120,30,0.0,Condiments,1996 Q3,0,20.0,600.0
+Cork,Singaporean Hokkien Fried Mee,26,2,0.0,Grains/Cereals,1996 Q3,0,11.2,38.6
+Cork,Ipoh Coffee,17,20,0.0,Beverages,1996 Q3,0,36.8,736.0
+Cork,Flotemysost,26,3,0.0,Dairy Products,1996 Q3,0,17.2,51.599999999999994
+Portland,Pavlova,29,10,0.0,Confections,1996 Q3,0,13.9,139.0
+Portland,Tarte au sucre,17,5,0.0,Confections,1996 Q3,1,39.4,197.0
+Nantes,Singaporean Hokkien Fried Mee,26,6,0.0,Grains/Cereals,1996 Q3,1,11.2,67.19999999999999
+Nantes,Gudbrandsdalsost,26,7,0.0,Dairy Products,1996 Q3,1,28.8,201.6
+Stuttgart,Rössle Sauerkraut,26,4,0.0,Produce,1996 Q3,1,36.4,145.6
+Stuttgart,Ipoh Coffee,17,24,0.0,Beverages,1996 Q3,0,36.8,883.1999999999999
+Stuttgart,Perth Pasties,0,20,0.0,Meat/Poultry,1996 Q3,1,26.2,524.0
+Stuttgart,Rhönbräu Klosterbier,125,10,0.0,Beverages,1996 Q3,0,6.2,62.0
+Cunewalde,Inlagd Sill,112,12,0.0,Seafood,1996 Q3,0,15.2,182.39999999999998
+Albuquerque,Mascarpone Fabioli,9,40,0.1,Dairy Products,1996 Q3,1,25.6,921.6
+Albuquerque,Escargots de Bourgogne,62,30,0.1,Seafood,1996 Q3,1,10.6,286.2
+Albuquerque,Tarte au sucre,17,25,0.1,Confections,1996 Q3,1,39.4,886.5
+Cowes,Sasquatch Ale,111,14,0.0,Beverages,1996 Q3,0,11.2,156.79999999999998
+Cowes,Outback Lager,15,30,0.0,Beverages,1996 Q3,0,12.0,360.0
+Albuquerque,Jack's New England Clam Chowder,85,10,0.0,Seafood,1996 Q3,0,7.7,77.0
+Albuquerque,Tarte au sucre,17,70,0.0,Confections,1996 Q3,1,39.4,1800.0
+Portland,Chai,39,20,0.0,Beverages,1996 Q3,0,14.4,288.0
+Cowes,Jack's New England Clam Chowder,85,20,0.0,Seafood,1996 Q4,1,7.7,154.0
+Cowes,Lakkalikööri,57,6,0.0,Beverages,1996 Q4,0,14.4,86.4
+México D.F.,Alice Mutton,0,8,0.0,Meat/Poultry,1996 Q4,0,31.2,249.6
+México D.F.,Rössle Sauerkraut,26,14,0.0,Produce,1996 Q4,0,36.4,509.59999999999997
+México D.F.,Lakkalikööri,57,30,0.0,Beverages,1996 Q4,0,14.4,432.0
+Oulu,Flotemysost,26,30,0.0,Dairy Products,1996 Q4,0,17.2,516.0
+Cowes,Steeleye Stout,20,10,0.0,Beverages,1996 Q4,1,14.4,144.0
+México D.F.,Filo Mix,38,20,0.0,Grains/Cereals,1996 Q4,0,5.9,112.0
+Brandenburg,Genen Shouyu,39,5,0.0,Condiments,1996 Q4,0,12.4,62.0
+Brandenburg,NuNuCa Nuß-Nougat-Creme,76,4,0.0,Confections,1996 Q4,0,11.2,44.8
+Brandenburg,Chartreuse verte,69,4,0.0,Beverages,1996 Q4,1,14.4,57.6
+Boise,Pavlova,29,21,0.15,Confections,1996 Q4,1,13.9,248.115
+Boise,Steeleye Stout,20,70,0.15,Beverages,1996 Q4,1,14.4,856.8
+Boise,Spegesild,95,30,0.0,Seafood,1996 Q4,0,9.6,288.0
+Boise,Raclette Courdavault,79,40,0.15,Dairy Products,1996 Q4,1,44.0,1496.0
+Boise,Vegie-spread,24,80,0.15,Condiments,1996 Q4,1,35.1,1800.0
+Brandenburg,Grandma's Boysenberry Spread,120,6,0.0,Condiments,1996 Q4,0,20.0,120.0
+Brandenburg,Konbu,24,12,0.0,Seafood,1996 Q4,0,5.9,57.599999999999994
+Brandenburg,Tofu,35,9,0.0,Produce,1996 Q4,0,18.6,167.4
+Brandenburg,Gorgonzola Telino,0,4,0.0,Dairy Products,1996 Q4,0,10.0,40.0
+Brandenburg,Mozzarella di Giovanni,14,40,0.0,Dairy Products,1996 Q4,0,27.8,1112.0
+Madrid,Chef Anton's Cajun Seasoning,53,24,0.0,Condiments,1996 Q4,0,17.6,422.40000000000003
+Madrid,Ravioli Angelo,36,16,0.0,Grains/Cereals,1996 Q4,0,15.6,249.6
+Madrid,Rhönbräu Klosterbier,125,50,0.0,Beverages,1996 Q4,1,6.2,310.0
+Bräcke,Chang,17,25,0.2,Beverages,1996 Q4,1,15.2,304.0
+Bräcke,Queso Cabrales,22,50,0.2,Dairy Products,1996 Q4,1,16.8,672.0
+Bräcke,Nord-Ost Matjeshering,10,35,0.2,Seafood,1996 Q4,1,20.7,579.6
+Bräcke,Escargots de Bourgogne,62,30,0.2,Seafood,1996 Q4,1,10.6,254.4
+Lisboa,Raclette Courdavault,79,9,0.0,Dairy Products,1996 Q4,1,44.0,396.0
+Lisboa,Louisiana Fiery Hot Pepper Sauce,76,40,0.0,Condiments,1996 Q4,1,16.8,672.0
+Lisboa,Scottish Longbreads,6,10,0.0,Confections,1996 Q4,0,10.0,100.0
+Lander,Teatime Chocolate Biscuits,25,10,0.05,Confections,1996 Q4,1,7.3,69.35
+Lander,Nord-Ost Matjeshering,10,8,0.05,Seafood,1996 Q4,0,20.7,157.32
+Lander,Côte de Blaye,17,20,0.05,Beverages,1996 Q4,0,55.0,1800.0
+Lander,Gnocchi di nonna Alice,21,12,0.05,Grains/Cereals,1996 Q4,1,30.4,346.55999999999995
+Barquisimeto,Gumbär Gummibärchen,15,50,0.15,Confections,1996 Q4,1,24.9,1058.25
+Barquisimeto,Mozzarella di Giovanni,14,25,0.15,Dairy Products,1996 Q4,1,27.8,590.75
+Marseille,Tourtière,21,15,0.0,Meat/Poultry,1996 Q4,0,5.9,88.5
+Montréal,Carnarvon Tigers,42,40,0.2,Seafood,1996 Q4,1,50.0,1600.0
+Montréal,Singaporean Hokkien Fried Mee,26,10,0.2,Grains/Cereals,1996 Q4,1,11.2,89.60000000000001
+Montréal,Zaanse koeken,36,16,0.2,Confections,1996 Q4,1,7.6,97.28
+Oulu,Tofu,35,10,0.0,Produce,1996 Q4,0,18.6,186.0
+Oulu,Sir Rodney's Scones,3,10,0.1,Confections,1996 Q4,1,8.0,72.0
+Oulu,Flotemysost,26,40,0.1,Dairy Products,1996 Q4,1,17.2,619.2
+Lyon,Filo Mix,38,8,0.0,Grains/Cereals,1996 Q4,0,5.9,44.8
+Lyon,Scottish Longbreads,6,10,0.0,Confections,1996 Q4,0,10.0,100.0
+Cork,Chang,17,7,0.2,Beverages,1996 Q4,1,15.2,85.12
+Cork,Gorgonzola Telino,0,25,0.2,Dairy Products,1996 Q4,1,10.0,200.0
+Cork,Mascarpone Fabioli,9,6,0.2,Dairy Products,1996 Q4,1,25.6,122.88000000000002
+Cork,Manjimup Dried Apples,20,48,0.2,Produce,1996 Q4,1,42.4,1628.1599999999999
+Lisboa,Chef Anton's Cajun Seasoning,53,18,0.1,Condiments,1996 Q4,1,17.6,285.12
+München,Tunnbröd,61,40,0.0,Grains/Cereals,1996 Q4,1,7.2,288.0
+München,Gumbär Gummibärchen,15,24,0.0,Confections,1996 Q4,0,24.9,597.5999999999999
+München,Inlagd Sill,112,20,0.0,Seafood,1996 Q4,0,15.2,304.0
+München,Gravad lax,11,28,0.0,Seafood,1996 Q4,0,20.8,582.4
+München,Mozzarella di Giovanni,14,25,0.0,Dairy Products,1996 Q4,1,27.8,695.0
+Anchorage,Alice Mutton,0,20,0.0,Meat/Poultry,1996 Q4,0,31.2,624.0
+Anchorage,Nord-Ost Matjeshering,10,15,0.0,Seafood,1996 Q4,0,20.7,310.5
+Montréal,Chef Anton's Cajun Seasoning,53,10,0.0,Condiments,1996 Q4,0,17.6,176.0
+Montréal,Alice Mutton,0,70,0.05,Meat/Poultry,1996 Q4,0,31.2,1800.0
+Montréal,Tarte au sucre,17,28,0.0,Confections,1996 Q4,0,39.4,1103.2
+Marseille,Carnarvon Tigers,42,20,0.05,Seafood,1996 Q4,1,50.0,950.0
+Marseille,Jack's New England Clam Chowder,85,12,0.05,Seafood,1996 Q4,0,7.7,87.78
+Marseille,Ipoh Coffee,17,40,0.05,Beverages,1996 Q4,1,36.8,1398.3999999999999
+Kobenhavn,Geitost,112,8,0.0,Dairy Products,1996 Q4,0,5.9,38.6
+Kobenhavn,Raclette Courdavault,79,9,0.15,Dairy Products,1996 Q4,1,44.0,336.59999999999997
+München,Chang,17,24,0.2,Beverages,1996 Q4,1,15.2,291.84
+München,Gorgonzola Telino,0,56,0.2,Dairy Products,1996 Q4,1,10.0,448.0
+München,Inlagd Sill,112,40,0.2,Seafood,1996 Q4,1,15.2,486.40000000000003
+München,Pâté chinois,115,40,0.2,Meat/Poultry,1996 Q4,1,19.2,614.4000000000001
+Frankfurt a.M.,Wimmers gute Semmelknödel,22,50,0.0,Grains/Cereals,1996 Q4,1,26.6,1330.0
+Frankfurt a.M.,Scottish Longbreads,6,4,0.05,Confections,1996 Q4,1,10.0,38.6
+Frankfurt a.M.,Lakkalikööri,57,15,0.0,Beverages,1996 Q4,1,14.4,216.0
+Seattle,Chef Anton's Cajun Seasoning,53,35,0.0,Condiments,1996 Q4,0,17.6,616.0
+Seattle,Northwoods Cranberry Sauce,6,70,0.25,Condiments,1996 Q4,1,32.0,1680.0
+Cunewalde,Northwoods Cranberry Sauce,6,70,0.0,Condiments,1996 Q4,0,32.0,1800.0
+Cunewalde,Teatime Chocolate Biscuits,25,80,0.0,Confections,1996 Q4,0,7.3,584.0
+Cunewalde,Singaporean Hokkien Fried Mee,26,9,0.0,Grains/Cereals,1996 Q4,0,11.2,100.8
+Albuquerque,Alice Mutton,0,36,0.1,Meat/Poultry,1996 Q4,1,31.2,1010.8800000000001
+Albuquerque,Gnocchi di nonna Alice,21,20,0.0,Grains/Cereals,1996 Q4,0,30.4,608.0
+Sao Paulo,NuNuCa Nuß-Nougat-Creme,76,10,0.0,Confections,1996 Q4,0,11.2,112.0
+Sao Paulo,Chartreuse verte,69,50,0.15,Beverages,1996 Q4,1,14.4,612.0
+Sao Paulo,Boston Crab Meat,123,4,0.0,Seafood,1996 Q4,0,14.7,58.8
+Sao Paulo,Rhönbräu Klosterbier,125,6,0.15,Beverages,1996 Q4,1,6.2,38.6
+Stuttgart,Chai,39,15,0.15,Beverages,1996 Q4,1,14.4,183.6
+Stuttgart,Tunnbröd,61,25,0.0,Grains/Cereals,1996 Q4,1,7.2,180.0
+Lander,Tourtière,21,24,0.0,Meat/Poultry,1996 Q4,0,5.9,141.60000000000002
+Toulouse,Valkoinen suklaa,65,15,0.1,Confections,1996 Q4,1,13.0,175.5
+Toulouse,Gudbrandsdalsost,26,18,0.1,Dairy Products,1996 Q4,1,28.8,466.56
+Graz,Côte de Blaye,17,20,0.05,Beverages,1996 Q4,0,55.0,1800.0
+Graz,Jack's New England Clam Chowder,85,13,0.0,Seafood,1996 Q4,0,7.7,100.10000000000001
+Graz,Gula Malacca,27,77,0.05,Condiments,1996 Q4,1,15.5,1133.825
+Graz,Louisiana Fiery Hot Pepper Sauce,76,10,0.05,Condiments,1996 Q4,0,16.8,159.6
+Lisboa,Guaraná Fantástica,20,10,0.0,Beverages,1996 Q4,1,5.9,38.6
+Lisboa,Tourtière,21,20,0.15,Meat/Poultry,1996 Q4,0,5.9,100.3
+Salzburg,Queso Cabrales,22,12,0.2,Dairy Products,1996 Q4,1,16.8,161.28000000000003
+Salzburg,Côte de Blaye,17,50,0.2,Beverages,1996 Q4,1,55.0,1800.0
+México D.F.,Chai,39,12,0.0,Beverages,1996 Q4,1,14.4,172.8
+México D.F.,Thüringer Rostbratwurst,0,4,0.0,Meat/Poultry,1996 Q4,1,55.0,396.0
+London,Guaraná Fantástica,20,25,0.0,Beverages,1996 Q4,1,5.9,90.0
+London,Ravioli Angelo,36,25,0.0,Grains/Cereals,1996 Q4,1,15.6,390.0
+Stuttgart,Gorgonzola Telino,0,30,0.0,Dairy Products,1996 Q4,1,10.0,300.0
+Stuttgart,Pâté chinois,115,12,0.0,Meat/Poultry,1996 Q4,0,19.2,230.39999999999998
+Stuttgart,Gudbrandsdalsost,26,20,0.0,Dairy Products,1996 Q4,1,28.8,576.0
+Barquisimeto,Ikura,31,30,0.2,Seafood,1996 Q4,1,24.8,595.2
+Barquisimeto,Gumbär Gummibärchen,15,16,0.0,Confections,1996 Q4,1,24.9,398.4
+Barquisimeto,Camembert Pierrot,19,8,0.2,Dairy Products,1996 Q4,1,27.2,174.08
+Toulouse,Guaraná Fantástica,20,10,0.05,Beverages,1996 Q4,1,5.9,38.6
+Toulouse,Sasquatch Ale,111,10,0.05,Beverages,1996 Q4,0,11.2,106.39999999999999
+Toulouse,Inlagd Sill,112,20,0.05,Seafood,1996 Q4,0,15.2,288.8
+London,Pavlova,29,56,0.05,Confections,1996 Q4,1,13.9,739.4799999999999
+London,Gorgonzola Telino,0,70,0.05,Dairy Products,1996 Q4,1,10.0,665.0
+London,Camembert Pierrot,19,80,0.05,Dairy Products,1996 Q4,1,27.2,1800.0
+Strasbourg,Rössle Sauerkraut,26,30,0.0,Produce,1996 Q4,1,36.4,1092.0
+Strasbourg,Thüringer Rostbratwurst,0,35,0.0,Meat/Poultry,1996 Q4,1,55.0,1800.0
+Strasbourg,Côte de Blaye,17,10,0.0,Beverages,1996 Q4,0,55.0,1800.0
+Strasbourg,Maxilaku,10,35,0.0,Confections,1996 Q4,0,16.0,560.0
+Strasbourg,Tourtière,21,28,0.0,Meat/Poultry,1996 Q4,0,5.9,165.20000000000002
+Cunewalde,Chartreuse verte,69,54,0.1,Beverages,1996 Q4,1,14.4,699.84
+Cunewalde,Camembert Pierrot,19,55,0.1,Dairy Products,1996 Q4,1,27.2,1346.4
+Marseille,NuNuCa Nuß-Nougat-Creme,76,50,0.0,Confections,1996 Q4,1,11.2,560.0
+Marseille,Manjimup Dried Apples,20,20,0.0,Produce,1996 Q4,0,42.4,848.0
+Marseille,Tourtière,21,24,0.0,Meat/Poultry,1996 Q4,0,5.9,141.60000000000002
+Aachen,Gorgonzola Telino,0,20,0.0,Dairy Products,1996 Q4,1,10.0,200.0
+Aachen,Rhönbräu Klosterbier,125,12,0.0,Beverages,1996 Q4,0,6.2,74.4
+Aachen,Lakkalikööri,57,12,0.0,Beverages,1996 Q4,1,14.4,172.8
+London,Gudbrandsdalsost,26,30,0.0,Dairy Products,1996 Q4,0,28.8,864.0
+London,Flotemysost,26,5,0.0,Dairy Products,1996 Q4,1,17.2,86.0
+México D.F.,Queso Cabrales,22,24,0.0,Dairy Products,1996 Q4,0,16.8,403.20000000000005
+Barcelona,Louisiana Fiery Hot Pepper Sauce,76,5,0.0,Condiments,1996 Q4,0,16.8,84.0
+Barcelona,Original Frankfurter grüne Soße,32,5,0.0,Condiments,1996 Q4,0,10.4,52.0
+Århus,Sasquatch Ale,111,36,0.0,Beverages,1996 Q4,1,11.2,403.2
+Århus,Tourtière,21,18,0.0,Meat/Poultry,1996 Q4,0,5.9,106.2
+Århus,Louisiana Fiery Hot Pepper Sauce,76,15,0.0,Condiments,1996 Q4,0,16.8,252.0
+Århus,Original Frankfurter grüne Soße,32,7,0.0,Condiments,1996 Q4,1,10.4,72.8
+Graz,Sir Rodney's Scones,3,5,0.1,Confections,1996 Q4,1,8.0,38.6
+Graz,Rössle Sauerkraut,26,13,0.1,Produce,1996 Q4,0,36.4,425.88
+Graz,Ravioli Angelo,36,25,0.0,Grains/Cereals,1996 Q4,1,15.6,390.0
+Graz,Wimmers gute Semmelknödel,22,35,0.1,Grains/Cereals,1996 Q4,1,26.6,837.9
+Lander,Thüringer Rostbratwurst,0,20,0.0,Meat/Poultry,1996 Q4,0,55.0,1800.0
+Lander,Gnocchi di nonna Alice,21,18,0.25,Grains/Cereals,1996 Q4,1,30.4,410.4
+Bern,Chai,39,15,0.15,Beverages,1996 Q4,1,14.4,183.6
+Bern,Wimmers gute Semmelknödel,22,30,0.0,Grains/Cereals,1996 Q4,1,26.6,798.0
+Bern,Longlife Tofu,4,20,0.15,Produce,1996 Q4,1,8.0,136.0
+Toulouse,Inlagd Sill,112,6,0.2,Seafood,1996 Q4,1,15.2,72.96
+Sao Paulo,Sir Rodney's Marmalade,40,12,0.25,Confections,1996 Q4,1,55.0,583.1999999999999
+Sao Paulo,Côte de Blaye,17,40,0.25,Beverages,1996 Q4,1,55.0,1800.0
+Sao Paulo,Camembert Pierrot,19,70,0.25,Dairy Products,1996 Q4,1,27.2,1428.0
+Sao Paulo,Mozzarella di Giovanni,14,42,0.25,Dairy Products,1996 Q4,1,27.8,875.7
+Cork,Escargots de Bourgogne,62,80,0.2,Seafood,1996 Q4,1,10.6,678.4000000000001
+Cork,Flotemysost,26,50,0.2,Dairy Products,1996 Q4,1,17.2,688.0
+Warszawa,Gorgonzola Telino,0,30,0.0,Dairy Products,1996 Q4,1,10.0,300.0
+Warszawa,Escargots de Bourgogne,62,15,0.0,Seafood,1996 Q4,0,10.6,159.0
+Elgin,Tofu,35,15,0.0,Produce,1996 Q4,1,18.6,279.0
+Elgin,Tourtière,21,10,0.0,Meat/Poultry,1996 Q4,0,5.9,59.0
+Montréal,Gorgonzola Telino,0,42,0.05,Dairy Products,1996 Q4,1,10.0,399.0
+London,Rössle Sauerkraut,26,20,0.15,Produce,1996 Q4,1,36.4,618.8
+London,Chartreuse verte,69,20,0.15,Beverages,1996 Q4,1,14.4,244.79999999999998
+Bräcke,Flotemysost,26,6,0.0,Dairy Products,1996 Q4,1,17.2,103.19999999999999
+Rio de Janeiro,Jack's New England Clam Chowder,85,8,0.1,Seafood,1996 Q4,1,7.7,55.440000000000005
+Rio de Janeiro,Vegie-spread,24,16,0.1,Condiments,1996 Q4,1,35.1,505.44000000000005
+Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,76,20,0.1,Condiments,1996 Q4,1,16.8,302.40000000000003
+Cork,Nord-Ost Matjeshering,10,18,0.1,Seafood,1996 Q4,1,20.7,335.34
+Cork,Perth Pasties,0,20,0.1,Meat/Poultry,1996 Q4,1,26.2,471.6
+Cork,Camembert Pierrot,19,6,0.1,Dairy Products,1996 Q4,1,27.2,146.88
+Cork,Outback Lager,15,30,0.0,Beverages,1996 Q4,0,12.0,360.0
+Barquisimeto,Longlife Tofu,4,14,0.0,Produce,1996 Q4,0,8.0,112.0
+Graz,Chef Anton's Gumbo Mix,0,32,0.0,Condiments,1996 Q4,0,17.0,544.0
+Graz,Carnarvon Tigers,42,9,0.0,Seafood,1996 Q4,0,50.0,450.0
+Graz,Thüringer Rostbratwurst,0,14,0.0,Meat/Poultry,1996 Q4,0,55.0,1386.0
+Graz,Geitost,112,60,0.0,Dairy Products,1996 Q4,1,5.9,120.0
+Graz,Longlife Tofu,4,50,0.0,Produce,1996 Q4,1,8.0,400.0
+London,Konbu,24,20,0.0,Seafood,1996 Q4,0,5.9,96.0
+London,Valkoinen suklaa,65,15,0.0,Confections,1996 Q4,1,13.0,195.0
+London,Gnocchi di nonna Alice,21,20,0.0,Grains/Cereals,1996 Q4,0,30.4,608.0
+Luleå,Sir Rodney's Marmalade,40,28,0.0,Confections,1996 Q4,0,55.0,1800.0
+Luleå,Camembert Pierrot,19,15,0.0,Dairy Products,1996 Q4,0,27.2,408.0
+Lander,Uncle Bob's Organic Dried Pears,15,10,0.2,Produce,1996 Q4,1,24.0,192.0
+Lander,Camembert Pierrot,19,20,0.2,Dairy Products,1996 Q4,1,27.2,435.20000000000005
+Lander,Scottish Longbreads,6,8,0.2,Confections,1996 Q4,1,10.0,64.0
+Sao Paulo,Guaraná Fantástica,20,15,0.0,Beverages,1996 Q4,1,5.9,54.0
+Sao Paulo,Sasquatch Ale,111,10,0.0,Beverages,1996 Q4,0,11.2,112.0
+Stavern,Guaraná Fantástica,20,15,0.0,Beverages,1996 Q4,1,5.9,54.0
+Stavern,Rössle Sauerkraut,26,6,0.0,Produce,1996 Q4,1,36.4,218.39999999999998
+Stavern,Raclette Courdavault,79,12,0.0,Dairy Products,1996 Q4,0,44.0,528.0
+Stavern,Flotemysost,26,15,0.0,Dairy Products,1996 Q4,1,17.2,258.0
+London,Rogede sild,5,15,0.2,Seafood,1996 Q4,1,7.6,91.2
+London,Filo Mix,38,20,0.2,Grains/Cereals,1996 Q4,0,5.9,89.60000000000001
+London,Perth Pasties,0,40,0.0,Meat/Poultry,1996 Q4,1,26.2,1048.0
+Tsawassen,Ikura,31,16,0.0,Seafood,1996 Q4,1,24.8,396.8
+Tsawassen,Pâté chinois,115,15,0.0,Meat/Poultry,1996 Q4,0,19.2,288.0
+Tsawassen,Tarte au sucre,17,20,0.0,Confections,1996 Q4,0,39.4,788.0
+Tsawassen,Outback Lager,15,30,0.0,Beverages,1996 Q4,0,12.0,360.0
+Graz,Gorgonzola Telino,0,60,0.1,Dairy Products,1996 Q4,1,10.0,540.0
+Graz,Steeleye Stout,20,40,0.1,Beverages,1996 Q4,1,14.4,518.4
+Graz,Spegesild,95,45,0.0,Seafood,1996 Q4,0,9.6,432.0
+Graz,Mozzarella di Giovanni,14,24,0.1,Dairy Products,1996 Q4,1,27.8,600.48
+Aachen,Konbu,24,18,0.0,Seafood,1996 Q4,0,5.9,86.39999999999999
+Salzburg,Gudbrandsdalsost,26,50,0.0,Dairy Products,1996 Q4,0,28.8,1440.0
+Boise,Chang,17,25,0.25,Beverages,1996 Q4,1,15.2,285.0
+Boise,Tofu,35,42,0.25,Produce,1996 Q4,1,18.6,585.9000000000001
+Boise,NuNuCa Nuß-Nougat-Creme,76,7,0.25,Confections,1996 Q4,1,11.2,58.8
+Boise,Gumbär Gummibärchen,15,70,0.25,Confections,1996 Q4,1,24.9,1307.25
+Boise,Gorgonzola Telino,0,32,0.0,Dairy Products,1996 Q4,0,10.0,320.0
+Elgin,Konbu,24,10,0.0,Seafood,1996 Q4,0,5.9,48.0
+Elgin,Tarte au sucre,17,10,0.0,Confections,1996 Q4,1,39.4,394.0
+San Cristóbal,Spegesild,95,28,0.1,Seafood,1996 Q4,1,9.6,241.92000000000002
+San Cristóbal,Perth Pasties,0,70,0.1,Meat/Poultry,1996 Q4,1,26.2,1650.6000000000001
+San Cristóbal,Gudbrandsdalsost,26,8,0.0,Dairy Products,1996 Q4,0,28.8,230.4
+München,Tunnbröd,61,40,0.0,Grains/Cereals,1996 Q4,1,7.2,288.0
+München,Flotemysost,26,60,0.0,Dairy Products,1996 Q4,1,17.2,1032.0
+München,Mozzarella di Giovanni,14,21,0.0,Dairy Products,1996 Q4,0,27.8,583.8000000000001
+Lisboa,Sir Rodney's Scones,3,10,0.15,Confections,1996 Q4,1,8.0,68.0
+Lisboa,Manjimup Dried Apples,20,18,0.15,Produce,1996 Q4,1,42.4,648.7199999999999
+Boise,Steeleye Stout,20,30,0.0,Beverages,1996 Q4,0,14.4,432.0
+Boise,Pâté chinois,115,120,0.1,Meat/Poultry,1996 Q4,1,19.2,1800.0
+Århus,Scottish Longbreads,6,60,0.0,Confections,1996 Q4,1,10.0,600.0
+Århus,Flotemysost,26,30,0.0,Dairy Products,1996 Q4,0,17.2,516.0
+Århus,Lakkalikööri,57,35,0.0,Beverages,1996 Q4,0,14.4,504.0
+Århus,Original Frankfurter grüne Soße,32,14,0.0,Condiments,1996 Q4,1,10.4,145.6
+London,Thüringer Rostbratwurst,0,21,0.0,Meat/Poultry,1997 Q1,0,55.0,1800.0
+London,Steeleye Stout,20,35,0.0,Beverages,1997 Q1,0,14.4,504.0
+London,Maxilaku,10,30,0.0,Confections,1997 Q1,0,16.0,480.0
+Albuquerque,Nord-Ost Matjeshering,10,18,0.0,Seafood,1997 Q1,0,20.7,372.59999999999997
+Albuquerque,Gnocchi di nonna Alice,21,70,0.0,Grains/Cereals,1997 Q1,0,30.4,1800.0
+Albuquerque,Louisiana Fiery Hot Pepper Sauce,76,20,0.0,Condiments,1997 Q1,1,16.8,336.0
+Albuquerque,Flotemysost,26,60,0.0,Dairy Products,1997 Q1,1,17.2,1032.0
+Graz,Tunnbröd,61,60,0.0,Grains/Cereals,1997 Q1,1,7.2,432.0
+Graz,Vegie-spread,24,65,0.0,Condiments,1997 Q1,0,35.1,1800.0
+Graz,Pavlova,29,21,0.15,Confections,1997 Q1,1,13.9,248.115
+Graz,Chocolade,15,70,0.15,Confections,1997 Q1,1,10.2,606.9
+Bergamo,Gumbär Gummibärchen,15,30,0.05,Confections,1997 Q1,1,24.9,709.65
+Bergamo,Singaporean Hokkien Fried Mee,26,40,0.05,Grains/Cereals,1997 Q1,1,11.2,425.59999999999997
+Bergamo,Maxilaku,10,30,0.05,Confections,1997 Q1,1,16.0,456.0
+I. de Margarita,Aniseed Syrup,13,50,0.0,Condiments,1997 Q1,1,8.0,400.0
+Sao Paulo,Chai,39,10,0.0,Beverages,1997 Q1,1,14.4,144.0
+Sao Paulo,Sir Rodney's Scones,3,30,0.1,Confections,1997 Q1,1,8.0,216.0
+Sao Paulo,Rössle Sauerkraut,26,42,0.1,Produce,1997 Q1,1,36.4,1375.92
+Sao Paulo,Inlagd Sill,112,5,0.1,Seafood,1997 Q1,1,15.2,68.4
+Sao Paulo,Boston Crab Meat,123,2,0.1,Seafood,1997 Q1,0,14.7,38.6
+Köln,Queso Cabrales,22,30,0.0,Dairy Products,1997 Q1,0,16.8,504.0
+Köln,Gudbrandsdalsost,26,15,0.0,Dairy Products,1997 Q1,1,28.8,432.0
+Köln,Flotemysost,26,15,0.0,Dairy Products,1997 Q1,1,17.2,258.0
+Lille,Gravad lax,11,10,0.0,Seafood,1997 Q1,0,20.8,208.0
+Lille,Tourtière,21,6,0.0,Meat/Poultry,1997 Q1,1,5.9,38.6
+Lille,Tarte au sucre,17,35,0.0,Confections,1997 Q1,1,39.4,1379.0
+Buenos Aires,Tofu,35,12,0.0,Produce,1997 Q1,0,18.6,223.20000000000002
+Buenos Aires,Sir Rodney's Scones,3,12,0.0,Confections,1997 Q1,0,8.0,96.0
+Tsawassen,Geitost,112,49,0.0,Dairy Products,1997 Q1,1,5.9,98.0
+Tsawassen,Raclette Courdavault,79,16,0.0,Dairy Products,1997 Q1,0,44.0,704.0
+Tsawassen,Jack's New England Clam Chowder,85,25,0.2,Seafood,1997 Q1,1,7.7,154.0
+Tsawassen,Gula Malacca,27,40,0.2,Condiments,1997 Q1,1,15.5,496.0
+Tsawassen,Raclette Courdavault,79,9,0.2,Dairy Products,1997 Q1,1,44.0,316.8
+Oulu,Tofu,35,20,0.1,Produce,1997 Q1,1,18.6,334.8
+Toulouse,Chai,39,24,0.0,Beverages,1997 Q1,1,14.4,345.6
+Toulouse,Tarte au sucre,17,40,0.0,Confections,1997 Q1,0,39.4,1576.0
+Toulouse,Lakkalikööri,57,14,0.0,Beverages,1997 Q1,1,14.4,201.6
+Sao Paulo,Teatime Chocolate Biscuits,25,18,0.05,Confections,1997 Q1,1,7.3,124.83
+Sao Paulo,Geitost,112,50,0.0,Dairy Products,1997 Q1,1,5.9,100.0
+Elgin,Alice Mutton,0,2,0.0,Meat/Poultry,1997 Q1,1,31.2,62.4
+Elgin,Geitost,112,20,0.0,Dairy Products,1997 Q1,1,5.9,40.0
+Oulu,Teatime Chocolate Biscuits,25,20,0.0,Confections,1997 Q1,1,7.3,146.0
+Oulu,Perth Pasties,0,10,0.0,Meat/Poultry,1997 Q1,0,26.2,262.0
+Oulu,Ravioli Angelo,36,20,0.0,Grains/Cereals,1997 Q1,0,15.6,312.0
+Kobenhavn,Côte de Blaye,17,50,0.0,Beverages,1997 Q1,1,55.0,1800.0
+Kobenhavn,Spegesild,95,2,0.25,Seafood,1997 Q1,0,9.6,38.6
+Kobenhavn,Scottish Longbreads,6,36,0.25,Confections,1997 Q1,1,10.0,270.0
+Kobenhavn,Original Frankfurter grüne Soße,32,35,0.0,Condiments,1997 Q1,1,10.4,364.0
+Cunewalde,Chang,17,60,0.0,Beverages,1997 Q1,1,15.2,912.0
+Cunewalde,Zaanse koeken,36,55,0.0,Confections,1997 Q1,1,7.6,418.0
+Cunewalde,Sirop d'érable,113,16,0.0,Condiments,1997 Q1,0,22.8,364.8
+Cunewalde,Longlife Tofu,4,15,0.0,Produce,1997 Q1,0,8.0,120.0
+Genève,Camembert Pierrot,19,60,0.05,Dairy Products,1997 Q1,1,27.2,1550.3999999999999
+Genève,Gudbrandsdalsost,26,20,0.05,Dairy Products,1997 Q1,1,28.8,547.1999999999999
+Resende,Mishi Kobe Niku,29,20,0.1,Meat/Poultry,1997 Q1,1,55.0,1396.8
+Resende,Konbu,24,2,0.1,Seafood,1997 Q1,0,5.9,38.6
+Resende,Outback Lager,15,8,0.1,Beverages,1997 Q1,0,12.0,86.4
+Resende,Röd Kaviar,101,20,0.1,Seafood,1997 Q1,1,12.0,216.0
+Rio de Janeiro,Teatime Chocolate Biscuits,25,4,0.15,Confections,1997 Q1,0,7.3,38.6
+Rio de Janeiro,Gumbär Gummibärchen,15,30,0.0,Confections,1997 Q1,1,24.9,747.0
+Rio de Janeiro,Perth Pasties,0,15,0.15,Meat/Poultry,1997 Q1,1,26.2,334.05
+Rio de Janeiro,Original Frankfurter grüne Soße,32,10,0.15,Condiments,1997 Q1,1,10.4,88.39999999999999
+Torino,Gumbär Gummibärchen,15,2,0.0,Confections,1997 Q1,1,24.9,49.8
+Campinas,Gorgonzola Telino,0,14,0.0,Dairy Products,1997 Q1,0,10.0,140.0
+Campinas,Raclette Courdavault,79,20,0.0,Dairy Products,1997 Q1,0,44.0,880.0
+Montréal,Steeleye Stout,20,60,0.2,Beverages,1997 Q1,1,14.4,691.2
+Montréal,Côte de Blaye,17,49,0.2,Beverages,1997 Q1,1,55.0,1800.0
+Montréal,Scottish Longbreads,6,30,0.2,Confections,1997 Q1,1,10.0,240.0
+Toulouse,Pâté chinois,115,10,0.25,Meat/Poultry,1997 Q1,1,19.2,144.0
+Toulouse,Lakkalikööri,57,20,0.25,Beverages,1997 Q1,1,14.4,216.0
+Barcelona,Gnocchi di nonna Alice,21,5,0.0,Grains/Cereals,1997 Q1,1,30.4,152.0
+Barcelona,Wimmers gute Semmelknödel,22,7,0.0,Grains/Cereals,1997 Q1,0,26.6,186.20000000000002
+Salzburg,Tofu,35,35,0.0,Produce,1997 Q1,0,18.6,651.0
+Reggio Emilia,Spegesild,95,20,0.0,Seafood,1997 Q1,1,9.6,192.0
+Cork,Valkoinen suklaa,65,40,0.0,Confections,1997 Q1,1,13.0,520.0
+Cork,Vegie-spread,24,35,0.25,Condiments,1997 Q1,1,35.1,921.375
+Graz,Alice Mutton,0,45,0.2,Meat/Poultry,1997 Q1,1,31.2,1123.2
+Graz,Sir Rodney's Scones,3,50,0.0,Confections,1997 Q1,1,8.0,400.0
+Graz,Gnocchi di nonna Alice,21,30,0.0,Grains/Cereals,1997 Q1,0,30.4,912.0
+Graz,Raclette Courdavault,79,70,0.2,Dairy Products,1997 Q1,0,44.0,1800.0
+Tsawassen,Alice Mutton,0,50,0.25,Meat/Poultry,1997 Q1,1,31.2,1170.0
+Tsawassen,Boston Crab Meat,123,50,0.25,Seafood,1997 Q1,1,14.7,551.25
+Tsawassen,Zaanse koeken,36,30,0.25,Confections,1997 Q1,1,7.6,171.0
+Lander,Gumbär Gummibärchen,15,10,0.0,Confections,1997 Q1,0,24.9,249.0
+Lander,Tourtière,21,40,0.0,Meat/Poultry,1997 Q1,1,5.9,236.0
+Lisboa,Gnocchi di nonna Alice,21,28,0.0,Grains/Cereals,1997 Q1,0,30.4,851.1999999999999
+Bräcke,Queso Cabrales,22,6,0.0,Dairy Products,1997 Q1,0,16.8,100.80000000000001
+Bräcke,Lakkalikööri,57,18,0.15,Beverages,1997 Q1,1,14.4,220.32
+London,Chang,17,10,0.0,Beverages,1997 Q1,1,15.2,152.0
+London,Gustaf's Knäckebröd,104,12,0.0,Grains/Cereals,1997 Q1,1,16.8,201.60000000000002
+London,Mozzarella di Giovanni,14,10,0.0,Dairy Products,1997 Q1,0,27.8,278.0
+Strasbourg,Spegesild,95,5,0.0,Seafood,1997 Q1,0,9.6,48.0
+Strasbourg,Gnocchi di nonna Alice,21,40,0.1,Grains/Cereals,1997 Q1,1,30.4,1094.4
+Strasbourg,Wimmers gute Semmelknödel,22,30,0.1,Grains/Cereals,1997 Q1,1,26.6,718.2
+Strasbourg,Rhönbräu Klosterbier,125,24,0.1,Beverages,1997 Q1,1,6.2,133.92000000000002
+Oulu,Perth Pasties,0,15,0.0,Meat/Poultry,1997 Q1,1,26.2,393.0
+Münster,Teatime Chocolate Biscuits,25,15,0.2,Confections,1997 Q1,1,7.3,87.60000000000001
+Münster,Sasquatch Ale,111,20,0.2,Beverages,1997 Q1,1,11.2,179.20000000000002
+Münster,Ravioli Angelo,36,15,0.2,Grains/Cereals,1997 Q1,1,15.6,187.20000000000002
+Montréal,Queso Manchego La Pastora,86,15,0.0,Dairy Products,1997 Q1,1,30.4,456.0
+Montréal,Pavlova,29,16,0.0,Confections,1997 Q1,1,13.9,222.4
+Montréal,Wimmers gute Semmelknödel,22,6,0.0,Grains/Cereals,1997 Q1,0,26.6,159.60000000000002
+Montréal,Longlife Tofu,4,30,0.0,Produce,1997 Q1,1,8.0,240.0
+Boise,Chang,17,45,0.15,Beverages,1997 Q1,1,15.2,581.4
+Boise,Pavlova,29,49,0.15,Confections,1997 Q1,1,13.9,578.9350000000001
+Boise,Thüringer Rostbratwurst,0,24,0.15,Meat/Poultry,1997 Q1,0,55.0,1800.0
+Boise,Sirop d'érable,113,90,0.15,Condiments,1997 Q1,1,22.8,1744.2
+Anchorage,Schoggi Schokolade,49,50,0.0,Confections,1997 Q1,1,35.1,1755.0
+Graz,Queso Cabrales,22,30,0.0,Dairy Products,1997 Q1,0,16.8,504.0
+Graz,Tourtière,21,80,0.0,Meat/Poultry,1997 Q1,0,5.9,472.0
+Graz,Louisiana Hot Spiced Okra,4,60,0.0,Condiments,1997 Q1,1,13.6,816.0
+Reggio Emilia,Queso Cabrales,22,6,0.2,Dairy Products,1997 Q1,1,16.8,80.64000000000001
+Reggio Emilia,Rössle Sauerkraut,26,12,0.0,Produce,1997 Q1,0,36.4,436.79999999999995
+Luleå,Alice Mutton,0,10,0.0,Meat/Poultry,1997 Q1,1,31.2,312.0
+Luleå,Gumbär Gummibärchen,15,15,0.0,Confections,1997 Q1,0,24.9,373.5
+Luleå,Steeleye Stout,20,8,0.0,Beverages,1997 Q1,1,14.4,115.2
+Luleå,Jack's New England Clam Chowder,85,30,0.0,Seafood,1997 Q1,1,7.7,231.0
+Luleå,Chartreuse verte,69,6,0.0,Beverages,1997 Q1,0,14.4,86.4
+Luleå,Tourtière,21,15,0.0,Meat/Poultry,1997 Q1,0,5.9,88.5
+Münster,Teatime Chocolate Biscuits,25,12,0.1,Confections,1997 Q1,0,7.3,78.84
+Münster,Guaraná Fantástica,20,20,0.1,Beverages,1997 Q1,1,5.9,64.8
+Münster,Gorgonzola Telino,0,3,0.1,Dairy Products,1997 Q1,0,10.0,38.6
+Münster,Filo Mix,38,15,0.1,Grains/Cereals,1997 Q1,0,5.9,75.60000000000001
+Rio de Janeiro,Teatime Chocolate Biscuits,25,40,0.0,Confections,1997 Q1,1,7.3,292.0
+Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,76,35,0.0,Condiments,1997 Q1,0,16.8,588.0
+Rio de Janeiro,Flotemysost,26,2,0.0,Dairy Products,1997 Q1,1,17.2,38.6
+Buenos Aires,Gumbär Gummibärchen,15,6,0.0,Confections,1997 Q1,0,24.9,149.39999999999998
+Buenos Aires,Boston Crab Meat,123,20,0.0,Seafood,1997 Q1,0,14.7,294.0
+Strasbourg,Ikura,31,14,0.0,Seafood,1997 Q1,0,24.8,347.2
+Strasbourg,Filo Mix,38,20,0.0,Grains/Cereals,1997 Q1,0,5.9,112.0
+Strasbourg,Tarte au sucre,17,35,0.0,Confections,1997 Q1,1,39.4,1379.0
+Lyon,Ikura,31,20,0.2,Seafood,1997 Q1,1,24.8,396.8
+Lyon,Tourtière,21,6,0.2,Meat/Poultry,1997 Q1,1,5.9,38.6
+Cunewalde,Pâté chinois,115,120,0.1,Meat/Poultry,1997 Q1,1,19.2,1800.0
+Cunewalde,Wimmers gute Semmelknödel,22,35,0.1,Grains/Cereals,1997 Q1,1,26.6,837.9
+Cunewalde,Louisiana Fiery Hot Pepper Sauce,76,28,0.1,Condiments,1997 Q1,1,16.8,423.36
+Cunewalde,Original Frankfurter grüne Soße,32,55,0.1,Condiments,1997 Q1,1,10.4,514.8000000000001
+Boise,Rössle Sauerkraut,26,15,0.0,Produce,1997 Q1,1,36.4,546.0
+Boise,Gula Malacca,27,100,0.05,Condiments,1997 Q1,1,15.5,1472.5
+London,Chocolade,15,15,0.1,Confections,1997 Q1,1,10.2,137.70000000000002
+London,Outback Lager,15,25,0.1,Beverages,1997 Q1,1,12.0,270.0
+Toulouse,Pavlova,29,20,0.2,Confections,1997 Q1,1,13.9,222.4
+Toulouse,Geitost,112,20,0.2,Dairy Products,1997 Q1,1,5.9,38.6
+Toulouse,Spegesild,95,10,0.2,Seafood,1997 Q1,0,9.6,76.80000000000001
+Oulu,Chartreuse verte,69,20,0.0,Beverages,1997 Q1,0,14.4,288.0
+Oulu,Perth Pasties,0,50,0.0,Meat/Poultry,1997 Q1,1,26.2,1310.0
+Oulu,Sirop d'érable,113,25,0.0,Condiments,1997 Q1,0,22.8,570.0
+Oulu,Flotemysost,26,30,0.0,Dairy Products,1997 Q1,0,17.2,516.0
+Brandenburg,Sir Rodney's Scones,3,40,0.15,Confections,1997 Q1,1,8.0,272.0
+Brandenburg,Maxilaku,10,21,0.15,Confections,1997 Q1,1,16.0,285.59999999999997
+Brandenburg,Raclette Courdavault,79,36,0.0,Dairy Products,1997 Q1,0,44.0,1584.0
+Charleroi,Gumbär Gummibärchen,15,30,0.0,Confections,1997 Q1,1,24.9,747.0
+Charleroi,Rössle Sauerkraut,26,30,0.0,Produce,1997 Q1,1,36.4,1092.0
+Charleroi,Ipoh Coffee,17,20,0.0,Beverages,1997 Q1,0,36.8,736.0
+Charleroi,Gnocchi di nonna Alice,21,15,0.0,Grains/Cereals,1997 Q1,1,30.4,456.0
+Charleroi,Flotemysost,26,50,0.0,Dairy Products,1997 Q1,1,17.2,860.0
+Lyon,Uncle Bob's Organic Dried Pears,15,16,0.05,Produce,1997 Q1,1,24.0,364.79999999999995
+Lyon,Spegesild,95,20,0.05,Seafood,1997 Q1,1,9.6,182.39999999999998
+Lyon,Mozzarella di Giovanni,14,40,0.0,Dairy Products,1997 Q1,0,27.8,1112.0
+Bräcke,Scottish Longbreads,6,21,0.25,Confections,1997 Q1,1,10.0,157.5
+Bräcke,Rhönbräu Klosterbier,125,4,0.25,Beverages,1997 Q1,0,6.2,38.6
+Barquisimeto,Sir Rodney's Scones,3,40,0.25,Confections,1997 Q1,1,8.0,240.0
+Barquisimeto,Nord-Ost Matjeshering,10,28,0.25,Seafood,1997 Q1,1,20.7,434.70000000000005
+Barquisimeto,Pâté chinois,115,60,0.25,Meat/Poultry,1997 Q1,1,19.2,864.0
+London,Konbu,24,1,0.0,Seafood,1997 Q1,0,5.9,38.6
+London,Tunnbröd,61,21,0.0,Grains/Cereals,1997 Q1,0,7.2,151.20000000000002
+Charleroi,Teatime Chocolate Biscuits,25,21,0.0,Confections,1997 Q1,1,7.3,153.29999999999998
+Charleroi,Singaporean Hokkien Fried Mee,26,50,0.0,Grains/Cereals,1997 Q1,1,11.2,560.0
+Lisboa,Chef Anton's Cajun Seasoning,53,16,0.2,Condiments,1997 Q1,1,17.6,225.28000000000003
+Lisboa,Ipoh Coffee,17,3,0.0,Beverages,1997 Q1,1,36.8,110.39999999999999
+Lisboa,Gnocchi di nonna Alice,21,30,0.2,Grains/Cereals,1997 Q1,1,30.4,729.6
+Lisboa,Camembert Pierrot,19,20,0.0,Dairy Products,1997 Q1,1,27.2,544.0
+Århus,Guaraná Fantástica,20,25,0.0,Beverages,1997 Q1,1,5.9,90.0
+Århus,Thüringer Rostbratwurst,0,18,0.1,Meat/Poultry,1997 Q1,1,55.0,1603.8
+Århus,Boston Crab Meat,123,20,0.0,Seafood,1997 Q1,0,14.7,294.0
+Århus,Rogede sild,5,30,0.1,Seafood,1997 Q1,1,7.6,205.20000000000002
+Århus,Valkoinen suklaa,65,25,0.0,Confections,1997 Q1,0,13.0,325.0
+Sao Paulo,Queso Cabrales,22,10,0.0,Dairy Products,1997 Q1,0,16.8,168.0
+Sao Paulo,Spegesild,95,5,0.0,Seafood,1997 Q1,0,9.6,48.0
+Bergamo,Guaraná Fantástica,20,28,0.0,Beverages,1997 Q1,1,5.9,100.8
+Bergamo,NuNuCa Nuß-Nougat-Creme,76,12,0.0,Confections,1997 Q1,0,11.2,134.39999999999998
+Brandenburg,Nord-Ost Matjeshering,10,8,0.0,Seafood,1997 Q1,0,20.7,165.6
+Brandenburg,Ipoh Coffee,17,15,0.0,Beverages,1997 Q1,1,36.8,552.0
+Seattle,Chang,17,40,0.15,Beverages,1997 Q1,1,15.2,516.8
+Seattle,Pavlova,29,35,0.15,Confections,1997 Q1,1,13.9,413.525
+Seattle,Gula Malacca,27,2,0.15,Condiments,1997 Q1,1,15.5,38.6
+Marseille,Carnarvon Tigers,42,30,0.0,Seafood,1997 Q1,1,50.0,1500.0
+Marseille,Tunnbröd,61,15,0.0,Grains/Cereals,1997 Q1,0,7.2,108.0
+Marseille,Wimmers gute Semmelknödel,22,8,0.0,Grains/Cereals,1997 Q1,1,26.6,212.8
+London,Uncle Bob's Organic Dried Pears,15,30,0.0,Produce,1997 Q1,1,24.0,720.0
+London,Gnocchi di nonna Alice,21,20,0.0,Grains/Cereals,1997 Q1,0,30.4,608.0
+London,Guaraná Fantástica,20,80,0.05,Beverages,1997 Q1,1,5.9,273.59999999999997
+London,Manjimup Dried Apples,20,18,0.0,Produce,1997 Q1,0,42.4,763.1999999999999
+Cowes,Geitost,112,12,0.0,Dairy Products,1997 Q1,0,5.9,38.6
+Cowes,Flotemysost,26,12,0.0,Dairy Products,1997 Q1,1,17.2,206.39999999999998
+México D.F.,Tofu,35,12,0.0,Produce,1997 Q1,0,18.6,223.20000000000002
+México D.F.,Rössle Sauerkraut,26,18,0.0,Produce,1997 Q1,1,36.4,655.1999999999999
+México D.F.,Boston Crab Meat,123,21,0.0,Seafood,1997 Q1,0,14.7,308.7
+México D.F.,Rhönbräu Klosterbier,125,10,0.0,Beverages,1997 Q1,0,6.2,62.0
+Charleroi,Gorgonzola Telino,0,35,0.15,Dairy Products,1997 Q1,1,10.0,297.5
+Charleroi,Louisiana Hot Spiced Okra,4,60,0.15,Condiments,1997 Q1,1,13.6,693.6
+Charleroi,Lakkalikööri,57,42,0.15,Beverages,1997 Q1,1,14.4,514.08
+San Cristóbal,Pâté chinois,115,2,0.05,Meat/Poultry,1997 Q1,1,19.2,38.6
+San Cristóbal,Outback Lager,15,12,0.0,Beverages,1997 Q1,0,12.0,144.0
+Lisboa,Chai,39,15,0.0,Beverages,1997 Q1,1,14.4,216.0
+Lisboa,Sir Rodney's Scones,3,21,0.25,Confections,1997 Q1,1,8.0,126.0
+Lisboa,Chartreuse verte,69,20,0.25,Beverages,1997 Q1,1,14.4,216.0
+Lyon,Ikura,31,20,0.05,Seafood,1997 Q1,1,24.8,471.2
+Albuquerque,Côte de Blaye,17,30,0.0,Beverages,1997 Q1,0,55.0,1800.0
+Albuquerque,Perth Pasties,0,28,0.0,Meat/Poultry,1997 Q1,0,26.2,733.6
+Albuquerque,Raclette Courdavault,79,60,0.0,Dairy Products,1997 Q1,0,44.0,1800.0
+Albuquerque,Wimmers gute Semmelknödel,22,30,0.0,Grains/Cereals,1997 Q1,1,26.6,798.0
+Lille,Zaanse koeken,36,30,0.0,Confections,1997 Q1,1,7.6,228.0
+Lille,Raclette Courdavault,79,12,0.0,Dairy Products,1997 Q1,0,44.0,528.0
+Rio de Janeiro,Maxilaku,10,24,0.0,Confections,1997 Q1,1,16.0,384.0
+Rio de Janeiro,Camembert Pierrot,19,40,0.0,Dairy Products,1997 Q1,0,27.2,1088.0
+Walla Walla,Boston Crab Meat,123,10,0.0,Seafood,1997 Q1,0,14.7,147.0
+Seattle,Sasquatch Ale,111,35,0.05,Beverages,1997 Q1,1,11.2,372.4
+Seattle,Original Frankfurter grüne Soße,32,30,0.05,Condiments,1997 Q1,1,10.4,296.4
+London,Sir Rodney's Scones,3,14,0.0,Confections,1997 Q1,0,8.0,112.0
+London,Boston Crab Meat,123,10,0.0,Seafood,1997 Q1,0,14.7,147.0
+London,Manjimup Dried Apples,20,3,0.0,Produce,1997 Q1,1,42.4,127.19999999999999
+I. de Margarita,Chang,17,20,0.1,Beverages,1997 Q1,1,15.2,273.6
+I. de Margarita,Aniseed Syrup,13,20,0.1,Condiments,1997 Q1,1,8.0,144.0
+I. de Margarita,Pâté chinois,115,30,0.1,Meat/Poultry,1997 Q1,1,19.2,518.4
+I. de Margarita,Outback Lager,15,60,0.1,Beverages,1997 Q1,1,12.0,648.0
+San Cristóbal,Queso Cabrales,22,5,0.0,Dairy Products,1997 Q1,0,16.8,84.0
+San Cristóbal,Manjimup Dried Apples,20,25,0.0,Produce,1997 Q1,0,42.4,1060.0
+San Cristóbal,Longlife Tofu,4,16,0.0,Produce,1997 Q1,0,8.0,128.0
+Sao Paulo,Teatime Chocolate Biscuits,25,5,0.0,Confections,1997 Q1,1,7.3,38.6
+Sao Paulo,Gumbär Gummibärchen,15,30,0.0,Confections,1997 Q1,1,24.9,747.0
+Sao Paulo,Tourtière,21,24,0.25,Meat/Poultry,1997 Q1,1,5.9,106.20000000000002
+München,Raclette Courdavault,79,30,0.0,Dairy Products,1997 Q1,0,44.0,1320.0
+München,Röd Kaviar,101,20,0.2,Seafood,1997 Q1,1,12.0,192.0
+Salzburg,Queso Cabrales,22,15,0.25,Dairy Products,1997 Q1,1,16.8,189.0
+Salzburg,Pavlova,29,18,0.0,Confections,1997 Q1,0,13.9,250.20000000000002
+San Cristóbal,Raclette Courdavault,79,60,0.0,Dairy Products,1997 Q1,0,44.0,1800.0
+San Cristóbal,Scottish Longbreads,6,30,0.0,Confections,1997 Q1,1,10.0,300.0
+San Cristóbal,Rhönbräu Klosterbier,125,36,0.0,Beverages,1997 Q1,1,6.2,223.20000000000002
+Lisboa,Gula Malacca,27,15,0.15,Condiments,1997 Q1,1,15.5,197.625
+Lisboa,Original Frankfurter grüne Soße,32,7,0.15,Condiments,1997 Q1,1,10.4,61.879999999999995
+Tsawassen,NuNuCa Nuß-Nougat-Creme,76,60,0.05,Confections,1997 Q2,1,11.2,638.4
+Tsawassen,Singaporean Hokkien Fried Mee,26,20,0.05,Grains/Cereals,1997 Q2,1,11.2,212.79999999999998
+Toulouse,Louisiana Fiery Hot Pepper Sauce,76,15,0.1,Condiments,1997 Q2,0,16.8,226.8
+Toulouse,Louisiana Hot Spiced Okra,4,10,0.1,Condiments,1997 Q2,0,13.6,122.4
+Toulouse,Gudbrandsdalsost,26,10,0.1,Dairy Products,1997 Q2,1,28.8,259.2
+Sao Paulo,Gnocchi di nonna Alice,21,30,0.0,Grains/Cereals,1997 Q2,0,30.4,912.0
+Vancouver,Tunnbröd,61,10,0.0,Grains/Cereals,1997 Q2,1,7.2,72.0
+Vancouver,Jack's New England Clam Chowder,85,20,0.0,Seafood,1997 Q2,1,7.7,154.0
+Vancouver,Original Frankfurter grüne Soße,32,5,0.0,Condiments,1997 Q2,0,10.4,52.0
+Sao Paulo,Gorgonzola Telino,0,20,0.05,Dairy Products,1997 Q2,1,10.0,190.0
+Frankfurt a.M.,Gnocchi di nonna Alice,21,14,0.0,Grains/Cereals,1997 Q2,1,30.4,425.59999999999997
+Frankfurt a.M.,Mozzarella di Giovanni,14,25,0.0,Dairy Products,1997 Q2,0,27.8,695.0
+Frankfurt a.M.,Original Frankfurter grüne Soße,32,25,0.0,Condiments,1997 Q2,1,10.4,260.0
+San Cristóbal,Guaraná Fantástica,20,14,0.0,Beverages,1997 Q2,1,5.9,63.0
+San Cristóbal,Boston Crab Meat,123,5,0.0,Seafood,1997 Q2,0,18.4,92.0
+San Cristóbal,Singaporean Hokkien Fried Mee,26,30,0.0,Grains/Cereals,1997 Q2,0,14.0,420.0
+Barquisimeto,Rössle Sauerkraut,26,20,0.0,Produce,1997 Q2,1,45.6,912.0
+Barquisimeto,Maxilaku,10,25,0.0,Confections,1997 Q2,1,20.0,500.0
+Toulouse,Genen Shouyu,39,12,0.05,Condiments,1997 Q2,1,15.5,176.7
+Toulouse,Rössle Sauerkraut,26,8,0.05,Produce,1997 Q2,1,45.6,346.56
+Mannheim,Tourtière,21,20,0.0,Meat/Poultry,1997 Q2,1,7.45,149.0
+México D.F.,Rogede sild,5,21,0.0,Seafood,1997 Q2,1,9.5,199.5
+México D.F.,Perth Pasties,0,6,0.0,Meat/Poultry,1997 Q2,1,32.8,196.79999999999998
+México D.F.,Laughing Lumberjack Lager,52,30,0.0,Beverages,1997 Q2,0,14.0,420.0
+Cork,Tofu,35,70,0.0,Produce,1997 Q2,1,23.25,1627.5
+Cork,Louisiana Fiery Hot Pepper Sauce,76,20,0.0,Condiments,1997 Q2,0,21.05,421.0
+Seattle,Chang,17,12,0.0,Beverages,1997 Q2,0,19.0,228.0
+Seattle,Sir Rodney's Scones,3,12,0.0,Confections,1997 Q2,0,10.0,120.0
+Seattle,Perth Pasties,0,10,0.0,Meat/Poultry,1997 Q2,1,32.8,328.0
+Seattle,Sirop d'érable,113,25,0.0,Condiments,1997 Q2,1,28.5,712.5
+Montréal,Tarte au sucre,17,3,0.0,Confections,1997 Q2,1,49.3,147.89999999999998
+Brandenburg,NuNuCa Nuß-Nougat-Creme,76,18,0.1,Confections,1997 Q2,0,14.0,226.8
+Brandenburg,Outback Lager,15,14,0.1,Beverages,1997 Q2,1,15.0,189.0
+México D.F.,Ipoh Coffee,17,15,0.15,Beverages,1997 Q2,1,46.0,586.5
+México D.F.,Chocolade,15,15,0.15,Confections,1997 Q2,1,12.75,162.5625
+Köln,Konbu,24,10,0.0,Seafood,1997 Q2,1,6.0,60.0
+Köln,Chartreuse verte,69,10,0.0,Beverages,1997 Q2,0,18.0,180.0
+Mannheim,Rössle Sauerkraut,26,3,0.0,Produce,1997 Q2,1,45.6,136.8
+Boise,Thüringer Rostbratwurst,0,36,0.0,Meat/Poultry,1997 Q2,0,55.0,1800.0
+Boise,Rhönbräu Klosterbier,125,36,0.1,Beverages,1997 Q2,1,7.75,251.1
+Marseille,Chef Anton's Cajun Seasoning,53,50,0.15,Condiments,1997 Q2,1,22.0,935.0
+Marseille,Uncle Bob's Organic Dried Pears,15,50,0.15,Produce,1997 Q2,1,30.0,1275.0
+Marseille,Northwoods Cranberry Sauce,6,10,0.15,Condiments,1997 Q2,1,40.0,340.0
+Sao Paulo,Guaraná Fantástica,20,10,0.15,Beverages,1997 Q2,1,5.9,38.6
+Sao Paulo,Spegesild,95,9,0.15,Seafood,1997 Q2,1,12.0,91.8
+Sao Paulo,Zaanse koeken,36,6,0.15,Confections,1997 Q2,1,9.5,48.449999999999996
+Sao Paulo,Camembert Pierrot,19,12,0.15,Dairy Products,1997 Q2,1,34.0,346.8
+Stuttgart,Sir Rodney's Scones,3,40,0.2,Confections,1997 Q2,1,10.0,320.0
+Stuttgart,Mascarpone Fabioli,9,50,0.2,Dairy Products,1997 Q2,1,32.0,1280.0
+Stuttgart,Sirop d'érable,113,15,0.2,Condiments,1997 Q2,1,28.5,342.0
+Graz,Sir Rodney's Marmalade,40,39,0.0,Confections,1997 Q2,0,55.0,1800.0
+Graz,Rössle Sauerkraut,26,35,0.0,Produce,1997 Q2,1,45.6,1596.0
+Graz,Gnocchi di nonna Alice,21,70,0.0,Grains/Cereals,1997 Q2,0,38.0,1800.0
+Graz,Louisiana Fiery Hot Pepper Sauce,76,39,0.0,Condiments,1997 Q2,1,21.05,820.95
+Graz,Rhönbräu Klosterbier,125,50,0.0,Beverages,1997 Q2,1,7.75,387.5
+Cunewalde,Mishi Kobe Niku,29,16,0.15,Meat/Poultry,1997 Q2,0,55.0,1319.2
+Cunewalde,Pavlova,29,50,0.0,Confections,1997 Q2,1,17.45,872.5
+Cunewalde,Schoggi Schokolade,49,120,0.0,Confections,1997 Q2,1,43.9,1800.0
+Cunewalde,Geitost,112,16,0.15,Dairy Products,1997 Q2,1,5.9,38.6
+Cunewalde,Camembert Pierrot,19,84,0.15,Dairy Products,1997 Q2,1,34.0,1800.0
+Cork,Carnarvon Tigers,42,25,0.1,Seafood,1997 Q2,1,55.0,1406.25
+Cork,Jack's New England Clam Chowder,85,80,0.1,Seafood,1997 Q2,1,9.65,694.8000000000001
+Cork,Singaporean Hokkien Fried Mee,26,20,0.0,Grains/Cereals,1997 Q2,0,14.0,280.0
+London,Filo Mix,38,6,0.0,Grains/Cereals,1997 Q2,0,7.0,42.0
+London,Raclette Courdavault,79,4,0.0,Dairy Products,1997 Q2,1,55.0,220.0
+London,Outback Lager,15,6,0.0,Beverages,1997 Q2,0,15.0,90.0
+México D.F.,Guaraná Fantástica,20,5,0.0,Beverages,1997 Q2,0,5.9,38.6
+México D.F.,Côte de Blaye,17,15,0.0,Beverages,1997 Q2,0,55.0,1800.0
+México D.F.,Gula Malacca,27,9,0.0,Condiments,1997 Q2,0,19.45,175.04999999999998
+Bern,Ikura,31,16,0.05,Seafood,1997 Q2,1,31.0,471.2
+Bern,Gnocchi di nonna Alice,21,40,0.0,Grains/Cereals,1997 Q2,0,38.0,1520.0
+Bern,Camembert Pierrot,19,10,0.05,Dairy Products,1997 Q2,1,34.0,323.0
+Stavern,Guaraná Fantástica,20,8,0.0,Beverages,1997 Q2,1,5.9,38.6
+Stavern,Perth Pasties,0,5,0.0,Meat/Poultry,1997 Q2,1,32.8,164.0
+Buenos Aires,Steeleye Stout,20,3,0.0,Beverages,1997 Q2,1,18.0,54.0
+Buenos Aires,Jack's New England Clam Chowder,85,10,0.0,Seafood,1997 Q2,1,9.65,96.5
+Buenos Aires,Scottish Longbreads,6,6,0.0,Confections,1997 Q2,0,12.5,75.0
+Frankfurt a.M.,Chai,39,40,0.2,Beverages,1997 Q2,1,18.0,576.0
+Frankfurt a.M.,Northwoods Cranberry Sauce,6,24,0.0,Condiments,1997 Q2,1,40.0,960.0
+Frankfurt a.M.,Nord-Ost Matjeshering,10,20,0.2,Seafood,1997 Q2,1,25.89,414.24
+Frankfurt a.M.,Boston Crab Meat,123,25,0.2,Seafood,1997 Q2,1,18.4,368.0
+London,Alice Mutton,0,25,0.1,Meat/Poultry,1997 Q2,1,39.0,877.5
+London,Sir Rodney's Marmalade,40,15,0.1,Confections,1997 Q2,1,55.0,1093.5
+London,Gravad lax,11,18,0.1,Seafood,1997 Q2,1,26.0,421.2
+London,Jack's New England Clam Chowder,85,6,0.1,Seafood,1997 Q2,1,9.65,52.11000000000001
+Luleå,Ikura,31,2,0.0,Seafood,1997 Q2,1,31.0,62.0
+Luleå,Nord-Ost Matjeshering,10,10,0.0,Seafood,1997 Q2,0,25.89,258.9
+Luleå,Ipoh Coffee,17,60,0.0,Beverages,1997 Q2,1,46.0,1800.0
+Luleå,Tourtière,21,15,0.0,Meat/Poultry,1997 Q2,0,7.45,111.75
+Marseille,Inlagd Sill,112,30,0.0,Seafood,1997 Q2,0,19.0,570.0
+Marseille,Boston Crab Meat,123,15,0.1,Seafood,1997 Q2,0,18.4,248.4
+Oulu,Chai,39,8,0.15,Beverages,1997 Q2,1,18.0,122.39999999999999
+Oulu,Konbu,24,10,0.0,Seafood,1997 Q2,1,6.0,60.0
+Oulu,Gnocchi di nonna Alice,21,30,0.15,Grains/Cereals,1997 Q2,1,38.0,969.0
+Cunewalde,Chef Anton's Cajun Seasoning,53,50,0.1,Condiments,1997 Q2,1,22.0,990.0
+Cunewalde,Inlagd Sill,112,30,0.1,Seafood,1997 Q2,1,19.0,513.0
+Eugene,Queso Cabrales,22,3,0.0,Dairy Products,1997 Q2,0,21.0,63.0
+Eugene,Geitost,112,8,0.2,Dairy Products,1997 Q2,0,5.9,38.6
+Eugene,Mozzarella di Giovanni,14,9,0.0,Dairy Products,1997 Q2,1,34.8,313.2
+Bruxelles,Pâté chinois,115,14,0.0,Meat/Poultry,1997 Q2,0,24.0,336.0
+Bruxelles,Scottish Longbreads,6,20,0.0,Confections,1997 Q2,0,12.5,250.0
+Bruxelles,Gudbrandsdalsost,26,10,0.0,Dairy Products,1997 Q2,0,36.0,360.0
+Salzburg,Alice Mutton,0,40,0.0,Meat/Poultry,1997 Q2,0,39.0,1560.0
+Salzburg,Ipoh Coffee,17,25,0.0,Beverages,1997 Q2,1,46.0,1150.0
+Salzburg,Sirop d'érable,113,20,0.0,Condiments,1997 Q2,1,28.5,570.0
+Salzburg,Lakkalikööri,57,50,0.0,Beverages,1997 Q2,1,18.0,900.0
+Buenos Aires,Raclette Courdavault,79,2,0.0,Dairy Products,1997 Q2,1,55.0,110.0
+London,Nord-Ost Matjeshering,10,15,0.0,Seafood,1997 Q2,0,25.89,388.35
+London,Louisiana Hot Spiced Okra,4,24,0.0,Condiments,1997 Q2,1,17.0,408.0
+Bräcke,Chef Anton's Cajun Seasoning,53,50,0.05,Condiments,1997 Q2,1,22.0,1045.0
+Bräcke,Mozzarella di Giovanni,14,24,0.0,Dairy Products,1997 Q2,0,34.8,835.1999999999999
+Bräcke,Röd Kaviar,101,24,0.05,Seafood,1997 Q2,1,15.0,342.0
+Frankfurt a.M.,Nord-Ost Matjeshering,10,10,0.0,Seafood,1997 Q2,0,25.89,258.9
+Frankfurt a.M.,Boston Crab Meat,123,10,0.2,Seafood,1997 Q2,1,18.4,147.20000000000002
+Frankfurt a.M.,Tourtière,21,10,0.2,Meat/Poultry,1997 Q2,1,7.45,59.6
+México D.F.,Queso Cabrales,22,50,0.1,Dairy Products,1997 Q2,1,21.0,945.0
+México D.F.,Boston Crab Meat,123,10,0.1,Seafood,1997 Q2,1,18.4,165.6
+México D.F.,Ravioli Angelo,36,5,0.1,Grains/Cereals,1997 Q2,1,19.5,87.75
+México D.F.,Raclette Courdavault,79,15,0.1,Dairy Products,1997 Q2,0,55.0,742.5
+Frankfurt a.M.,Queso Manchego La Pastora,86,15,0.25,Dairy Products,1997 Q2,1,38.0,427.5
+Frankfurt a.M.,Gorgonzola Telino,0,20,0.0,Dairy Products,1997 Q2,0,12.5,250.0
+Frankfurt a.M.,Geitost,112,30,0.0,Dairy Products,1997 Q2,0,5.9,75.0
+Frankfurt a.M.,Camembert Pierrot,19,35,0.25,Dairy Products,1997 Q2,1,34.0,892.5
+Genève,Gorgonzola Telino,0,30,0.0,Dairy Products,1997 Q2,0,12.5,375.0
+Genève,Manjimup Dried Apples,20,6,0.0,Produce,1997 Q2,0,53.0,318.0
+Genève,Escargots de Bourgogne,62,20,0.0,Seafood,1997 Q2,0,13.25,265.0
+Genève,Mozzarella di Giovanni,14,21,0.0,Dairy Products,1997 Q2,1,34.8,730.8
+Genève,Röd Kaviar,101,9,0.0,Seafood,1997 Q2,0,15.0,135.0
+London,Outback Lager,15,7,0.0,Beverages,1997 Q2,0,15.0,105.0
+London,Mozzarella di Giovanni,14,1,0.0,Dairy Products,1997 Q2,1,34.8,38.6
+London,Konbu,24,8,0.0,Seafood,1997 Q2,0,6.0,48.0
+London,Sir Rodney's Scones,3,15,0.0,Confections,1997 Q2,1,10.0,150.0
+London,Geitost,112,15,0.0,Dairy Products,1997 Q2,1,5.9,38.6
+London,Maxilaku,10,6,0.0,Confections,1997 Q2,0,20.0,120.0
+Cunewalde,Aniseed Syrup,13,60,0.0,Condiments,1997 Q2,1,10.0,600.0
+Cunewalde,Gumbär Gummibärchen,15,40,0.0,Confections,1997 Q2,0,31.23,1249.2
+Cunewalde,Côte de Blaye,17,30,0.0,Beverages,1997 Q2,0,55.0,1800.0
+Cunewalde,Scottish Longbreads,6,35,0.0,Confections,1997 Q2,0,12.5,437.5
+Rio de Janeiro,Guaraná Fantástica,20,35,0.1,Beverages,1997 Q2,1,5.9,141.75
+Rio de Janeiro,Côte de Blaye,17,4,0.1,Beverages,1997 Q2,0,55.0,948.6
+Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,76,36,0.1,Condiments,1997 Q2,1,21.05,682.0200000000001
+Rio de Janeiro,Flotemysost,26,9,0.1,Dairy Products,1997 Q2,0,21.5,174.15
+Brandenburg,Queso Cabrales,22,15,0.05,Dairy Products,1997 Q2,1,21.0,299.25
+Brandenburg,Tourtière,21,24,0.05,Meat/Poultry,1997 Q2,1,7.45,169.86
+Barquisimeto,Queso Manchego La Pastora,86,30,0.15,Dairy Products,1997 Q2,1,38.0,969.0
+Barquisimeto,Tunnbröd,61,70,0.15,Grains/Cereals,1997 Q2,0,9.0,535.5
+Portland,Rössle Sauerkraut,26,7,0.0,Produce,1997 Q2,1,45.6,319.2
+Portland,Laughing Lumberjack Lager,52,7,0.0,Beverages,1997 Q2,0,14.0,98.0
+Walla Walla,Queso Cabrales,22,10,0.0,Dairy Products,1997 Q2,0,21.0,210.0
+Lyon,Uncle Bob's Organic Dried Pears,15,10,0.0,Produce,1997 Q2,1,30.0,300.0
+Lyon,Steeleye Stout,20,30,0.0,Beverages,1997 Q2,0,18.0,540.0
+Lyon,Tarte au sucre,17,40,0.0,Confections,1997 Q2,0,49.3,1800.0
+London,Mascarpone Fabioli,9,24,0.15,Dairy Products,1997 Q2,1,32.0,652.8
+London,Inlagd Sill,112,60,0.0,Seafood,1997 Q2,1,19.0,1140.0
+Münster,Sasquatch Ale,111,10,0.25,Beverages,1997 Q2,1,14.0,105.0
+Münster,Jack's New England Clam Chowder,85,14,0.0,Seafood,1997 Q2,0,9.65,135.1
+Cunewalde,Gorgonzola Telino,0,55,0.15,Dairy Products,1997 Q2,1,12.5,584.375
+Cunewalde,Rogede sild,5,100,0.15,Seafood,1997 Q2,1,9.5,807.5
+Cunewalde,Manjimup Dried Apples,20,48,0.15,Produce,1997 Q2,1,53.0,1800.0
+Sevilla,Alice Mutton,0,8,0.1,Meat/Poultry,1997 Q2,1,39.0,280.8
+Sevilla,Teatime Chocolate Biscuits,25,10,0.0,Confections,1997 Q2,0,9.2,92.0
+Sevilla,Sir Rodney's Scones,3,6,0.1,Confections,1997 Q2,1,10.0,54.0
+Sevilla,Sirop d'érable,113,10,0.1,Condiments,1997 Q2,1,28.5,256.5
+Lisboa,Pavlova,29,40,0.15,Confections,1997 Q2,1,17.45,593.3
+Lisboa,Steeleye Stout,20,20,0.15,Beverages,1997 Q2,1,18.0,306.0
+Lisboa,Gula Malacca,27,40,0.0,Condiments,1997 Q2,1,19.45,778.0
+San Cristóbal,Gudbrandsdalsost,26,18,0.0,Dairy Products,1997 Q2,1,36.0,648.0
+San Cristóbal,Rhönbräu Klosterbier,125,30,0.0,Beverages,1997 Q2,1,7.75,232.5
+Oulu,Queso Cabrales,22,15,0.0,Dairy Products,1997 Q2,0,21.0,315.0
+Oulu,Pavlova,29,14,0.0,Confections,1997 Q2,0,17.45,244.29999999999998
+Oulu,Gustaf's Knäckebröd,104,24,0.0,Grains/Cereals,1997 Q2,0,21.0,504.0
+Oulu,Gorgonzola Telino,0,30,0.0,Dairy Products,1997 Q2,0,12.5,375.0
+Oulu,Steeleye Stout,20,6,0.0,Beverages,1997 Q2,1,18.0,108.0
+Köln,Pavlova,29,30,0.05,Confections,1997 Q2,0,17.45,497.325
+Köln,Tunnbröd,61,20,0.05,Grains/Cereals,1997 Q2,1,9.0,171.0
+Köln,Tarte au sucre,17,20,0.05,Confections,1997 Q2,1,49.3,936.6999999999999
+Köln,Original Frankfurter grüne Soße,32,10,0.05,Condiments,1997 Q2,0,13.0,123.5
+Boise,Tofu,35,30,0.2,Produce,1997 Q2,1,23.25,558.0
+Boise,Teatime Chocolate Biscuits,25,35,0.2,Confections,1997 Q2,1,9.2,257.6
+Boise,Guaraná Fantástica,20,18,0.2,Beverages,1997 Q2,1,5.9,64.8
+Boise,Manjimup Dried Apples,20,20,0.2,Produce,1997 Q2,1,53.0,848.0
+Boise,Gnocchi di nonna Alice,21,40,0.2,Grains/Cereals,1997 Q2,1,38.0,1216.0
+Kobenhavn,Mozzarella di Giovanni,14,24,0.0,Dairy Products,1997 Q2,0,34.8,835.1999999999999
+Frankfurt a.M.,Wimmers gute Semmelknödel,22,30,0.0,Grains/Cereals,1997 Q2,0,33.25,997.5
+Frankfurt a.M.,Rhönbräu Klosterbier,125,20,0.0,Beverages,1997 Q2,1,7.75,155.0
+London,Zaanse koeken,36,25,0.0,Confections,1997 Q2,0,9.5,237.5
+London,Manjimup Dried Apples,20,20,0.0,Produce,1997 Q2,0,53.0,1060.0
+London,Filo Mix,38,30,0.0,Grains/Cereals,1997 Q2,1,7.0,210.0
+London,Perth Pasties,0,18,0.0,Meat/Poultry,1997 Q2,0,32.8,590.4
+London,Röd Kaviar,101,3,0.0,Seafood,1997 Q2,0,15.0,45.0
+Strasbourg,Jack's New England Clam Chowder,85,12,0.05,Seafood,1997 Q2,1,9.65,110.01
+Strasbourg,Pâté chinois,115,18,0.05,Meat/Poultry,1997 Q2,0,24.0,410.4
+München,Nord-Ost Matjeshering,10,20,0.0,Seafood,1997 Q2,1,25.89,517.8
+München,Tarte au sucre,17,15,0.25,Confections,1997 Q2,1,49.3,554.625
+Bräcke,Gula Malacca,27,10,0.0,Condiments,1997 Q2,0,19.45,194.5
+Bräcke,Manjimup Dried Apples,20,50,0.0,Produce,1997 Q2,1,53.0,1800.0
+Reggio Emilia,Geitost,112,20,0.1,Dairy Products,1997 Q2,1,5.9,45.0
+Reggio Emilia,Tarte au sucre,17,10,0.1,Confections,1997 Q2,0,49.3,443.7
+Rio de Janeiro,Inlagd Sill,112,25,0.0,Seafood,1997 Q2,0,19.0,475.0
+Rio de Janeiro,Filo Mix,38,70,0.0,Grains/Cereals,1997 Q2,0,7.0,490.0
+Albuquerque,Alice Mutton,0,16,0.05,Meat/Poultry,1997 Q2,0,39.0,592.8
+Albuquerque,Gorgonzola Telino,0,6,0.05,Dairy Products,1997 Q2,1,12.5,71.25
+Albuquerque,Pâté chinois,115,25,0.05,Meat/Poultry,1997 Q2,1,24.0,570.0
+Montréal,Guaraná Fantástica,20,25,0.1,Beverages,1997 Q2,0,5.9,101.25
+Montréal,Wimmers gute Semmelknödel,22,18,0.1,Grains/Cereals,1997 Q2,1,33.25,538.65
+Strasbourg,Queso Cabrales,22,35,0.15,Dairy Products,1997 Q2,1,21.0,624.75
+Strasbourg,Carnarvon Tigers,42,18,0.15,Seafood,1997 Q2,1,55.0,956.25
+Strasbourg,Lakkalikööri,57,10,0.0,Beverages,1997 Q2,0,18.0,180.0
+Cork,Gorgonzola Telino,0,60,0.2,Dairy Products,1997 Q2,1,12.5,600.0
+Cork,Manjimup Dried Apples,20,3,0.0,Produce,1997 Q2,0,53.0,159.0
+Cork,Raclette Courdavault,79,40,0.2,Dairy Products,1997 Q2,0,55.0,1760.0
+Barcelona,Ikura,31,5,0.0,Seafood,1997 Q2,0,31.0,155.0
+Albuquerque,Gorgonzola Telino,0,35,0.2,Dairy Products,1997 Q2,1,12.5,350.0
+Albuquerque,Lakkalikööri,57,30,0.0,Beverages,1997 Q2,0,18.0,540.0
+Montréal,Queso Cabrales,22,15,0.05,Dairy Products,1997 Q2,1,21.0,299.25
+Montréal,Gnocchi di nonna Alice,21,60,0.05,Grains/Cereals,1997 Q2,0,38.0,1800.0
+Graz,Tofu,35,11,0.15,Produce,1997 Q2,1,23.25,217.3875
+Graz,Singaporean Hokkien Fried Mee,26,28,0.15,Grains/Cereals,1997 Q2,1,14.0,333.2
+Luleå,Pavlova,29,12,0.1,Confections,1997 Q2,1,17.45,188.45999999999998
+Luleå,Mascarpone Fabioli,9,10,0.1,Dairy Products,1997 Q2,1,32.0,288.0
+Luleå,Boston Crab Meat,123,50,0.0,Seafood,1997 Q2,1,18.4,919.9999999999999
+Luleå,Rhönbräu Klosterbier,125,15,0.1,Beverages,1997 Q2,0,7.75,104.625
+México D.F.,Alice Mutton,0,18,0.0,Meat/Poultry,1997 Q2,1,39.0,702.0
+México D.F.,Sasquatch Ale,111,40,0.0,Beverages,1997 Q2,1,14.0,560.0
+México D.F.,Perth Pasties,0,25,0.0,Meat/Poultry,1997 Q2,0,32.8,819.9999999999999
+Kirkland,Geitost,112,14,0.0,Dairy Products,1997 Q2,0,5.9,38.6
+Kirkland,Boston Crab Meat,123,2,0.0,Seafood,1997 Q2,1,18.4,38.6
+Kirkland,Tarte au sucre,17,10,0.0,Confections,1997 Q2,0,49.3,493.0
+Kirkland,Wimmers gute Semmelknödel,22,6,0.0,Grains/Cereals,1997 Q2,1,33.25,199.5
+Leipzig,Raclette Courdavault,79,12,0.0,Dairy Products,1997 Q2,0,55.0,660.0
+Leipzig,Vegie-spread,24,6,0.0,Condiments,1997 Q2,0,43.9,263.4
+Leipzig,Mozzarella di Giovanni,14,30,0.0,Dairy Products,1997 Q2,1,34.8,1044.0
+Leipzig,Lakkalikööri,57,10,0.0,Beverages,1997 Q2,0,18.0,180.0
+México D.F.,Chai,39,10,0.0,Beverages,1997 Q2,0,18.0,180.0
+México D.F.,Gorgonzola Telino,0,20,0.0,Dairy Products,1997 Q2,0,12.5,250.0
+México D.F.,Gula Malacca,27,21,0.0,Condiments,1997 Q2,1,19.45,408.45
+Kirkland,Chartreuse verte,69,10,0.0,Beverages,1997 Q2,0,18.0,180.0
+Kirkland,Rhönbräu Klosterbier,125,20,0.0,Beverages,1997 Q2,1,7.75,155.0
+Kirkland,Original Frankfurter grüne Soße,32,18,0.0,Condiments,1997 Q2,0,13.0,234.0
+London,Steeleye Stout,20,20,0.0,Beverages,1997 Q2,1,18.0,360.0
+London,Ravioli Angelo,36,6,0.0,Grains/Cereals,1997 Q2,0,19.5,117.0
+San Francisco,Genen Shouyu,39,10,0.0,Condiments,1997 Q2,0,15.5,155.0
+San Francisco,Rhönbräu Klosterbier,125,21,0.0,Beverages,1997 Q2,1,7.75,162.75
+Köln,Tofu,35,15,0.05,Produce,1997 Q2,0,23.25,331.3125
+Köln,Jack's New England Clam Chowder,85,9,0.05,Seafood,1997 Q2,0,9.65,82.50750000000001
+Köln,Louisiana Fiery Hot Pepper Sauce,76,30,0.05,Condiments,1997 Q2,1,21.05,599.925
+Sao Paulo,Rhönbräu Klosterbier,125,50,0.2,Beverages,1997 Q2,1,7.75,310.0
+Mannheim,Ravioli Angelo,36,4,0.0,Grains/Cereals,1997 Q2,0,19.5,78.0
+Mannheim,Lakkalikööri,57,14,0.0,Beverages,1997 Q2,0,18.0,252.0
+Oulu,Thüringer Rostbratwurst,0,10,0.0,Meat/Poultry,1997 Q2,1,55.0,1237.9
+Oulu,Camembert Pierrot,19,24,0.15,Dairy Products,1997 Q2,1,34.0,693.6
+Oulu,Gudbrandsdalsost,26,10,0.15,Dairy Products,1997 Q2,1,36.0,306.0
+Strasbourg,Gorgonzola Telino,0,50,0.05,Dairy Products,1997 Q2,1,12.5,593.75
+Resende,Zaanse koeken,36,15,0.0,Confections,1997 Q3,1,9.5,142.5
+Reggio Emilia,Filo Mix,38,4,0.15,Grains/Cereals,1997 Q3,0,7.0,38.6
+Rio de Janeiro,Gumbär Gummibärchen,15,6,0.0,Confections,1997 Q3,0,31.23,187.38
+Rio de Janeiro,Steeleye Stout,20,20,0.0,Beverages,1997 Q3,1,18.0,360.0
+Rio de Janeiro,Original Frankfurter grüne Soße,32,20,0.0,Condiments,1997 Q3,0,13.0,260.0
+Cunewalde,Carnarvon Tigers,42,40,0.2,Seafood,1997 Q3,0,55.0,1800.0
+Cunewalde,Singaporean Hokkien Fried Mee,26,100,0.2,Grains/Cereals,1997 Q3,1,14.0,1120.0
+Eugene,Steeleye Stout,20,4,0.0,Beverages,1997 Q3,1,18.0,72.0
+Montréal,Chai,39,20,0.0,Beverages,1997 Q3,0,18.0,360.0
+Montréal,Original Frankfurter grüne Soße,32,60,0.05,Condiments,1997 Q3,1,13.0,741.0
+Århus,Aniseed Syrup,13,14,0.0,Condiments,1997 Q3,0,10.0,140.0
+Århus,Uncle Bob's Organic Dried Pears,15,10,0.0,Produce,1997 Q3,1,30.0,300.0
+Århus,Tourtière,21,50,0.0,Meat/Poultry,1997 Q3,1,7.45,372.5
+Frankfurt a.M.,Genen Shouyu,39,25,0.05,Condiments,1997 Q3,1,15.5,368.125
+Frankfurt a.M.,Gumbär Gummibärchen,15,5,0.05,Confections,1997 Q3,1,31.23,148.3425
+Frankfurt a.M.,Sir Rodney's Marmalade,40,21,0.2,Confections,1997 Q3,1,55.0,1360.8000000000002
+Frankfurt a.M.,Gudbrandsdalsost,26,20,0.2,Dairy Products,1997 Q3,1,36.0,576.0
+Frankfurt a.M.,Lakkalikööri,57,4,0.2,Beverages,1997 Q3,1,18.0,57.6
+Anchorage,Filo Mix,38,24,0.0,Grains/Cereals,1997 Q3,1,7.0,168.0
+Anchorage,Escargots de Bourgogne,62,30,0.0,Seafood,1997 Q3,1,13.25,397.5
+Graz,Steeleye Stout,20,30,0.25,Beverages,1997 Q3,1,18.0,405.0
+Graz,Sirop d'érable,113,120,0.25,Condiments,1997 Q3,1,28.5,1800.0
+Graz,Gudbrandsdalsost,26,65,0.25,Dairy Products,1997 Q3,1,36.0,1755.0
+Seattle,Gnocchi di nonna Alice,21,5,0.2,Grains/Cereals,1997 Q3,1,38.0,152.0
+Seattle,Vegie-spread,24,24,0.2,Condiments,1997 Q3,1,43.9,842.88
+Seattle,Rhönbräu Klosterbier,125,30,0.2,Beverages,1997 Q3,1,7.75,186.0
+Salzburg,Guaraná Fantástica,20,35,0.2,Beverages,1997 Q3,1,5.9,126.0
+Salzburg,Ravioli Angelo,36,20,0.0,Grains/Cereals,1997 Q3,1,19.5,390.0
+Salzburg,Louisiana Fiery Hot Pepper Sauce,76,12,0.2,Condiments,1997 Q3,1,21.05,202.08000000000004
+Albuquerque,Schoggi Schokolade,49,50,0.0,Confections,1997 Q3,0,43.9,1800.0
+Albuquerque,Flotemysost,26,9,0.0,Dairy Products,1997 Q3,0,21.5,193.5
+London,Tarte au sucre,17,10,0.0,Confections,1997 Q3,0,49.3,493.0
+Elgin,Tourtière,21,4,0.0,Meat/Poultry,1997 Q3,1,7.45,38.6
+Elgin,Röd Kaviar,101,30,0.0,Seafood,1997 Q3,0,15.0,450.0
+San Cristóbal,Konbu,24,60,0.0,Seafood,1997 Q3,1,6.0,360.0
+San Cristóbal,Raclette Courdavault,79,35,0.0,Dairy Products,1997 Q3,0,55.0,1800.0
+Århus,Original Frankfurter grüne Soße,32,5,0.25,Condiments,1997 Q3,1,13.0,48.75
+Boise,Gustaf's Knäckebröd,104,48,0.0,Grains/Cereals,1997 Q3,1,21.0,1008.0
+Boise,Maxilaku,10,25,0.05,Confections,1997 Q3,1,20.0,475.0
+Lisboa,Chocolade,15,6,0.1,Confections,1997 Q3,1,12.75,68.85000000000001
+Lisboa,Lakkalikööri,57,10,0.1,Beverages,1997 Q3,1,18.0,162.0
+Montréal,Pavlova,29,30,0.05,Confections,1997 Q3,0,17.45,497.325
+Montréal,Raclette Courdavault,79,20,0.05,Dairy Products,1997 Q3,1,55.0,1045.0
+Montréal,Camembert Pierrot,19,70,0.05,Dairy Products,1997 Q3,0,34.0,1800.0
+Montréal,Flotemysost,26,15,0.05,Dairy Products,1997 Q3,0,21.5,306.375
+Sao Paulo,Chef Anton's Cajun Seasoning,53,20,0.2,Condiments,1997 Q3,1,22.0,352.0
+Sao Paulo,Pâté chinois,115,20,0.2,Meat/Poultry,1997 Q3,1,24.0,384.0
+Sao Paulo,Tarte au sucre,17,10,0.2,Confections,1997 Q3,1,49.3,394.40000000000003
+Boise,Uncle Bob's Organic Dried Pears,15,45,0.0,Produce,1997 Q3,1,30.0,1350.0
+Boise,Alice Mutton,0,100,0.0,Meat/Poultry,1997 Q3,1,39.0,1800.0
+Boise,Geitost,112,14,0.0,Dairy Products,1997 Q3,0,5.9,38.6
+Boise,Boston Crab Meat,123,42,0.0,Seafood,1997 Q3,0,18.4,772.8
+Boise,Mozzarella di Giovanni,14,12,0.0,Dairy Products,1997 Q3,0,34.8,417.59999999999997
+Münster,Gnocchi di nonna Alice,21,28,0.0,Grains/Cereals,1997 Q3,0,38.0,1064.0
+Nantes,Chai,39,3,0.0,Beverages,1997 Q3,1,18.0,54.0
+Nantes,Ikura,31,10,0.0,Seafood,1997 Q3,1,31.0,310.0
+Nantes,Sir Rodney's Scones,3,6,0.0,Confections,1997 Q3,0,10.0,60.0
+Toulouse,Inlagd Sill,112,21,0.25,Seafood,1997 Q3,1,19.0,299.25
+Warszawa,Chai,39,6,0.0,Beverages,1997 Q3,1,18.0,108.0
+Warszawa,Chang,17,10,0.0,Beverages,1997 Q3,0,19.0,190.0
+Warszawa,Camembert Pierrot,19,15,0.0,Dairy Products,1997 Q3,1,34.0,510.0
+Boise,Ikura,31,70,0.0,Seafood,1997 Q3,0,31.0,1800.0
+Boise,Inlagd Sill,112,55,0.0,Seafood,1997 Q3,0,19.0,1045.0
+Boise,Maxilaku,10,18,0.0,Confections,1997 Q3,0,20.0,360.0
+Boise,Camembert Pierrot,19,40,0.0,Dairy Products,1997 Q3,1,34.0,1360.0
+Boise,Lakkalikööri,57,80,0.0,Beverages,1997 Q3,1,18.0,1440.0
+San Cristóbal,Konbu,24,8,0.1,Seafood,1997 Q3,1,6.0,43.2
+San Cristóbal,Rhönbräu Klosterbier,125,40,0.0,Beverages,1997 Q3,1,7.75,310.0
+Mannheim,Queso Cabrales,22,14,0.0,Dairy Products,1997 Q3,0,21.0,294.0
+Mannheim,Sir Rodney's Scones,3,8,0.0,Confections,1997 Q3,0,10.0,80.0
+Mannheim,Chartreuse verte,69,5,0.0,Beverages,1997 Q3,1,18.0,90.0
+Helsinki,Pâté chinois,115,5,0.0,Meat/Poultry,1997 Q3,0,24.0,120.0
+Eugene,Côte de Blaye,17,15,0.05,Beverages,1997 Q3,0,55.0,1800.0
+Eugene,Gnocchi di nonna Alice,21,14,0.0,Grains/Cereals,1997 Q3,0,38.0,532.0
+Eugene,Outback Lager,15,15,0.05,Beverages,1997 Q3,1,15.0,213.75
+Eugene,Flotemysost,26,15,0.05,Dairy Products,1997 Q3,0,21.5,306.375
+Eugene,Raclette Courdavault,79,30,0.15,Dairy Products,1997 Q3,1,55.0,1402.5
+Montréal,Grandma's Boysenberry Spread,120,70,0.0,Condiments,1997 Q3,1,25.0,1750.0
+Montréal,Gnocchi di nonna Alice,21,20,0.0,Grains/Cereals,1997 Q3,0,38.0,760.0
+Montréal,Scottish Longbreads,6,15,0.0,Confections,1997 Q3,1,12.5,187.5
+Montréal,Sir Rodney's Scones,3,42,0.0,Confections,1997 Q3,1,10.0,420.0
+Montréal,Gustaf's Knäckebröd,104,40,0.0,Grains/Cereals,1997 Q3,1,21.0,840.0
+Vancouver,Guaraná Fantástica,20,5,0.0,Beverages,1997 Q3,0,5.9,38.6
+Vancouver,Filo Mix,38,5,0.0,Grains/Cereals,1997 Q3,1,7.0,38.6
+Cowes,Teatime Chocolate Biscuits,25,5,0.0,Confections,1997 Q3,1,9.2,46.0
+Cowes,Tunnbröd,61,10,0.0,Grains/Cereals,1997 Q3,0,9.0,90.0
+Cowes,Outback Lager,15,20,0.0,Beverages,1997 Q3,0,15.0,300.0
+Cowes,Flotemysost,26,15,0.0,Dairy Products,1997 Q3,0,21.5,322.5
+Rio de Janeiro,Chang,17,20,0.0,Beverages,1997 Q3,1,19.0,380.0
+Rio de Janeiro,Scottish Longbreads,6,18,0.2,Confections,1997 Q3,1,12.5,180.0
+München,Tofu,35,21,0.0,Produce,1997 Q3,0,23.25,488.25
+München,Teatime Chocolate Biscuits,25,15,0.1,Confections,1997 Q3,1,9.2,124.2
+München,Sir Rodney's Scones,3,25,0.1,Confections,1997 Q3,0,10.0,225.0
+München,Guaraná Fantástica,20,3,0.0,Beverages,1997 Q3,0,5.9,38.6
+München,Steeleye Stout,20,30,0.1,Beverages,1997 Q3,0,18.0,486.0
+Butte,Rössle Sauerkraut,26,10,0.0,Produce,1997 Q3,0,45.6,456.0
+Butte,Thüringer Rostbratwurst,0,6,0.0,Meat/Poultry,1997 Q3,0,55.0,742.74
+Butte,Gula Malacca,27,10,0.0,Condiments,1997 Q3,0,19.45,194.5
+México D.F.,Tofu,35,3,0.0,Produce,1997 Q3,1,23.25,69.75
+México D.F.,Singaporean Hokkien Fried Mee,26,5,0.0,Grains/Cereals,1997 Q3,1,14.0,70.0
+México D.F.,Camembert Pierrot,19,10,0.0,Dairy Products,1997 Q3,1,34.0,340.0
+Luleå,Perth Pasties,0,12,0.0,Meat/Poultry,1997 Q3,1,32.8,393.59999999999997
+Luleå,Camembert Pierrot,19,20,0.0,Dairy Products,1997 Q3,1,34.0,680.0
+Luleå,Flotemysost,26,20,0.0,Dairy Products,1997 Q3,0,21.5,430.0
+Boise,Tarte au sucre,17,15,0.0,Confections,1997 Q3,0,49.3,739.5
+Boise,Röd Kaviar,101,35,0.15,Seafood,1997 Q3,1,15.0,446.25
+Strasbourg,Chai,39,25,0.0,Beverages,1997 Q3,0,18.0,450.0
+Sevilla,Thüringer Rostbratwurst,0,20,0.0,Meat/Poultry,1997 Q3,0,55.0,1800.0
+Sevilla,Wimmers gute Semmelknödel,22,9,0.0,Grains/Cereals,1997 Q3,1,33.25,299.25
+Brandenburg,Pâté chinois,115,12,0.05,Meat/Poultry,1997 Q3,1,24.0,273.59999999999997
+Brandenburg,Lakkalikööri,57,35,0.0,Beverages,1997 Q3,0,18.0,630.0
+Toulouse,Rhönbräu Klosterbier,125,8,0.1,Beverages,1997 Q3,0,7.75,55.800000000000004
+Stuttgart,Chang,17,30,0.05,Beverages,1997 Q3,1,19.0,541.5
+Stuttgart,Geitost,112,20,0.05,Dairy Products,1997 Q3,1,5.9,47.5
+Graz,Queso Manchego La Pastora,86,36,0.15,Dairy Products,1997 Q3,1,38.0,1162.8
+Graz,Konbu,24,13,0.15,Seafood,1997 Q3,1,6.0,66.3
+Graz,Gumbär Gummibärchen,15,35,0.15,Confections,1997 Q3,1,31.23,929.0925
+Graz,Tarte au sucre,17,80,0.15,Confections,1997 Q3,1,49.3,1800.0
+Lille,Uncle Bob's Organic Dried Pears,15,35,0.0,Produce,1997 Q3,0,30.0,1050.0
+Lille,Carnarvon Tigers,42,50,0.0,Seafood,1997 Q3,1,55.0,1800.0
+Lille,Manjimup Dried Apples,20,15,0.0,Produce,1997 Q3,0,53.0,795.0
+Lille,Rhönbräu Klosterbier,125,2,0.0,Beverages,1997 Q3,0,7.75,38.6
+Bergamo,Chef Anton's Cajun Seasoning,53,10,0.1,Condiments,1997 Q3,1,22.0,198.0
+Bergamo,Chef Anton's Gumbo Mix,0,15,0.1,Condiments,1997 Q3,1,21.35,288.225
+Bergamo,Gustaf's Knäckebröd,104,40,0.0,Grains/Cereals,1997 Q3,1,21.0,840.0
+Oulu,Chef Anton's Cajun Seasoning,53,25,0.0,Condiments,1997 Q3,1,22.0,550.0
+Oulu,Escargots de Bourgogne,62,6,0.0,Seafood,1997 Q3,0,13.25,79.5
+Sao Paulo,Queso Cabrales,22,10,0.0,Dairy Products,1997 Q3,0,21.0,210.0
+Sao Paulo,Valkoinen suklaa,65,25,0.05,Confections,1997 Q3,1,16.25,385.9375
+Sao Paulo,Gnocchi di nonna Alice,21,60,0.05,Grains/Cereals,1997 Q3,0,38.0,1800.0
+I. de Margarita,Rogede sild,5,20,0.0,Seafood,1997 Q3,1,9.5,190.0
+I. de Margarita,Louisiana Fiery Hot Pepper Sauce,76,21,0.0,Condiments,1997 Q3,1,21.05,442.05
+I. de Margarita,Mozzarella di Giovanni,14,60,0.0,Dairy Products,1997 Q3,0,34.8,1800.0
+Stavern,Carnarvon Tigers,42,8,0.0,Seafood,1997 Q3,0,55.0,500.0
+Stuttgart,Gudbrandsdalsost,26,20,0.25,Dairy Products,1997 Q3,1,36.0,540.0
+Stuttgart,Outback Lager,15,15,0.25,Beverages,1997 Q3,1,15.0,168.75
+San Cristóbal,Chang,17,50,0.0,Beverages,1997 Q3,1,19.0,950.0
+San Cristóbal,Boston Crab Meat,123,60,0.0,Seafood,1997 Q3,0,18.4,1104.0
+Kobenhavn,Sir Rodney's Scones,3,30,0.2,Confections,1997 Q3,1,10.0,240.0
+Kobenhavn,Sirop d'érable,113,20,0.2,Condiments,1997 Q3,1,28.5,456.0
+Berlin,Rössle Sauerkraut,26,15,0.25,Produce,1997 Q3,1,45.6,513.0
+Berlin,Chartreuse verte,69,21,0.25,Beverages,1997 Q3,1,18.0,283.5
+Berlin,Spegesild,95,2,0.25,Seafood,1997 Q3,0,12.0,38.6
+Resende,Carnarvon Tigers,42,4,0.1,Seafood,1997 Q3,1,55.0,225.0
+Resende,Ipoh Coffee,17,20,0.0,Beverages,1997 Q3,1,46.0,920.0
+Resende,Spegesild,95,21,0.1,Seafood,1997 Q3,0,12.0,226.8
+Rio de Janeiro,Carnarvon Tigers,42,20,0.0,Seafood,1997 Q3,1,55.0,1250.0
+Rio de Janeiro,Inlagd Sill,112,15,0.0,Seafood,1997 Q3,1,19.0,285.0
+Cork,Chai,39,15,0.25,Beverages,1997 Q3,1,18.0,202.5
+Cork,Ikura,31,18,0.25,Seafood,1997 Q3,1,31.0,418.5
+Cork,Flotemysost,26,30,0.25,Dairy Products,1997 Q3,1,21.5,483.75
+Cork,Original Frankfurter grüne Soße,32,35,0.25,Condiments,1997 Q3,1,13.0,341.25
+Rio de Janeiro,Teatime Chocolate Biscuits,25,30,0.0,Confections,1997 Q3,1,9.2,276.0
+Rio de Janeiro,Chartreuse verte,69,20,0.0,Beverages,1997 Q3,0,18.0,360.0
+Rio de Janeiro,Gustaf's Knäckebröd,104,15,0.0,Grains/Cereals,1997 Q3,0,21.0,315.0
+Rio de Janeiro,Guaraná Fantástica,20,15,0.15,Beverages,1997 Q3,1,5.9,57.375
+Bruxelles,Rössle Sauerkraut,26,20,0.0,Produce,1997 Q3,1,45.6,912.0
+Bruxelles,Mozzarella di Giovanni,14,15,0.0,Dairy Products,1997 Q3,1,34.8,522.0
+Sao Paulo,Nord-Ost Matjeshering,10,30,0.0,Seafood,1997 Q3,0,25.89,776.7
+Sao Paulo,Perth Pasties,0,25,0.05,Meat/Poultry,1997 Q3,0,32.8,778.9999999999999
+Sao Paulo,Tourtière,21,30,0.0,Meat/Poultry,1997 Q3,1,7.45,223.5
+Stuttgart,Teatime Chocolate Biscuits,25,12,0.25,Confections,1997 Q3,1,9.2,82.8
+Stuttgart,Gustaf's Knäckebröd,104,20,0.25,Grains/Cereals,1997 Q3,1,21.0,315.0
+Campinas,Nord-Ost Matjeshering,10,2,0.25,Seafood,1997 Q3,1,25.89,38.835
+Campinas,Singaporean Hokkien Fried Mee,26,20,0.0,Grains/Cereals,1997 Q3,0,14.0,280.0
+München,Pavlova,29,30,0.1,Confections,1997 Q3,1,17.45,471.15000000000003
+München,Camembert Pierrot,19,20,0.1,Dairy Products,1997 Q3,1,34.0,612.0
+Luleå,Chef Anton's Cajun Seasoning,53,12,0.1,Condiments,1997 Q3,0,22.0,237.6
+Luleå,Chartreuse verte,69,20,0.1,Beverages,1997 Q3,1,18.0,324.0
+Luleå,Tourtière,21,6,0.1,Meat/Poultry,1997 Q3,1,7.45,40.230000000000004
+Reggio Emilia,Jack's New England Clam Chowder,85,20,0.2,Seafood,1997 Q3,1,9.65,154.4
+Eugene,Tofu,35,3,0.1,Produce,1997 Q3,0,23.25,62.775
+Eugene,Gula Malacca,27,28,0.1,Condiments,1997 Q3,1,19.45,490.14000000000004
+Eugene,Zaanse koeken,36,6,0.1,Confections,1997 Q3,1,9.5,51.300000000000004
+Boise,Genen Shouyu,39,50,0.0,Condiments,1997 Q3,1,15.5,775.0
+Boise,Jack's New England Clam Chowder,85,24,0.0,Seafood,1997 Q3,0,9.65,231.60000000000002
+Boise,Spegesild,95,45,0.0,Seafood,1997 Q3,1,12.0,540.0
+Boise,Zaanse koeken,36,10,0.0,Confections,1997 Q3,0,9.5,95.0
+Boise,Gnocchi di nonna Alice,21,45,0.0,Grains/Cereals,1997 Q3,1,38.0,1710.0
+Boise,Camembert Pierrot,19,30,0.0,Dairy Products,1997 Q3,0,34.0,1020.0
+Cunewalde,Sir Rodney's Scones,3,60,0.0,Confections,1997 Q3,1,10.0,600.0
+Cunewalde,Boston Crab Meat,123,70,0.05,Seafood,1997 Q3,1,18.4,1223.6
+Cunewalde,Camembert Pierrot,19,55,0.05,Dairy Products,1997 Q3,1,34.0,1776.5
+Cunewalde,Original Frankfurter grüne Soße,32,70,0.05,Condiments,1997 Q3,1,13.0,864.5
+Sao Paulo,Gorgonzola Telino,0,20,0.05,Dairy Products,1997 Q3,0,12.5,237.5
+Sao Paulo,Boston Crab Meat,123,24,0.05,Seafood,1997 Q3,0,18.4,419.5199999999999
+Sao Paulo,Outback Lager,15,40,0.05,Beverages,1997 Q3,1,15.0,570.0
+Elgin,Sir Rodney's Marmalade,40,21,0.0,Confections,1997 Q3,0,55.0,1701.0
+Cork,Chartreuse verte,69,3,0.2,Beverages,1997 Q3,1,18.0,43.2
+Cork,Escargots de Bourgogne,62,49,0.2,Seafood,1997 Q3,1,13.25,519.4
+Portland,Scottish Longbreads,6,10,0.0,Confections,1997 Q3,0,12.5,125.0
+Marseille,Boston Crab Meat,123,30,0.05,Seafood,1997 Q3,0,18.4,524.4
+Marseille,Singaporean Hokkien Fried Mee,26,30,0.05,Grains/Cereals,1997 Q3,1,14.0,399.0
+Marseille,Manjimup Dried Apples,20,20,0.05,Produce,1997 Q3,1,53.0,1007.0
+Lisboa,Ikura,31,24,0.15,Seafood,1997 Q3,1,31.0,632.4
+Lisboa,Gnocchi di nonna Alice,21,12,0.15,Grains/Cereals,1997 Q3,1,38.0,387.59999999999997
+Lisboa,Louisiana Fiery Hot Pepper Sauce,76,15,0.15,Condiments,1997 Q3,1,21.05,268.3875
+Portland,Manjimup Dried Apples,20,20,0.0,Produce,1997 Q3,1,53.0,1060.0
+Portland,Raclette Courdavault,79,1,0.0,Dairy Products,1997 Q3,1,55.0,55.0
+Portland,Lakkalikööri,57,10,0.0,Beverages,1997 Q3,0,18.0,180.0
+Genève,Thüringer Rostbratwurst,0,36,0.0,Meat/Poultry,1997 Q3,0,55.0,1800.0
+Genève,Louisiana Fiery Hot Pepper Sauce,76,10,0.0,Condiments,1997 Q3,0,21.05,210.5
+Graz,Gudbrandsdalsost,26,45,0.2,Dairy Products,1997 Q3,1,36.0,1296.0
+Graz,Flotemysost,26,14,0.2,Dairy Products,1997 Q3,1,21.5,240.8
+Stuttgart,Gorgonzola Telino,0,8,0.1,Dairy Products,1997 Q3,0,12.5,90.0
+Stuttgart,Pâté chinois,115,4,0.1,Meat/Poultry,1997 Q3,0,24.0,86.4
+Stuttgart,Wimmers gute Semmelknödel,22,15,0.1,Grains/Cereals,1997 Q3,1,33.25,448.875
+Kobenhavn,Inlagd Sill,112,30,0.0,Seafood,1997 Q3,0,19.0,570.0
+München,Tunnbröd,61,32,0.0,Grains/Cereals,1997 Q3,1,9.0,288.0
+München,Spegesild,95,60,0.0,Seafood,1997 Q3,1,12.0,720.0
+München,Laughing Lumberjack Lager,52,25,0.0,Beverages,1997 Q3,0,14.0,350.0
+München,Röd Kaviar,101,50,0.0,Seafood,1997 Q3,1,15.0,750.0
+München,Rhönbräu Klosterbier,125,25,0.0,Beverages,1997 Q3,1,7.75,193.75
+Nantes,Pavlova,29,10,0.0,Confections,1997 Q3,0,17.45,174.5
+Nantes,Tarte au sucre,17,10,0.0,Confections,1997 Q3,0,49.3,493.0
+Nantes,Louisiana Fiery Hot Pepper Sauce,76,12,0.0,Condiments,1997 Q3,0,21.05,252.60000000000002
+Luleå,Côte de Blaye,17,15,0.1,Beverages,1997 Q3,0,55.0,1800.0
+Luleå,Flotemysost,26,12,0.0,Dairy Products,1997 Q3,0,21.5,258.0
+Helsinki,Pavlova,29,3,0.0,Confections,1997 Q3,1,17.45,52.349999999999994
+Helsinki,Singaporean Hokkien Fried Mee,26,6,0.0,Grains/Cereals,1997 Q3,0,14.0,84.0
+Helsinki,Ipoh Coffee,17,6,0.0,Beverages,1997 Q3,0,46.0,276.0
+Cowes,Tunnbröd,61,5,0.0,Grains/Cereals,1997 Q3,0,9.0,45.0
+München,Tofu,35,30,0.0,Produce,1997 Q3,1,23.25,697.5
+München,Perth Pasties,0,10,0.0,Meat/Poultry,1997 Q3,1,32.8,328.0
+München,Escargots de Bourgogne,62,30,0.0,Seafood,1997 Q3,1,13.25,397.5
+México D.F.,Ikura,31,2,0.0,Seafood,1997 Q3,1,31.0,62.0
+México D.F.,Teatime Chocolate Biscuits,25,7,0.0,Confections,1997 Q3,1,9.2,64.39999999999999
+México D.F.,Gula Malacca,27,21,0.0,Condiments,1997 Q3,1,19.45,408.45
+México D.F.,Gumbär Gummibärchen,15,30,0.15,Confections,1997 Q3,1,31.23,796.365
+México D.F.,Geitost,112,8,0.15,Dairy Products,1997 Q3,0,5.9,38.6
+Boise,Queso Manchego La Pastora,86,100,0.0,Dairy Products,1997 Q3,1,38.0,1800.0
+Boise,Geitost,112,30,0.0,Dairy Products,1997 Q3,1,5.9,75.0
+Boise,Jack's New England Clam Chowder,85,120,0.0,Seafood,1997 Q3,1,9.65,1158.0
+Boise,Tourtière,21,30,0.0,Meat/Poultry,1997 Q3,1,7.45,223.5
+Strasbourg,Raclette Courdavault,79,12,0.0,Dairy Products,1997 Q3,1,55.0,660.0
+Anchorage,Pavlova,29,50,0.25,Confections,1997 Q3,1,17.45,654.375
+Anchorage,Gorgonzola Telino,0,20,0.25,Dairy Products,1997 Q3,1,12.5,187.5
+Anchorage,Singaporean Hokkien Fried Mee,26,40,0.25,Grains/Cereals,1997 Q3,1,14.0,420.0
+Eugene,Teatime Chocolate Biscuits,25,30,0.1,Confections,1997 Q3,1,9.2,248.4
+Eugene,Sir Rodney's Scones,3,12,0.1,Confections,1997 Q3,1,10.0,108.0
+Eugene,Wimmers gute Semmelknödel,22,28,0.0,Grains/Cereals,1997 Q3,0,33.25,931.0
+México D.F.,Geitost,112,30,0.0,Dairy Products,1997 Q3,1,5.9,75.0
+México D.F.,Louisiana Hot Spiced Okra,4,4,0.0,Condiments,1997 Q3,1,17.0,68.0
+México D.F.,Rhönbräu Klosterbier,125,30,0.0,Beverages,1997 Q3,1,7.75,232.5
+Nantes,Filo Mix,38,9,0.0,Grains/Cereals,1997 Q3,0,7.0,63.0
+Köln,Boston Crab Meat,123,20,0.0,Seafood,1997 Q3,0,18.4,368.0
+Köln,Zaanse koeken,36,40,0.0,Confections,1997 Q3,0,9.5,380.0
+Köln,Camembert Pierrot,19,30,0.0,Dairy Products,1997 Q3,0,34.0,1020.0
+Campinas,Ikura,31,20,0.0,Seafood,1997 Q3,0,31.0,620.0
+Campinas,Jack's New England Clam Chowder,85,4,0.0,Seafood,1997 Q3,1,9.65,38.6
+Campinas,Zaanse koeken,36,15,0.0,Confections,1997 Q3,0,9.5,142.5
+Salzburg,Alice Mutton,0,30,0.2,Meat/Poultry,1997 Q3,1,39.0,936.0
+Salzburg,Gumbär Gummibärchen,15,15,0.0,Confections,1997 Q3,1,31.23,468.45
+Cork,Mishi Kobe Niku,29,50,0.25,Meat/Poultry,1997 Q3,1,55.0,1800.0
+Cork,Thüringer Rostbratwurst,0,10,0.0,Meat/Poultry,1997 Q3,0,55.0,1237.9
+Cork,Inlagd Sill,112,6,0.25,Seafood,1997 Q3,1,19.0,85.5
+Århus,Ikura,31,18,0.1,Seafood,1997 Q4,1,31.0,502.2
+Århus,Rössle Sauerkraut,26,60,0.1,Produce,1997 Q4,1,45.6,1800.0
+Århus,Sasquatch Ale,111,14,0.0,Beverages,1997 Q4,1,14.0,196.0
+Luleå,Chai,39,35,0.25,Beverages,1997 Q4,1,18.0,472.5
+Rio de Janeiro,Gnocchi di nonna Alice,21,20,0.25,Grains/Cereals,1997 Q4,1,38.0,570.0
+Rio de Janeiro,Original Frankfurter grüne Soße,32,30,0.25,Condiments,1997 Q4,1,13.0,292.5
+Cunewalde,Chai,39,30,0.0,Beverages,1997 Q4,0,18.0,540.0
+Cunewalde,Thüringer Rostbratwurst,0,40,0.0,Meat/Poultry,1997 Q4,1,55.0,1800.0
+Cunewalde,Ipoh Coffee,17,40,0.0,Beverages,1997 Q4,0,46.0,1800.0
+Cunewalde,Gula Malacca,27,24,0.0,Condiments,1997 Q4,1,19.45,466.79999999999995
+Cunewalde,Tarte au sucre,17,48,0.0,Confections,1997 Q4,0,49.3,1800.0
+Berlin,Vegie-spread,24,20,0.0,Condiments,1997 Q4,0,43.9,878.0
+Seattle,Mishi Kobe Niku,29,6,0.0,Meat/Poultry,1997 Q4,0,55.0,582.0
+Seattle,Tourtière,21,60,0.15,Meat/Poultry,1997 Q4,1,7.45,379.95
+Seattle,Gudbrandsdalsost,26,30,0.15,Dairy Products,1997 Q4,1,36.0,918.0
+Seattle,Röd Kaviar,101,15,0.15,Seafood,1997 Q4,1,15.0,191.25
+Cunewalde,Uncle Bob's Organic Dried Pears,15,90,0.0,Produce,1997 Q4,1,30.0,1800.0
+Cunewalde,Raclette Courdavault,79,25,0.0,Dairy Products,1997 Q4,1,55.0,1375.0
+Cunewalde,Outback Lager,15,50,0.0,Beverages,1997 Q4,1,15.0,750.0
+Helsinki,Northwoods Cranberry Sauce,6,10,0.0,Condiments,1997 Q4,0,40.0,400.0
+Helsinki,Queso Manchego La Pastora,86,4,0.0,Dairy Products,1997 Q4,0,38.0,152.0
+Helsinki,Guaraná Fantástica,20,20,0.0,Beverages,1997 Q4,0,5.9,90.0
+Seattle,Alice Mutton,0,20,0.0,Meat/Poultry,1997 Q4,0,39.0,780.0
+Seattle,Spegesild,95,18,0.0,Seafood,1997 Q4,1,12.0,216.0
+I. de Margarita,Teatime Chocolate Biscuits,25,7,0.25,Confections,1997 Q4,1,9.2,48.3
+I. de Margarita,Steeleye Stout,20,9,0.25,Beverages,1997 Q4,1,18.0,121.5
+I. de Margarita,Escargots de Bourgogne,62,30,0.25,Seafood,1997 Q4,1,13.25,298.125
+I. de Margarita,Outback Lager,15,30,0.25,Beverages,1997 Q4,1,15.0,337.5
+Graz,Queso Cabrales,22,15,0.0,Dairy Products,1997 Q4,0,21.0,315.0
+Graz,Alice Mutton,0,8,0.05,Meat/Poultry,1997 Q4,0,39.0,296.4
+Graz,Thüringer Rostbratwurst,0,12,0.05,Meat/Poultry,1997 Q4,0,55.0,1411.206
+Graz,Louisiana Fiery Hot Pepper Sauce,76,65,0.05,Condiments,1997 Q4,1,21.05,1299.8374999999999
+Graz,Outback Lager,15,8,0.05,Beverages,1997 Q4,0,15.0,114.0
+Leipzig,Zaanse koeken,36,12,0.0,Confections,1997 Q4,1,9.5,114.0
+Boise,Chai,39,5,0.2,Beverages,1997 Q4,1,18.0,72.0
+Boise,Sasquatch Ale,111,12,0.2,Beverages,1997 Q4,1,14.0,134.4
+Boise,Scottish Longbreads,6,40,0.2,Confections,1997 Q4,1,12.5,400.0
+Boise,Flotemysost,26,60,0.2,Dairy Products,1997 Q4,1,21.5,1032.0
+Cork,Raclette Courdavault,79,42,0.15,Dairy Products,1997 Q4,0,55.0,1800.0
+Cork,Flotemysost,26,20,0.15,Dairy Products,1997 Q4,1,21.5,365.5
+Cork,Lakkalikööri,57,35,0.15,Beverages,1997 Q4,1,18.0,535.5
+Berlin,Aniseed Syrup,13,6,0.0,Condiments,1997 Q4,0,10.0,60.0
+Berlin,Lakkalikööri,57,15,0.0,Beverages,1997 Q4,1,18.0,270.0
+Bräcke,Chang,17,5,0.0,Beverages,1997 Q4,1,19.0,95.0
+Bräcke,Raclette Courdavault,79,35,0.0,Dairy Products,1997 Q4,0,55.0,1800.0
+Bräcke,Röd Kaviar,101,35,0.0,Seafood,1997 Q4,0,15.0,525.0
+Sao Paulo,Chef Anton's Cajun Seasoning,53,6,0.0,Condiments,1997 Q4,0,22.0,132.0
+Sao Paulo,Guaraná Fantástica,20,35,0.0,Beverages,1997 Q4,1,5.9,157.5
+Sao Paulo,Chocolade,15,24,0.0,Confections,1997 Q4,1,12.75,306.0
+San Cristóbal,Gorgonzola Telino,0,20,0.0,Dairy Products,1997 Q4,0,12.5,250.0
+San Cristóbal,Mascarpone Fabioli,9,4,0.0,Dairy Products,1997 Q4,1,32.0,128.0
+Anchorage,Pavlova,29,20,0.0,Confections,1997 Q4,1,17.45,349.0
+Anchorage,Ipoh Coffee,17,24,0.0,Beverages,1997 Q4,0,46.0,1104.0
+Anchorage,Raclette Courdavault,79,8,0.0,Dairy Products,1997 Q4,1,55.0,440.0
+London,Pâté chinois,115,21,0.0,Meat/Poultry,1997 Q4,1,24.0,504.0
+London,Ravioli Angelo,36,40,0.0,Grains/Cereals,1997 Q4,1,19.5,780.0
+London,Outback Lager,15,28,0.15,Beverages,1997 Q4,1,15.0,357.0
+Portland,Chef Anton's Gumbo Mix,0,4,0.0,Condiments,1997 Q4,0,21.35,85.4
+Portland,Inlagd Sill,112,5,0.0,Seafood,1997 Q4,0,19.0,95.0
+Campinas,Northwoods Cranberry Sauce,6,40,0.0,Condiments,1997 Q4,0,40.0,1600.0
+Campinas,Manjimup Dried Apples,20,28,0.0,Produce,1997 Q4,0,53.0,1484.0
+Campinas,Camembert Pierrot,19,10,0.0,Dairy Products,1997 Q4,1,34.0,340.0
+Torino,Teatime Chocolate Biscuits,25,5,0.0,Confections,1997 Q4,1,9.2,46.0
+Torino,Zaanse koeken,36,5,0.0,Confections,1997 Q4,1,9.5,47.5
+Boise,Teatime Chocolate Biscuits,25,12,0.0,Confections,1997 Q4,0,9.2,110.39999999999999
+Boise,Jack's New England Clam Chowder,85,42,0.0,Seafood,1997 Q4,0,9.65,405.3
+Boise,Perth Pasties,0,120,0.0,Meat/Poultry,1997 Q4,1,32.8,1800.0
+Cork,Perth Pasties,0,3,0.05,Meat/Poultry,1997 Q4,1,32.8,93.47999999999999
+Cork,Gnocchi di nonna Alice,21,30,0.0,Grains/Cereals,1997 Q4,1,38.0,1140.0
+Boise,Ikura,31,18,0.0,Seafood,1997 Q4,1,31.0,558.0
+Boise,Gumbär Gummibärchen,15,30,0.0,Confections,1997 Q4,0,31.23,936.9
+Boise,Rogede sild,5,110,0.0,Seafood,1997 Q4,1,9.5,1045.0
+Boise,Spegesild,95,24,0.0,Seafood,1997 Q4,0,12.0,288.0
+Boise,Chang,17,30,0.25,Beverages,1997 Q4,1,19.0,427.5
+Boise,Alice Mutton,0,27,0.25,Meat/Poultry,1997 Q4,1,39.0,789.75
+Boise,Zaanse koeken,36,50,0.25,Confections,1997 Q4,1,9.5,356.25
+Boise,Gnocchi di nonna Alice,21,18,0.25,Grains/Cereals,1997 Q4,1,38.0,513.0
+Boise,Escargots de Bourgogne,62,12,0.25,Seafood,1997 Q4,1,13.25,119.25
+Marseille,Ikura,31,21,0.0,Seafood,1997 Q4,1,31.0,651.0
+Marseille,Flotemysost,26,30,0.0,Dairy Products,1997 Q4,1,21.5,645.0
+Buenos Aires,Sir Rodney's Scones,3,5,0.0,Confections,1997 Q4,0,10.0,50.0
+Buenos Aires,Manjimup Dried Apples,20,7,0.0,Produce,1997 Q4,1,53.0,371.0
+Buenos Aires,Sirop d'érable,113,10,0.0,Condiments,1997 Q4,1,28.5,285.0
+München,Sir Rodney's Scones,3,32,0.05,Confections,1997 Q4,1,10.0,304.0
+München,Tourtière,21,15,0.0,Meat/Poultry,1997 Q4,0,7.45,111.75
+München,Gudbrandsdalsost,26,25,0.05,Dairy Products,1997 Q4,0,36.0,855.0
+Brandenburg,Queso Manchego La Pastora,86,36,0.0,Dairy Products,1997 Q4,0,38.0,1368.0
+Brandenburg,Pavlova,29,20,0.0,Confections,1997 Q4,1,17.45,349.0
+Brandenburg,Inlagd Sill,112,40,0.0,Seafood,1997 Q4,0,19.0,760.0
+Brandenburg,Tarte au sucre,17,20,0.0,Confections,1997 Q4,1,49.3,986.0
+San Francisco,Carnarvon Tigers,42,12,0.25,Seafood,1997 Q4,1,55.0,562.5
+San Francisco,Nord-Ost Matjeshering,10,3,0.25,Seafood,1997 Q4,1,25.89,58.2525
+San Francisco,Tourtière,21,40,0.25,Meat/Poultry,1997 Q4,1,7.45,223.5
+Rio de Janeiro,Steeleye Stout,20,21,0.0,Beverages,1997 Q4,1,18.0,378.0
+Rio de Janeiro,Flotemysost,26,8,0.0,Dairy Products,1997 Q4,0,21.5,172.0
+Cunewalde,Gula Malacca,27,50,0.05,Condiments,1997 Q4,1,19.45,923.875
+Boise,Chang,17,3,0.0,Beverages,1997 Q4,1,19.0,57.0
+Boise,Gorgonzola Telino,0,50,0.0,Dairy Products,1997 Q4,1,12.5,625.0
+Boise,Scottish Longbreads,6,45,0.0,Confections,1997 Q4,1,12.5,562.5
+Boise,Rhönbräu Klosterbier,125,42,0.0,Beverages,1997 Q4,1,7.75,325.5
+Seattle,Gumbär Gummibärchen,15,15,0.0,Confections,1997 Q4,1,31.23,468.45
+Montréal,Ikura,31,16,0.0,Seafood,1997 Q4,1,31.0,496.0
+Montréal,Sirop d'érable,113,5,0.0,Condiments,1997 Q4,0,28.5,142.5
+Sao Paulo,Jack's New England Clam Chowder,85,12,0.0,Seafood,1997 Q4,0,9.65,115.80000000000001
+Sao Paulo,Filo Mix,38,4,0.0,Grains/Cereals,1997 Q4,0,7.0,38.6
+Sao Paulo,Pâté chinois,115,6,0.0,Meat/Poultry,1997 Q4,0,24.0,144.0
+London,Chef Anton's Cajun Seasoning,53,25,0.0,Condiments,1997 Q4,1,22.0,550.0
+London,Queso Cabrales,22,5,0.0,Dairy Products,1997 Q4,0,21.0,105.0
+Reggio Emilia,Alice Mutton,0,20,0.05,Meat/Poultry,1997 Q4,1,39.0,741.0
+Reggio Emilia,Gnocchi di nonna Alice,21,10,0.05,Grains/Cereals,1997 Q4,1,38.0,361.0
+Reggio Emilia,Raclette Courdavault,79,10,0.05,Dairy Products,1997 Q4,1,55.0,522.5
+Sao Paulo,Nord-Ost Matjeshering,10,15,0.0,Seafood,1997 Q4,1,25.89,388.35
+Sao Paulo,Boston Crab Meat,123,6,0.0,Seafood,1997 Q4,0,18.4,110.39999999999999
+Sao Paulo,Pâté chinois,115,12,0.0,Meat/Poultry,1997 Q4,0,24.0,288.0
+Sao Paulo,Camembert Pierrot,19,15,0.0,Dairy Products,1997 Q4,1,34.0,510.0
+I. de Margarita,Chai,39,50,0.0,Beverages,1997 Q4,1,18.0,900.0
+I. de Margarita,Sir Rodney's Scones,3,30,0.0,Confections,1997 Q4,1,10.0,300.0
+I. de Margarita,Valkoinen suklaa,65,40,0.0,Confections,1997 Q4,1,16.25,650.0
+Marseille,Pavlova,29,15,0.05,Confections,1997 Q4,1,17.45,248.6625
+Marseille,Gorgonzola Telino,0,3,0.05,Dairy Products,1997 Q4,0,12.5,38.6
+Marseille,Louisiana Fiery Hot Pepper Sauce,76,10,0.05,Condiments,1997 Q4,0,21.05,199.975
+Bern,Sir Rodney's Scones,3,40,0.05,Confections,1997 Q4,1,10.0,380.0
+Bern,Manjimup Dried Apples,20,30,0.05,Produce,1997 Q4,1,53.0,1510.5
+Marseille,Lakkalikööri,57,20,0.0,Beverages,1997 Q4,0,18.0,360.0
+Luleå,Tofu,35,16,0.0,Produce,1997 Q4,0,23.25,372.0
+Luleå,Rössle Sauerkraut,26,20,0.0,Produce,1997 Q4,1,45.6,912.0
+Luleå,Filo Mix,38,25,0.0,Grains/Cereals,1997 Q4,1,7.0,175.0
+Campinas,Grandma's Boysenberry Spread,120,30,0.0,Condiments,1997 Q4,0,25.0,750.0
+Campinas,Nord-Ost Matjeshering,10,15,0.0,Seafood,1997 Q4,1,25.89,388.35
+Campinas,Lakkalikööri,57,20,0.0,Beverages,1997 Q4,1,18.0,360.0
+San Francisco,Sirop d'érable,113,20,0.1,Condiments,1997 Q4,1,28.5,513.0
+San Francisco,Original Frankfurter grüne Soße,32,2,0.1,Condiments,1997 Q4,0,13.0,38.6
+Cork,Louisiana Fiery Hot Pepper Sauce,76,40,0.0,Condiments,1997 Q4,1,21.05,842.0
+Cork,Rhönbräu Klosterbier,125,20,0.0,Beverages,1997 Q4,1,7.75,155.0
+Reims,Konbu,24,4,0.0,Seafood,1997 Q4,0,6.0,38.6
+Reims,Jack's New England Clam Chowder,85,12,0.0,Seafood,1997 Q4,0,9.65,115.80000000000001
+Paris,Pavlova,29,3,0.0,Confections,1997 Q4,1,17.45,52.349999999999994
+Reims,Inlagd Sill,112,6,0.0,Seafood,1997 Q4,0,19.0,114.0
+Reims,Filo Mix,38,18,0.0,Grains/Cereals,1997 Q4,0,7.0,126.0
+Seattle,Rössle Sauerkraut,26,5,0.2,Produce,1997 Q4,1,45.6,182.4
+Seattle,Steeleye Stout,20,35,0.2,Beverages,1997 Q4,1,18.0,504.0
+Seattle,Rogede sild,5,40,0.2,Seafood,1997 Q4,1,9.5,304.0
+Seattle,Gnocchi di nonna Alice,21,14,0.2,Grains/Cereals,1997 Q4,1,38.0,425.6
+London,Chang,17,15,0.2,Beverages,1997 Q4,1,19.0,228.0
+Tsawassen,Aniseed Syrup,13,20,0.0,Condiments,1997 Q4,1,10.0,200.0
+Tsawassen,Camembert Pierrot,19,50,0.0,Dairy Products,1997 Q4,1,34.0,1700.0
+Tsawassen,Mozzarella di Giovanni,14,35,0.0,Dairy Products,1997 Q4,1,34.8,1218.0
+London,Spegesild,95,28,0.05,Seafood,1997 Q4,0,12.0,319.2
+Århus,Boston Crab Meat,123,50,0.2,Seafood,1997 Q4,1,18.4,736.0
+Cunewalde,Carnarvon Tigers,42,24,0.0,Seafood,1997 Q4,1,55.0,1500.0
+Cunewalde,Gula Malacca,27,16,0.0,Condiments,1997 Q4,0,19.45,311.2
+Cunewalde,Raclette Courdavault,79,45,0.0,Dairy Products,1997 Q4,0,55.0,1800.0
+Cunewalde,Mozzarella di Giovanni,14,7,0.0,Dairy Products,1997 Q4,0,34.8,243.59999999999997
+Bern,Konbu,24,6,0.0,Seafood,1997 Q4,1,6.0,38.6
+Bern,Singaporean Hokkien Fried Mee,26,28,0.0,Grains/Cereals,1997 Q4,1,14.0,392.0
+Bern,Tarte au sucre,17,9,0.0,Confections,1997 Q4,0,49.3,443.7
+Bern,Gudbrandsdalsost,26,40,0.0,Dairy Products,1997 Q4,0,36.0,1440.0
+Salzburg,Gorgonzola Telino,0,8,0.0,Dairy Products,1997 Q4,0,12.5,100.0
+Salzburg,Jack's New England Clam Chowder,85,35,0.0,Seafood,1997 Q4,0,9.65,337.75
+Salzburg,Vegie-spread,24,9,0.0,Condiments,1997 Q4,1,43.9,395.09999999999997
+Salzburg,Gudbrandsdalsost,26,30,0.0,Dairy Products,1997 Q4,1,36.0,1080.0
+Boise,Tunnbröd,61,44,0.0,Grains/Cereals,1997 Q4,1,9.0,396.0
+Boise,Boston Crab Meat,123,40,0.0,Seafood,1997 Q4,0,18.4,736.0
+Boise,Gnocchi di nonna Alice,21,28,0.0,Grains/Cereals,1997 Q4,0,38.0,1064.0
+Cowes,Gnocchi di nonna Alice,21,15,0.0,Grains/Cereals,1997 Q4,0,38.0,570.0
+Cowes,Raclette Courdavault,79,6,0.0,Dairy Products,1997 Q4,1,55.0,330.0
+Cowes,Lakkalikööri,57,10,0.0,Beverages,1997 Q4,0,18.0,180.0
+Oulu,Tofu,35,5,0.15,Produce,1997 Q4,1,23.25,98.8125
+Oulu,Rogede sild,5,40,0.15,Seafood,1997 Q4,1,9.5,323.0
+Oulu,Raclette Courdavault,79,25,0.15,Dairy Products,1997 Q4,1,55.0,1168.75
+Genève,Gumbär Gummibärchen,15,12,0.1,Confections,1997 Q4,1,31.23,337.284
+Genève,Nord-Ost Matjeshering,10,30,0.0,Seafood,1997 Q4,0,25.89,776.7
+Genève,Valkoinen suklaa,65,20,0.1,Confections,1997 Q4,1,16.25,292.5
+Genève,Röd Kaviar,101,15,0.0,Seafood,1997 Q4,0,15.0,225.0
+London,Chai,39,8,0.0,Beverages,1997 Q4,1,18.0,144.0
+London,Gudbrandsdalsost,26,3,0.0,Dairy Products,1997 Q4,1,36.0,108.0
+Torino,Rogede sild,5,4,0.0,Seafood,1997 Q4,1,9.5,38.6
+Torino,Longlife Tofu,4,5,0.0,Produce,1997 Q4,0,10.0,50.0
+Bergamo,Boston Crab Meat,123,3,0.0,Seafood,1997 Q4,0,18.4,55.199999999999996
+Marseille,Zaanse koeken,36,30,0.25,Confections,1997 Q4,1,9.5,213.75
+Marseille,Gnocchi di nonna Alice,21,30,0.25,Grains/Cereals,1997 Q4,1,38.0,855.0
+Marseille,Ravioli Angelo,36,14,0.25,Grains/Cereals,1997 Q4,1,19.5,204.75
+Marseille,Gudbrandsdalsost,26,25,0.25,Dairy Products,1997 Q4,1,36.0,675.0
+Lander,Carnarvon Tigers,42,21,0.2,Seafood,1997 Q4,1,55.0,1050.0
+Lander,Inlagd Sill,112,20,0.2,Seafood,1997 Q4,1,19.0,304.0
+Lander,Scottish Longbreads,6,6,0.2,Confections,1997 Q4,1,12.5,60.0
+Lander,Gudbrandsdalsost,26,20,0.2,Dairy Products,1997 Q4,1,36.0,576.0
+Boise,Sasquatch Ale,111,30,0.0,Beverages,1997 Q4,0,14.0,420.0
+Boise,Raclette Courdavault,79,7,0.0,Dairy Products,1997 Q4,1,55.0,385.0
+Boise,Tarte au sucre,17,30,0.0,Confections,1997 Q4,0,49.3,1479.0
+Boise,Wimmers gute Semmelknödel,22,24,0.0,Grains/Cereals,1997 Q4,0,33.25,798.0
+Genève,Gumbär Gummibärchen,15,20,0.0,Confections,1997 Q4,0,31.23,624.6
+Genève,Filo Mix,38,60,0.0,Grains/Cereals,1997 Q4,1,7.0,420.0
+Genève,Outback Lager,15,40,0.0,Beverages,1997 Q4,0,15.0,600.0
+México D.F.,Mascarpone Fabioli,9,10,0.0,Dairy Products,1997 Q4,1,32.0,320.0
+Bruxelles,NuNuCa Nuß-Nougat-Creme,76,12,0.25,Confections,1997 Q4,1,14.0,126.0
+Bruxelles,Schoggi Schokolade,49,40,0.0,Confections,1997 Q4,0,43.9,1756.0
+Bruxelles,Ipoh Coffee,17,30,0.25,Beverages,1997 Q4,1,46.0,1035.0
+Albuquerque,NuNuCa Nuß-Nougat-Creme,76,35,0.25,Confections,1997 Q4,1,14.0,367.5
+Albuquerque,Rhönbräu Klosterbier,125,18,0.0,Beverages,1997 Q4,0,7.75,139.5
+Bräcke,Chartreuse verte,69,16,0.0,Beverages,1997 Q4,0,18.0,288.0
+Bräcke,Zaanse koeken,36,30,0.0,Confections,1997 Q4,0,9.5,285.0
+Bräcke,Manjimup Dried Apples,20,28,0.0,Produce,1997 Q4,0,53.0,1484.0
+Bräcke,Gnocchi di nonna Alice,21,60,0.0,Grains/Cereals,1997 Q4,0,38.0,1800.0
+Lille,Sir Rodney's Scones,3,40,0.0,Confections,1997 Q4,0,10.0,400.0
+Lille,Gustaf's Knäckebröd,104,6,0.0,Grains/Cereals,1997 Q4,0,21.0,126.0
+Lille,Guaraná Fantástica,20,20,0.0,Beverages,1997 Q4,0,5.9,90.0
+Graz,Aniseed Syrup,13,20,0.1,Condiments,1997 Q4,1,10.0,180.0
+Graz,Chartreuse verte,69,130,0.1,Beverages,1997 Q4,1,18.0,1800.0
+Cunewalde,Louisiana Fiery Hot Pepper Sauce,76,80,0.1,Condiments,1997 Q4,1,21.05,1515.6000000000001
+Köln,Chang,17,40,0.0,Beverages,1997 Q4,0,19.0,760.0
+Köln,Uncle Bob's Organic Dried Pears,15,35,0.0,Produce,1997 Q4,0,30.0,1050.0
+Köln,Scottish Longbreads,6,40,0.0,Confections,1997 Q4,0,12.5,500.0
+Charleroi,Singaporean Hokkien Fried Mee,26,2,0.0,Grains/Cereals,1997 Q4,1,14.0,38.6
+London,Gustaf's Knäckebröd,104,4,0.0,Grains/Cereals,1997 Q4,0,21.0,84.0
+London,Gorgonzola Telino,0,50,0.0,Dairy Products,1997 Q4,1,12.5,625.0
+London,Camembert Pierrot,19,15,0.0,Dairy Products,1997 Q4,1,34.0,510.0
+London,Flotemysost,26,12,0.0,Dairy Products,1997 Q4,0,21.5,258.0
+Århus,Jack's New England Clam Chowder,85,30,0.05,Seafood,1997 Q4,1,9.65,275.025
+Århus,Filo Mix,38,15,0.05,Grains/Cereals,1997 Q4,0,7.0,99.75
+Århus,Sirop d'érable,113,20,0.0,Condiments,1997 Q4,1,28.5,570.0
+Århus,Tarte au sucre,17,15,0.0,Confections,1997 Q4,0,49.3,739.5
+Rio de Janeiro,Queso Cabrales,22,15,0.25,Dairy Products,1997 Q4,1,21.0,236.25
+Graz,Flotemysost,26,16,0.0,Dairy Products,1997 Q4,0,21.5,344.0
+Frankfurt a.M.,Thüringer Rostbratwurst,0,18,0.0,Meat/Poultry,1997 Q4,0,55.0,1800.0
+Frankfurt a.M.,Raclette Courdavault,79,25,0.0,Dairy Products,1997 Q4,1,55.0,1375.0
+Graz,Alice Mutton,0,33,0.0,Meat/Poultry,1997 Q4,1,39.0,1287.0
+Graz,Gorgonzola Telino,0,70,0.2,Dairy Products,1997 Q4,1,12.5,700.0
+Graz,Rhönbräu Klosterbier,125,7,0.2,Beverages,1997 Q4,0,7.75,43.400000000000006
+Bräcke,Gorgonzola Telino,0,2,0.25,Dairy Products,1997 Q4,0,12.5,38.6
+Bräcke,Louisiana Hot Spiced Okra,4,50,0.0,Condiments,1997 Q4,1,17.0,850.0
+Butte,Ikura,31,6,0.0,Seafood,1997 Q4,0,31.0,186.0
+Butte,Laughing Lumberjack Lager,52,3,0.0,Beverages,1997 Q4,1,14.0,42.0
+Graz,Gorgonzola Telino,0,16,0.05,Dairy Products,1997 Q4,1,12.5,190.0
+Graz,Singaporean Hokkien Fried Mee,26,12,0.05,Grains/Cereals,1997 Q4,0,14.0,159.6
+Graz,Rogede sild,5,27,0.05,Seafood,1997 Q4,1,9.5,243.67499999999998
+Graz,Manjimup Dried Apples,20,120,0.05,Produce,1997 Q4,1,53.0,1800.0
+Campinas,Singaporean Hokkien Fried Mee,26,20,0.2,Grains/Cereals,1997 Q4,1,14.0,224.0
+Luleå,Jack's New England Clam Chowder,85,10,0.0,Seafood,1997 Q4,1,9.65,96.5
+Leipzig,Pavlova,29,20,0.0,Confections,1997 Q4,1,17.45,349.0
+Leipzig,Tarte au sucre,17,20,0.0,Confections,1997 Q4,1,49.3,986.0
+Barquisimeto,Outback Lager,15,35,0.0,Beverages,1997 Q4,0,15.0,525.0
+Barquisimeto,Original Frankfurter grüne Soße,32,15,0.0,Condiments,1997 Q4,1,13.0,195.0
+Oulu,Tourtière,21,3,0.2,Meat/Poultry,1997 Q4,0,7.45,38.6
+Oulu,Gnocchi di nonna Alice,21,20,0.2,Grains/Cereals,1997 Q4,1,38.0,608.0
+Oulu,Longlife Tofu,4,35,0.0,Produce,1997 Q4,0,10.0,350.0
+Buenos Aires,Gorgonzola Telino,0,1,0.0,Dairy Products,1997 Q4,0,12.5,38.6
+Rio de Janeiro,Gorgonzola Telino,0,10,0.0,Dairy Products,1997 Q4,0,12.5,125.0
+Rio de Janeiro,Côte de Blaye,17,5,0.0,Beverages,1997 Q4,0,55.0,1317.5
+Bergamo,Inlagd Sill,112,30,0.0,Seafood,1997 Q4,0,19.0,570.0
+Bergamo,Chartreuse verte,69,2,0.15,Beverages,1997 Q4,1,18.0,38.6
+Bergamo,Mozzarella di Giovanni,14,30,0.15,Dairy Products,1997 Q4,1,34.8,887.4
+Caracas,Ikura,31,10,0.0,Seafood,1997 Q4,1,31.0,310.0
+Caracas,Rhönbräu Klosterbier,125,10,0.0,Beverages,1997 Q4,0,7.75,77.5
+Sao Paulo,Northwoods Cranberry Sauce,6,30,0.2,Condiments,1997 Q4,1,40.0,960.0
+Sao Paulo,Nord-Ost Matjeshering,10,15,0.2,Seafood,1997 Q4,1,25.89,310.68000000000006
+Sao Paulo,Rhönbräu Klosterbier,125,42,0.2,Beverages,1997 Q4,1,7.75,260.40000000000003
+Toulouse,Chang,17,15,0.05,Beverages,1997 Q4,1,19.0,270.75
+Toulouse,Thüringer Rostbratwurst,0,20,0.05,Meat/Poultry,1997 Q4,0,55.0,1800.0
+Cunewalde,Teatime Chocolate Biscuits,25,50,0.05,Confections,1997 Q4,0,9.2,436.99999999999994
+Cunewalde,Rhönbräu Klosterbier,125,40,0.05,Beverages,1997 Q4,1,7.75,294.5
+Lille,Carnarvon Tigers,42,30,0.0,Seafood,1997 Q4,0,55.0,1800.0
+Lille,Steeleye Stout,20,15,0.0,Beverages,1997 Q4,1,18.0,270.0
+Lille,Vegie-spread,24,30,0.0,Condiments,1997 Q4,1,43.9,1317.0
+Lille,Scottish Longbreads,6,18,0.0,Confections,1997 Q4,0,12.5,225.0
+Campinas,Uncle Bob's Organic Dried Pears,15,3,0.15,Produce,1997 Q4,1,30.0,76.5
+Campinas,Gnocchi di nonna Alice,21,20,0.15,Grains/Cereals,1997 Q4,1,38.0,646.0
+München,Thüringer Rostbratwurst,0,14,0.05,Meat/Poultry,1997 Q4,0,55.0,1646.4070000000002
+München,Jack's New England Clam Chowder,85,20,0.05,Seafood,1997 Q4,1,9.65,183.35
+Warszawa,Chang,17,10,0.0,Beverages,1997 Q4,0,19.0,190.0
+Warszawa,Tourtière,21,3,0.0,Meat/Poultry,1997 Q4,0,7.45,38.6
+Warszawa,Scottish Longbreads,6,15,0.0,Confections,1997 Q4,1,12.5,187.5
+London,Jack's New England Clam Chowder,85,14,0.0,Seafood,1997 Q4,0,9.65,135.1
+London,Filo Mix,38,8,0.0,Grains/Cereals,1997 Q4,0,7.0,56.0
+Rio de Janeiro,Tofu,35,15,0.2,Produce,1997 Q4,1,23.25,279.0
+Rio de Janeiro,Tourtière,21,6,0.2,Meat/Poultry,1997 Q4,1,7.45,38.6
+Graz,Pavlova,29,65,0.0,Confections,1997 Q4,0,17.45,1134.25
+Graz,Alice Mutton,0,35,0.25,Meat/Poultry,1997 Q4,1,39.0,1023.75
+San Cristóbal,Gumbär Gummibärchen,15,21,0.2,Confections,1997 Q4,1,31.23,524.6640000000001
+San Cristóbal,Gula Malacca,27,10,0.0,Condiments,1997 Q4,0,19.45,194.5
+San Cristóbal,Wimmers gute Semmelknödel,22,35,0.2,Grains/Cereals,1997 Q4,1,33.25,931.0
+San Cristóbal,Gudbrandsdalsost,26,24,0.2,Dairy Products,1997 Q4,1,36.0,691.2
+Aachen,Queso Cabrales,22,20,0.0,Dairy Products,1997 Q4,0,21.0,420.0
+Cowes,Tarte au sucre,17,2,0.0,Confections,1997 Q4,1,49.3,98.6
+Cowes,Mozzarella di Giovanni,14,10,0.0,Dairy Products,1997 Q4,1,34.8,348.0
+Brandenburg,Konbu,24,20,0.15,Seafood,1997 Q4,0,6.0,102.0
+Brandenburg,Guaraná Fantástica,20,20,0.15,Beverages,1997 Q4,0,5.9,76.5
+Brandenburg,Raclette Courdavault,79,25,0.0,Dairy Products,1997 Q4,1,55.0,1375.0
+London,Queso Cabrales,22,50,0.1,Dairy Products,1997 Q4,1,21.0,945.0
+London,Manjimup Dried Apples,20,10,0.1,Produce,1997 Q4,0,53.0,477.0
+London,Tourtière,21,7,0.1,Meat/Poultry,1997 Q4,1,7.45,46.935
+Madrid,Alice Mutton,0,40,0.25,Meat/Poultry,1997 Q4,1,39.0,1170.0
+Madrid,Thüringer Rostbratwurst,0,20,0.25,Meat/Poultry,1997 Q4,0,55.0,1800.0
+Kobenhavn,Nord-Ost Matjeshering,10,25,0.25,Seafood,1997 Q4,1,25.89,485.4375
+Kobenhavn,Manjimup Dried Apples,20,30,0.25,Produce,1997 Q4,1,53.0,1192.5
+Kobenhavn,Pâté chinois,115,60,0.25,Meat/Poultry,1997 Q4,1,24.0,1080.0
+Kobenhavn,Tarte au sucre,17,5,0.25,Confections,1997 Q4,1,49.3,184.875
+Resende,Teatime Chocolate Biscuits,25,24,0.05,Confections,1997 Q4,1,9.2,209.75999999999996
+Resende,NuNuCa Nuß-Nougat-Creme,76,15,0.05,Confections,1997 Q4,1,14.0,199.5
+Resende,Raclette Courdavault,79,15,0.05,Dairy Products,1997 Q4,0,55.0,783.75
+London,Ikura,31,36,0.0,Seafood,1997 Q4,0,31.0,1116.0
+London,Rössle Sauerkraut,26,24,0.0,Produce,1997 Q4,0,45.6,1094.4
+London,Maxilaku,10,4,0.15,Confections,1997 Q4,1,20.0,68.0
+Portland,Sasquatch Ale,111,10,0.0,Beverages,1997 Q4,0,14.0,140.0
+Portland,Côte de Blaye,17,10,0.0,Beverages,1997 Q4,0,55.0,1800.0
+Lyon,Chang,17,20,0.25,Beverages,1997 Q4,1,19.0,285.0
+Lyon,Louisiana Fiery Hot Pepper Sauce,76,2,0.0,Condiments,1997 Q4,0,21.05,42.1
+Lyon,Longlife Tofu,4,15,0.25,Produce,1997 Q4,1,10.0,112.5
+Torino,Boston Crab Meat,123,1,0.0,Seafood,1997 Q4,0,18.4,38.6
+Anchorage,Gnocchi di nonna Alice,21,20,0.15,Grains/Cereals,1998 Q1,1,38.0,646.0
+Anchorage,Lakkalikööri,57,50,0.15,Beverages,1998 Q1,1,18.0,765.0
+Resende,Filo Mix,38,20,0.0,Grains/Cereals,1998 Q1,0,7.0,140.0
+Vancouver,Konbu,24,7,0.0,Seafood,1998 Q1,0,6.0,42.0
+Vancouver,NuNuCa Nuß-Nougat-Creme,76,5,0.0,Confections,1998 Q1,1,14.0,70.0
+Vancouver,Outback Lager,15,5,0.0,Beverages,1998 Q1,0,15.0,75.0
+I. de Margarita,Teatime Chocolate Biscuits,25,15,0.0,Confections,1998 Q1,1,9.2,138.0
+I. de Margarita,Tunnbröd,61,18,0.0,Grains/Cereals,1998 Q1,1,9.0,162.0
+I. de Margarita,Boston Crab Meat,123,30,0.0,Seafood,1998 Q1,0,18.4,552.0
+Reggio Emilia,Gorgonzola Telino,0,16,0.1,Dairy Products,1998 Q1,1,12.5,180.0
+Reggio Emilia,Mozzarella di Giovanni,14,40,0.1,Dairy Products,1998 Q1,1,34.8,1252.8
+Reggio Emilia,Original Frankfurter grüne Soße,32,20,0.0,Condiments,1998 Q1,0,13.0,260.0
+Rio de Janeiro,Chang,17,12,0.2,Beverages,1998 Q1,1,19.0,182.4
+Rio de Janeiro,Spegesild,95,35,0.0,Seafood,1998 Q1,0,12.0,420.0
+Lyon,Jack's New England Clam Chowder,85,20,0.0,Seafood,1998 Q1,1,9.65,193.0
+Lyon,Ipoh Coffee,17,20,0.15,Beverages,1998 Q1,1,46.0,782.0
+Lyon,Chocolade,15,8,0.15,Confections,1998 Q1,0,12.75,86.7
+Lyon,Sirop d'érable,113,30,0.15,Condiments,1998 Q1,1,28.5,726.75
+Boise,Geitost,112,16,0.0,Dairy Products,1998 Q1,0,5.9,40.0
+Eugene,Côte de Blaye,17,30,0.05,Beverages,1998 Q1,0,55.0,1800.0
+Eugene,Tarte au sucre,17,20,0.05,Confections,1998 Q1,1,49.3,936.6999999999999
+Brandenburg,Gumbär Gummibärchen,15,40,0.15,Confections,1998 Q1,1,31.23,1061.82
+Brandenburg,Côte de Blaye,17,30,0.0,Beverages,1998 Q1,0,55.0,1800.0
+Brandenburg,Boston Crab Meat,123,60,0.15,Seafood,1998 Q1,1,18.4,938.4
+Brandenburg,Tarte au sucre,17,25,0.15,Confections,1998 Q1,1,49.3,1047.625
+Bergamo,Mascarpone Fabioli,9,20,0.0,Dairy Products,1998 Q1,0,32.0,640.0
+Bergamo,Jack's New England Clam Chowder,85,20,0.0,Seafood,1998 Q1,1,9.65,193.0
+Buenos Aires,Ipoh Coffee,17,7,0.0,Beverages,1998 Q1,1,46.0,322.0
+Buenos Aires,Rhönbräu Klosterbier,125,20,0.0,Beverages,1998 Q1,1,7.75,155.0
+Albuquerque,Gnocchi di nonna Alice,21,30,0.0,Grains/Cereals,1998 Q1,1,38.0,1140.0
+Lander,Steeleye Stout,20,20,0.0,Beverages,1998 Q1,1,18.0,360.0
+Lander,Manjimup Dried Apples,20,6,0.0,Produce,1998 Q1,0,53.0,318.0
+Kirkland,Tarte au sucre,17,3,0.0,Confections,1998 Q1,1,49.3,147.89999999999998
+Kirkland,Outback Lager,15,6,0.0,Beverages,1998 Q1,0,15.0,90.0
+Barquisimeto,Queso Cabrales,22,20,0.1,Dairy Products,1998 Q1,1,21.0,378.0
+Barquisimeto,Ravioli Angelo,36,15,0.0,Grains/Cereals,1998 Q1,1,19.5,292.5
+Barquisimeto,Raclette Courdavault,79,40,0.1,Dairy Products,1998 Q1,0,55.0,1800.0
+Barquisimeto,Original Frankfurter grüne Soße,32,15,0.1,Condiments,1998 Q1,1,13.0,175.5
+Bräcke,Jack's New England Clam Chowder,85,12,0.0,Seafood,1998 Q1,0,9.65,115.80000000000001
+Bräcke,Outback Lager,15,9,0.0,Beverages,1998 Q1,0,15.0,135.0
+Aachen,Gumbär Gummibärchen,15,12,0.0,Confections,1998 Q1,1,31.23,374.76
+Aachen,Perth Pasties,0,20,0.0,Meat/Poultry,1998 Q1,0,32.8,656.0
+Strasbourg,Gorgonzola Telino,0,35,0.0,Dairy Products,1998 Q1,1,12.5,437.5
+Strasbourg,Ravioli Angelo,36,15,0.0,Grains/Cereals,1998 Q1,1,19.5,292.5
+Marseille,Ikura,31,15,0.0,Seafood,1998 Q1,1,31.0,465.0
+Marseille,Chartreuse verte,69,21,0.0,Beverages,1998 Q1,1,18.0,378.0
+Buenos Aires,Sir Rodney's Marmalade,40,5,0.0,Confections,1998 Q1,0,55.0,405.0
+Buenos Aires,Côte de Blaye,17,2,0.0,Beverages,1998 Q1,0,55.0,527.0
+Cowes,Chang,17,10,0.0,Beverages,1998 Q1,0,19.0,190.0
+Cowes,Northwoods Cranberry Sauce,6,20,0.0,Condiments,1998 Q1,0,40.0,800.0
+Cowes,Konbu,24,10,0.0,Seafood,1998 Q1,1,6.0,60.0
+Cowes,Camembert Pierrot,19,21,0.0,Dairy Products,1998 Q1,0,34.0,714.0
+Sao Paulo,Grandma's Boysenberry Spread,120,6,0.0,Condiments,1998 Q1,0,25.0,150.0
+Sao Paulo,Chartreuse verte,69,28,0.0,Beverages,1998 Q1,0,18.0,504.0
+Sao Paulo,Camembert Pierrot,19,30,0.0,Dairy Products,1998 Q1,0,34.0,1020.0
+Sao Paulo,Scottish Longbreads,6,24,0.0,Confections,1998 Q1,0,12.5,300.0
+Stavern,Teatime Chocolate Biscuits,25,2,0.0,Confections,1998 Q1,0,9.2,38.6
+Stavern,Steeleye Stout,20,8,0.0,Beverages,1998 Q1,1,18.0,144.0
+Stavern,Côte de Blaye,17,8,0.0,Beverages,1998 Q1,0,55.0,1800.0
+Stavern,Ipoh Coffee,17,9,0.0,Beverages,1998 Q1,0,46.0,414.0
+Toulouse,Konbu,24,3,0.2,Seafood,1998 Q1,0,6.0,38.6
+Toulouse,NuNuCa Nuß-Nougat-Creme,76,10,0.2,Confections,1998 Q1,1,14.0,112.0
+Toulouse,Gula Malacca,27,16,0.2,Condiments,1998 Q1,1,19.45,248.96
+Toulouse,Wimmers gute Semmelknödel,22,3,0.0,Grains/Cereals,1998 Q1,1,33.25,99.75
+Köln,Uncle Bob's Organic Dried Pears,15,20,0.1,Produce,1998 Q1,1,30.0,540.0
+Köln,Gorgonzola Telino,0,9,0.1,Dairy Products,1998 Q1,0,12.5,101.25
+Köln,Perth Pasties,0,9,0.1,Meat/Poultry,1998 Q1,1,32.8,265.68
+Sao Paulo,Thüringer Rostbratwurst,0,8,0.05,Meat/Poultry,1998 Q1,0,55.0,940.804
+Sao Paulo,Nord-Ost Matjeshering,10,20,0.05,Seafood,1998 Q1,1,25.89,491.9099999999999
+Berlin,Raclette Courdavault,79,15,0.0,Dairy Products,1998 Q1,0,55.0,825.0
+Berlin,Original Frankfurter grüne Soße,32,2,0.2,Condiments,1998 Q1,0,13.0,38.6
+Graz,Gustaf's Knäckebröd,104,52,0.0,Grains/Cereals,1998 Q1,1,21.0,1092.0
+Graz,Steeleye Stout,20,6,0.0,Beverages,1998 Q1,1,18.0,108.0
+Graz,Ravioli Angelo,36,24,0.0,Grains/Cereals,1998 Q1,1,19.5,468.0
+Graz,Camembert Pierrot,19,60,0.0,Dairy Products,1998 Q1,0,34.0,1800.0
+Graz,Wimmers gute Semmelknödel,22,30,0.0,Grains/Cereals,1998 Q1,0,33.25,997.5
+Luleå,Konbu,24,6,0.0,Seafood,1998 Q1,1,6.0,38.6
+Luleå,Boston Crab Meat,123,25,0.0,Seafood,1998 Q1,0,18.4,459.99999999999994
+Luleå,Zaanse koeken,36,40,0.25,Confections,1998 Q1,1,9.5,285.0
+Luleå,Lakkalikööri,57,21,0.25,Beverages,1998 Q1,1,18.0,283.5
+I. de Margarita,Chai,39,4,0.25,Beverages,1998 Q1,1,18.0,54.0
+I. de Margarita,Carnarvon Tigers,42,25,0.25,Seafood,1998 Q1,1,55.0,1171.875
+I. de Margarita,Inlagd Sill,112,50,0.25,Seafood,1998 Q1,1,19.0,712.5
+Sao Paulo,Escargots de Bourgogne,62,30,0.1,Seafood,1998 Q1,1,13.25,357.75
+Sao Paulo,Mozzarella di Giovanni,14,15,0.1,Dairy Products,1998 Q1,1,34.8,469.8
+I. de Margarita,NuNuCa Nuß-Nougat-Creme,76,6,0.2,Confections,1998 Q1,1,14.0,67.2
+I. de Margarita,Chartreuse verte,69,10,0.2,Beverages,1998 Q1,1,18.0,144.0
+Charleroi,Ikura,31,16,0.0,Seafood,1998 Q1,1,31.0,496.0
+Charleroi,Gnocchi di nonna Alice,21,30,0.0,Grains/Cereals,1998 Q1,1,38.0,1140.0
+Charleroi,Raclette Courdavault,79,50,0.0,Dairy Products,1998 Q1,0,55.0,1800.0
+Charleroi,Original Frankfurter grüne Soße,32,15,0.0,Condiments,1998 Q1,1,13.0,195.0
+México D.F.,Queso Cabrales,22,15,0.0,Dairy Products,1998 Q1,0,21.0,315.0
+México D.F.,Ipoh Coffee,17,5,0.0,Beverages,1998 Q1,0,46.0,230.0
+México D.F.,Scottish Longbreads,6,20,0.0,Confections,1998 Q1,0,12.5,250.0
+México D.F.,Outback Lager,15,12,0.0,Beverages,1998 Q1,0,15.0,180.0
+Lyon,Manjimup Dried Apples,20,4,0.25,Produce,1998 Q1,1,53.0,159.0
+Salzburg,Gustaf's Knäckebröd,104,35,0.0,Grains/Cereals,1998 Q1,1,21.0,735.0
+Cunewalde,Tunnbröd,61,70,0.1,Grains/Cereals,1998 Q1,0,9.0,567.0
+Cunewalde,Steeleye Stout,20,25,0.1,Beverages,1998 Q1,1,18.0,405.0
+Cunewalde,Singaporean Hokkien Fried Mee,26,42,0.1,Grains/Cereals,1998 Q1,1,14.0,529.2
+Cunewalde,Escargots de Bourgogne,62,60,0.1,Seafood,1998 Q1,1,13.25,715.5
+Cunewalde,Wimmers gute Semmelknödel,22,48,0.0,Grains/Cereals,1998 Q1,0,33.25,1596.0
+Charleroi,Chef Anton's Cajun Seasoning,53,21,0.0,Condiments,1998 Q1,1,22.0,462.0
+Charleroi,Outback Lager,15,30,0.0,Beverages,1998 Q1,0,15.0,450.0
+Charleroi,Longlife Tofu,4,20,0.0,Produce,1998 Q1,1,10.0,200.0
+Boise,Chai,39,80,0.2,Beverages,1998 Q1,1,18.0,1152.0
+Boise,Teatime Chocolate Biscuits,25,12,0.2,Confections,1998 Q1,1,9.2,88.32
+Boise,Gravad lax,11,60,0.2,Seafood,1998 Q1,1,26.0,1248.0
+Boise,Rogede sild,5,36,0.2,Seafood,1998 Q1,1,9.5,273.6
+Boise,Camembert Pierrot,19,45,0.2,Dairy Products,1998 Q1,1,34.0,1224.0
+Boise,Flotemysost,26,55,0.2,Dairy Products,1998 Q1,1,21.5,946.0
+London,Chef Anton's Gumbo Mix,0,30,0.0,Condiments,1998 Q1,0,21.35,640.5
+London,Mishi Kobe Niku,29,3,0.0,Meat/Poultry,1998 Q1,1,55.0,291.0
+Brandenburg,Aniseed Syrup,13,49,0.0,Condiments,1998 Q1,0,10.0,490.0
+Brandenburg,Gumbär Gummibärchen,15,18,0.15,Confections,1998 Q1,1,31.23,477.81899999999996
+Lyon,NuNuCa Nuß-Nougat-Creme,76,20,0.15,Confections,1998 Q1,0,14.0,238.0
+Lyon,Geitost,112,4,0.15,Dairy Products,1998 Q1,0,5.9,38.6
+Lyon,Outback Lager,15,30,0.15,Beverages,1998 Q1,1,15.0,382.5
+Rio de Janeiro,Chang,17,5,0.05,Beverages,1998 Q1,1,19.0,90.25
+Rio de Janeiro,NuNuCa Nuß-Nougat-Creme,76,10,0.05,Confections,1998 Q1,0,14.0,133.0
+Rio de Janeiro,Ravioli Angelo,36,10,0.05,Grains/Cereals,1998 Q1,0,19.5,185.25
+Rio de Janeiro,Raclette Courdavault,79,42,0.05,Dairy Products,1998 Q1,0,55.0,1800.0
+Albuquerque,Chang,17,15,0.0,Beverages,1998 Q1,1,19.0,285.0
+Albuquerque,Alice Mutton,0,6,0.0,Meat/Poultry,1998 Q1,0,39.0,234.0
+Albuquerque,Tarte au sucre,17,50,0.0,Confections,1998 Q1,1,49.3,1800.0
+Mannheim,Carnarvon Tigers,42,10,0.0,Seafood,1998 Q1,0,55.0,625.0
+Graz,Ikura,31,100,0.15,Seafood,1998 Q1,1,31.0,1800.0
+Graz,Konbu,24,65,0.15,Seafood,1998 Q1,1,6.0,331.5
+Anchorage,Pavlova,29,50,0.0,Confections,1998 Q1,1,17.45,872.5
+Anchorage,Gorgonzola Telino,0,14,0.0,Dairy Products,1998 Q1,1,12.5,175.0
+Anchorage,Gnocchi di nonna Alice,21,24,0.0,Grains/Cereals,1998 Q1,0,38.0,912.0
+Anchorage,Louisiana Fiery Hot Pepper Sauce,76,15,0.15,Condiments,1998 Q1,1,21.05,268.3875
+México D.F.,Chang,17,20,0.0,Beverages,1998 Q1,1,19.0,380.0
+México D.F.,Singaporean Hokkien Fried Mee,26,20,0.0,Grains/Cereals,1998 Q1,0,14.0,280.0
+Luleå,Aniseed Syrup,13,30,0.0,Condiments,1998 Q1,1,10.0,300.0
+Luleå,Gumbär Gummibärchen,15,35,0.25,Confections,1998 Q1,1,31.23,819.7874999999999
+Luleå,Thüringer Rostbratwurst,0,10,0.25,Meat/Poultry,1998 Q1,0,55.0,928.4250000000001
+Versailles,Uncle Bob's Organic Dried Pears,15,5,0.0,Produce,1998 Q1,1,30.0,150.0
+Versailles,Schoggi Schokolade,49,10,0.0,Confections,1998 Q1,0,43.9,439.0
+Versailles,Outback Lager,15,4,0.0,Beverages,1998 Q1,1,15.0,60.0
+München,Guaraná Fantástica,20,40,0.25,Beverages,1998 Q1,1,5.9,135.0
+München,Tourtière,21,35,0.25,Meat/Poultry,1998 Q1,1,7.45,195.5625
+München,Wimmers gute Semmelknödel,22,30,0.25,Grains/Cereals,1998 Q1,1,33.25,748.125
+Nantes,Manjimup Dried Apples,20,3,0.0,Produce,1998 Q1,1,53.0,159.0
+Nantes,Lakkalikööri,57,20,0.0,Beverages,1998 Q1,0,18.0,360.0
+Seattle,Alice Mutton,0,42,0.0,Meat/Poultry,1998 Q1,1,39.0,1638.0
+Seattle,Carnarvon Tigers,42,20,0.0,Seafood,1998 Q1,1,55.0,1250.0
+Seattle,Sir Rodney's Scones,3,40,0.0,Confections,1998 Q1,0,10.0,400.0
+Seattle,Geitost,112,35,0.0,Dairy Products,1998 Q1,1,5.9,87.5
+Seattle,Tarte au sucre,17,3,0.0,Confections,1998 Q1,1,49.3,147.89999999999998
+Frankfurt a.M.,Queso Cabrales,22,25,0.0,Dairy Products,1998 Q1,1,21.0,525.0
+Frankfurt a.M.,Filo Mix,38,8,0.0,Grains/Cereals,1998 Q1,0,7.0,56.0
+San Cristóbal,Chai,39,20,0.15,Beverages,1998 Q1,1,18.0,306.0
+San Cristóbal,Escargots de Bourgogne,62,12,0.15,Seafood,1998 Q1,1,13.25,135.15
+London,Steeleye Stout,20,4,0.0,Beverages,1998 Q1,1,18.0,72.0
+London,Laughing Lumberjack Lager,52,15,0.0,Beverages,1998 Q1,1,14.0,210.0
+Cunewalde,Côte de Blaye,17,60,0.05,Beverages,1998 Q1,1,55.0,1800.0
+Cunewalde,Chartreuse verte,69,80,0.05,Beverages,1998 Q1,1,18.0,1368.0
+Luleå,Chang,17,21,0.25,Beverages,1998 Q1,1,19.0,299.25
+Luleå,Guaraná Fantástica,20,6,0.25,Beverages,1998 Q1,0,5.9,38.6
+Luleå,Nord-Ost Matjeshering,10,40,0.25,Seafood,1998 Q1,1,25.89,776.6999999999999
+Portland,Perth Pasties,0,3,0.0,Meat/Poultry,1998 Q1,1,32.8,98.39999999999999
+Sao Paulo,Gumbär Gummibärchen,15,20,0.0,Confections,1998 Q1,0,31.23,624.6
+Sao Paulo,Steeleye Stout,20,30,0.0,Beverages,1998 Q1,0,18.0,540.0
+Sao Paulo,Maxilaku,10,42,0.1,Confections,1998 Q1,1,20.0,756.0
+London,Chai,39,40,0.0,Beverages,1998 Q1,0,18.0,720.0
+London,Queso Cabrales,22,10,0.0,Dairy Products,1998 Q1,0,21.0,210.0
+London,Tunnbröd,61,50,0.0,Grains/Cereals,1998 Q1,1,9.0,450.0
+London,Scottish Longbreads,6,20,0.0,Confections,1998 Q1,0,12.5,250.0
+Warszawa,Steeleye Stout,20,3,0.0,Beverages,1998 Q1,1,18.0,54.0
+Warszawa,Manjimup Dried Apples,20,2,0.0,Produce,1998 Q1,1,53.0,106.0
+Marseille,Grandma's Boysenberry Spread,120,50,0.05,Condiments,1998 Q1,0,25.0,1187.5
+Marseille,Pavlova,29,12,0.05,Confections,1998 Q1,1,17.45,198.92999999999998
+Marseille,Alice Mutton,0,16,0.05,Meat/Poultry,1998 Q1,0,39.0,592.8
+Sevilla,Pâté chinois,115,10,0.05,Meat/Poultry,1998 Q1,0,24.0,228.0
+Sevilla,Tarte au sucre,17,20,0.05,Confections,1998 Q1,1,49.3,936.6999999999999
+Sevilla,Wimmers gute Semmelknödel,22,15,0.05,Grains/Cereals,1998 Q1,1,33.25,473.8125
+Sevilla,Louisiana Fiery Hot Pepper Sauce,76,21,0.05,Condiments,1998 Q1,1,21.05,419.9475
+Helsinki,Sir Rodney's Scones,3,20,0.0,Confections,1998 Q1,1,10.0,200.0
+Helsinki,Rössle Sauerkraut,26,3,0.0,Produce,1998 Q1,1,45.6,136.8
+Sevilla,Ikura,31,10,0.0,Seafood,1998 Q1,1,31.0,310.0
+Luleå,Teatime Chocolate Biscuits,25,25,0.0,Confections,1998 Q1,0,9.2,229.99999999999997
+Luleå,Zaanse koeken,36,21,0.1,Confections,1998 Q1,1,9.5,179.55
+Luleå,Maxilaku,10,15,0.0,Confections,1998 Q1,1,20.0,300.0
+Marseille,Spegesild,95,21,0.0,Seafood,1998 Q1,0,12.0,252.0
+Marseille,Wimmers gute Semmelknödel,22,20,0.0,Grains/Cereals,1998 Q1,1,33.25,665.0
+Rio de Janeiro,Pavlova,29,30,0.25,Confections,1998 Q1,1,17.45,392.625
+Rio de Janeiro,Carnarvon Tigers,42,25,0.0,Seafood,1998 Q1,1,55.0,1562.5
+Cunewalde,Sir Rodney's Marmalade,40,20,0.05,Confections,1998 Q1,0,55.0,1539.0
+Helsinki,Boston Crab Meat,123,12,0.0,Seafood,1998 Q1,0,18.4,220.79999999999998
+Helsinki,Louisiana Fiery Hot Pepper Sauce,76,10,0.0,Condiments,1998 Q1,0,21.05,210.5
+Helsinki,Lakkalikööri,57,10,0.0,Beverages,1998 Q1,0,18.0,180.0
+Bräcke,Tunnbröd,61,30,0.2,Grains/Cereals,1998 Q1,1,9.0,216.0
+Bräcke,Sirop d'érable,113,30,0.2,Condiments,1998 Q1,1,28.5,684.0
+Bräcke,Outback Lager,15,50,0.2,Beverages,1998 Q1,1,15.0,600.0
+Buenos Aires,Röd Kaviar,101,10,0.0,Seafood,1998 Q1,0,15.0,150.0
+Boise,Singaporean Hokkien Fried Mee,26,25,0.0,Grains/Cereals,1998 Q1,0,14.0,350.0
+Boise,Maxilaku,10,20,0.15,Confections,1998 Q1,1,20.0,340.0
+Boise,Tourtière,21,32,0.15,Meat/Poultry,1998 Q1,1,7.45,202.64
+Portland,Guaraná Fantástica,20,8,0.0,Beverages,1998 Q1,1,5.9,38.6
+San Francisco,Sir Rodney's Scones,3,40,0.05,Confections,1998 Q1,1,10.0,380.0
+San Francisco,Gnocchi di nonna Alice,21,21,0.05,Grains/Cereals,1998 Q1,1,38.0,758.0999999999999
+San Francisco,Louisiana Fiery Hot Pepper Sauce,76,12,0.05,Condiments,1998 Q1,0,21.05,239.97
+Charleroi,Chang,17,20,0.0,Beverages,1998 Q1,1,19.0,380.0
+Charleroi,Guaraná Fantástica,20,12,0.0,Beverages,1998 Q1,0,5.9,54.0
+Charleroi,Outback Lager,15,30,0.0,Beverages,1998 Q1,0,15.0,450.0
+Charleroi,Original Frankfurter grüne Soße,32,25,0.0,Condiments,1998 Q1,0,13.0,325.0
+Rio de Janeiro,Ikura,31,70,0.0,Seafood,1998 Q1,0,31.0,1800.0
+Rio de Janeiro,Gorgonzola Telino,0,35,0.0,Dairy Products,1998 Q1,1,12.5,437.5
+Rio de Janeiro,Original Frankfurter grüne Soße,32,40,0.0,Condiments,1998 Q1,1,13.0,520.0
+Barcelona,NuNuCa Nuß-Nougat-Creme,76,5,0.0,Confections,1998 Q1,1,14.0,70.0
+Sevilla,Chang,17,20,0.0,Beverages,1998 Q1,1,19.0,380.0
+Sevilla,Scottish Longbreads,6,18,0.0,Confections,1998 Q1,0,12.5,225.0
+Albuquerque,Queso Cabrales,22,40,0.0,Dairy Products,1998 Q1,1,21.0,840.0
+Albuquerque,Côte de Blaye,17,40,0.0,Beverages,1998 Q1,1,55.0,1800.0
+Nantes,Alice Mutton,0,15,0.0,Meat/Poultry,1998 Q1,1,39.0,585.0
+Nantes,Sasquatch Ale,111,10,0.0,Beverages,1998 Q1,0,14.0,140.0
+Nantes,Jack's New England Clam Chowder,85,14,0.0,Seafood,1998 Q1,0,9.65,135.1
+Frankfurt a.M.,Nord-Ost Matjeshering,10,15,0.05,Seafood,1998 Q1,0,25.89,368.9325
+Bruxelles,Raclette Courdavault,79,40,0.05,Dairy Products,1998 Q1,0,55.0,1800.0
+Brandenburg,Northwoods Cranberry Sauce,6,30,0.0,Condiments,1998 Q1,1,40.0,1200.0
+Brandenburg,Guaraná Fantástica,20,10,0.0,Beverages,1998 Q1,0,5.9,45.0
+Brandenburg,Thüringer Rostbratwurst,0,24,0.0,Meat/Poultry,1998 Q1,0,55.0,1800.0
+Brandenburg,Nord-Ost Matjeshering,10,35,0.0,Seafood,1998 Q1,1,25.89,906.15
+Brandenburg,Inlagd Sill,112,20,0.0,Seafood,1998 Q1,1,19.0,380.0
+Boise,Konbu,24,28,0.05,Seafood,1998 Q1,0,6.0,159.6
+Boise,Gudbrandsdalsost,26,50,0.05,Dairy Products,1998 Q1,1,36.0,1710.0
+Boise,Rhönbräu Klosterbier,125,120,0.05,Beverages,1998 Q1,1,7.75,883.5
+Graz,Guaraná Fantástica,20,110,0.0,Beverages,1998 Q1,1,5.9,495.0
+Graz,Chartreuse verte,69,45,0.0,Beverages,1998 Q1,0,18.0,810.0
+Graz,Boston Crab Meat,123,91,0.0,Seafood,1998 Q1,1,18.4,1674.3999999999999
+Graz,Camembert Pierrot,19,100,0.0,Dairy Products,1998 Q1,1,34.0,1800.0
+Bruxelles,Rogede sild,5,15,0.0,Seafood,1998 Q1,0,9.5,142.5
+Bruxelles,Gnocchi di nonna Alice,21,16,0.0,Grains/Cereals,1998 Q1,0,38.0,608.0
+Cork,Thüringer Rostbratwurst,0,80,0.0,Meat/Poultry,1998 Q1,1,55.0,1800.0
+Cork,Nord-Ost Matjeshering,10,36,0.0,Seafood,1998 Q1,1,25.89,932.04
+Buenos Aires,Konbu,24,5,0.0,Seafood,1998 Q1,1,6.0,38.6
+Barquisimeto,Chartreuse verte,69,8,0.15,Beverages,1998 Q1,1,18.0,122.39999999999999
+Resende,Outback Lager,15,3,0.25,Beverages,1998 Q1,1,15.0,38.6
+San Cristóbal,Jack's New England Clam Chowder,85,30,0.0,Seafood,1998 Q1,0,9.65,289.5
+San Cristóbal,Flotemysost,26,30,0.0,Dairy Products,1998 Q1,1,21.5,645.0
+Bräcke,Pâté chinois,115,30,0.15,Meat/Poultry,1998 Q1,1,24.0,612.0
+Bräcke,Tarte au sucre,17,6,0.15,Confections,1998 Q1,1,49.3,251.42999999999995
+Rio de Janeiro,Konbu,24,40,0.0,Seafood,1998 Q1,1,6.0,240.0
+Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,76,21,0.0,Condiments,1998 Q1,1,21.05,442.05
+Rio de Janeiro,Scottish Longbreads,6,20,0.0,Confections,1998 Q1,0,12.5,250.0
+Seattle,Escargots de Bourgogne,62,15,0.0,Seafood,1998 Q1,1,13.25,198.75
+Seattle,Tarte au sucre,17,35,0.0,Confections,1998 Q1,1,49.3,1725.5
+Resende,Chai,39,20,0.05,Beverages,1998 Q1,1,18.0,342.0
+Warszawa,Sirop d'érable,113,15,0.0,Condiments,1998 Q1,1,28.5,427.5
+Paris,Rhönbräu Klosterbier,125,14,0.0,Beverages,1998 Q1,0,7.75,108.5
+Reggio Emilia,Uncle Bob's Organic Dried Pears,15,20,0.05,Produce,1998 Q1,1,30.0,570.0
+Reggio Emilia,Filo Mix,38,14,0.05,Grains/Cereals,1998 Q1,0,7.0,93.1
+Stavern,Uncle Bob's Organic Dried Pears,15,12,0.0,Produce,1998 Q1,1,30.0,360.0
+Stavern,Pavlova,29,15,0.0,Confections,1998 Q1,1,17.45,261.75
+Stavern,Jack's New England Clam Chowder,85,5,0.0,Seafood,1998 Q1,0,9.65,48.25
+Helsinki,Teatime Chocolate Biscuits,25,12,0.0,Confections,1998 Q1,0,9.2,110.39999999999999
+Helsinki,Maxilaku,10,10,0.0,Confections,1998 Q1,0,20.0,200.0
+Helsinki,Sirop d'érable,113,5,0.0,Condiments,1998 Q1,0,28.5,142.5
+Sevilla,Chai,39,10,0.0,Beverages,1998 Q1,0,18.0,180.0
+Sevilla,Alice Mutton,0,12,0.0,Meat/Poultry,1998 Q1,0,39.0,468.0
+Sevilla,Laughing Lumberjack Lager,52,15,0.0,Beverages,1998 Q1,1,14.0,210.0
+Cork,Queso Cabrales,22,40,0.25,Dairy Products,1998 Q1,1,21.0,630.0
+Cork,Thüringer Rostbratwurst,0,60,0.25,Meat/Poultry,1998 Q1,1,55.0,1800.0
+Sao Paulo,Chef Anton's Cajun Seasoning,53,30,0.25,Condiments,1998 Q1,1,22.0,495.0
+Sao Paulo,Geitost,112,40,0.25,Dairy Products,1998 Q1,1,5.9,75.0
+Sao Paulo,Escargots de Bourgogne,62,15,0.0,Seafood,1998 Q1,1,13.25,198.75
+Sao Paulo,Flotemysost,26,25,0.0,Dairy Products,1998 Q1,1,21.5,537.5
+México D.F.,Alice Mutton,0,10,0.0,Meat/Poultry,1998 Q1,1,39.0,390.0
+México D.F.,Geitost,112,30,0.0,Dairy Products,1998 Q1,1,5.9,75.0
+México D.F.,Tourtière,21,10,0.0,Meat/Poultry,1998 Q1,1,7.45,74.5
+Buenos Aires,Pavlova,29,6,0.0,Confections,1998 Q1,1,17.45,104.69999999999999
+Buenos Aires,Mascarpone Fabioli,9,6,0.0,Dairy Products,1998 Q1,1,32.0,192.0
+Buenos Aires,Ravioli Angelo,36,20,0.0,Grains/Cereals,1998 Q1,1,19.5,390.0
+Madrid,Nord-Ost Matjeshering,10,1,0.0,Seafood,1998 Q1,1,25.89,38.6
+Madrid,Camembert Pierrot,19,10,0.0,Dairy Products,1998 Q1,1,34.0,340.0
+Tsawassen,Chai,39,60,0.25,Beverages,1998 Q1,1,18.0,810.0
+Tsawassen,Camembert Pierrot,19,25,0.25,Dairy Products,1998 Q1,1,34.0,637.5
+I. de Margarita,Pavlova,29,24,0.0,Confections,1998 Q1,0,17.45,418.79999999999995
+I. de Margarita,NuNuCa Nuß-Nougat-Creme,76,24,0.0,Confections,1998 Q1,0,14.0,336.0
+I. de Margarita,Boston Crab Meat,123,20,0.0,Seafood,1998 Q1,0,18.4,368.0
+London,Valkoinen suklaa,65,24,0.0,Confections,1998 Q1,1,16.25,390.0
+Århus,Steeleye Stout,20,10,0.0,Beverages,1998 Q1,0,18.0,180.0
+Århus,Vegie-spread,24,40,0.0,Condiments,1998 Q1,0,43.9,1756.0
+Rio de Janeiro,Alice Mutton,0,15,0.0,Meat/Poultry,1998 Q1,1,39.0,585.0
+Rio de Janeiro,Guaraná Fantástica,20,35,0.0,Beverages,1998 Q1,1,5.9,157.5
+Toulouse,Singaporean Hokkien Fried Mee,26,10,0.2,Grains/Cereals,1998 Q1,1,14.0,112.0
+Toulouse,Ipoh Coffee,17,10,0.2,Beverages,1998 Q1,1,46.0,368.0
+Toulouse,Laughing Lumberjack Lager,52,24,0.2,Beverages,1998 Q1,1,14.0,268.8
+Luleå,Ikura,31,20,0.1,Seafood,1998 Q1,1,31.0,558.0
+Luleå,Rössle Sauerkraut,26,30,0.1,Produce,1998 Q1,1,45.6,1231.2
+Luleå,Rhönbräu Klosterbier,125,6,0.0,Beverages,1998 Q1,0,7.75,46.5
+Rio de Janeiro,Inlagd Sill,112,25,0.15,Seafood,1998 Q1,1,19.0,403.75
+Rio de Janeiro,Filo Mix,38,12,0.15,Grains/Cereals,1998 Q1,1,7.0,71.39999999999999
+México D.F.,Queso Cabrales,22,2,0.0,Dairy Products,1998 Q1,0,21.0,42.0
+México D.F.,Konbu,24,10,0.0,Seafood,1998 Q1,1,6.0,60.0
+México D.F.,Teatime Chocolate Biscuits,25,7,0.0,Confections,1998 Q1,1,9.2,64.39999999999999
+México D.F.,Mozzarella di Giovanni,14,10,0.0,Dairy Products,1998 Q1,1,34.8,348.0
+Versailles,Sir Rodney's Marmalade,40,5,0.0,Confections,1998 Q1,1,55.0,405.0
+Versailles,Filo Mix,38,5,0.0,Grains/Cereals,1998 Q1,1,7.0,38.6
+Versailles,Lakkalikööri,57,20,0.0,Beverages,1998 Q1,0,18.0,360.0
+Barcelona,Zaanse koeken,36,5,0.0,Confections,1998 Q1,1,9.5,47.5
+Barcelona,Lakkalikööri,57,5,0.0,Beverages,1998 Q1,1,18.0,90.0
+München,Sir Rodney's Scones,3,60,0.0,Confections,1998 Q1,1,10.0,600.0
+München,Rhönbräu Klosterbier,125,49,0.0,Beverages,1998 Q1,1,7.75,379.75
+München,Original Frankfurter grüne Soße,32,15,0.0,Condiments,1998 Q1,1,13.0,195.0
+Charleroi,Sir Rodney's Scones,3,36,0.0,Confections,1998 Q1,0,10.0,360.0
+Charleroi,Schoggi Schokolade,49,25,0.0,Confections,1998 Q1,0,43.9,1097.5
+Charleroi,Pâté chinois,115,25,0.2,Meat/Poultry,1998 Q1,1,24.0,480.0
+Charleroi,Escargots de Bourgogne,62,30,0.2,Seafood,1998 Q1,1,13.25,318.0
+Genève,Konbu,24,42,0.15,Seafood,1998 Q1,1,6.0,214.2
+Genève,Ravioli Angelo,36,30,0.0,Grains/Cereals,1998 Q1,1,19.5,585.0
+Marseille,Pavlova,29,30,0.1,Confections,1998 Q1,1,17.45,471.15000000000003
+Marseille,Tarte au sucre,17,14,0.1,Confections,1998 Q1,0,49.3,621.18
+Marseille,Mozzarella di Giovanni,14,16,0.0,Dairy Products,1998 Q1,1,34.8,556.8
+Marseille,Rhönbräu Klosterbier,125,20,0.1,Beverages,1998 Q1,1,7.75,139.5
+Cowes,Perth Pasties,0,2,0.0,Meat/Poultry,1998 Q1,1,32.8,65.6
+Cowes,Sirop d'érable,113,30,0.0,Condiments,1998 Q1,0,28.5,855.0
+Frankfurt a.M.,Grandma's Boysenberry Spread,120,20,0.0,Condiments,1998 Q1,1,25.0,500.0
+Resende,Chai,39,21,0.0,Beverages,1998 Q1,1,18.0,378.0
+Resende,Carnarvon Tigers,42,4,0.25,Seafood,1998 Q1,1,55.0,187.5
+Resende,Tunnbröd,61,8,0.25,Grains/Cereals,1998 Q1,1,9.0,54.0
+Eugene,Inlagd Sill,112,30,0.2,Seafood,1998 Q1,1,19.0,456.0
+Buenos Aires,Rössle Sauerkraut,26,8,0.0,Produce,1998 Q1,1,45.6,364.8
+Buenos Aires,Sasquatch Ale,111,20,0.0,Beverages,1998 Q1,0,14.0,280.0
+Cunewalde,Konbu,24,20,0.25,Seafood,1998 Q1,1,6.0,90.0
+Cunewalde,Ipoh Coffee,17,24,0.25,Beverages,1998 Q1,1,46.0,828.0
+Cunewalde,Camembert Pierrot,19,49,0.25,Dairy Products,1998 Q1,1,34.0,1249.5
+Cunewalde,Flotemysost,26,35,0.25,Dairy Products,1998 Q1,1,21.5,564.375
+Bergamo,Chang,17,10,0.15,Beverages,1998 Q1,1,19.0,161.5
+Bergamo,Laughing Lumberjack Lager,52,40,0.15,Beverages,1998 Q1,1,14.0,476.0
+Marseille,Uncle Bob's Organic Dried Pears,15,8,0.0,Produce,1998 Q1,0,30.0,240.0
+Marseille,Konbu,24,20,0.0,Seafood,1998 Q1,0,6.0,120.0
+Boise,Gorgonzola Telino,0,44,0.25,Dairy Products,1998 Q1,1,12.5,412.5
+Boise,Tarte au sucre,17,30,0.25,Confections,1998 Q1,1,49.3,1109.25
+Boise,Scottish Longbreads,6,80,0.25,Confections,1998 Q1,1,12.5,750.0
+Boise,Mozzarella di Giovanni,14,50,0.0,Dairy Products,1998 Q1,0,34.8,1739.9999999999998
+Reggio Emilia,Maxilaku,10,28,0.0,Confections,1998 Q1,1,20.0,560.0
+London,Konbu,24,15,0.0,Seafood,1998 Q1,0,6.0,90.0
+London,Gustaf's Knäckebröd,104,21,0.0,Grains/Cereals,1998 Q1,0,21.0,441.0
+London,Spegesild,95,15,0.0,Seafood,1998 Q1,1,12.0,180.0
+Tsawassen,Queso Cabrales,22,5,0.25,Dairy Products,1998 Q1,1,21.0,78.75
+Tsawassen,Gula Malacca,27,18,0.25,Condiments,1998 Q1,1,19.45,262.575
+Tsawassen,Gnocchi di nonna Alice,21,18,0.0,Grains/Cereals,1998 Q1,1,38.0,684.0
+Leipzig,Konbu,24,20,0.0,Seafood,1998 Q1,0,6.0,120.0
+Leipzig,Gorgonzola Telino,0,10,0.0,Dairy Products,1998 Q1,0,12.5,125.0
+Århus,Ikura,31,25,0.0,Seafood,1998 Q1,0,31.0,775.0
+Århus,Guaraná Fantástica,20,25,0.0,Beverages,1998 Q1,0,5.9,112.5
+Århus,Original Frankfurter grüne Soße,32,40,0.0,Condiments,1998 Q1,1,13.0,520.0
+London,Raclette Courdavault,79,4,0.0,Dairy Products,1998 Q1,1,55.0,220.0
+Sevilla,Valkoinen suklaa,65,9,0.0,Confections,1998 Q1,0,16.25,146.25
+Sevilla,Manjimup Dried Apples,20,40,0.0,Produce,1998 Q1,0,53.0,1800.0
+Sevilla,Pâté chinois,115,4,0.0,Meat/Poultry,1998 Q1,0,24.0,96.0
+Tsawassen,Grandma's Boysenberry Spread,120,12,0.0,Condiments,1998 Q1,0,25.0,300.0
+Tsawassen,Ikura,31,30,0.0,Seafood,1998 Q1,0,31.0,930.0
+Tsawassen,Alice Mutton,0,6,0.0,Meat/Poultry,1998 Q1,0,39.0,234.0
+Tsawassen,Tarte au sucre,17,60,0.0,Confections,1998 Q1,1,49.3,1800.0
+Bergamo,Chef Anton's Cajun Seasoning,53,5,0.0,Condiments,1998 Q1,1,22.0,110.0
+Genève,Geitost,112,15,0.05,Dairy Products,1998 Q1,1,5.9,38.6
+Genève,Jack's New England Clam Chowder,85,6,0.05,Seafood,1998 Q1,0,9.65,55.005
+Genève,Rhönbräu Klosterbier,125,50,0.05,Beverages,1998 Q1,1,7.75,368.125
+Berlin,Grandma's Boysenberry Spread,120,16,0.05,Condiments,1998 Q1,1,25.0,380.0
+Berlin,Rössle Sauerkraut,26,2,0.0,Produce,1998 Q1,1,45.6,91.2
+London,Sir Rodney's Marmalade,40,50,0.05,Confections,1998 Q1,1,55.0,1800.0
+London,Gorgonzola Telino,0,50,0.05,Dairy Products,1998 Q1,1,12.5,593.75
+I. de Margarita,Pavlova,29,28,0.15,Confections,1998 Q1,1,17.45,415.30999999999995
+I. de Margarita,Gorgonzola Telino,0,25,0.15,Dairy Products,1998 Q1,1,12.5,265.625
+I. de Margarita,Rogede sild,5,30,0.0,Seafood,1998 Q1,0,9.5,285.0
+I. de Margarita,Camembert Pierrot,19,24,0.15,Dairy Products,1998 Q1,1,34.0,693.6
+Bräcke,Rhönbräu Klosterbier,125,12,0.2,Beverages,1998 Q1,1,7.75,74.4
+Mannheim,Sir Rodney's Scones,3,12,0.0,Confections,1998 Q1,0,10.0,120.0
+Mannheim,Zaanse koeken,36,14,0.0,Confections,1998 Q1,1,9.5,133.0
+Mannheim,Manjimup Dried Apples,20,8,0.0,Produce,1998 Q1,0,53.0,424.0
+San Cristóbal,Nord-Ost Matjeshering,10,30,0.0,Seafood,1998 Q1,0,25.89,776.7
+San Cristóbal,Steeleye Stout,20,40,0.0,Beverages,1998 Q1,0,18.0,720.0
+San Cristóbal,Wimmers gute Semmelknödel,22,8,0.0,Grains/Cereals,1998 Q1,1,33.25,266.0
+Buenos Aires,Chef Anton's Gumbo Mix,0,20,0.0,Condiments,1998 Q1,0,21.35,427.0
+Buenos Aires,Uncle Bob's Organic Dried Pears,15,6,0.0,Produce,1998 Q1,0,30.0,180.0
+Buenos Aires,Mozzarella di Giovanni,14,5,0.0,Dairy Products,1998 Q1,0,34.8,174.0
+Campinas,Rhönbräu Klosterbier,125,20,0.15,Beverages,1998 Q1,1,7.75,131.75
+San Cristóbal,Guaraná Fantástica,20,10,0.25,Beverages,1998 Q1,1,5.9,38.6
+San Cristóbal,Jack's New England Clam Chowder,85,24,0.0,Seafood,1998 Q1,0,9.65,231.60000000000002
+Sao Paulo,Filo Mix,38,6,0.05,Grains/Cereals,1998 Q1,1,7.0,39.9
+Sao Paulo,Lakkalikööri,57,60,0.0,Beverages,1998 Q1,0,18.0,1080.0
+Cunewalde,Uncle Bob's Organic Dried Pears,15,45,0.0,Produce,1998 Q1,1,30.0,1350.0
+Cunewalde,Konbu,24,77,0.0,Seafood,1998 Q1,1,6.0,462.0
+Cunewalde,Perth Pasties,0,20,0.0,Meat/Poultry,1998 Q1,0,32.8,656.0
+Cunewalde,Gudbrandsdalsost,26,9,0.0,Dairy Products,1998 Q1,1,36.0,324.0
+Cunewalde,Lakkalikööri,57,44,0.0,Beverages,1998 Q1,1,18.0,792.0
+Lisboa,Camembert Pierrot,19,2,0.15,Dairy Products,1998 Q1,1,34.0,57.8
+Paris,Carnarvon Tigers,42,6,0.0,Seafood,1998 Q1,1,55.0,375.0
+Paris,Côte de Blaye,17,5,0.0,Beverages,1998 Q1,0,55.0,1317.5
+Paris,Gudbrandsdalsost,26,10,0.0,Dairy Products,1998 Q1,0,36.0,360.0
+Anchorage,Manjimup Dried Apples,20,16,0.0,Produce,1998 Q1,0,53.0,848.0
+Bern,Gravad lax,11,8,0.0,Seafood,1998 Q1,0,26.0,208.0
+Bern,Gnocchi di nonna Alice,21,12,0.15,Grains/Cereals,1998 Q1,1,38.0,387.59999999999997
+Bern,Tarte au sucre,17,12,0.15,Confections,1998 Q1,0,49.3,502.8599999999999
+Münster,Teatime Chocolate Biscuits,25,12,0.0,Confections,1998 Q1,0,9.2,110.39999999999999
+Münster,Maxilaku,10,40,0.0,Confections,1998 Q1,1,20.0,800.0
+Graz,Queso Manchego La Pastora,86,30,0.0,Dairy Products,1998 Q1,0,38.0,1140.0
+Graz,Guaraná Fantástica,20,30,0.0,Beverages,1998 Q1,0,5.9,135.0
+Graz,Wimmers gute Semmelknödel,22,4,0.0,Grains/Cereals,1998 Q1,1,33.25,133.0
+Sao Paulo,Spegesild,95,9,0.0,Seafood,1998 Q1,0,12.0,108.0
+Madrid,Filo Mix,38,40,0.2,Grains/Cereals,1998 Q1,1,7.0,224.0
+Nantes,Thüringer Rostbratwurst,0,14,0.0,Meat/Poultry,1998 Q1,0,55.0,1733.0600000000002
+Versailles,Alice Mutton,0,6,0.0,Meat/Poultry,1998 Q1,0,39.0,234.0
+Versailles,Geitost,112,7,0.0,Dairy Products,1998 Q1,0,5.9,38.6
+Versailles,Gumbär Gummibärchen,15,5,0.0,Confections,1998 Q1,0,31.23,156.15
+Versailles,Jack's New England Clam Chowder,85,6,0.0,Seafood,1998 Q1,0,9.65,57.900000000000006
+Versailles,Rhönbräu Klosterbier,125,10,0.0,Beverages,1998 Q1,0,7.75,77.5
+Lander,Vegie-spread,24,10,0.0,Condiments,1998 Q1,0,43.9,439.0
+Tsawassen,Northwoods Cranberry Sauce,6,16,0.0,Condiments,1998 Q1,0,40.0,640.0
+Tsawassen,Rhönbräu Klosterbier,125,10,0.0,Beverages,1998 Q1,0,7.75,77.5
+San Cristóbal,Rössle Sauerkraut,26,20,0.0,Produce,1998 Q1,1,45.6,912.0
+Bräcke,Chartreuse verte,69,30,0.0,Beverages,1998 Q1,0,18.0,540.0
+Bräcke,Zaanse koeken,36,30,0.0,Confections,1998 Q1,0,9.5,285.0
+Bräcke,Manjimup Dried Apples,20,10,0.0,Produce,1998 Q1,0,53.0,530.0
+Bräcke,Vegie-spread,24,20,0.0,Condiments,1998 Q1,0,43.9,878.0
+Bruxelles,Northwoods Cranberry Sauce,6,20,0.15,Condiments,1998 Q1,1,40.0,680.0
+Bruxelles,Sir Rodney's Scones,3,40,0.15,Confections,1998 Q1,1,10.0,340.0
+Bruxelles,Boston Crab Meat,123,10,0.0,Seafood,1998 Q1,0,18.4,184.0
+Bruxelles,Gula Malacca,27,6,0.15,Condiments,1998 Q1,1,19.45,99.195
+Graz,Uncle Bob's Organic Dried Pears,15,18,0.0,Produce,1998 Q1,1,30.0,540.0
+Graz,Queso Manchego La Pastora,86,20,0.0,Dairy Products,1998 Q1,0,38.0,760.0
+Graz,Guaraná Fantástica,20,80,0.0,Beverages,1998 Q1,1,5.9,360.0
+Graz,Schoggi Schokolade,49,30,0.0,Confections,1998 Q1,0,43.9,1317.0
+Graz,Gorgonzola Telino,0,24,0.0,Dairy Products,1998 Q1,0,12.5,300.0
+Graz,Vegie-spread,24,35,0.0,Condiments,1998 Q1,0,43.9,1536.5
+Bräcke,Rhönbräu Klosterbier,125,40,0.2,Beverages,1998 Q1,1,7.75,248.0
+Rio de Janeiro,Côte de Blaye,17,60,0.0,Beverages,1998 Q1,1,55.0,1800.0
+Tsawassen,Uncle Bob's Organic Dried Pears,15,20,0.0,Produce,1998 Q1,0,30.0,600.0
+Tsawassen,Ipoh Coffee,17,9,0.0,Beverages,1998 Q1,0,46.0,414.0
+Boise,Konbu,24,84,0.15,Seafood,1998 Q1,1,6.0,428.4
+Boise,Ravioli Angelo,36,15,0.0,Grains/Cereals,1998 Q1,1,19.5,292.5
+Boise,Pavlova,29,55,0.0,Confections,1998 Q1,1,17.45,959.75
+Boise,Guaraná Fantástica,20,20,0.0,Beverages,1998 Q1,0,5.9,90.0
+Boise,Inlagd Sill,112,40,0.0,Seafood,1998 Q1,0,19.0,760.0
+Cork,Pavlova,29,36,0.1,Confections,1998 Q1,1,17.45,565.38
+Cork,Carnarvon Tigers,42,8,0.1,Seafood,1998 Q1,0,55.0,450.0
+Cork,Mascarpone Fabioli,9,35,0.1,Dairy Products,1998 Q1,1,32.0,1008.0
+Buenos Aires,Queso Cabrales,22,30,0.0,Dairy Products,1998 Q1,0,21.0,630.0
+Buenos Aires,Sir Rodney's Marmalade,40,15,0.0,Confections,1998 Q1,0,55.0,1215.0
+Buenos Aires,Lakkalikööri,57,10,0.0,Beverages,1998 Q1,0,18.0,180.0
+Buenos Aires,Original Frankfurter grüne Soße,32,15,0.0,Condiments,1998 Q1,1,13.0,195.0
+London,Uncle Bob's Organic Dried Pears,15,60,0.0,Produce,1998 Q1,0,30.0,1800.0
+London,Ipoh Coffee,17,6,0.0,Beverages,1998 Q1,0,46.0,276.0
+London,Mozzarella di Giovanni,14,20,0.0,Dairy Products,1998 Q1,1,34.8,696.0
+Albuquerque,Uncle Bob's Organic Dried Pears,15,60,0.0,Produce,1998 Q1,0,30.0,1800.0
+Albuquerque,Tarte au sucre,17,40,0.1,Confections,1998 Q1,1,49.3,1774.8
+Rio de Janeiro,Grandma's Boysenberry Spread,120,40,0.0,Condiments,1998 Q1,1,25.0,1000.0
+Rio de Janeiro,Queso Cabrales,22,15,0.0,Dairy Products,1998 Q1,0,21.0,315.0
+Rio de Janeiro,Jack's New England Clam Chowder,85,4,0.0,Seafood,1998 Q1,1,9.65,38.6
+Graz,Sir Rodney's Scones,3,65,0.0,Confections,1998 Q2,1,10.0,650.0
+Graz,Sasquatch Ale,111,60,0.15,Beverages,1998 Q2,1,14.0,714.0
+Graz,Pâté chinois,115,65,0.15,Meat/Poultry,1998 Q2,1,24.0,1326.0
+Graz,Sirop d'érable,113,66,0.15,Condiments,1998 Q2,1,28.5,1598.85
+Cunewalde,Chang,17,50,0.2,Beverages,1998 Q2,1,19.0,760.0
+Cunewalde,Outback Lager,15,20,0.2,Beverages,1998 Q2,1,15.0,240.0
+Cunewalde,Lakkalikööri,57,90,0.2,Beverages,1998 Q2,1,18.0,1296.0
+Portland,Mozzarella di Giovanni,14,2,0.0,Dairy Products,1998 Q2,1,34.8,69.6
+Bräcke,Thüringer Rostbratwurst,0,50,0.25,Meat/Poultry,1998 Q2,1,55.0,1800.0
+Bräcke,Jack's New England Clam Chowder,85,35,0.25,Seafood,1998 Q2,1,9.65,253.3125
+Århus,Raclette Courdavault,79,18,0.05,Dairy Products,1998 Q2,1,55.0,940.5
+México D.F.,Manjimup Dried Apples,20,20,0.0,Produce,1998 Q2,0,53.0,1060.0
+México D.F.,Camembert Pierrot,19,4,0.0,Dairy Products,1998 Q2,1,34.0,136.0
+Cunewalde,Singaporean Hokkien Fried Mee,26,40,0.0,Grains/Cereals,1998 Q2,1,14.0,560.0
+Barquisimeto,Mascarpone Fabioli,9,50,0.0,Dairy Products,1998 Q2,0,32.0,1600.0
+Barquisimeto,Spegesild,95,20,0.25,Seafood,1998 Q2,1,12.0,180.0
+Barquisimeto,Filo Mix,38,20,0.25,Grains/Cereals,1998 Q2,1,7.0,105.0
+Warszawa,Guaraná Fantástica,20,12,0.0,Beverages,1998 Q2,0,5.9,54.0
+Warszawa,Sirop d'érable,113,7,0.0,Condiments,1998 Q2,0,28.5,199.5
+Warszawa,Longlife Tofu,4,20,0.0,Produce,1998 Q2,1,10.0,200.0
+Warszawa,Rhönbräu Klosterbier,125,30,0.0,Beverages,1998 Q2,1,7.75,232.5
+Köln,Jack's New England Clam Chowder,85,20,0.05,Seafood,1998 Q2,1,9.65,183.35
+Köln,Manjimup Dried Apples,20,15,0.05,Produce,1998 Q2,0,53.0,755.25
+Köln,Original Frankfurter grüne Soße,32,21,0.05,Condiments,1998 Q2,1,13.0,259.34999999999997
+Albuquerque,Chef Anton's Cajun Seasoning,53,25,0.25,Condiments,1998 Q2,1,22.0,412.5
+Albuquerque,Guaraná Fantástica,20,30,0.25,Beverages,1998 Q2,1,5.9,101.25
+Albuquerque,Original Frankfurter grüne Soße,32,30,0.0,Condiments,1998 Q2,1,13.0,390.0
+Bräcke,Uncle Bob's Organic Dried Pears,15,60,0.0,Produce,1998 Q2,0,30.0,1800.0
+Bräcke,Gustaf's Knäckebröd,104,25,0.0,Grains/Cereals,1998 Q2,1,21.0,525.0
+Bräcke,Spegesild,95,25,0.0,Seafood,1998 Q2,0,12.0,300.0
+Bräcke,Pâté chinois,115,6,0.0,Meat/Poultry,1998 Q2,0,24.0,144.0
+Boise,Konbu,24,56,0.0,Seafood,1998 Q2,1,6.0,336.0
+Boise,Steeleye Stout,20,15,0.15,Beverages,1998 Q2,1,18.0,229.5
+Boise,Singaporean Hokkien Fried Mee,26,24,0.15,Grains/Cereals,1998 Q2,1,14.0,285.59999999999997
+Boise,Pâté chinois,115,40,0.0,Meat/Poultry,1998 Q2,1,24.0,960.0
+Butte,Chai,39,4,0.0,Beverages,1998 Q2,1,18.0,72.0
+Butte,Boston Crab Meat,123,10,0.0,Seafood,1998 Q2,0,18.4,184.0
+Butte,Filo Mix,38,10,0.0,Grains/Cereals,1998 Q2,1,7.0,70.0
+Bruxelles,Gumbär Gummibärchen,15,6,0.0,Confections,1998 Q2,0,31.23,187.38
+Bruxelles,Lakkalikööri,57,6,0.0,Beverages,1998 Q2,1,18.0,108.0
+Helsinki,Chai,39,2,0.0,Beverages,1998 Q2,1,18.0,38.6
+Helsinki,Raclette Courdavault,79,10,0.0,Dairy Products,1998 Q2,0,55.0,550.0
+Eugene,Chai,39,8,0.0,Beverages,1998 Q2,1,18.0,144.0
+Eugene,Thüringer Rostbratwurst,0,2,0.25,Meat/Poultry,1998 Q2,1,55.0,185.685
+Lisboa,Northwoods Cranberry Sauce,6,30,0.0,Condiments,1998 Q2,1,40.0,1200.0
+Lisboa,Thüringer Rostbratwurst,0,10,0.0,Meat/Poultry,1998 Q2,0,55.0,1237.9
+Lisboa,Singaporean Hokkien Fried Mee,26,14,0.0,Grains/Cereals,1998 Q2,1,14.0,196.0
+Graz,Rössle Sauerkraut,26,70,0.05,Produce,1998 Q2,0,45.6,1800.0
+Graz,Sasquatch Ale,111,90,0.05,Beverages,1998 Q2,1,14.0,1197.0
+Graz,Flotemysost,26,21,0.0,Dairy Products,1998 Q2,0,21.5,451.5
+Sevilla,Guaraná Fantástica,20,12,0.0,Beverages,1998 Q2,0,5.9,54.0
+Sevilla,Inlagd Sill,112,18,0.25,Seafood,1998 Q2,1,19.0,256.5
+Sevilla,Camembert Pierrot,19,9,0.0,Dairy Products,1998 Q2,1,34.0,306.0
+Reggio Emilia,Uncle Bob's Organic Dried Pears,15,20,0.0,Produce,1998 Q2,0,30.0,600.0
+Reggio Emilia,Guaraná Fantástica,20,10,0.0,Beverages,1998 Q2,0,5.9,45.0
+Berlin,Escargots de Bourgogne,62,40,0.05,Seafood,1998 Q2,1,13.25,503.5
+Berlin,Flotemysost,26,20,0.0,Dairy Products,1998 Q2,0,21.5,430.0
+München,Teatime Chocolate Biscuits,25,50,0.05,Confections,1998 Q2,1,9.2,436.99999999999994
+München,Camembert Pierrot,19,36,0.05,Dairy Products,1998 Q2,1,34.0,1162.8
+München,Flotemysost,26,60,0.05,Dairy Products,1998 Q2,1,21.5,1225.5
+Madrid,Tunnbröd,61,10,0.0,Grains/Cereals,1998 Q2,0,9.0,90.0
+Madrid,Singaporean Hokkien Fried Mee,26,4,0.0,Grains/Cereals,1998 Q2,1,14.0,56.0
+Madrid,Rogede sild,5,20,0.0,Seafood,1998 Q2,1,9.5,190.0
+Madrid,Scottish Longbreads,6,2,0.0,Confections,1998 Q2,0,12.5,38.6
+I. de Margarita,Jack's New England Clam Chowder,85,28,0.1,Seafood,1998 Q2,1,9.65,243.18
+Stavern,Nord-Ost Matjeshering,10,15,0.0,Seafood,1998 Q2,0,25.89,388.35
+Stavern,Original Frankfurter grüne Soße,32,18,0.0,Condiments,1998 Q2,0,13.0,234.0
+London,Gorgonzola Telino,0,15,0.0,Dairy Products,1998 Q2,1,12.5,187.5
+London,Inlagd Sill,112,16,0.0,Seafood,1998 Q2,1,19.0,304.0
+Graz,Aniseed Syrup,13,25,0.0,Condiments,1998 Q2,0,10.0,250.0
+Graz,Raclette Courdavault,79,110,0.0,Dairy Products,1998 Q2,1,55.0,1800.0
+Graz,Outback Lager,15,30,0.0,Beverages,1998 Q2,0,15.0,450.0
+Portland,Queso Manchego La Pastora,86,20,0.0,Dairy Products,1998 Q2,0,38.0,760.0
+Portland,Carnarvon Tigers,42,10,0.0,Seafood,1998 Q2,0,55.0,625.0
+Portland,Gnocchi di nonna Alice,21,5,0.0,Grains/Cereals,1998 Q2,0,38.0,190.0
+Buenos Aires,Spegesild,95,3,0.0,Seafood,1998 Q2,1,12.0,38.6
+Buenos Aires,Maxilaku,10,2,0.0,Confections,1998 Q2,1,20.0,40.0
+Köln,Ikura,31,24,0.15,Seafood,1998 Q2,1,31.0,632.4
+Cunewalde,Chang,17,11,0.25,Beverages,1998 Q2,1,19.0,156.75
+Cunewalde,Sir Rodney's Marmalade,40,15,0.0,Confections,1998 Q2,0,55.0,1215.0
+Cunewalde,Gumbär Gummibärchen,15,63,0.0,Confections,1998 Q2,0,31.23,1800.0
+Cunewalde,Manjimup Dried Apples,20,44,0.25,Produce,1998 Q2,1,53.0,1749.0
+Cunewalde,Mozzarella di Giovanni,14,35,0.0,Dairy Products,1998 Q2,1,34.8,1218.0
+Rio de Janeiro,Teatime Chocolate Biscuits,25,35,0.0,Confections,1998 Q2,1,9.2,322.0
+Rio de Janeiro,Gudbrandsdalsost,26,30,0.0,Dairy Products,1998 Q2,0,36.0,1080.0
+London,Uncle Bob's Organic Dried Pears,15,4,0.0,Produce,1998 Q2,1,30.0,120.0
+London,Ipoh Coffee,17,30,0.0,Beverages,1998 Q2,1,46.0,1380.0
+London,Gumbär Gummibärchen,15,12,0.0,Confections,1998 Q2,1,31.23,374.76
+London,Geitost,112,30,0.0,Dairy Products,1998 Q2,1,5.9,75.0
+London,Louisiana Fiery Hot Pepper Sauce,76,21,0.0,Condiments,1998 Q2,1,21.05,442.05
+London,Flotemysost,26,50,0.0,Dairy Products,1998 Q2,1,21.5,1075.0
+Oulu,Chai,39,10,0.1,Beverages,1998 Q2,1,18.0,162.0
+Oulu,Konbu,24,20,0.1,Seafood,1998 Q2,0,6.0,108.0
+Torino,Carnarvon Tigers,42,8,0.0,Seafood,1998 Q2,0,55.0,500.0
+Torino,Manjimup Dried Apples,20,10,0.0,Produce,1998 Q2,0,53.0,530.0
+Tsawassen,Guaraná Fantástica,20,30,0.25,Beverages,1998 Q2,1,5.9,101.25
+Tsawassen,Tarte au sucre,17,21,0.25,Confections,1998 Q2,1,49.3,776.4749999999999
+Brandenburg,Pâté chinois,115,35,0.0,Meat/Poultry,1998 Q2,0,24.0,840.0
+Brandenburg,Raclette Courdavault,79,24,0.0,Dairy Products,1998 Q2,0,55.0,1320.0
+Bern,Gnocchi di nonna Alice,21,20,0.0,Grains/Cereals,1998 Q2,0,38.0,760.0
+Bern,Vegie-spread,24,12,0.0,Condiments,1998 Q2,1,43.9,526.8
+Boise,Chang,17,100,0.25,Beverages,1998 Q2,1,19.0,1425.0
+Boise,Chef Anton's Gumbo Mix,0,70,0.0,Condiments,1998 Q2,1,21.35,1494.5
+Boise,Thüringer Rostbratwurst,0,60,0.25,Meat/Poultry,1998 Q2,1,55.0,1800.0
+Boise,Raclette Courdavault,79,100,0.25,Dairy Products,1998 Q2,1,55.0,1800.0
+Boise,Chai,39,45,0.0,Beverages,1998 Q2,0,18.0,810.0
+Boise,Konbu,24,80,0.0,Seafood,1998 Q2,0,6.0,480.0
+Boise,Guaraná Fantástica,20,21,0.0,Beverages,1998 Q2,0,5.9,94.5
+Boise,Wimmers gute Semmelknödel,22,20,0.0,Grains/Cereals,1998 Q2,1,33.25,665.0
+Boise,Flotemysost,26,16,0.0,Dairy Products,1998 Q2,0,21.5,344.0
+Seattle,Inlagd Sill,112,35,0.0,Seafood,1998 Q2,0,19.0,665.0
+Seattle,Côte de Blaye,17,25,0.0,Beverages,1998 Q2,0,55.0,1800.0
+Seattle,Raclette Courdavault,79,30,0.0,Dairy Products,1998 Q2,0,55.0,1650.0
+Genève,Perth Pasties,0,70,0.1,Meat/Poultry,1998 Q2,0,32.8,1800.0
+Genève,Gudbrandsdalsost,26,36,0.1,Dairy Products,1998 Q2,1,36.0,1166.4
+Anchorage,Sir Rodney's Scones,3,15,0.1,Confections,1998 Q2,1,10.0,135.0
+Anchorage,Gula Malacca,27,12,0.0,Condiments,1998 Q2,0,19.45,233.39999999999998
+Anchorage,Sirop d'érable,113,6,0.0,Condiments,1998 Q2,0,28.5,171.0
+Charleroi,Chai,39,10,0.0,Beverages,1998 Q2,0,18.0,180.0
+Charleroi,Steeleye Stout,20,60,0.0,Beverages,1998 Q2,0,18.0,1080.0
+Charleroi,Singaporean Hokkien Fried Mee,26,30,0.0,Grains/Cereals,1998 Q2,0,14.0,420.0
+Charleroi,Tourtière,21,10,0.0,Meat/Poultry,1998 Q2,1,7.45,74.5
+Aachen,Konbu,24,7,0.0,Seafood,1998 Q2,0,6.0,42.0
+Aachen,Raclette Courdavault,79,30,0.0,Dairy Products,1998 Q2,0,55.0,1650.0
+Sevilla,Outback Lager,15,4,0.0,Beverages,1998 Q2,1,15.0,60.0
+Charleroi,Boston Crab Meat,123,5,0.2,Seafood,1998 Q2,1,18.4,73.60000000000001
+Charleroi,Filo Mix,38,2,0.0,Grains/Cereals,1998 Q2,0,7.0,38.6
+Charleroi,Flotemysost,26,30,0.0,Dairy Products,1998 Q2,1,21.5,645.0
+I. de Margarita,Rössle Sauerkraut,26,20,0.0,Produce,1998 Q2,0,45.6,912.0
+I. de Margarita,Steeleye Stout,20,24,0.0,Beverages,1998 Q2,0,18.0,432.0
+I. de Margarita,Maxilaku,10,60,0.0,Confections,1998 Q2,1,20.0,1200.0
+I. de Margarita,Ravioli Angelo,36,28,0.0,Grains/Cereals,1998 Q2,1,19.5,546.0
+Eugene,Sir Rodney's Scones,3,20,0.0,Confections,1998 Q2,1,10.0,200.0
+Bern,Chang,17,30,0.2,Beverages,1998 Q2,1,19.0,456.0
+Bern,Vegie-spread,24,30,0.0,Condiments,1998 Q2,1,43.9,1317.0
+Sao Paulo,Gula Malacca,27,15,0.0,Condiments,1998 Q2,1,19.45,291.75
+Sao Paulo,Sirop d'érable,113,4,0.0,Condiments,1998 Q2,0,28.5,114.0
+Paris,Queso Cabrales,22,10,0.0,Dairy Products,1998 Q2,0,21.0,210.0
+Warszawa,Tarte au sucre,17,12,0.0,Confections,1998 Q2,0,49.3,591.5999999999999
+Tsawassen,Geitost,112,15,0.0,Dairy Products,1998 Q2,1,5.9,38.6
+Tsawassen,Manjimup Dried Apples,20,24,0.0,Produce,1998 Q2,1,53.0,1272.0
+Stuttgart,Queso Manchego La Pastora,86,20,0.05,Dairy Products,1998 Q2,0,38.0,722.0
+Stuttgart,Mascarpone Fabioli,9,15,0.05,Dairy Products,1998 Q2,1,32.0,456.0
+Stuttgart,Steeleye Stout,20,18,0.05,Beverages,1998 Q2,1,18.0,307.8
+London,Chai,39,25,0.25,Beverages,1998 Q2,1,18.0,337.5
+London,Chef Anton's Gumbo Mix,0,30,0.25,Condiments,1998 Q2,1,21.35,480.375
+Tsawassen,Scottish Longbreads,6,42,0.0,Confections,1998 Q2,1,12.5,525.0
+Campinas,Chang,17,10,0.2,Beverages,1998 Q2,1,19.0,152.0
+Campinas,Queso Manchego La Pastora,86,4,0.2,Dairy Products,1998 Q2,0,38.0,121.60000000000001
+Bräcke,Lakkalikööri,57,50,0.1,Beverages,1998 Q2,1,18.0,810.0
+Toulouse,Guaraná Fantástica,20,10,0.2,Beverages,1998 Q2,1,5.9,38.6
+Rio de Janeiro,Ipoh Coffee,17,30,0.2,Beverages,1998 Q2,1,46.0,1104.0
+Rio de Janeiro,Sirop d'érable,113,10,0.2,Condiments,1998 Q2,1,28.5,228.0
+Salzburg,Carnarvon Tigers,42,35,0.2,Seafood,1998 Q2,1,55.0,1750.0
+Salzburg,Mascarpone Fabioli,9,20,0.0,Dairy Products,1998 Q2,0,32.0,640.0
+Salzburg,Wimmers gute Semmelknödel,22,25,0.2,Grains/Cereals,1998 Q2,1,33.25,665.0
+Buenos Aires,Geitost,112,10,0.0,Dairy Products,1998 Q2,0,5.9,38.6
+Buenos Aires,Laughing Lumberjack Lager,52,20,0.0,Beverages,1998 Q2,0,14.0,280.0
+San Cristóbal,Guaraná Fantástica,20,15,0.0,Beverages,1998 Q2,1,5.9,67.5
+San Cristóbal,NuNuCa Nuß-Nougat-Creme,76,15,0.0,Confections,1998 Q2,1,14.0,210.0
+San Cristóbal,Manjimup Dried Apples,20,20,0.0,Produce,1998 Q2,0,53.0,1060.0
+San Cristóbal,Ravioli Angelo,36,20,0.0,Grains/Cereals,1998 Q2,1,19.5,390.0
+London,Uncle Bob's Organic Dried Pears,15,40,0.0,Produce,1998 Q2,0,30.0,1200.0
+London,Pâté chinois,115,35,0.0,Meat/Poultry,1998 Q2,0,24.0,840.0
+London,Camembert Pierrot,19,50,0.0,Dairy Products,1998 Q2,1,34.0,1700.0
+London,Outback Lager,15,3,0.0,Beverages,1998 Q2,1,15.0,45.0
+Mannheim,Sir Rodney's Scones,3,3,0.0,Confections,1998 Q2,1,10.0,38.6
+Mannheim,Camembert Pierrot,19,21,0.0,Dairy Products,1998 Q2,0,34.0,714.0
+Mannheim,Sirop d'érable,113,4,0.0,Condiments,1998 Q2,0,28.5,114.0
+Rio de Janeiro,Konbu,24,30,0.0,Seafood,1998 Q2,1,6.0,180.0
+Rio de Janeiro,Alice Mutton,0,12,0.0,Meat/Poultry,1998 Q2,0,39.0,468.0
+Rio de Janeiro,Camembert Pierrot,19,35,0.0,Dairy Products,1998 Q2,1,34.0,1190.0
+Torino,Camembert Pierrot,19,4,0.0,Dairy Products,1998 Q2,1,34.0,136.0
+Torino,Original Frankfurter grüne Soße,32,10,0.0,Condiments,1998 Q2,0,13.0,130.0
+Eugene,Camembert Pierrot,19,15,0.0,Dairy Products,1998 Q2,1,34.0,510.0
+Reggio Emilia,Perth Pasties,0,10,0.2,Meat/Poultry,1998 Q2,1,32.8,262.40000000000003
+Reggio Emilia,Outback Lager,15,12,0.2,Beverages,1998 Q2,1,15.0,144.0
+Cork,Sasquatch Ale,111,30,0.0,Beverages,1998 Q2,0,14.0,420.0
+Cork,Boston Crab Meat,123,40,0.1,Seafood,1998 Q2,1,18.4,662.4
+Cork,Jack's New England Clam Chowder,85,30,0.1,Seafood,1998 Q2,1,9.65,260.55
+Boise,Alice Mutton,0,77,0.1,Meat/Poultry,1998 Q2,0,39.0,1800.0
+Boise,Jack's New England Clam Chowder,85,12,0.0,Seafood,1998 Q2,0,9.65,115.80000000000001
+Boise,Perth Pasties,0,25,0.1,Meat/Poultry,1998 Q2,1,32.8,737.9999999999999
+Boise,Pâté chinois,115,4,0.1,Meat/Poultry,1998 Q2,0,24.0,86.4
+Boise,Scottish Longbreads,6,55,0.0,Confections,1998 Q2,1,12.5,687.5
+Barquisimeto,Nord-Ost Matjeshering,10,4,0.25,Seafood,1998 Q2,1,25.89,77.67
+Barquisimeto,Tourtière,21,20,0.25,Meat/Poultry,1998 Q2,1,7.45,111.75
+Seattle,Pavlova,29,3,0.0,Confections,1998 Q2,1,17.45,52.349999999999994
+Seattle,Teatime Chocolate Biscuits,25,42,0.0,Confections,1998 Q2,1,9.2,386.4
+Seattle,Sasquatch Ale,111,35,0.0,Beverages,1998 Q2,0,14.0,490.0
+Aachen,Jack's New England Clam Chowder,85,9,0.0,Seafood,1998 Q2,0,9.65,86.85000000000001
+Sao Paulo,Rössle Sauerkraut,26,8,0.15,Produce,1998 Q2,1,45.6,310.08
+Sao Paulo,Ipoh Coffee,17,36,0.15,Beverages,1998 Q2,1,46.0,1407.6
+Sao Paulo,Original Frankfurter grüne Soße,32,28,0.15,Condiments,1998 Q2,1,13.0,309.4
+México D.F.,Chartreuse verte,69,20,0.0,Beverages,1998 Q2,0,18.0,360.0
+Frankfurt a.M.,Chai,39,40,0.15,Beverages,1998 Q2,1,18.0,612.0
+Frankfurt a.M.,Chang,17,20,0.15,Beverages,1998 Q2,1,19.0,323.0
+Frankfurt a.M.,Pavlova,29,30,0.15,Confections,1998 Q2,1,17.45,444.97499999999997
+Frankfurt a.M.,Gorgonzola Telino,0,20,0.0,Dairy Products,1998 Q2,0,12.5,250.0
+Barquisimeto,Uncle Bob's Organic Dried Pears,15,15,0.05,Produce,1998 Q2,1,30.0,427.5
+Barquisimeto,Konbu,24,10,0.05,Seafood,1998 Q2,1,6.0,57.0
+Graz,Chang,17,8,0.0,Beverages,1998 Q2,0,19.0,152.0
+Graz,Jack's New England Clam Chowder,85,40,0.0,Seafood,1998 Q2,0,9.65,386.0
+Graz,Valkoinen suklaa,65,22,0.0,Confections,1998 Q2,0,16.25,357.5
+Graz,Wimmers gute Semmelknödel,22,130,0.0,Grains/Cereals,1998 Q2,1,33.25,1800.0
+México D.F.,Queso Cabrales,22,10,0.0,Dairy Products,1998 Q2,0,21.0,210.0
+México D.F.,Guaraná Fantástica,20,20,0.0,Beverages,1998 Q2,0,5.9,90.0
+Kobenhavn,Pavlova,29,14,0.05,Confections,1998 Q2,0,17.45,232.08499999999998
+Genève,Chang,17,10,0.15,Beverages,1998 Q2,1,19.0,161.5
+Genève,Spegesild,95,30,0.15,Seafood,1998 Q2,1,12.0,306.0
+Genève,Lakkalikööri,57,2,0.15,Beverages,1998 Q2,1,18.0,38.6
+Marseille,Grandma's Boysenberry Spread,120,20,0.25,Condiments,1998 Q2,1,25.0,375.0
+Marseille,Tofu,35,20,0.25,Produce,1998 Q2,1,23.25,348.75
+Marseille,Teatime Chocolate Biscuits,25,10,0.25,Confections,1998 Q2,1,9.2,69.0
+Albuquerque,Chang,17,24,0.2,Beverages,1998 Q2,1,19.0,364.8
+Albuquerque,Aniseed Syrup,13,4,0.0,Condiments,1998 Q2,0,10.0,40.0
+Albuquerque,Chef Anton's Cajun Seasoning,53,1,0.0,Condiments,1998 Q2,1,22.0,38.6
+Albuquerque,Grandma's Boysenberry Spread,120,1,0.02,Condiments,1998 Q2,0,25.0,38.6
+Albuquerque,Uncle Bob's Organic Dried Pears,15,1,0.05,Produce,1998 Q2,1,30.0,38.6
+Albuquerque,Northwoods Cranberry Sauce,6,2,0.1,Condiments,1998 Q2,1,40.0,72.0
+Albuquerque,Ikura,31,1,0.0,Seafood,1998 Q2,1,31.0,38.6
+Albuquerque,Queso Manchego La Pastora,86,2,0.05,Dairy Products,1998 Q2,0,38.0,72.2
+Albuquerque,Konbu,24,4,0.0,Seafood,1998 Q2,0,6.0,38.6
+Albuquerque,Tofu,35,1,0.03,Produce,1998 Q2,1,23.25,38.6
+Albuquerque,Pavlova,29,2,0.03,Confections,1998 Q2,1,17.45,38.6
+Albuquerque,Sir Rodney's Marmalade,40,1,0.04,Confections,1998 Q2,1,55.0,77.75999999999999
+Albuquerque,Tunnbröd,61,2,0.0,Grains/Cereals,1998 Q2,0,9.0,38.6
+Albuquerque,Mascarpone Fabioli,9,1,0.0,Dairy Products,1998 Q2,1,32.0,38.6
+Albuquerque,Chartreuse verte,69,2,0.05,Beverages,1998 Q2,1,18.0,38.6
+Albuquerque,Jack's New England Clam Chowder,85,3,0.0,Seafood,1998 Q2,0,9.65,38.6
+Albuquerque,Spegesild,95,3,0.02,Seafood,1998 Q2,1,12.0,38.6
+Albuquerque,Filo Mix,38,2,0.0,Grains/Cereals,1998 Q2,0,7.0,38.6
+Albuquerque,Pâté chinois,115,2,0.0,Meat/Poultry,1998 Q2,0,24.0,48.0
+Albuquerque,Camembert Pierrot,19,2,0.06,Dairy Products,1998 Q2,1,34.0,63.919999999999995
+Albuquerque,Wimmers gute Semmelknödel,22,2,0.03,Grains/Cereals,1998 Q2,1,33.25,64.505
+Albuquerque,Louisiana Hot Spiced Okra,4,1,0.0,Condiments,1998 Q2,1,17.0,38.6
+Albuquerque,Röd Kaviar,101,2,0.01,Seafood,1998 Q2,1,15.0,38.6
+Albuquerque,Rhönbräu Klosterbier,125,4,0.0,Beverages,1998 Q2,0,7.75,38.6
+Albuquerque,Original Frankfurter grüne Soße,32,2,0.0,Condiments,1998 Q2,0,13.0,38.6
