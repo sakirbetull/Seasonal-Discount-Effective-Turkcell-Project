@@ -1,1 +1,1 @@
-# sakirbetull-Seasonal-Discount-Effective-Turkcell-Project
+Seasonal-Discount-Effective-Turkcell-Project
